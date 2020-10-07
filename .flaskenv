@@ -1,0 +1,2 @@
+FLASK_APP=dsa.py
+FLASK_DEBUG=true
