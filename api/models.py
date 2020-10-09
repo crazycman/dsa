@@ -1,5 +1,6 @@
 from api import db
 
+
 class Character(db.Model):
     __tablename__ = 'characters'
     id = db.Column(db.Integer, primary_key=True)
@@ -10,6 +11,10 @@ class Character(db.Model):
 
     def __repr__(self):
         return '{}, {}'.format(self.name, self.occupation)
+
+    @staticmethod
+    def to_dict(c):
+        return { 'name': c.name, 'occupation': c.occupation, 'description': c.description }
 
 class Organization(db.Model):
     __tablename__ = 'organizations'
