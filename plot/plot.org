@@ -1,7 +1,9 @@
 * Havena Kampange
 ** Master Plot
 *** Personen Organisationen    
-    - Charyptoroth
+    - Charyptoroth https://de.wiki-aventurica.de/wiki/Charyptoroth
+    - Efferd https://de.wiki-aventurica.de/wiki/Efferd
+    - Numinoru https://de.wiki-aventurica.de/wiki/Numinoru
     - Feenwesen (Nymphen)
     - Havena Stadt Elite & Haendler
 *** Ereignisse / Plots
@@ -18,3 +20,29 @@
 *** Disfunktionale Familie
     - Axels Charackter Abenteuer: Familie vor dem Bankrott. Deswegen Schmuggel
 *** Wasser - Charyptoroth
+
+** Handlung / Nodes
+*** Beginn
+    - Bei der naechtlichen Einfahrt nach Havena stoppt das Schiff der Helden
+      nach Lichtzeichen an den aeussersten Auslaeufern der Unterstadt, um einen
+      Schmuggler (einen Nebelgeist) an Bord zu nehmen. Bei der Schmugglerware
+      handelt es sich um Gwen Petryl (Wert ca. 5000 S).
+    - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich, ausserdem ist die
+      Durchfahrt durch die Unterstadt in der Nacht zu gefaehrlich. Deshalb
+      Ankert das Schiff in unmittelbarer Naehe der Unterstadt.
+    - Aufgrund der grossen Menge Gwen Petryl wird das Schiff bei Durchfahren der
+      Unterstadt (am Ankergrund) von (mehreren?) Riesenoktopeden (Daimoniden) angegriffen.
+    - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden.
+
+** Unter Wasser
+*** Atmung
+    - Liturgie: http://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html
+    - Zauber: https://ulisses-regelwiki.de/index.php/ZS_Wasseratem.html
+    - Paktgeschenk: https://de.wiki-aventurica.de/wiki/Wasseratmung%20(Paktgeschenk)
+    - Alchemie:
+      - https://de.wiki-aventurica.de/wiki/Purpurwasser (Efferds Wogen Seiten 42, 141)
+      - https://de.wiki-aventurica.de/wiki/Wasserodem (in Havena verbotenes Tauchelexir, SSH 90-91, Grauen aus dem Nebel 28)
+    - Pflanzlich: https://de.wiki-aventurica.de/wiki/Kajubo
+    - Mechanisch: Simiande (SSH 89-90)
+    - Elementar / Daemonisch: durch Beschwoerung & entsprechenden Auftrag
+      
