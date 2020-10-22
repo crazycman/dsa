@@ -1,4 +1,7 @@
 * Havena Kampange
+  - Handlungsfreiheit
+  - Ausblick auf die Art des Abenteuers (Sandbox)
+  
 ** Master Plot
 *** Personen Organisationen    
     - Charyptoroth https://de.wiki-aventurica.de/wiki/Charyptoroth
@@ -14,6 +17,10 @@
     - Der Meteoreisenblock (Rohling eines schwarzen Auges) in Angbar
 
     - Imman (mit Ranziger Toss)
+*** Orte
+    - Unheiligtuemer der Charyptoroth
+    - Heiligtuemer des Efferd
+    - Heiligtuemer des Numinoru
       
 ** Thema: Disfunktionalitaet
 *** Handel - Schmuggel / Korruption
@@ -25,14 +32,20 @@
 *** Beginn
     - Bei der naechtlichen Einfahrt nach Havena stoppt das Schiff der Helden
       nach Lichtzeichen an den aeussersten Auslaeufern der Unterstadt, um einen
-      Schmuggler (einen Nebelgeist) an Bord zu nehmen. Bei der Schmugglerware
-      handelt es sich um Gwen Petryl (Wert ca. 5000 S).
+      Schmuggler (einen Nebelgeist?) an Bord zu nehmen. Bei der Schmugglerware
+      handelt es sich um Gwen Petryl (Wert ca. 5000 S) oder das Krakenauge (Charyptoroth Artefakt).
     - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich, ausserdem ist die
       Durchfahrt durch die Unterstadt in der Nacht zu gefaehrlich. Deshalb
       Ankert das Schiff in unmittelbarer Naehe der Unterstadt.
     - Aufgrund der grossen Menge Gwen Petryl wird das Schiff bei Durchfahren der
       Unterstadt (am Ankergrund) von (mehreren?) Riesenoktopeden (Daimoniden) angegriffen.
     - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden.
+*** Plot Hooks
+**** Konkurirende Schmugglebaden
+**** Imman mit Ranziger Toss
+**** Das Grauen im Nebel
+**** Simianide, die Mechanikus
+**** Kult der H'Ranga (Allesverschlingende)
 
 ** Unter Wasser
 *** Atmung
@@ -45,4 +58,11 @@
     - Pflanzlich: https://de.wiki-aventurica.de/wiki/Kajubo
     - Mechanisch: Simiande (SSH 89-90)
     - Elementar / Daemonisch: durch Beschwoerung & entsprechenden Auftrag
-      
+
+** Reisen
+   - Reise muss ein relevanter Teil des Abenteuers sein, sonst weglassen (z.B. Eskortierung)
+   - Die Reisemechanik darf kein Selbstzweck sein (coole Mechanik um spiel anzuregen)
+   - Handlung pausiert nicht waehrend der Reise (Plot / Thema einbetten)
+   - Die Reise sollte nicht linear sein (Entscheidung auf der Reise, z.B. sicherer & langer vs. unsicherer & schneller Weg)
+   - Spannung aufbauen durch Sammeln von Information (Interaktio foerdern)
+   - Keine Sackgassen
