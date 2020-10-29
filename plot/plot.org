@@ -15,10 +15,10 @@
     - Zwist der Goetter (Efferd, Numinoru seit dem Sternfall, Charyptoroth)
     - Der Namenlose / die 14 Lobpreisungen (siehe Offenbarung des Himmels)
     - Der Meteoreisenblock (Rohling eines schwarzen Auges) in Angbar
-
     - Imman (mit Ranziger Toss)
 *** Orte
     - Unheiligtuemer der Charyptoroth
+      - auf der Krakeninsel Nymphaeum > Auquamarinportal > Pforte des Grauens
     - Heiligtuemer des Efferd
     - Heiligtuemer des Numinoru
       
@@ -39,14 +39,18 @@
       Ankert das Schiff in unmittelbarer Naehe der Unterstadt.
     - Aufgrund der grossen Menge Gwen Petryl wird das Schiff bei Durchfahren der
       Unterstadt (am Ankergrund) von (mehreren?) Riesenoktopeden (Daimoniden) angegriffen.
+    - Beim Kampf wird Leowald ins Wasser gerissen und anschliessend
+      - von Lata in eine Feenwelt geschickt
+      - von Nhywyll Dunkelwasser gefangen genommen
     - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden.
 *** Plot Hooks
-**** Konkurirende Schmugglebaden
+**** Konkurrierende Schmugglebaden
 **** Imman mit Ranziger Toss
-**** Das Grauen im Nebel
-**** Simianide, die Mechanikus
+**** Das Grauen im Nebel (Nekerueberfaelle, aberglaeubische & verunsicherte Gradisten)
+**** Simianide, die Mechanika
 **** Kult der H'Ranga (Allesverschlingende)
-
+**** Lorbold & Klopatex
+**** Heist
 ** Unter Wasser
 *** Atmung
     - Liturgie: http://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html
@@ -66,3 +70,7 @@
    - Die Reise sollte nicht linear sein (Entscheidung auf der Reise, z.B. sicherer & langer vs. unsicherer & schneller Weg)
    - Spannung aufbauen durch Sammeln von Information (Interaktio foerdern)
    - Keine Sackgassen
+
+** Features
+*** Finishing Move
+*** Initiative Abfrage
