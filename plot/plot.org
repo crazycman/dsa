@@ -1,7 +1,1216 @@
+#+STARTUP: content
+#+SEQ_TODO:   TODO(t) ACTIVE(i) WAITING(w@) | DONE(d) DEAD(c@)
+#+TITLE: Havena Kampange
 * Havena Kampange
   - Handlungsfreiheit
   - Ausblick auf die Art des Abenteuers (Sandbox)
   
+** Crawl / Nodes
+   :PROPERTIES:
+   :COLUMNS:  %45ITEM %4CUSTOM_ID %4LAYER %5LOCATION %15SRC
+   :END:
+*** Unspezifisch
+**** TODO Sonderausgabe der Havena-Fanfare
+     :PROPERTIES:
+     :custom_id: 1
+     :location: ueberall
+     :layer: GadN
+     :src: GadN 10
+     :END:
+     "Extrablatt, Extrablatt! Brave Buerger und Gaeste Havenas!
+     Lest die neuste Ausgabe der Fanfare! Erneut ein Toter in Orkendorf. 
+     Erfahrt die Hintergruende fuer nur 12 Heller"
+     - Verkauf durch Botenjunge *Jendar*
+     - 12 Heller
+     - reisserischer Bericht ueber Morde in Havena
+***** Links :: [/]
+      - [ ] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
+      - [ ] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
+**** TODO Karten fuer Vollmondball auf Rethis
+     :PROPERTIES:
+     :CUSTOM_ID: 2
+     :location: hafen D12
+     :layer: GadN
+     :END:
+     - junge Verkäuferin *Fianna*
+     - Kostuemball zum Thema: *Die 6 Elemente*
+     - 1 Dukate
+     - in 2 Tagen am Abend
+***** Links :: [0/2]
+      - [ ] [[#UF06][Schneider Aradin]]
+      - [ ] [[#G24][Rethis]]
+        
+*** Unterfluren
+**** Redaktionshaus Havena-Fanfare & Dreikronen-Drukerei
+     :PROPERTIES:
+     :custom_id: UF11
+     :location: G14
+     :layer: GadN
+     :src: GadN 14 SSH 26 SadT 13
+     :END:
+     - QP 3/3
+     - TODO
+     
+**** Schneider Aradin
+     :PROPERTIES:
+     :custom_id: UF06
+     :location: G11
+     :layer: GadN
+     :src: GadN 13 SSH 17 SadT 13
+     :END:
+     - QP 4/5
+**** Hesindetempel
+     :PROPERTIES:
+     :custom_id: T10
+     :location: G14
+     :layer: GadN
+     :src: GadN 13 SSH 70 SadT 33
+     :END:
+     
+*** Feldmarschen
+**** Rethis
+     :PROPERTIES:
+     :CUSTOM_ID: G24
+     :location: D11
+     :layer: GadN
+     :src: GadN 17 SSH 35
+     :END:
+**** Tarverne Schatzinsel
+     :PROPERTIES:
+     :CUSTOM_ID: G25
+     :location: C13
+     :layer: GadN
+     :SRC:      GadN 15 SSH 22 SadT 13
+     :END:     
+*** Fischerort
+**** Alter Efferdtempel
+     :PROPERTIES:
+     :custom_id: T02
+     :location: F2
+     :layer: GadN
+     :src: GadN 10 SSH 33 SadT 12
+     :END:
+***** Links :: [0/1]
+      - [ ] Graustein
+*** Orkendorf
+     
+*** GadN
+**** Opfer der Angriffe
+     :PROPERTIES:
+     :CUSTOM_ID: 3
+     :layer: GadN
+     :src: GadN 12
+     :END:
+***** Scibor Aberkrom
+      :PROPERTIES:
+      :location: Suedhafen
+      :END:
+      - Fanfare :: Wir trauern um Scibor Aberkrom. Der verdienstvolle Patrizier
+        starb in Folge eines Angriffs durch die tiefen Kreaturen. Der Kaufmann
+        war gerade im Südhafen ins Gespräch mit einem Schiffseigner verwickelt,
+        als der Fluch aus dem Meer zuschlug. Mindestens drei der Wesen krauchten
+        auf Aberkrom zu. Seeleute und Hafner nahmen Reißaus. Die Kutsche
+        Aberkroms mit seinen Begleiterinnen ging durch. Die Kreaturen zerrten
+        den Wehrlosen ins Hafenbecken und ersäuften ihn. Seinen Leichnam fand
+        man erst Stunden später im Wasser treibend.
+***** Etaine Achton
+      :PROPERTIES:
+      :location: Fischerort
+      :END:
+      - Fanfare :: Nur die Götter wissen, was Etaine Achton aus Fischerort, Frau
+        des Fischhändlers Hemwit, widerfahren ist. In Krakeninsel wurde sie wohl
+        beim Gang vom Traviatempel von Neckern überfallen. Nur zitternd traf sie
+        zuhause ein. So groß war der Schrecken, dass die Necker ihr die Kleider
+        vom Leibe reißen wollten
+***** Emer Mellrich      
+      :PROPERTIES:
+      :location: Marschen
+      :END:
+      - Fanfare :: In Marschen wankte eine nasse Gestalt aus der Unterstadt an
+        die Sattlerin Emer Mellrich heran. Doch der gab die Handwerkerin kräftig
+        auf die Schwimmhäute. Die Kreatur floh, Emer hintendrein. Im dichten
+        Nebel verlor sie das Wesen aus den Augen und schlug dann auf eine
+        Gestalt ein, die sie für die Kreatur hielt. Leider handelte es sich
+        stattdessen um einen Fischer, der drei Zähne verlor.
+***** Beatha Arberdan
+      :PROPERTIES:
+      :location: Orkendorf
+      :END:
+      - Hals gebrochen beim Kampf gegen Necker
+***** DONE Novize des Praios 
+      :PROPERTIES:
+      :location: E8 Nallesdorf
+      :END:
+      - *Praioslieb*
+      - Fanfare ::
+        - blaue Molchenfinger
+        - (tiefe) Kreatur mit langem moosgrünem Fischhaar
+***** DONE Kontor Engstrand
+      :PROPERTIES:
+      :location: E7 Nallesdorf
+      :END:
+      - Fanfare ::
+        - mit Muscheln und Tang war das Wesen bewachsen
+        - seine Augen leuchteten grün
+***** DONE Fedelma Humpen
+      :PROPERTIES:
+      :location: Marschen
+      :END:
+      - Fanfare ::
+        - angegriffen
+        - Kleidung vom Leib gerissen
+        - starker Gestank (Fisch)
+***** DEAD Ysilt Bennoch
+      :PROPERTIES:
+      :location: Krakeninsel
+      :END:
+      - Fischerin
+      - Fanfare ::
+        - erstochen von Dreizack (Neckerdreizack)
+***** DEAD Ulfer Meckmur
+      :PROPERTIES:
+      :location: Orkendorf
+      :END:
+      - Tagelöhner
+      - Fanfare ::
+        - ertrunken im Seehafen
+** Gebäudeindex
+   :PROPERTIES:
+   :COLUMNS:  %45ITEM %4CUSTOM_ID %8TYP %5QPS %5EIND %1REICH %15SRC
+   :END:
+*** Südhafen (S01)
+**** Pension Flussdämon
+     :PROPERTIES:
+     :custom_id: G18
+     :TYP:      Ga,Üb
+     :qps: 3/4/8
+     :eind: 3/4/4
+     :reich: 3
+     :src: SSH 12
+     :END:
+**** Zum_Scharfen_Hobel
+     :PROPERTIES:
+     :custom_id: G19
+     :typ: Ga
+     :qps: 4/2/0
+     :eind: 3/2/3
+     :reich: 2
+     :src: SSH 12
+     :END:
+**** Haus_der_Flusslotsengilde
+     :PROPERTIES:
+     :custom_id: SÜ01
+     :typ: Gi
+     :qps: - 
+     :eind: 3/3/4
+     :reich: 3
+     :src: SSH 12
+     :END:
+**** Haus_der_Seelotsengilde
+     :PROPERTIES:
+     :custom_id: SÜ02
+     :typ: Gi
+     :qps: -
+     :eind: 4/4/3
+     :reich: 4
+     :src: SSH 12
+     :END:
+**** Scharfrichterhütte
+     :PROPERTIES:
+     :custom_id: SÜ03
+     :typ: St,Ha
+     :qps: -
+     :eind: 3/4/4
+     :reich: 4
+     :src: SSH 12
+     :END:
+**** Kontor_Ongswin
+     :PROPERTIES:
+     :custom_id: SÜ04
+     :typ: Ha
+     :qps: -
+     :eind: 4/3/4
+     :reich: 5
+     :src: SSH 27
+     :END:
+**** Wagnerei_Pir_Kutschner
+     :PROPERTIES:
+     :custom_id: SÜ05
+     :typ: Hw
+     :qps: 4/5/0
+     :eind: 4/3/3
+     :reich: 4
+     :src: SSH 27
+     :END:
+**** Brauerei_Havenabier
+     :PROPERTIES:
+     :custom_id: SÜ06
+     :typ: Hw
+     :qps: 3/3/0
+     :eind: 3/2/2
+     :reich: 3
+     :src: SSH 27
+     :END:
+**** Werft_Saordubh
+     :PROPERTIES:
+     :custom_id: SÜ07
+     :typ: Hw
+     :qps: 4/4/0
+     :eind: 3/2/3
+     :reich: 3
+     :src: SSH 12
+     :END:
+**** Werft_Maraiche
+     :PROPERTIES:
+     :custom_id: SÜ08
+     :typ: Hw
+     :qps: 4/5/0
+     :eind: 3/4/2
+     :reich: 4
+     :src: SSH 12
+     :END:
+**** Hafenmeisterei_des_Südhafens
+     :PROPERTIES:
+     :custom_id: SÜ09
+     :typ: St,Di
+     :qps: -
+     :eind: 5/4/4
+     :reich: 4
+     :src: SadT 11, SSH 19
+     :END:
+**** Zollbrücke
+     :PROPERTIES:
+     :custom_id: SÜ10
+     :typ: Öf
+     :qps: -
+     :eind: - 
+     :reich: -
+     :src: S&K 7, SSH 12
+     :END:
+*** Boroninsel (S02)
+**** Haus_der_Borongeweihten
+     :PROPERTIES:
+     :custom_id: BO01
+     :typ: Wo
+     :qps: -
+     :eind: 2/3/4
+     :reich: 3
+     :src: SSH 13
+     :END:
+**** Borontempel
+     :PROPERTIES:
+     :custom_id: T01
+     :typ: Te,
+     :qps:Du -
+     :eind: 5/6/5
+     :reich: 5
+     :src: SSH 13
+     :END:
+*** Fischerort (S03)
+**** Efferdschule
+     :PROPERTIES:
+     :custom_id: FI01
+     :typ: Le,Gi
+     :qps: -
+     :eind: 3/2/4
+     :reich: 3
+     :src: SSH 13
+     :END:
+**** Spukspeicher
+     :PROPERTIES:
+     :custom_id: FI02
+     :typ: Du
+     :qps: -
+     :eind: 1/2/1
+     :reich: 2
+     :src: SSH 14
+     :END:
+**** Hafenmeisterei_des_Binnenhafens
+     :PROPERTIES:
+     :custom_id: FI03
+     :typ: St,Di
+     :qps: -
+     :eind: 3/3/3
+     :reich: 3
+     :src: GadN 26, SadT 11
+     :END:
+**** Seekadettenschule
+     :PROPERTIES:
+     :custom_id: FI04
+     :typ: Fü,Le
+     :qps: -
+     :eind: 5/4/4
+     :reich: 4
+     :src: GadN 26, SSH 14
+     :END:
+**** Garnison_der_Seekrieger
+     :PROPERTIES:
+     :custom_id: FI05
+     :typ: St
+     :qps: -
+     :eind: 6/5/4
+     :reich: 3
+     :src: SSH 14
+     :END:
+**** Pension_Am_Fischmarkt
+     :PROPERTIES:
+     :custom_id: G16
+     :typ: Ga,Üb
+     :qps: 2/3/10
+     :eind: 4/2/2
+     :reich: 2
+     :src: SSH 27
+     :END:
+**** Zum_Goldbutt
+     :PROPERTIES:
+     :custom_id: G17
+     :typ: Ga,Kr
+     :qps: 2/2/0
+     :eind: 4/2/2
+     :reich: 2
+     :src: GadN 25, SSH 14
+     :END:
+**** Alter_Efferdtempel
+     :PROPERTIES:
+     :custom_id: T02
+     :typ: Te
+     :qps: -
+     :eind: 2/2/4
+     :reich: 5
+     :src: GadN 24, SadT 11, S&K 15, SSH 33
+     :END:
+**** Tsatempel
+     :PROPERTIES:
+     :custom_id: T03
+     :typ: Te
+     :qps: -
+     :eind: 1/2/3
+     :reich: 4
+     :src: GadN 40, SadT 13, SSH 14
+     :END:
+**** Latas_Kaverne
+     :PROPERTIES:
+     :custom_id: LK
+     :typ: Du,Te
+     :qps: -
+     :eind: 3/3/5
+     :reich: 6
+     :src: SSH 124
+     :END:
+*** Krakeninsel (S04)
+**** Zum_Aal
+     :PROPERTIES:
+     :custom_id: G01
+     :typ: Ga
+     :qps:2/3/0 3
+     :eind: /2/3
+     :reich: 2
+     :src: SSH 15
+     :END:
+**** Pfeifenkraut_Runon_Ghoern
+     :PROPERTIES:
+     :custom_id: KR01
+     :typ: Ha
+     :qps: 3/2/0
+     :eind: 3/2/4
+     :reich: 3
+     :src: SSH 27
+     :END:
+**** Bootsbauerin_Arna_Sorinnan
+     :PROPERTIES:
+     :custom_id: KR02
+     :typ: Hw
+     :qps: 3/4/0
+     :eind: 3/5/4
+     :reich: 5
+     :src: SSH 15
+     :END:
+**** Krakenwache
+     :PROPERTIES:
+     :custom_id: KR03
+     :typ: St
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 107
+     :END:
+*** Marschen (S05)
+**** Rahjas_Lobgesang
+     :PROPERTIES:
+     :custom_id: G02
+     :typ: Ga,Üb
+     :qps: 4/4/12
+     :eind: 3/3/2
+     :reich: 3
+     :src: SSH 16
+     :END:
+**** Alte_Marschen
+     :PROPERTIES:
+     :custom_id: G03
+     :typ: Ga,Kr
+     :qps: 5/4/0
+     :eind: 3/3/4
+     :reich: 4
+     :src: GadN 41, SSH 16
+     :END:
+**** Theater_an_der_Gauklergasse
+     :PROPERTIES:
+     :custom_id: MA01
+     :typ: Di
+     :qps: 3/3/0
+     :eind: 3/2/4
+     :reich: 2
+     :src: SSH 15
+     :END:
+**** Haus_Marteniel
+     :PROPERTIES:
+     :custom_id: MA02
+     :typ: Di,Wo
+     :qps: -
+     :eind: 5/6/5
+     :reich: 6
+     :src: SSH 15
+     :END:
+**** Hungerturm
+     :PROPERTIES:
+     :custom_id: MA03
+     :typ: Du
+     :qps: -
+     :eind: 2/2/0
+     :reich: 1
+     :src: SSH 16
+     :END:
+**** Kevendochs_exotische_Krämerw.
+     :PROPERTIES:
+     :custom_id: MA04
+     :typ: Ha,Kr
+     :qps: 5/5/0
+     :eind: 4/5/5
+     :reich: 4
+     :src: SSH 16
+     :END:
+**** Bäckerei_Brandub
+     :PROPERTIES:
+     :custom_id: MA05
+     :typ: Hw
+     :qps: 4/3/0
+     :eind: 4/4/3
+     :reich: 4
+     :src: SSH 27
+     :END:
+**** Nordtor
+     :PROPERTIES:
+     :custom_id: MA06
+     :typ: St
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 11
+     :END:
+**** Marschentor
+     :PROPERTIES:
+     :custom_id: MA07
+     :typ: St
+     :qps: -
+     :eind: - 
+     :reich: - 
+     :src: SSH 11
+     :END:
+**** Rahjatempel
+     :PROPERTIES:
+     :custom_id: T04
+     :typ: Te
+     :qps: -
+     :eind: 3/2/3
+     :reich: 5
+     :src: GadN 24, SSH 15
+     :END:
+*** Orkendorf (S06)
+**** Krakenkönig
+     :PROPERTIES:
+     :custom_id: G04
+     :typ: Ga,Üb,Kr
+     :qps: 1/1/4
+     :eind: 2/2/3
+     :reich: 1
+     :src: SSH 17
+     :END:
+**** Zum_Goldenen_Drachen
+     :PROPERTIES:
+     :custom_id: G05
+     :typ: Ga,Üb
+     :qps: 2/2/20
+     :eind: 2/3/2
+     :reich: 2
+     :src: SSH 17
+     :END:
+**** Heldenzuflucht
+     :PROPERTIES:
+     :custom_id: G06
+     :typ: Ga,Üb
+     :qps: 1/2/14
+     :eind: 3/2/2
+     :reich: 1
+     :src: SSH 27
+     :END:
+**** Großmast
+     :PROPERTIES:
+     :custom_id: G07
+     :typ: Ga,Üb
+     :qps: 3/3/18
+     :eind: 3/2/3
+     :reich: 3
+     :src: GadN 41, SSH 17
+     :END:
+**** Esche_und_Kork
+     :PROPERTIES:
+     :custom_id: G08
+     :typ: Ga,Üb,Kr
+     :qps: 3/3/12
+     :eind: 4/4/3
+     :reich: 3
+     :src: S&K 20, SSH 34
+     :END:
+**** Bordell_Hafenmaid
+     :PROPERTIES:
+     :custom_id: G09
+     :typ: Di,Ga,Kr
+     :qps: 1/2/0
+     :eind: 3/3/2
+     :reich: 2
+     :src: SSH 27
+     :END:
+**** Tätowierer_Thorkar_Frenjarson
+     :PROPERTIES:
+     :custom_id: OR01
+     :typ: Di
+     :qps: 3/3/0
+     :eind: 2/2/3
+     :reich: 2
+     :src: SSH 27
+     :END:
+**** Gute_Güter_Guthbrod
+     :PROPERTIES:
+     :custom_id: OR02
+     :typ: Ha,Kr
+     :qps: 2/2/0
+     :eind: 4/5/4
+     :reich: 4
+     :src: SSH 17
+     :END:
+**** Wolters_Krämerladen
+     :PROPERTIES:
+     :custom_id: OR03
+     :typ: Ha,Kr
+     :qps: 4/3/0
+     :eind: 3/5/6
+     :reich: 3
+     :src: SadT 12, SSH 17
+     :END:
+**** Kuriositätenladen_Runwald
+     :PROPERTIES:
+     :custom_id: OR04
+     :typ: Ha
+     :qps: 3/3/0
+     :eind: 2/2/4
+     :reich: 3
+     :src: SSH 17
+     :END:
+**** Heilerin_Dhanara_Faihc
+     :PROPERTIES:
+     :custom_id: OR05
+     :typ: Di,Kr
+     :qps: 4/3/0
+     :eind: 2/3/3
+     :reich: 3
+     :src: SSH 27
+     :END:
+**** Nechts_Menagerie
+     :PROPERTIES:
+     :custom_id: OR06
+     :typ: Ha,Di
+     :qps: 4/4/0
+     :eind: 4/5/3
+     :reich: 4
+     :src: SSH 17
+     :END:
+*** Nalleshof (S07)
+**** Drachenschiff
+     :PROPERTIES:
+     :custom_id: G20
+     :typ: Ga,Üb
+     :qps: 3/3/18
+     :eind: 2/3/3
+     :reich: 2
+     :src: SSH 18
+     :END:
+**** Salzfass
+     :PROPERTIES:
+     :custom_id: G21
+     :typ: Ga
+     :qps: 3/3/0
+     :eind: 3/4/3
+     :reich: 3
+     :src: SSH 18
+     :END:
+**** Schipperkrug
+     :PROPERTIES:
+     :custom_id: G22
+     :typ: Ga
+     :qps: 2/2/0
+     :eind: 3/2/3
+     :reich: 2
+     :src: SSH 18
+     :END:
+**** Herberge_Walfisch
+     :PROPERTIES:
+     :custom_id: G23
+     :typ: Ga,Üb
+     :qps: 4/4/12
+     :eind: 3/2/3
+     :reich: 2
+     :src: SSH 27
+     :END:
+**** Hafenmeisterei_des_Seehafens
+     :PROPERTIES:
+     :custom_id: NA01
+     :typ: St,Di
+     :qps: - 
+     :eind: 4/4/3
+     :reich: 4
+     :src: S&K 7, SadT 11
+     :END:
+**** Kontor_Rastburger
+     :PROPERTIES:
+     :custom_id: NA02
+     :typ: Ha
+     :qps:  -
+     :eind: 5/3/5
+     :reich: 5
+     :src: SSH 27
+     :END:
+**** Kontor_Engstrand
+     :PROPERTIES:
+     :custom_id: NA03
+     :typ: Ha
+     :qps: -
+     :eind: 5/3/4
+     :reich: 5
+     :src: SSH 27
+     :END:
+**** Kontor_Stoerrebrandt
+     :PROPERTIES:
+     :custom_id: NA04
+     :typ: Ha,Di
+     :qps: -
+     :eind: 5/3/4
+     :reich: 5
+     :src: SSH 27
+     :END:
+**** Totenpier
+     :PROPERTIES:
+     :custom_id: NA05
+     :typ: Öf
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 18
+     :END:
+**** Haus_der_Efferdbrüder
+     :PROPERTIES:
+     :custom_id: NA06
+     :typ: Gi
+     :qps: -
+     :eind: 3/4/3
+     :reich: 4
+     :src: SadT 13, SSH 18
+     :END:
+**** Nalleshofwache
+     :PROPERTIES:
+     :custom_id: NA07
+     :typ: St
+     :qps: -
+     :eind: 5/4/4
+     :reich: 2
+     :src: SSH 18
+     :END:
+**** Waffenhändlerin_Curamach
+     :PROPERTIES:
+     :custom_id: NA08
+     :typ: Ha
+     :qps: 4/4/0 
+     :eind: 4/3/3
+     :reich: 4
+     :src: SSH 27
+     :END:
+**** Laternenmacher_Igwun_Blyain
+     :PROPERTIES:
+     :custom_id: NA09
+     :typ: Hw
+     :qps: 5/5/0 
+     :eind: 3/3/4
+     :reich: 4
+     :src: SSH 18
+     :END:
+**** Garos_Rollfuhrwerke
+     :PROPERTIES:
+     :custom_id: NA10
+     :typ: Di
+     :qps:4/4/0 
+     :eind: 3/2/3
+     :reich: 3
+     :src: SSH 27
+     :END:
+**** Maler_Juce
+     :PROPERTIES:
+     :custom_id: NA11
+     :typ: Hw
+     :qps: 6/4/0 
+     :eind: 3/2/4
+     :reich: 4
+     :src: SSH 27
+     :END:
+**** Ingerimmtempel
+     :PROPERTIES:
+     :custom_id: T05
+     :typ: Te
+     :qps: -
+     :eind: 5/4/3
+     :reich: 4
+     :src: SSH 18
+     :END:
+*** Feldmark (S08)
+**** Glockengießerei_Kuinocs
+     :PROPERTIES:
+     :custom_id: FE01
+     :typ: Hw
+     :qps: 4/3/0 
+     :eind: 2/3/3
+     :reich: 4 
+     :src: Stadtplan
+     :END:
+**** Gerbergruben_Reißgrams_Speichel
+     :PROPERTIES:
+     :custom_id: FE02
+     :typ: Hw,Kr
+     :qps: 4/4/0
+     :eind: 5/4/4
+     :reich: 3
+     :src: SSH 22
+     :END:
+**** Südtor
+     :PROPERTIES:
+     :custom_id: FE03
+     :typ: St
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 11
+     :END:
+**** Vergnügungsschiff_Rethis
+     :PROPERTIES:
+     :custom_id: G24
+     :typ: Di,Ga,Ma
+     :qps: 4/5/0 
+     :eind: 4/3/4
+     :reich: 5
+     :src: GadN 17, SSH 35
+     :END:
+**** Schatzinsel
+     :PROPERTIES:
+     :custom_id: G25
+     :typ: Ga
+     :qps: 2/3/0 
+     :eind: 2/3/2
+     :reich: 2
+     :src: GadN 15 23, SadT 13, SSH 22
+     :END:
+*** Oberfluren (S09)
+**** Fürstenschänke
+     :PROPERTIES:
+     :custom_id: G10
+     :typ: Ga
+     :qps: 5/6/0 
+     :eind: 5/4/5
+     :reich: 5
+     :src: SSH 23
+     :END:
+**** Am_Palastgarten
+     :PROPERTIES:
+     :custom_id: G11
+     :typ: Ga,Üb
+     :qps: 5/5/30 
+     :eind: 5/4/5
+     :reich: 5
+     :src: SSH 23
+     :END:
+**** Oase_der_1.000_Freuden
+     :PROPERTIES:
+     :custom_id: G12
+     :typ: Ga
+     :qps: 4/6/0
+     :eind: 4/3/3
+     :reich: 4
+     :src: SadT 6, SSH 24
+     :END:
+**** Rondras_Einkehr
+     :PROPERTIES:
+     :custom_id: G13
+     :typ: Ga
+     :qps: 3/3/0 
+     :eind: 4/3/3
+     :reich: 4
+     :src: SSH 24
+     :END:
+**** Sternwarte_Di,
+     :PROPERTIES:
+     :custom_id: OF01
+     :typ: Le
+     :qps: 3/4/-
+     :eind: 4/4/3
+     :reich: 4
+     :src: SSH 25
+     :END:
+**** Instrumentenbauer_Allain_Ruggard
+     :PROPERTIES:
+     :custom_id: OF02
+     :typ: Hw,Ha
+     :qps: 4/5/-
+     :eind: 3/4/4
+     :reich: 5
+     :src: SSH 26
+     :END:
+**** Haus_des_Stadtvogts
+     :PROPERTIES:
+     :custom_id: OF03
+     :typ: St,Wo
+     :qps: -
+     :eind: 6/6/5
+     :reich: 6
+     :src: SSH 23
+     :END:
+**** Fürstenpalast
+     :PROPERTIES:
+     :custom_id: OF04
+     :typ: Fü,Wo
+     :qps: -
+     :eind: 6/5/5
+     :reich: 6
+     :src: SSH 23
+     :END:
+**** Stadthaus
+     :PROPERTIES:
+     :custom_id: OF05
+     :typ: St
+     :qps: -
+     :eind: 4/5/4
+     :reich: 5
+     :src: GadN 41, SSH 23
+     :END:
+**** Weinhändler_Hal_Austrolf
+     :PROPERTIES:
+     :custom_id: OF06
+     :typ: Ha,Kr
+     :qps: 4/5/0 
+     :eind: 5/5/6
+     :reich: 5
+     :src: SSH 27
+     :END:
+**** Maskenmuseum
+     :PROPERTIES:
+     :custom_id: OF07
+     :typ: Di,Ha
+     :qps: 5/4/0 
+     :eind: 4/4/4
+     :reich: 5
+     :src: SSH 25
+     :END:
+**** Wachsfigurenkabinett
+     :PROPERTIES:
+     :custom_id: OF08
+     :typ: Di
+     :qps: 4/4/0 
+     :eind: 3/4/4
+     :reich: 4
+     :src: GadN 42, SadT 20, SSH 38
+     :END:
+**** Fürstliche_Münze
+     :PROPERTIES:
+     :custom_id: OF09
+     :typ: Fü
+     :qps: -
+     :eind: 6/6/5
+     :reich: 6
+     :src: SSH 23
+     :END:
+**** Nostrianer_Tor
+     :PROPERTIES:
+     :custom_id: OF10
+     :typ: St
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 11
+     :END:
+**** Garnison
+     :PROPERTIES:
+     :custom_id: OF11
+     :typ: St
+     :qps: -
+     :eind: 6/6/5
+     :reich: 4
+     :src: SadT 20, SSH 23
+     :END:
+**** Kriegerakademie_Ruadas_Ehr
+     :PROPERTIES:
+     :custom_id: OF12
+     :typ: Le,St
+     :qps: -
+     :eind: 5/5/4
+     :reich: 3
+     :src: SSH 24
+     :END:
+**** Beilunker_Reiter
+     :PROPERTIES:
+     :custom_id: OF13
+     :typ: Di
+     :qps: 5/6/0 
+     :eind: 4/5/5
+     :reich: 4
+     :src: Stadtplan
+     :END:
+**** Schwertschule_Uinin
+     :PROPERTIES:
+     :custom_id: OF14
+     :typ: Le
+     :qps: -
+     :eind: 4/3/4
+     :reich: 4
+     :src: SSH 24
+     :END:
+**** Haus_der_Göttlichen_Woge
+     :PROPERTIES:
+     :custom_id: T06
+     :typ: Te
+     :qps: -
+     :eind: 3/4/4
+     :reich: 5
+     :src: SadT 12, SSH 33
+     :END:
+**** Rondratempel
+     :PROPERTIES:
+     :custom_id: T07
+     :typ: Te
+     :qps: -
+     :eind: 6/3/4
+     :reich: 5
+     :src: SSH 24
+     :END:
+**** Traviatempel
+     :PROPERTIES:
+     :custom_id: T08
+     :typ: Te,Ga,Üb
+     :qps:0/0/20 3/2/4
+     :eind: 3
+     :reich: SSH
+     :src: 24
+     :END:
+**** Praiostempel
+     :PROPERTIES:
+     :custom_id: T09
+     :typ: Te
+     :qps: -
+     :eind: 4/5/6
+     :reich: 6
+     :src: SSH 24
+     :END:
+**** Immanstadion
+     :PROPERTIES:
+     :custom_id: IM
+     :typ: Öf
+     :qps: -
+     :eind: 3/2/3
+     :reich: 2
+     :src: SSH 25
+     :END:
+*** Unterfluren (S10)
+**** Havenapalast
+     :PROPERTIES:
+     :custom_id: G14
+     :typ: Ga,Üb
+     :qps: 5/5/32 
+     :eind: 5/4/5 
+     :reich: 5 
+     :src: SSH 26
+     :END:
+**** Zum_Garether_Tor
+     :PROPERTIES:
+     :custom_id: G15
+     :typ: Ga,Üb 
+     :qps: 2/4/18
+     :eind: 2/3/3
+     :reich: 2
+     :src: GadN 12, SSH 26
+     :END:
+**** Hesindetempel
+     :PROPERTIES:
+     :custom_id: T10
+     :typ: Te,Le
+     :qps: -
+     :eind: 4/6/5
+     :reich: 5
+     :src: GadN 13, SadT 33, SSH 26
+     :END:
+**** Perainetempel
+     :PROPERTIES:
+     :custom_id: T11
+     :typ: Te
+     :qps: -
+     :eind: 2/2/3
+     :reich: 2
+     :src: SSH 27
+     :END:
+**** Siechenhaus
+     :PROPERTIES:
+     :custom_id: UF01
+     :typ: Di
+     :qps: 4/1/35 
+     :eind: 2/1/3
+     :reich: 3
+     :src: SSH 27
+     :END:
+**** Apotheke_Ehrwalt
+     :PROPERTIES:
+     :custom_id: UF02
+     :typ: Hw,Ma
+     :qps: 4/5/0 
+     :eind: 3/4/4
+     :reich: 4
+     :src: GadN 14, SSH 27
+     :END:
+**** Villa_Rastburger
+     :PROPERTIES:
+     :custom_id: UF03
+     :typ: Wo
+     :qps: -
+     :eind: 6/5/5
+     :reich: 6
+     :src: SSH 27
+     :END:
+**** Schlosser_Zirkeldreher
+     :PROPERTIES:
+     :custom_id: UF04
+     :typ: Hw
+     :qps: 4/4/0 
+     :eind: 4/4/3
+     :reich: 4
+     :src: SSH 27
+     :END:
+**** Spielzeugmacherin_Riandra_Stevir
+     :PROPERTIES:
+     :custom_id: UF05
+     :typ: Ha,Hw
+     :qps: 3/3/0 
+     :eind: 3/3/4
+     :reich: 4 
+     :src: SSH 27
+     :END:
+**** Schneider_Aradin
+     :PROPERTIES:
+     :custom_id: UF06
+     :typ: Hw
+     :qps: 5/5/0 
+     :eind: 4/5/5
+     :reich: 5
+     :src: GadN 13, SadT 12, SSH 27
+     :END:
+**** Badehaus_Nixenquell
+     :PROPERTIES:
+     :custom_id: UF07
+     :typ: Di
+     :qps: 4/4/0 
+     :eind: 4/3/5
+     :reich: 4
+     :src: GadN 12, SSH 26
+     :END:
+**** Bogenbauer_Silberblüte
+     :PROPERTIES:
+     :custom_id: UF08
+     :typ: Hw,Di
+     :qps: 5/4/0 
+     :eind: 3/3/4
+     :reich: 4 
+     :src: SSH 27
+     :END:
+**** Prinzessin-Emer-Brücke
+     :PROPERTIES:
+     :custom_id: UF09
+     :typ: Öf
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 27
+     :END:
+**** Mechanica_Simiadane
+     :PROPERTIES:
+     :custom_id: UF10
+     :typ: Di,Hw,Wo
+     :qps: 5/4/0 
+     :eind: 4/5/4
+     :reich: 4
+     :src: GadN 23, SSH 41
+     :END:
+**** Redaktionshaus_der_Fanfare
+     :PROPERTIES:
+     :custom_id: UF11
+     :typ: Di,Hw,Wo
+     :qps: 3/3/0 
+     :eind: 3/3/4
+     :reich: 3
+     :src: GadN 14, SadT 13, SSH 26
+     :END:
+**** Garether_Tor
+     :PROPERTIES:
+     :custom_id: UF12
+     :typ: St
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 11
+     :END:
+**** Alter_Geschützturm
+     :PROPERTIES:
+     :custom_id: UF13
+     :typ: St,Te
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 11
+     :END:
+** Handlung   
+*** Beginn
+    - Bei der naechtlichen Einfahrt nach Havena stoppt das Schiff der Helden
+      nach Lichtzeichen an den aeussersten Auslaeufern der Unterstadt, um einen
+      Schmuggler (einen Nebelgeist?) an Bord zu nehmen. Bei der Schmugglerware
+      handelt es sich um Gwen Petryl (Wert ca. 5000 S) oder das Krakenauge (Charyptoroth Artefakt).
+    - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich, ausserdem ist die
+      Durchfahrt durch die Unterstadt in der Nacht zu gefaehrlich. Deshalb
+      Ankert das Schiff in unmittelbarer Naehe der Unterstadt.
+    - Aufgrund der grossen Menge Gwen Petryl wird das Schiff bei Durchfahren der
+      Unterstadt (am Ankergrund) von (mehreren?) Riesenoktopeden (Daimoniden) angegriffen.
+    - Beim Kampf wird Leowald ins Wasser gerissen und anschliessend
+      - von Lata in eine Feenwelt geschickt
+      - von Nhywyll Dunkelwasser gefangen genommen
+    - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden.
+*** Plot Hooks
+**** Pferdepension (Feldmarken)     
+**** Konkurrierende Schmugglebaden
+**** Imman mit Ranziger Toss
+**** Das Grauen im Nebel (Nekerueberfaelle, aberglaeubische & verunsicherte Gradisten)
+**** Simianide, die Mechanika
+**** Kult der H'Ranga (Allesverschlingende)
+**** Lorbold & Klopatex
+**** Heist
 ** Master Plot
 *** Personen Organisationen    
     - Charyptoroth https://de.wiki-aventurica.de/wiki/Charyptoroth
@@ -28,109 +1237,6 @@
     - Axels Charackter Abenteuer: Familie vor dem Bankrott. Deswegen Schmuggel
 *** Wasser - Charyptoroth
 
-** Handlung / Nodes
-*** Beginn
-    - Bei der naechtlichen Einfahrt nach Havena stoppt das Schiff der Helden
-      nach Lichtzeichen an den aeussersten Auslaeufern der Unterstadt, um einen
-      Schmuggler (einen Nebelgeist?) an Bord zu nehmen. Bei der Schmugglerware
-      handelt es sich um Gwen Petryl (Wert ca. 5000 S) oder das Krakenauge (Charyptoroth Artefakt).
-    - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich, ausserdem ist die
-      Durchfahrt durch die Unterstadt in der Nacht zu gefaehrlich. Deshalb
-      Ankert das Schiff in unmittelbarer Naehe der Unterstadt.
-    - Aufgrund der grossen Menge Gwen Petryl wird das Schiff bei Durchfahren der
-      Unterstadt (am Ankergrund) von (mehreren?) Riesenoktopeden (Daimoniden) angegriffen.
-    - Beim Kampf wird Leowald ins Wasser gerissen und anschliessend
-      - von Lata in eine Feenwelt geschickt
-      - von Nhywyll Dunkelwasser gefangen genommen
-    - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden.
-*** Plot Hooks
-**** Konkurrierende Schmugglebaden
-**** Imman mit Ranziger Toss
-**** Das Grauen im Nebel (Nekerueberfaelle, aberglaeubische & verunsicherte Gradisten)
-**** Simianide, die Mechanika
-**** Kult der H'Ranga (Allesverschlingende)
-**** Lorbold & Klopatex
-**** Heist
-** Crawl / Nodes
-   :PROPERTIES:
-   :COLUMNS:  %50ITEM %2CUSTOM_ID %6LAYER %8LOCATION
-   :END:
-*** Unspezifisch
-**** Sonderausgabe der Havena-Fanfare
-     :PROPERTIES:
-     :custom_id: 1
-     :location: ueberall
-     :layer: GadN
-     :src: GadN 10
-     :END:
-     "Extrablatt, Extrablatt! Brave Buerger und Gaeste Havenas!
-     Lest die neuste Ausgabe der Fanfare! Erneut ein Toter in Orkendorf. 
-     Erfahrt die Hintergruende fuer nur 8 Heller"
-     - Verkauf durch Botenjunge *Jendar*
-     - 8 Heller
-     - reisserischer Bericht ueber Morde in Havena
-     - *Links*
-       - [[#2][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
-                  
-**** Karten fuer Vollmondball auf Rethis
-     :PROPERTIES:
-     :custom_id: 3
-     :location: hafen D12
-     :layer: GadN
-     :END:
-     - junge Verkäuferin *Fianna*
-     - TODO
-     - *Links*
-       - [[#4][Schneider Aradin]]
-     
-*** Unterfluren
-**** Redaktionshaus Havena-Fanfare & Dreikronen-Drukerei
-     :PROPERTIES:
-     :custom_id: 2
-     :location: G14
-     :layer: GadN
-     :src: GadN 14
-     :END:
-     - QP 3/3
-     - TODO
-     
-**** Schneider Aradin
-     :PROPERTIES:
-     :custom_id: 4
-     :location: G11
-     :layer: GadN
-     :src: GadN 13
-     :END:
-     - QP 4/5
-     - TODO
-
-*** Orkendorf
-     
-** GadN
-*** Opfer der Angriffe
-     :PROPERTIES:
-     :custom_id: 5
-     :layer: GadN
-     :src: GadN 12
-     :END:
-    - Beatha Achton
-      Hals gebrochen beim Kampf gegen Necker
-      
-    - Ulfer Meckmur, Orkendorf
-      ertrunken
-      
-    - Ysilt Bennoch, Krakeninsel
-      erstochen von Neckerdreizack
-      
-    - Scibor Aberkrom, Haendler
-      ertrunken im Hafenbecken
-
-    - Etaine Achton, Fischerort
-      angegriffen; zerrissener Kleidung
-
-    - Fedelma, Marschen
-      angegriffen; Kleidung vom Leib gerissen
-      
 ** Unter Wasser
 *** Atmung
     - Liturgie: http://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html
