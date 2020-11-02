@@ -51,6 +51,86 @@
 **** Kult der H'Ranga (Allesverschlingende)
 **** Lorbold & Klopatex
 **** Heist
+** Crawl / Nodes
+   :PROPERTIES:
+   :COLUMNS:  %50ITEM %2CUSTOM_ID %6LAYER %8LOCATION
+   :END:
+*** Unspezifisch
+**** Sonderausgabe der Havena-Fanfare
+     :PROPERTIES:
+     :custom_id: 1
+     :location: ueberall
+     :layer: GadN
+     :src: GadN 10
+     :END:
+     "Extrablatt, Extrablatt! Brave Buerger und Gaeste Havenas!
+     Lest die neuste Ausgabe der Fanfare! Erneut ein Toter in Orkendorf. 
+     Erfahrt die Hintergruende fuer nur 8 Heller"
+     - Verkauf durch Botenjunge *Jendar*
+     - 8 Heller
+     - reisserischer Bericht ueber Morde in Havena
+     - *Links*
+       - [[#2][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
+                  
+**** Karten fuer Vollmondball auf Rethis
+     :PROPERTIES:
+     :custom_id: 3
+     :location: hafen D12
+     :layer: GadN
+     :END:
+     - junge Verkäuferin *Fianna*
+     - TODO
+     - *Links*
+       - [[#4][Schneider Aradin]]
+     
+*** Unterfluren
+**** Redaktionshaus Havena-Fanfare & Dreikronen-Drukerei
+     :PROPERTIES:
+     :custom_id: 2
+     :location: G14
+     :layer: GadN
+     :src: GadN 14
+     :END:
+     - QP 3/3
+     - TODO
+     
+**** Schneider Aradin
+     :PROPERTIES:
+     :custom_id: 4
+     :location: G11
+     :layer: GadN
+     :src: GadN 13
+     :END:
+     - QP 4/5
+     - TODO
+
+*** Orkendorf
+     
+** GadN
+*** Opfer der Angriffe
+     :PROPERTIES:
+     :custom_id: 5
+     :layer: GadN
+     :src: GadN 12
+     :END:
+    - Beatha Achton
+      Hals gebrochen beim Kampf gegen Necker
+      
+    - Ulfer Meckmur, Orkendorf
+      ertrunken
+      
+    - Ysilt Bennoch, Krakeninsel
+      erstochen von Neckerdreizack
+      
+    - Scibor Aberkrom, Haendler
+      ertrunken im Hafenbecken
+
+    - Etaine Achton, Fischerort
+      angegriffen; zerrissener Kleidung
+
+    - Fedelma, Marschen
+      angegriffen; Kleidung vom Leib gerissen
+      
 ** Unter Wasser
 *** Atmung
     - Liturgie: http://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html
@@ -155,6 +235,8 @@
     - *Stat Block*: If you need stats for the NPC, put ’em at the bottom of the
       briefing sheet in whatever format makes sense for the system you’re
       running.
+*** Namen
+    https://albernia.westlande.info/index.php?title=Albernische_Namen
 
 * Sql
 
