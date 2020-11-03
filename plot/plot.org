@@ -28,7 +28,7 @@
       - [ ] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
 **** TODO Karten fuer Vollmondball auf Rethis
      :PROPERTIES:
-     :CUSTOM_ID: 2
+     :custom_id: 2
      :location: hafen D12
      :layer: GadN
      :END:
@@ -70,17 +70,17 @@
 *** Feldmarschen
 **** Rethis
      :PROPERTIES:
-     :CUSTOM_ID: G24
+     :custom_id: G24
      :location: D11
      :layer: GadN
      :src: GadN 17 SSH 35
      :END:
 **** Tarverne Schatzinsel
      :PROPERTIES:
-     :CUSTOM_ID: G25
+     :custom_id: G25
      :location: C13
      :layer: GadN
-     :SRC:      GadN 15 SSH 22 SadT 13
+     :src: GadN 15 SSH 22 SadT 13
      :END:     
 *** Fischerort
 **** Alter Efferdtempel
@@ -97,7 +97,7 @@
 *** GadN
 **** Opfer der Angriffe
      :PROPERTIES:
-     :CUSTOM_ID: 3
+     :custom_id: 3
      :layer: GadN
      :src: GadN 12
      :END:
@@ -176,13 +176,88 @@
         - ertrunken im Seehafen
 ** Gebäudeindex
    :PROPERTIES:
-   :COLUMNS:  %45ITEM %4CUSTOM_ID %8TYP %5QPS %5EIND %1REICH %15SRC
+   :COLUMNS:  %45ITEM %4CUSTOM_ID %8TYP %6QPS %5EIND %1REICH %15SRC
    :END:
+*** Legende
+**** Typ
+     - Di :: sonstige Dienstleistung
+     - Du :: Dungeon
+     - Fü :: fürstliches Gebäude
+     - Ga :: Gastronomie
+     - Gi :: Gildenhaus, wichtiger Ort einer Organisation
+     - Ha :: Handel
+     - Hw :: Handwerk
+     - Kr :: Kriminelles
+     - Le :: Lehrmeister
+     - Ma :: magische Dienstleistung
+     - Öf :: öffentlicher Bereich
+     - St :: städtisches Gebäude
+     - Te :: Tempel
+     - Üb :: Übernachtung
+     - Wo :: Wohnhaus
+**** Reichtum (R):
+     zeigt auf einer Skala von 1 (= minimal) bis 6 (= immens) an,
+     wie wohlhabend ein Ort ausgestattet ist.
+     - 1 :: eine Bretterbude im Orkendorf
+     - 6 :: den Fürstenpalast und wirklich reiche Patriziervillen
+**** Qualität/Preis/Schalfplätze
+     | Stufe | Qualität      | Preis             |
+     |-------+---------------+-------------------|
+     |     1 | jämmerlich    | sehr_billig_(50%) |
+     |     2 | dreckig       | billig_(75%)      |
+     |     3 | einfach       | normal_(100%)     |
+     |     4 | gutbürgerlich | teuer_(150%)      |
+     |     5 | exquisit      | sehr_teuer_(200%) |
+     |     6 | luxuriös      | horrend_(400%)    |
+**** Unbefugtes Eindringen
+     - Gewalt ::
+       Umfasst alle Formen brachialen Vorgehens, z. B. Türen, Fenster oder
+       Truhen aufbrechen, Personen angreifen und überwältigen.
+       - 1 :: keine verwehrten Zugänge; keine nennenswerten baulichen Maßnahmen,
+         die Eindringlinge abhalten; keine Bewohner, die körperlichen Widerstand
+         leisten; niemand, der bei Lärm zu Hilfe eilen würde.
+       - 3 :: einigermaßen stabile Zugangstüren und Aufbewahrungsbehälter; viele
+         kaum wehrhafte oder wenige wehrhafte Bewohner; nach einiger Zeit wird
+         in der Umgebung Alarm geschlagen und es kommt Hilfe herbei
+       - 6 :: kaum zerstörbare Zugänge und Behälter (z. B. Angbarer
+         Panzerschränke); spezielle bauliche Sicherungen gegen Gewalttäter;
+         Elitewächter, magische oder karmale Verteidigung; ausgeklügeltes
+         Alarmsystem, das schnell weitere Hilfe herbeieilen lässt.
+
+     - Heimlichkeit ::
+       Bezieht sich auf alle Möglichkeiten, ungesehen einzudringen, zu
+       schleichen, sich zu verstecken und Schlösser zu knacken.
+       - 1 :: keine verschlossenen Türen und Behältnisse; einfacher Zugang,
+         keine Wächter.
+       - 3 :: mäßig komplizierter Zugang, z. B. Erklettern einer Hausfassade zum
+         Erreichen eines Fensters im 2. OG; mittelschwere Schlösser, einfache
+         Fallen, Bewohner und/oder Wächter vorhanden und je nach Tageszeit
+         (un-)aufmerksam
+       - 6 :: schwieriger Zugang; kaum Schwachstellen, hochkomplizierte
+         Schlösser, intensive Dauerüberwachung; magischer/karmaler Alarm,
+         raffinierte Fallen; der Wachhund lässt sich kaum ruhigstellen.
+
+     - Übertölpeln ::
+       Umfasst Betrügereien, List und das Vorspielen falscher Tatsachen, um sich
+       Zutritt zu verschaffen, wie beispielsweise eineWache zu betören oder sich
+       als entfernter Verwandter, Eintreibereiner Unterweltgröße oder Inspekteur
+       von der Brandwache auszugeben.
+       - 1 :: sehr leichtgläubige Bewohner, bei denen ein einfacher Vorwand
+         reicht; Schwächen der Bewohner sind leicht zu erkennen und auszunutzen.
+       - 3 :: durchschnittliche Betrugs- und Verstellungskünste vonnöten; die
+         Bewohner erwarten aber hinreichende Indizien, dass die aufgetischte
+         Geschichte stimmt; gewisses Misstrauen, das solide Überredungskunst
+         benötigt; Schwächen der Bewohner können mit guter Beobachtungsgabe
+         identifiziert werden.
+       - 6 :: aufgeweckte und höchst misstrauische Bewohner; strikt eingehaltene
+         Regeln, wer das Gebäude betreten darf; die Identitätmuss hieb- und
+         stichfest sein, keine Schwächen der Bewohner erkennbar; braucht extrem
+         gute Betrüger und Schwindler.
 *** Südhafen (S01)
-**** Pension Flussdämon
+**** Pension_Flussdämon
      :PROPERTIES:
      :custom_id: G18
-     :TYP:      Ga,Üb
+     :typ: Ga Üb
      :qps: 3/4/8
      :eind: 3/4/4
      :reich: 3
@@ -218,7 +293,7 @@
 **** Scharfrichterhütte
      :PROPERTIES:
      :custom_id: SÜ03
-     :typ: St,Ha
+     :typ: St Ha
      :qps: -
      :eind: 3/4/4
      :reich: 4
@@ -272,11 +347,11 @@
 **** Hafenmeisterei_des_Südhafens
      :PROPERTIES:
      :custom_id: SÜ09
-     :typ: St,Di
+     :typ: St Di
      :qps: -
      :eind: 5/4/4
      :reich: 4
-     :src: SadT 11, SSH 19
+     :src: SadT 11 SSH 19
      :END:
 **** Zollbrücke
      :PROPERTIES:
@@ -285,7 +360,7 @@
      :qps: -
      :eind: - 
      :reich: -
-     :src: S&K 7, SSH 12
+     :src: S&K 7 SSH 12
      :END:
 *** Boroninsel (S02)
 **** Haus_der_Borongeweihten
@@ -300,8 +375,8 @@
 **** Borontempel
      :PROPERTIES:
      :custom_id: T01
-     :typ: Te,
-     :qps:Du -
+     :typ: Du Te
+     :qps: -
      :eind: 5/6/5
      :reich: 5
      :src: SSH 13
@@ -310,7 +385,7 @@
 **** Efferdschule
      :PROPERTIES:
      :custom_id: FI01
-     :typ: Le,Gi
+     :typ:      Le Gi
      :qps: -
      :eind: 3/2/4
      :reich: 3
@@ -328,20 +403,20 @@
 **** Hafenmeisterei_des_Binnenhafens
      :PROPERTIES:
      :custom_id: FI03
-     :typ: St,Di
+     :typ: St Di
      :qps: -
      :eind: 3/3/3
      :reich: 3
-     :src: GadN 26, SadT 11
+     :src: GadN 26 SadT 11
      :END:
 **** Seekadettenschule
      :PROPERTIES:
      :custom_id: FI04
-     :typ: Fü,Le
+     :typ: Fü Le
      :qps: -
      :eind: 5/4/4
      :reich: 4
-     :src: GadN 26, SSH 14
+     :src: GadN 26 SSH 14
      :END:
 **** Garnison_der_Seekrieger
      :PROPERTIES:
@@ -355,7 +430,7 @@
 **** Pension_Am_Fischmarkt
      :PROPERTIES:
      :custom_id: G16
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 2/3/10
      :eind: 4/2/2
      :reich: 2
@@ -364,11 +439,11 @@
 **** Zum_Goldbutt
      :PROPERTIES:
      :custom_id: G17
-     :typ: Ga,Kr
+     :typ: Ga Kr
      :qps: 2/2/0
      :eind: 4/2/2
      :reich: 2
-     :src: GadN 25, SSH 14
+     :src: GadN 25 SSH 14
      :END:
 **** Alter_Efferdtempel
      :PROPERTIES:
@@ -377,7 +452,7 @@
      :qps: -
      :eind: 2/2/4
      :reich: 5
-     :src: GadN 24, SadT 11, S&K 15, SSH 33
+     :src: GadN 24 SadT 11 S&K 15 SSH 33
      :END:
 **** Tsatempel
      :PROPERTIES:
@@ -386,12 +461,12 @@
      :qps: -
      :eind: 1/2/3
      :reich: 4
-     :src: GadN 40, SadT 13, SSH 14
+     :src: GadN 40 SadT 13 SSH 14
      :END:
 **** Latas_Kaverne
      :PROPERTIES:
      :custom_id: LK
-     :typ: Du,Te
+     :typ: Du Te
      :qps: -
      :eind: 3/3/5
      :reich: 6
@@ -438,7 +513,7 @@
 **** Rahjas_Lobgesang
      :PROPERTIES:
      :custom_id: G02
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 4/4/12
      :eind: 3/3/2
      :reich: 3
@@ -447,11 +522,11 @@
 **** Alte_Marschen
      :PROPERTIES:
      :custom_id: G03
-     :typ: Ga,Kr
+     :typ: Ga Kr
      :qps: 5/4/0
      :eind: 3/3/4
      :reich: 4
-     :src: GadN 41, SSH 16
+     :src: GadN 41 SSH 16
      :END:
 **** Theater_an_der_Gauklergasse
      :PROPERTIES:
@@ -465,7 +540,7 @@
 **** Haus_Marteniel
      :PROPERTIES:
      :custom_id: MA02
-     :typ: Di,Wo
+     :typ: Di Wo
      :qps: -
      :eind: 5/6/5
      :reich: 6
@@ -483,7 +558,7 @@
 **** Kevendochs_exotische_Krämerw.
      :PROPERTIES:
      :custom_id: MA04
-     :typ: Ha,Kr
+     :typ: Ha Kr
      :qps: 5/5/0
      :eind: 4/5/5
      :reich: 4
@@ -523,13 +598,13 @@
      :qps: -
      :eind: 3/2/3
      :reich: 5
-     :src: GadN 24, SSH 15
+     :src: GadN 24 SSH 15
      :END:
 *** Orkendorf (S06)
 **** Krakenkönig
      :PROPERTIES:
      :custom_id: G04
-     :typ: Ga,Üb,Kr
+     :typ: Ga Üb Kr
      :qps: 1/1/4
      :eind: 2/2/3
      :reich: 1
@@ -538,7 +613,7 @@
 **** Zum_Goldenen_Drachen
      :PROPERTIES:
      :custom_id: G05
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 2/2/20
      :eind: 2/3/2
      :reich: 2
@@ -547,7 +622,7 @@
 **** Heldenzuflucht
      :PROPERTIES:
      :custom_id: G06
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 1/2/14
      :eind: 3/2/2
      :reich: 1
@@ -556,25 +631,25 @@
 **** Großmast
      :PROPERTIES:
      :custom_id: G07
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 3/3/18
      :eind: 3/2/3
      :reich: 3
-     :src: GadN 41, SSH 17
+     :src: GadN 41 SSH 17
      :END:
 **** Esche_und_Kork
      :PROPERTIES:
      :custom_id: G08
-     :typ: Ga,Üb,Kr
+     :typ: Ga Üb Kr
      :qps: 3/3/12
      :eind: 4/4/3
      :reich: 3
-     :src: S&K 20, SSH 34
+     :src: S&K 20 SSH 34
      :END:
 **** Bordell_Hafenmaid
      :PROPERTIES:
      :custom_id: G09
-     :typ: Di,Ga,Kr
+     :typ: Di Ga Kr
      :qps: 1/2/0
      :eind: 3/3/2
      :reich: 2
@@ -592,7 +667,7 @@
 **** Gute_Güter_Guthbrod
      :PROPERTIES:
      :custom_id: OR02
-     :typ: Ha,Kr
+     :typ: Ha Kr
      :qps: 2/2/0
      :eind: 4/5/4
      :reich: 4
@@ -601,11 +676,11 @@
 **** Wolters_Krämerladen
      :PROPERTIES:
      :custom_id: OR03
-     :typ: Ha,Kr
+     :typ: Ha Kr
      :qps: 4/3/0
      :eind: 3/5/6
      :reich: 3
-     :src: SadT 12, SSH 17
+     :src: SadT 12 SSH 17
      :END:
 **** Kuriositätenladen_Runwald
      :PROPERTIES:
@@ -619,7 +694,7 @@
 **** Heilerin_Dhanara_Faihc
      :PROPERTIES:
      :custom_id: OR05
-     :typ: Di,Kr
+     :typ: Di Kr
      :qps: 4/3/0
      :eind: 2/3/3
      :reich: 3
@@ -628,7 +703,7 @@
 **** Nechts_Menagerie
      :PROPERTIES:
      :custom_id: OR06
-     :typ: Ha,Di
+     :typ: Ha Di
      :qps: 4/4/0
      :eind: 4/5/3
      :reich: 4
@@ -638,7 +713,7 @@
 **** Drachenschiff
      :PROPERTIES:
      :custom_id: G20
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 3/3/18
      :eind: 2/3/3
      :reich: 2
@@ -665,7 +740,7 @@
 **** Herberge_Walfisch
      :PROPERTIES:
      :custom_id: G23
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 4/4/12
      :eind: 3/2/3
      :reich: 2
@@ -674,11 +749,11 @@
 **** Hafenmeisterei_des_Seehafens
      :PROPERTIES:
      :custom_id: NA01
-     :typ: St,Di
+     :typ: St Di
      :qps: - 
      :eind: 4/4/3
      :reich: 4
-     :src: S&K 7, SadT 11
+     :src: S&K 7 SadT 11
      :END:
 **** Kontor_Rastburger
      :PROPERTIES:
@@ -701,7 +776,7 @@
 **** Kontor_Stoerrebrandt
      :PROPERTIES:
      :custom_id: NA04
-     :typ: Ha,Di
+     :typ: Ha Di
      :qps: -
      :eind: 5/3/4
      :reich: 5
@@ -723,7 +798,7 @@
      :qps: -
      :eind: 3/4/3
      :reich: 4
-     :src: SadT 13, SSH 18
+     :src: SadT 13 SSH 18
      :END:
 **** Nalleshofwache
      :PROPERTIES:
@@ -792,7 +867,7 @@
 **** Gerbergruben_Reißgrams_Speichel
      :PROPERTIES:
      :custom_id: FE02
-     :typ: Hw,Kr
+     :typ: Hw Kr
      :qps: 4/4/0
      :eind: 5/4/4
      :reich: 3
@@ -810,11 +885,11 @@
 **** Vergnügungsschiff_Rethis
      :PROPERTIES:
      :custom_id: G24
-     :typ: Di,Ga,Ma
+     :typ: Di Ga Ma
      :qps: 4/5/0 
      :eind: 4/3/4
      :reich: 5
-     :src: GadN 17, SSH 35
+     :src: GadN 17 SSH 35
      :END:
 **** Schatzinsel
      :PROPERTIES:
@@ -823,7 +898,7 @@
      :qps: 2/3/0 
      :eind: 2/3/2
      :reich: 2
-     :src: GadN 15 23, SadT 13, SSH 22
+     :src: GadN 15 23 SadT 13 SSH 22
      :END:
 *** Oberfluren (S09)
 **** Fürstenschänke
@@ -838,7 +913,7 @@
 **** Am_Palastgarten
      :PROPERTIES:
      :custom_id: G11
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 5/5/30 
      :eind: 5/4/5
      :reich: 5
@@ -851,7 +926,7 @@
      :qps: 4/6/0
      :eind: 4/3/3
      :reich: 4
-     :src: SadT 6, SSH 24
+     :src: SadT 6 SSH 24
      :END:
 **** Rondras_Einkehr
      :PROPERTIES:
@@ -862,10 +937,10 @@
      :reich: 4
      :src: SSH 24
      :END:
-**** Sternwarte_Di,
+**** Sternwarte
      :PROPERTIES:
      :custom_id: OF01
-     :typ: Le
+     :typ: Di Le
      :qps: 3/4/-
      :eind: 4/4/3
      :reich: 4
@@ -874,7 +949,7 @@
 **** Instrumentenbauer_Allain_Ruggard
      :PROPERTIES:
      :custom_id: OF02
-     :typ: Hw,Ha
+     :typ: Hw Ha
      :qps: 4/5/-
      :eind: 3/4/4
      :reich: 5
@@ -883,7 +958,7 @@
 **** Haus_des_Stadtvogts
      :PROPERTIES:
      :custom_id: OF03
-     :typ: St,Wo
+     :typ: St Wo
      :qps: -
      :eind: 6/6/5
      :reich: 6
@@ -892,7 +967,7 @@
 **** Fürstenpalast
      :PROPERTIES:
      :custom_id: OF04
-     :typ: Fü,Wo
+     :typ: Fü Wo
      :qps: -
      :eind: 6/5/5
      :reich: 6
@@ -905,12 +980,12 @@
      :qps: -
      :eind: 4/5/4
      :reich: 5
-     :src: GadN 41, SSH 23
+     :src: GadN 41 SSH 23
      :END:
 **** Weinhändler_Hal_Austrolf
      :PROPERTIES:
      :custom_id: OF06
-     :typ: Ha,Kr
+     :typ: Ha Kr
      :qps: 4/5/0 
      :eind: 5/5/6
      :reich: 5
@@ -919,7 +994,7 @@
 **** Maskenmuseum
      :PROPERTIES:
      :custom_id: OF07
-     :typ: Di,Ha
+     :typ: Di Ha
      :qps: 5/4/0 
      :eind: 4/4/4
      :reich: 5
@@ -932,7 +1007,7 @@
      :qps: 4/4/0 
      :eind: 3/4/4
      :reich: 4
-     :src: GadN 42, SadT 20, SSH 38
+     :src: GadN 42 SadT 20 SSH 38
      :END:
 **** Fürstliche_Münze
      :PROPERTIES:
@@ -959,12 +1034,12 @@
      :qps: -
      :eind: 6/6/5
      :reich: 4
-     :src: SadT 20, SSH 23
+     :src: SadT 20 SSH 23
      :END:
 **** Kriegerakademie_Ruadas_Ehr
      :PROPERTIES:
      :custom_id: OF12
-     :typ: Le,St
+     :typ: Le St
      :qps: -
      :eind: 5/5/4
      :reich: 3
@@ -995,7 +1070,7 @@
      :qps: -
      :eind: 3/4/4
      :reich: 5
-     :src: SadT 12, SSH 33
+     :src: SadT 12 SSH 33
      :END:
 **** Rondratempel
      :PROPERTIES:
@@ -1009,7 +1084,7 @@
 **** Traviatempel
      :PROPERTIES:
      :custom_id: T08
-     :typ: Te,Ga,Üb
+     :typ: Te Ga Üb
      :qps:0/0/20 3/2/4
      :eind: 3
      :reich: SSH
@@ -1037,7 +1112,7 @@
 **** Havenapalast
      :PROPERTIES:
      :custom_id: G14
-     :typ: Ga,Üb
+     :typ: Ga Üb
      :qps: 5/5/32 
      :eind: 5/4/5 
      :reich: 5 
@@ -1046,20 +1121,20 @@
 **** Zum_Garether_Tor
      :PROPERTIES:
      :custom_id: G15
-     :typ: Ga,Üb 
+     :typ: Ga Üb
      :qps: 2/4/18
      :eind: 2/3/3
      :reich: 2
-     :src: GadN 12, SSH 26
+     :src: GadN 12 SSH 26
      :END:
 **** Hesindetempel
      :PROPERTIES:
      :custom_id: T10
-     :typ: Te,Le
+     :typ: Te Le
      :qps: -
      :eind: 4/6/5
      :reich: 5
-     :src: GadN 13, SadT 33, SSH 26
+     :src: GadN 13 SadT 33 SSH 26
      :END:
 **** Perainetempel
      :PROPERTIES:
@@ -1082,11 +1157,11 @@
 **** Apotheke_Ehrwalt
      :PROPERTIES:
      :custom_id: UF02
-     :typ: Hw,Ma
+     :typ: Hw Ma
      :qps: 4/5/0 
      :eind: 3/4/4
      :reich: 4
-     :src: GadN 14, SSH 27
+     :src: GadN 14 SSH 27
      :END:
 **** Villa_Rastburger
      :PROPERTIES:
@@ -1109,7 +1184,7 @@
 **** Spielzeugmacherin_Riandra_Stevir
      :PROPERTIES:
      :custom_id: UF05
-     :typ: Ha,Hw
+     :typ: Ha Hw
      :qps: 3/3/0 
      :eind: 3/3/4
      :reich: 4 
@@ -1122,7 +1197,7 @@
      :qps: 5/5/0 
      :eind: 4/5/5
      :reich: 5
-     :src: GadN 13, SadT 12, SSH 27
+     :src: GadN 13 SadT 12 SSH 27
      :END:
 **** Badehaus_Nixenquell
      :PROPERTIES:
@@ -1131,12 +1206,12 @@
      :qps: 4/4/0 
      :eind: 4/3/5
      :reich: 4
-     :src: GadN 12, SSH 26
+     :src: GadN 12 SSH 26
      :END:
 **** Bogenbauer_Silberblüte
      :PROPERTIES:
      :custom_id: UF08
-     :typ: Hw,Di
+     :typ: Hw Di
      :qps: 5/4/0 
      :eind: 3/3/4
      :reich: 4 
@@ -1154,20 +1229,20 @@
 **** Mechanica_Simiadane
      :PROPERTIES:
      :custom_id: UF10
-     :typ: Di,Hw,Wo
+     :typ: Di Hw Wo
      :qps: 5/4/0 
      :eind: 4/5/4
      :reich: 4
-     :src: GadN 23, SSH 41
+     :src: GadN 23 SSH 41
      :END:
 **** Redaktionshaus_der_Fanfare
      :PROPERTIES:
      :custom_id: UF11
-     :typ: Di,Hw,Wo
+     :typ: Di Hw Wo
      :qps: 3/3/0 
      :eind: 3/3/4
      :reich: 3
-     :src: GadN 14, SadT 13, SSH 26
+     :src: GadN 14 SadT 13 SSH 26
      :END:
 **** Garether_Tor
      :PROPERTIES:
@@ -1181,11 +1256,168 @@
 **** Alter_Geschützturm
      :PROPERTIES:
      :custom_id: UF13
-     :typ: St,Te
+     :typ: St Te
      :qps: -
      :eind: -
      :reich: -
      :src: SSH 11
+     :END:
+*** Fürstenstieg (FÜ)
+**** Ferdokbogen
+     :PROPERTIES:
+     :custom_id: FÜ01
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 121
+     :END:
+**** Stolz_von_Gareth
+     :PROPERTIES:
+     :custom_id: FÜ02
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 121
+     :END:
+**** Perlenschmiede
+     :PROPERTIES:
+     :custom_id: FÜ03
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 122
+     :END:
+**** Spukgasthaus_Efferdsgrab
+     :PROPERTIES:
+     :custom_id: FÜ04
+     :typ: Du Ga Üb
+     :qps: 3/3/14
+     :eind: -
+     :reich: -
+     :src: SSH 122
+     :END:
+**** Nahemas_Turm
+     :PROPERTIES:
+     :custom_id: FÜ05
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SadT 36 SSH 122
+     :END:
+**** Thermen
+     :PROPERTIES:
+     :custom_id: FÜ06
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 124
+     :END:
+**** Fürstenpalast_Talagh_Gorn
+     :PROPERTIES:
+     :custom_id: FÜ07
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SadT 36 SSH 127
+     :END:
+**** Karavelle_Meerschaum
+     :PROPERTIES:
+     :custom_id: KM
+     :typ: Du Te
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 125
+     :END:
+*** Lhamin (LH)
+**** Haus_des_Goldenen_Dreizacks
+     :PROPERTIES:
+     :custom_id: T12
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: S&K 16, SSH 123
+     :END:
+**** Perainetempel
+     :PROPERTIES:
+     :custom_id: T13
+     :typ: Du Kr
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 123
+     :END:
+**** Praiostempel
+     :PROPERTIES:
+     :custom_id: T14
+     :typ: Du Te
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: GadN 30 SSH 123
+     :END:
+**** Gartheltas_Puppentheater
+     :PROPERTIES:
+     :custom_id: LH01
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 124
+     :END:
+*** Firunsstadt (FS)
+**** Thaumaturgische_Akademie
+     :PROPERTIES:
+     :custom_id: FS01
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: GadN 30, SSH 122
+     :END:
+**** Große_Bibliothek
+     :PROPERTIES:
+     :custom_id: FS02
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 123
+     :END:
+**** Kaiser-Gerbald-Säule
+     :PROPERTIES:
+     :custom_id: FS03
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 121
+     :END:
+**** Traviatempel
+     :PROPERTIES:
+     :custom_id: T15
+     :typ: Du Kr Te
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: GadN 30 SadT 34 SSH 124
+     :END:
+*** Efferdheim (EH)
+**** Lagerhäuser_Bhuan_Bruadhirs
+     :PROPERTIES:
+     :custom_id: EH01
+     :typ: Du
+     :qps: -
+     :eind: -
+     :reich: -
+     :src: SSH 124
      :END:
 ** Handlung   
 *** Beginn
