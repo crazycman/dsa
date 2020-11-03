@@ -1,0 +1,1251 @@
+* Orte 
+  :PROPERTIES:
+  :COLUMNS:  %33ITEM %4CUSTOM_ID %8TYP %6QPS %5EIND %1REICH %18SRC
+  :END:
+** Legende
+*** Abkuerzungen
+    - GN :: Grauen aus dem Nebel
+    - ST :: Schrecken aus der Tiefe
+    - SK :: Seemansgran und Krakensilber
+    - SH :: Stadtspielhilfe Havena - Versunkene Geheimnisse
+*** Typ
+    - Di :: sonstige Dienstleistung
+    - Du :: Dungeon
+    - Fu :: fürstliches Gebäude
+    - Ga :: Gastronomie
+    - Gi :: Gildenhaus, wichtiger Ort einer Organisation
+    - Ha :: Handel
+    - Hw :: Handwerk
+    - Kr :: Kriminelles
+    - Le :: Lehrmeister
+    - Ma :: magische Dienstleistung
+    - Of :: öffentlicher Bereich
+    - St :: städtisches Gebäude
+    - Te :: Tempel
+    - Ub :: Übernachtung
+    - Wo :: Wohnhaus
+*** Reichtum (R):
+    zeigt auf einer Skala von 1 (= minimal) bis 6 (= immens) an,
+    wie wohlhabend ein Ort ausgestattet ist.
+    - 1 :: eine Bretterbude im Orkendorf
+    - 6 :: den Fürstenpalast und wirklich reiche Patriziervillen
+*** Qualität/Preis/Schalfplätze
+    | Stufe | Qualität      | Preis             |
+    |-------+---------------+-------------------|
+    |     1 | jämmerlich    | sehr_billig_(50%) |
+    |     2 | dreckig       | billig_(75%)      |
+    |     3 | einfach       | normal_(100%)     |
+    |     4 | gutbürgerlich | teuer_(150%)      |
+    |     5 | exquisit      | sehr_teuer_(200%) |
+    |     6 | luxuriös      | horrend_(400%)    |
+*** Unbefugtes Eindringen
+    - Gewalt ::
+      Umfasst alle Formen brachialen Vorgehens, z. B. Türen, Fenster oder
+      Truhen aufbrechen, Personen angreifen und überwältigen.
+      - 1 :: keine verwehrten Zugänge; keine nennenswerten baulichen Maßnahmen,
+        die Eindringlinge abhalten; keine Bewohner, die körperlichen Widerstand
+        leisten; niemand, der bei Lärm zu Hilfe eilen würde.
+      - 3 :: einigermaßen stabile Zugangstüren und Aufbewahrungsbehälter; viele
+        kaum wehrhafte oder wenige wehrhafte Bewohner; nach einiger Zeit wird
+        in der Umgebung Alarm geschlagen und es kommt Hilfe herbei
+      - 6 :: kaum zerstörbare Zugänge und Behälter (z. B. Angbarer
+        Panzerschränke); spezielle bauliche Sicherungen gegen Gewalttäter;
+        Elitewächter, magische oder karmale Verteidigung; ausgeklügeltes
+        Alarmsystem, das schnell weitere Hilfe herbeieilen lässt.
+
+    - Heimlichkeit ::
+      Bezieht sich auf alle Möglichkeiten, ungesehen einzudringen, zu
+      schleichen, sich zu verstecken und Schlösser zu knacken.
+      - 1 :: keine verschlossenen Türen und Behältnisse; einfacher Zugang,
+        keine Wächter.
+      - 3 :: mäßig komplizierter Zugang, z. B. Erklettern einer Hausfassade zum
+        Erreichen eines Fensters im 2. OG; mittelschwere Schlösser, einfache
+        Fallen, Bewohner und/oder Wächter vorhanden und je nach Tageszeit
+        (un-)aufmerksam
+      - 6 :: schwieriger Zugang; kaum Schwachstellen, hochkomplizierte
+        Schlösser, intensive Dauerüberwachung; magischer/karmaler Alarm,
+        raffinierte Fallen; der Wachhund lässt sich kaum ruhigstellen.
+
+    - Übertölpeln ::
+      Umfasst Betrügereien, List und das Vorspielen falscher Tatsachen, um sich
+      Zutritt zu verschaffen, wie beispielsweise eineWache zu betören oder sich
+      als entfernter Verwandter, Eintreibereiner Unterweltgröße oder Inspekteur
+      von der Brandwache auszugeben.
+      - 1 :: sehr leichtgläubige Bewohner, bei denen ein einfacher Vorwand
+        reicht; Schwächen der Bewohner sind leicht zu erkennen und auszunutzen.
+      - 3 :: durchschnittliche Betrugs- und Verstellungskünste vonnöten; die
+        Bewohner erwarten aber hinreichende Indizien, dass die aufgetischte
+        Geschichte stimmt; gewisses Misstrauen, das solide Überredungskunst
+        benötigt; Schwächen der Bewohner können mit guter Beobachtungsgabe
+        identifiziert werden.
+      - 6 :: aufgeweckte und höchst misstrauische Bewohner; strikt eingehaltene
+        Regeln, wer das Gebäude betreten darf; die Identitätmuss hieb- und
+        stichfest sein, keine Schwächen der Bewohner erkennbar; braucht extrem
+        gute Betrüger und Schwindler.
+       
+** Südhafen (S01)
+*** Pension Flussdämon
+    :PROPERTIES:
+    :custom_id: G18
+    :typ:      Ga Ub
+    :qps:      3/4/8
+    :eind:     3/4/4
+    :reich:    3
+    :src:      SH 12
+    :END:
+*** Zum Scharfen Hobel
+    :PROPERTIES:
+    :custom_id: G19
+    :typ:      Ga
+    :qps:      4/2/0
+    :eind:     3/2/3
+    :reich:    2
+    :src:      SH 12
+    :END:
+*** Haus der Flusslotsengilde
+    :PROPERTIES:
+    :custom_id: SÜ01
+    :typ:      Gi
+    :qps:      -
+    :eind:     3/3/4
+    :reich:    3
+    :src:      SH 12
+    :END:
+*** Haus der Seelotsengilde
+    :PROPERTIES:
+    :custom_id: SÜ02
+    :typ:      Gi
+    :qps:      -
+    :eind:     4/4/3
+    :reich:    4
+    :src:      SH 12
+    :END:
+*** Scharfrichterhütte
+    :PROPERTIES:
+    :custom_id: SÜ03
+    :typ:      St Ha
+    :qps:      -
+    :eind:     3/4/4
+    :reich:    4
+    :src:      SH 12
+    :END:
+*** Kontor Ongswin
+    :PROPERTIES:
+    :custom_id: SÜ04
+    :typ:      Ha
+    :qps:      -
+    :eind:     4/3/4
+    :reich:    5
+    :src:      SH 27
+    :END:
+*** Wagnerei Pir Kutschner
+    :PROPERTIES:
+    :custom_id: SÜ05
+    :typ:      Hw
+    :qps:      4/5/0
+    :eind:     4/3/3
+    :reich:    4
+    :src:      SH 27
+    :END:
+*** Brauerei Havenabier
+    :PROPERTIES:
+    :custom_id: SÜ06
+    :typ:      Hw
+    :qps:      3/3/0
+    :eind:     3/2/2
+    :reich:    3
+    :src:      SH 27
+    :END:
+*** Werft Saordubh
+    :PROPERTIES:
+    :custom_id: SÜ07
+    :typ:      Hw
+    :qps:      4/4/0
+    :eind:     3/2/3
+    :reich:    3
+    :src:      SH 12
+    :END:
+*** Werft Maraiche
+    :PROPERTIES:
+    :custom_id: SÜ08
+    :typ:      Hw
+    :qps:      4/5/0
+    :eind:     3/4/2
+    :reich:    4
+    :src:      SH 12
+    :END:
+*** Hafenmeisterei des Südhafens
+    :PROPERTIES:
+    :custom_id: SÜ09
+    :typ:      St Di
+    :qps:      -
+    :eind:     5/4/4
+    :reich:    4
+    :src:      SH 19 ST 11 
+    :END:
+*** Zollbrücke
+    :PROPERTIES:
+    :custom_id: SÜ10
+    :typ:      Of
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 12 SK 7 
+    :END:
+** Boroninsel (S02)
+*** Haus der Borongeweihten
+    :PROPERTIES:
+    :custom_id: BO01
+    :typ:      Wo
+    :qps:      -
+    :eind:     2/3/4
+    :reich:    3
+    :src:      SH 13
+    :END:
+*** Borontempel
+    :PROPERTIES:
+    :custom_id: T01
+    :typ:      Du Te
+    :qps:      -
+    :eind:     5/6/5
+    :reich:    5
+    :src:      SH 13
+    :END:
+** Fischerort (S03)
+*** Efferdschule
+    :PROPERTIES:
+    :custom_id: FI01
+    :typ:      Le Gi
+    :qps:      -
+    :eind:     3/2/4
+    :reich:    3
+    :src:      SH 13
+    :END:
+*** Spukspeicher
+    :PROPERTIES:
+    :custom_id: FI02
+    :typ:      Du
+    :qps:      -
+    :eind:     1/2/1
+    :reich:    2
+    :src:      SH 14
+    :END:
+*** Hafenmeisterei des Binnenhafens
+    :PROPERTIES:
+    :custom_id: FI03
+    :typ:      St Di
+    :qps:      -
+    :eind:     3/3/3
+    :reich:    3
+    :src:      GN 26 ST 11
+    :END:
+*** Seekadettenschule
+    :PROPERTIES:
+    :custom_id: FI04
+    :typ:      Fu Le
+    :qps:      -
+    :eind:     5/4/4
+    :reich:    4
+    :src:      GN 26 SH 14
+    :END:
+*** Garnison der Seekrieger
+    :PROPERTIES:
+    :custom_id: FI05
+    :typ:      St
+    :qps:      -
+    :eind:     6/5/4
+    :reich:    3
+    :src:      SH 14
+    :END:
+*** Pension Am Fischmarkt
+    :PROPERTIES:
+    :custom_id: G16
+    :typ:      Ga Ub
+    :qps:      2/3/10
+    :eind:     4/2/2
+    :reich:    2
+    :src:      SH 27
+    :END:
+*** Zum Goldbutt
+    :PROPERTIES:
+    :custom_id: G17
+    :typ:      Ga Kr
+    :qps:      2/2/0
+    :eind:     4/2/2
+    :reich:    2
+    :src:      SH 14 GN 25 
+    :END:
+*** Alter Efferdtempel
+    :PROPERTIES:
+    :custom_id: T02
+    :typ:      Te
+    :qps:      -
+    :eind:     2/2/4
+    :reich:    5
+    :src:      GN 24 SH 33 SK 15 ST 11 
+    :END:
+*** Tsatempel
+    :PROPERTIES:
+    :custom_id: T03
+    :typ:      Te
+    :qps:      -
+    :eind:     1/2/3
+    :reich:    4
+    :src:      GN 40 SH 14 ST 13 
+    :END:
+*** Latas Kaverne
+    :PROPERTIES:
+    :custom_id: LK
+    :typ:      Du Te
+    :qps:      -
+    :eind:     3/3/5
+    :reich:    6
+    :src:      SH 124
+    :END:
+** Krakeninsel (S04)
+*** Zum Aal
+    :PROPERTIES:
+    :custom_id: G01
+    :typ: Ga
+    :qps: 2/3/0 
+    :eind: 3/2/3
+    :reich: 2
+    :src: SH 15
+    :END:
+*** Pfeifenkraut Runon Ghoern
+    :PROPERTIES:
+    :custom_id: KR01
+    :typ:      Ha
+    :qps:      3/2/0
+    :eind:     3/2/4
+    :reich:    3
+    :src:      SH 27
+    :END:
+*** Bootsbauerin Arna Sorinnan
+    :PROPERTIES:
+    :custom_id: KR02
+    :typ:      Hw
+    :qps:      3/4/0
+    :eind:     3/5/4
+    :reich:    5
+    :src:      SH 15
+    :END:
+*** Krakenwache
+    :PROPERTIES:
+    :custom_id: KR03
+    :typ:      St
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 107
+    :END:
+** Marschen (S05)
+*** Rahjas Lobgesang
+    :PROPERTIES:
+    :custom_id: G02
+    :typ:      Ga Ub
+    :qps:      4/4/12
+    :eind:     3/3/2
+    :reich:    3
+    :src:      SH 16
+    :END:
+*** Alte Marschen
+    :PROPERTIES:
+    :custom_id: G03
+    :typ:      Ga Kr
+    :qps:      5/4/0
+    :eind:     3/3/4
+    :reich:    4
+    :src:      GN 41 SH 16
+    :END:
+*** Theater an der Gauklergasse
+    :PROPERTIES:
+    :custom_id: MA01
+    :typ:      Di
+    :qps:      3/3/0
+    :eind:     3/2/4
+    :reich:    2
+    :src:      SH 15
+    :END:
+*** Haus Marteniel
+    :PROPERTIES:
+    :custom_id: MA02
+    :typ:      Di Wo
+    :qps:      -
+    :eind:     5/6/5
+    :reich:    6
+    :src:      SH 15
+    :END:
+*** Hungerturm
+    :PROPERTIES:
+    :custom_id: MA03
+    :typ:      Du
+    :qps:      -
+    :eind:     2/2/0
+    :reich:    1
+    :src:      SH 16
+    :END:
+*** Kevendochs exotische Krämerw.
+    :PROPERTIES:
+    :custom_id: MA04
+    :typ:      Ha Kr
+    :qps:      5/5/0
+    :eind:     4/5/5
+    :reich:    4
+    :src:      SH 16
+    :END:
+*** Bäckerei Brandub
+    :PROPERTIES:
+    :custom_id: MA05
+    :typ:      Hw
+    :qps:      4/3/0
+    :eind:     4/4/3
+    :reich:    4
+    :src:      SH 27
+    :END:
+*** Nordtor
+    :PROPERTIES:
+    :custom_id: MA06
+    :typ:      St
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 11
+    :END:
+*** Marschentor
+    :PROPERTIES:
+    :custom_id: MA07
+    :typ:      St
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 11
+    :END:
+*** Rahjatempel
+    :PROPERTIES:
+    :custom_id: T04
+    :typ:      Te
+    :qps:      -
+    :eind:     3/2/3
+    :reich:    5
+    :src:      GN 24 SH 15
+    :END:
+** Orkendorf (S06)
+*** Krakenkönig
+    :PROPERTIES:
+    :custom_id: G04
+    :typ:      Ga Ub Kr
+    :qps:      1/1/4
+    :eind:     2/2/3
+    :reich:    1
+    :src:      SH 17
+    :END:
+*** Zum Goldenen Drachen
+    :PROPERTIES:
+    :custom_id: G05
+    :typ:      Ga Ub
+    :qps:      2/2/20
+    :eind:     2/3/2
+    :reich:    2
+    :src:      SH 17
+    :END:
+*** Heldenzuflucht
+    :PROPERTIES:
+    :custom_id: G06
+    :typ:      Ga Ub
+    :qps:      1/2/14
+    :eind:     3/2/2
+    :reich:    1
+    :src:      SH 27
+    :END:
+*** Großmast
+    :PROPERTIES:
+    :custom_id: G07
+    :typ:      Ga Ub
+    :qps:      3/3/18
+    :eind:     3/2/3
+    :reich:    3
+    :src:      GN 41 SH 17
+    :END:
+*** Esche und Kork
+    :PROPERTIES:
+    :custom_id: G08
+    :typ:      Ga Ub Kr
+    :qps:      3/3/12
+    :eind:     4/4/3
+    :reich:    3
+    :src:      SH 34 SK 20 
+    :END:
+*** Bordell Hafenmaid
+    :PROPERTIES:
+    :custom_id: G09
+    :typ:      Di Ga Kr
+    :qps:      1/2/0
+    :eind:     3/3/2
+    :reich:    2
+    :src:      SH 27
+    :END:
+*** Tätowierer Thorkar Frenjarson
+    :PROPERTIES:
+    :custom_id: OR01
+    :typ:      Di
+    :qps:      3/3/0
+    :eind:     2/2/3
+    :reich:    2
+    :src:      SH 27
+    :END:
+*** Gute Güter Guthbrod
+    :PROPERTIES:
+    :custom_id: OR02
+    :typ:      Ha Kr
+    :qps:      2/2/0
+    :eind:     4/5/4
+    :reich:    4
+    :src:      SH 17
+    :END:
+*** Wolters Krämerladen
+    :PROPERTIES:
+    :custom_id: OR03
+    :typ:      Ha Kr
+    :qps:      4/3/0
+    :eind:     3/5/6
+    :reich:    3
+    :src:      SH 17 ST 12 
+    :END:
+*** Kuriositätenladen Runwald
+    :PROPERTIES:
+    :custom_id: OR04
+    :typ:      Ha
+    :qps:      3/3/0
+    :eind:     2/2/4
+    :reich:    3
+    :src:      SH 17
+    :END:
+*** Heilerin Dhanara Faihc
+    :PROPERTIES:
+    :custom_id: OR05
+    :typ:      Di Kr
+    :qps:      4/3/0
+    :eind:     2/3/3
+    :reich:    3
+    :src:      SH 27
+    :END:
+*** Nechts Menagerie
+    :PROPERTIES:
+    :custom_id: OR06
+    :typ:      Ha Di
+    :qps:      4/4/0
+    :eind:     4/5/3
+    :reich:    4
+    :src:      SH 17
+    :END:
+** Nalleshof (S07)
+*** Drachenschiff
+    :PROPERTIES:
+    :custom_id: G20
+    :typ:      Ga Ub
+    :qps:      3/3/18
+    :eind:     2/3/3
+    :reich:    2
+    :src:      SH 18
+    :END:
+*** Salzfass
+    :PROPERTIES:
+    :custom_id: G21
+    :typ:      Ga
+    :qps:      3/3/0
+    :eind:     3/4/3
+    :reich:    3
+    :src:      SH 18
+    :END:
+*** Schipperkrug
+    :PROPERTIES:
+    :custom_id: G22
+    :typ:      Ga
+    :qps:      2/2/0
+    :eind:     3/2/3
+    :reich:    2
+    :src:      SH 18
+    :END:
+*** Herberge Walfisch
+    :PROPERTIES:
+    :custom_id: G23
+    :typ:      Ga Ub
+    :qps:      4/4/12
+    :eind:     3/2/3
+    :reich:    2
+    :src:      SH 27
+    :END:
+*** Hafenmeisterei des Seehafens
+    :PROPERTIES:
+    :custom_id: NA01
+    :typ:      St Di
+    :qps:      -
+    :eind:     4/4/3
+    :reich:    4
+    :src:      SK 7 ST 11
+    :END:
+*** Kontor Rastburger
+    :PROPERTIES:
+    :custom_id: NA02
+    :typ:      Ha
+    :qps:      -
+    :eind:     5/3/5
+    :reich:    5
+    :src:      SH 27
+    :END:
+*** Kontor Engstrand
+    :PROPERTIES:
+    :custom_id: NA03
+    :typ:      Ha
+    :qps:      -
+    :eind:     5/3/4
+    :reich:    5
+    :src:      SH 27
+    :END:
+*** Kontor Stoerrebrandt
+    :PROPERTIES:
+    :custom_id: NA04
+    :typ:      Ha Di
+    :qps:      -
+    :eind:     5/3/4
+    :reich:    5
+    :src:      SH 27
+    :END:
+*** Totenpier
+    :PROPERTIES:
+    :custom_id: NA05
+    :typ:      Of
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 18
+    :END:
+*** Haus der Efferdbrüder
+    :PROPERTIES:
+    :custom_id: NA06
+    :typ:      Gi
+    :qps:      -
+    :eind:     3/4/3
+    :reich:    4
+    :src:      SH 18 ST 13 
+    :END:
+*** Nalleshofwache
+    :PROPERTIES:
+    :custom_id: NA07
+    :typ:      St
+    :qps:      -
+    :eind:     5/4/4
+    :reich:    2
+    :src:      SH 18
+    :END:
+*** Waffenhändlerin Curamach
+    :PROPERTIES:
+    :custom_id: NA08
+    :typ:      Ha
+    :qps:      4/4/0
+    :eind:     4/3/3
+    :reich:    4
+    :src:      SH 27
+    :END:
+*** Laternenmacher Igwun Blyain
+    :PROPERTIES:
+    :custom_id: NA09
+    :typ:      Hw
+    :qps:      5/5/0
+    :eind:     3/3/4
+    :reich:    4
+    :src:      SH 18
+    :END:
+*** Garos Rollfuhrwerke
+    :PROPERTIES:
+    :custom_id: NA10
+    :typ: Di
+    :qps: 4/4/0 
+    :eind: 3/2/3
+    :reich: 3
+    :src: SH 27
+    :END:
+*** Maler Juce
+    :PROPERTIES:
+    :custom_id: NA11
+    :typ:      Hw
+    :qps:      6/4/0
+    :eind:     3/2/4
+    :reich:    4
+    :src:      SH 27
+    :END:
+*** Ingerimmtempel
+    :PROPERTIES:
+    :custom_id: T05
+    :typ:      Te
+    :qps:      -
+    :eind:     5/4/3
+    :reich:    4
+    :src:      SH 18
+    :END:
+** Feldmark (S08)
+*** Glockengießerei Kuinocs
+    :PROPERTIES:
+    :custom_id: FE01
+    :typ:      Hw
+    :qps:      4/3/0
+    :eind:     2/3/3
+    :reich:    4
+    :src:      Stadtplan
+    :END:
+*** Gerbergruben Reißgrams Speichel
+    :PROPERTIES:
+    :custom_id: FE02
+    :typ:      Hw Kr
+    :qps:      4/4/0
+    :eind:     5/4/4
+    :reich:    3
+    :src:      SH 22
+    :END:
+*** Südtor
+    :PROPERTIES:
+    :custom_id: FE03
+    :typ:      St
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 11
+    :END:
+*** Vergnügungsschiff Rethis
+    :PROPERTIES:
+    :custom_id: G24
+    :typ:      Di Ga Ma
+    :qps:      4/5/0
+    :eind:     4/3/4
+    :reich:    5
+    :src:      GN 17 SH 35
+    :END:
+*** Schatzinsel
+    :PROPERTIES:
+    :custom_id: G25
+    :typ:      Ga
+    :qps:      2/3/0
+    :eind:     2/3/2
+    :reich:    2
+    :src:      GN 15 23 SH 22 ST 13 
+    :END:
+** Oberfluren (S09)
+*** Fürstenschänke
+    :PROPERTIES:
+    :custom_id: G10
+    :typ:      Ga
+    :qps:      5/6/0
+    :eind:     5/4/5
+    :reich:    5
+    :src:      SH 23
+    :END:
+*** Am Palastgarten
+    :PROPERTIES:
+    :custom_id: G11
+    :typ:      Ga Ub
+    :qps:      5/5/30
+    :eind:     5/4/5
+    :reich:    5
+    :src:      SH 23
+    :END:
+*** Oase der 1.000 Freuden
+    :PROPERTIES:
+    :custom_id: G12
+    :typ:      Ga
+    :qps:      4/6/0
+    :eind:     4/3/3
+    :reich:    4
+    :src:      SH 24 ST 6
+    :END:
+*** Rondras Einkehr
+    :PROPERTIES:
+    :custom_id: G13
+    :typ:      Ga
+    :qps:      3/3/0
+    :eind:     4/3/3
+    :reich:    4
+    :src:      SH 24
+    :END:
+*** Sternwarte
+    :PROPERTIES:
+    :custom_id: OF01
+    :typ:      Di Le
+    :qps:      3/4/-
+    :eind:     4/4/3
+    :reich:    4
+    :src:      SH 25
+    :END:
+*** Instrumentenbauer Allain Ruggard
+    :PROPERTIES:
+    :custom_id: OF02
+    :typ:      Hw Ha
+    :qps:      4/5/-
+    :eind:     3/4/4
+    :reich:    5
+    :src:      SH 26
+    :END:
+*** Haus des Stadtvogts
+    :PROPERTIES:
+    :custom_id: OF03
+    :typ:      St Wo
+    :qps:      -
+    :eind:     6/6/5
+    :reich:    6
+    :src:      SH 23
+    :END:
+*** Fürstenpalast
+    :PROPERTIES:
+    :custom_id: OF04
+    :typ:      Fu Wo
+    :qps:      -
+    :eind:     6/5/5
+    :reich:    6
+    :src:      SH 23
+    :END:
+*** Stadthaus
+    :PROPERTIES:
+    :custom_id: OF05
+    :typ:      St
+    :qps:      -
+    :eind:     4/5/4
+    :reich:    5
+    :src:      GN 41 SH 23
+    :END:
+*** Weinhändler Hal Austrolf
+    :PROPERTIES:
+    :custom_id: OF06
+    :typ:      Ha Kr
+    :qps:      4/5/0
+    :eind:     5/5/6
+    :reich:    5
+    :src:      SH 27
+    :END:
+*** Maskenmuseum
+    :PROPERTIES:
+    :custom_id: OF07
+    :typ:      Di Ha
+    :qps:      5/4/0
+    :eind:     4/4/4
+    :reich:    5
+    :src:      SH 25
+    :END:
+*** Wachsfigurenkabinett
+    :PROPERTIES:
+    :custom_id: OF08
+    :typ:      Di
+    :qps:      4/4/0
+    :eind:     3/4/4
+    :reich:    4
+    :src:      GN 42 SH 38 ST 20 
+    :END:
+*** Fürstliche Münze
+    :PROPERTIES:
+    :custom_id: OF09
+    :typ:      Fu
+    :qps:      -
+    :eind:     6/6/5
+    :reich:    6
+    :src:      SH 23
+    :END:
+*** Nostrianer Tor
+    :PROPERTIES:
+    :custom_id: OF10
+    :typ:      St
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 11
+    :END:
+*** Garnison
+    :PROPERTIES:
+    :custom_id: OF11
+    :typ:      St
+    :qps:      -
+    :eind:     6/6/5
+    :reich:    4
+    :src:      SH 23 ST 20 
+    :END:
+*** Kriegerakademie Ruadas Ehr
+    :PROPERTIES:
+    :custom_id: OF12
+    :typ:      Le St
+    :qps:      -
+    :eind:     5/5/4
+    :reich:    3
+    :src:      SH 24
+    :END:
+*** Beilunker Reiter
+    :PROPERTIES:
+    :custom_id: OF13
+    :typ:      Di
+    :qps:      5/6/0
+    :eind:     4/5/5
+    :reich:    4
+    :src:      Stadtplan
+    :END:
+*** Schwertschule Uinin
+    :PROPERTIES:
+    :custom_id: OF14
+    :typ:      Le
+    :qps:      -
+    :eind:     4/3/4
+    :reich:    4
+    :src:      SH 24
+    :END:
+*** Haus der Göttlichen Woge
+    :PROPERTIES:
+    :custom_id: T06
+    :typ:      Te
+    :qps:      -
+    :eind:     3/4/4
+    :reich:    5
+    :src:       SH 33 ST 12
+    :END:
+*** Rondratempel
+    :PROPERTIES:
+    :custom_id: T07
+    :typ:      Te
+    :qps:      -
+    :eind:     6/3/4
+    :reich:    5
+    :src:      SH 24
+    :END:
+*** Traviatempel
+    :PROPERTIES:
+    :custom_id: T08
+    :typ: Te Ga Ub
+    :qps: 0/0/20 
+    :eind: 3/2/4
+    :reich: 3
+    :src: SH 24
+    :END:
+*** Praiostempel
+    :PROPERTIES:
+    :custom_id: T09
+    :typ:      Te
+    :qps:      -
+    :eind:     4/5/6
+    :reich:    6
+    :src:      SH 24
+    :END:
+*** Immanstadion
+    :PROPERTIES:
+    :custom_id: IM
+    :typ:      Of
+    :qps:      -
+    :eind:     3/2/3
+    :reich:    2
+    :src:      SH 25
+    :END:
+** Unterfluren (S10)
+*** Havenapalast
+    :PROPERTIES:
+    :custom_id: G14
+    :typ:      Ga Ub
+    :qps:      5/5/32
+    :eind:     5/4/5
+    :reich:    5
+    :src:      SH 26
+    :END:
+*** Zum Garether Tor
+    :PROPERTIES:
+    :custom_id: G15
+    :typ:      Ga Ub
+    :qps:      2/4/18
+    :eind:     2/3/3
+    :reich:    2
+    :src:      GN 12 SH 26
+    :END:
+*** Hesindetempel
+    :PROPERTIES:
+    :custom_id: T10
+    :typ:      Te Le
+    :qps:      -
+    :eind:     4/6/5
+    :reich:    5
+    :src:      GN 13 SH 26 ST 33
+    :END:
+*** Perainetempel
+    :PROPERTIES:
+    :custom_id: T11
+    :typ:      Te
+    :qps:      -
+    :eind:     2/2/3
+    :reich:    2
+    :src:      SH 27
+    :END:
+*** Siechenhaus
+    :PROPERTIES:
+    :custom_id: UF01
+    :typ:      Di
+    :qps:      4/1/35
+    :eind:     2/1/3
+    :reich:    3
+    :src:      SH 27
+    :END:
+*** Apotheke Ehrwalt
+    :PROPERTIES:
+    :custom_id: UF02
+    :typ:      Hw Ma
+    :qps:      4/5/0
+    :eind:     3/4/4
+    :reich:    4
+    :src:      GN 14 SH 27
+    :END:
+*** Villa Rastburger
+    :PROPERTIES:
+    :custom_id: UF03
+    :typ:      Wo
+    :qps:      -
+    :eind:     6/5/5
+    :reich:    6
+    :src:      SH 27
+    :END:
+*** Schlosser Zirkeldreher
+    :PROPERTIES:
+    :custom_id: UF04
+    :typ:      Hw
+    :qps:      4/4/0
+    :eind:     4/4/3
+    :reich:    4
+    :src:      SH 27
+    :END:
+*** Spielzeugmacherin Riandra Stevir
+    :PROPERTIES:
+    :custom_id: UF05
+    :typ:      Ha Hw
+    :qps:      3/3/0
+    :eind:     3/3/4
+    :reich:    4
+    :src:      SH 27
+    :END:
+*** Schneider Aradin
+    :PROPERTIES:
+    :custom_id: UF06
+    :typ:      Hw
+    :qps:      5/5/0
+    :eind:     4/5/5
+    :reich:    5
+    :src:      GN 13 SH 27 ST 12
+    :END:
+*** Badehaus Nixenquell
+    :PROPERTIES:
+    :custom_id: UF07
+    :typ:      Di
+    :qps:      4/4/0
+    :eind:     4/3/5
+    :reich:    4
+    :src:      GN 12 SH 26
+    :END:
+*** Bogenbauer Silberblüte
+    :PROPERTIES:
+    :custom_id: UF08
+    :typ:      Hw Di
+    :qps:      5/4/0
+    :eind:     3/3/4
+    :reich:    4
+    :src:      SH 27
+    :END:
+*** Prinzessin-Emer-Brücke
+    :PROPERTIES:
+    :custom_id: UF09
+    :typ:      Of
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 27
+    :END:
+*** Mechanica Simiadane
+    :PROPERTIES:
+    :custom_id: UF10
+    :typ:      Di Hw Wo
+    :qps:      5/4/0
+    :eind:     4/5/4
+    :reich:    4
+    :src:      GN 23 SH 41
+    :END:
+*** Redaktionshaus der Fanfare
+    :PROPERTIES:
+    :custom_id: UF11
+    :typ:      Di Hw Wo
+    :qps:      3/3/0
+    :eind:     3/3/4
+    :reich:    3
+    :src:      GN 14 SH 26 ST 13 
+    :END:
+*** Garether Tor
+    :PROPERTIES:
+    :custom_id: UF12
+    :typ:      St
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 11
+    :END:
+*** Alter Geschützturm
+    :PROPERTIES:
+    :custom_id: UF13
+    :typ:      St Te
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 11
+    :END:
+** Fürstenstieg (FU)
+*** Ferdokbogen
+    :PROPERTIES:
+    :custom_id: FÜ01
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 121
+    :END:
+*** Stolz von Gareth
+    :PROPERTIES:
+    :custom_id: FÜ02
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 121
+    :END:
+*** Perlenschmiede
+    :PROPERTIES:
+    :custom_id: FÜ03
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 122
+    :END:
+*** Spukgasthaus Efferdsgrab
+    :PROPERTIES:
+    :custom_id: FÜ04
+    :typ:      Du Ga Ub
+    :qps:      3/3/14
+    :eind:     -
+    :reich:    -
+    :src:      SH 122
+    :END:
+*** Nahemas Turm
+    :PROPERTIES:
+    :custom_id: FÜ05
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 122 ST 36 
+    :END:
+*** Thermen
+    :PROPERTIES:
+    :custom_id: FÜ06
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 124
+    :END:
+*** Fürstenpalast Talagh Gorn
+    :PROPERTIES:
+    :custom_id: FÜ07
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 127 ST 36 
+    :END:
+*** Karavelle Meerschaum
+    :PROPERTIES:
+    :custom_id: KM
+    :typ:      Du Te
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 125
+    :END:
+** Lhamin (LH)
+*** Haus des Goldenen Dreizacks
+    :PROPERTIES:
+    :custom_id: T12
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 123 SK 16
+    :END:
+*** Perainetempel
+    :PROPERTIES:
+    :custom_id: T13
+    :typ:      Du Kr
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 123
+    :END:
+*** Praiostempel
+    :PROPERTIES:
+    :custom_id: T14
+    :typ:      Du Te
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      GN 30 SH 123
+    :END:
+*** Gartheltas Puppentheater
+    :PROPERTIES:
+    :custom_id: LH01
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 124
+    :END:
+** Firunsstadt (FS)
+*** Thaumaturgische Akademie
+    :PROPERTIES:
+    :custom_id: FS01
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      GN 30 SH 122
+    :END:
+*** Große Bibliothek
+    :PROPERTIES:
+    :custom_id: FS02
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 123
+    :END:
+*** Kaiser-Gerbald-Säule
+    :PROPERTIES:
+    :custom_id: FS03
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 121
+    :END:
+*** Traviatempel
+    :PROPERTIES:
+    :custom_id: T15
+    :typ:      Du Kr Te
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      GN 30 SH 124 ST 34 
+    :END:
+** Efferdheim (EH)
+*** Lagerhäuser Bhuan Bruadhirs
+    :PROPERTIES:
+    :custom_id: EH01
+    :typ:      Du
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 124
+    :END:

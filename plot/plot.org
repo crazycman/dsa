@@ -5,7 +5,7 @@
   - Handlungsfreiheit
   - Ausblick auf die Art des Abenteuers (Sandbox)
   
-** Crawl / Nodes
+** Nodes
    :PROPERTIES:
    :COLUMNS:  %45ITEM %4CUSTOM_ID %4LAYER %5LOCATION %15SRC
    :END:
@@ -23,7 +23,7 @@
      - Verkauf durch Botenjunge *Jendar*
      - 12 Heller
      - reisserischer Bericht ueber Morde in Havena
-***** Links :: [/]
+***** Links :: [0/2]
       - [ ] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
       - [ ] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
 **** TODO Karten fuer Vollmondball auf Rethis
@@ -95,13 +95,13 @@
 *** Orkendorf
      
 *** GadN
-**** Opfer der Angriffe
+**** Opfer der Angriffe [5/9]
      :PROPERTIES:
      :custom_id: 3
      :layer: GadN
      :src: GadN 12
      :END:
-***** Scibor Aberkrom
+***** TODO Scibor Aberkrom
       :PROPERTIES:
       :location: Suedhafen
       :END:
@@ -113,7 +113,7 @@
         Aberkroms mit seinen Begleiterinnen ging durch. Die Kreaturen zerrten
         den Wehrlosen ins Hafenbecken und ersäuften ihn. Seinen Leichnam fand
         man erst Stunden später im Wasser treibend.
-***** Etaine Achton
+***** TODO Etaine Achton
       :PROPERTIES:
       :location: Fischerort
       :END:
@@ -122,7 +122,7 @@
         beim Gang vom Traviatempel von Neckern überfallen. Nur zitternd traf sie
         zuhause ein. So groß war der Schrecken, dass die Necker ihr die Kleider
         vom Leibe reißen wollten
-***** Emer Mellrich      
+***** TODO Emer Mellrich      
       :PROPERTIES:
       :location: Marschen
       :END:
@@ -132,7 +132,7 @@
         Nebel verlor sie das Wesen aus den Augen und schlug dann auf eine
         Gestalt ein, die sie für die Kreatur hielt. Leider handelte es sich
         stattdessen um einen Fischer, der drei Zähne verlor.
-***** Beatha Arberdan
+***** TODO Beatha Arberdan
       :PROPERTIES:
       :location: Orkendorf
       :END:
@@ -179,6 +179,11 @@
    :COLUMNS:  %45ITEM %4CUSTOM_ID %8TYP %6QPS %5EIND %1REICH %15SRC
    :END:
 *** Legende
+**** Abkuerzungen
+     - GadN :: Grauen aus dem Nebel
+     - SadT :: Schrecken aus der Tiefe
+     - S&K :: Seemansgran und Krakensilber
+     - SSH :: Stadtspielhilfe Havena - Versunkene Geheimnisse
 **** Typ
      - Di :: sonstige Dienstleistung
      - Du :: Dungeon

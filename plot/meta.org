@@ -1,0 +1,18 @@
+* Havena
+  id: 1,2,3
+** Locations
+*** ueberall
+*** hafen
+** Layer
+*** GadN
+    Grauen aus dem Nebel
+** TODO [1/2]
+   - [X] IDs anpassen
+   - [ ] Pferdepension (Feldmarken)  
+
+** org mode
+   C-c C-k (org-outline-show-brances)
+   C-c / (org-sparse tree)
+   M-UP (org-move-subtree-up)
+   C-c C-l (org-insert-link)
+   link to target in file: [[file:~/xx.org::#my-custom-id]]
