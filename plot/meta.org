@@ -4,7 +4,7 @@
 *** ueberall
 *** hafen
 ** Layer
-*** GadN
+*** GN
     Grauen aus dem Nebel
 ** TODO [1/2]
    - [X] IDs anpassen
@@ -16,3 +16,5 @@
    M-UP (org-move-subtree-up)
    C-c C-l (org-insert-link)
    link to target in file: [[file:~/xx.org::#my-custom-id]]
+   SPC m (major mode command)
+   SPC s s (helm swoop)

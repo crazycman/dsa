@@ -1,0 +1,51 @@
+#+STARTUP: content
+* NPCs 
+  :PROPERTIES:
+  :COLUMNS: %30ITEM %4CUSTOM_ID(ID) %15OCCUPATION(BERUF) %4LOCATION(LOC) %4ORGANIZATION(ORG) %1SEX(GES) %12SRC
+  :END: 
+** Niamh Schlappmaul
+   :PROPERTIES:
+   :CUSTOM_ID: NS1
+   :SEX:      w
+   :OCCUPATION: Schreiberin
+   :LOCATION: UF11
+   :SRC:      GN 14 SH 26
+   :ORGANIZATION:
+   :END:
+   - Aussehen :: 40 Jahre, Rehaugen, breites Lächeln
+   - Zitate ::
+     - Habt ihr Informationen zu den Angriffen? Arbeitet ihr fuer die Efferdkirche?
+     - In dramatischen Worten: Wie verlief die letzte Nacht?
+     - Habt ihr schon mal jemanden getoetet? Wie fuehlte sich das an?
+   - Rollenspiel ::
+     - hektische Sprache & Bewegungen
+     - zwanghaftes Blinzeln  
+   - Hintergrund ::
+     - Schreiberin der Fanfare
+     - Schamlose Schnuefflerin
+     - Versucht durch reisserische Bereichterstattung Auflage und Umsatz zu steigern
+   - Ziele ::
+     - Stoff fuer eine gute Story bekommen
+     - Befragt die Helden (ggf. nach Patroullie)
+       Je nach Umgang wird der spaetere Artikel die Helden abwerten oder idealisieren
+   - Info ::
+     - [ ] [[file:locations.org::#T02][Efferdkirche]] sucht Recken zum Schutz der Buerger
+     - [ ] 
+   - Werte :: Willenskraft 12 (14/13/15)   
+   - Ort :: [[file:locations.org::#UF11][Redaktionshaus]]
+** Rohnwin ui Kerkill
+   :PROPERTIES:
+   :CUSTOM_ID: RK1
+   :SEX:      m
+   :OCCUPATION: Schreiber
+   :LOCATION: UF11
+   :SRC:      GN 14 SH 26
+   :ORGANIZATION:
+   :END:
+   - Aussehen :: 53 Jahre, tintenbefleckte Finger
+   - Hintergrund ::
+     - Schreiber der Fanfare
+     - Verschwoerungstheoretiker
+   - Ziele :: Auflage machen
+   - Ort :: [[file:locations.org::#UF11][Redaktionshaus]]     
+     

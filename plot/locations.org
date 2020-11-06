@@ -1,14 +1,15 @@
-* Orte 
+#+STARTUP: content
+* Orte  
   :PROPERTIES:
-  :COLUMNS:  %33ITEM %4CUSTOM_ID %8TYP %6QPS %5EIND %1REICH %18SRC
-  :END:
+  :COLUMNS:  %31ITEM %4CUSTOM_ID %3LOCATION(LOC) %8TYP %6QPS %5EIND %1REICH %18SRC
+  :END: 
 ** Legende
 *** Abkuerzungen
     - GN :: Grauen aus dem Nebel
     - ST :: Schrecken aus der Tiefe
     - SK :: Seemansgran und Krakensilber
     - SH :: Stadtspielhilfe Havena - Versunkene Geheimnisse
-*** Typ
+*** Typ 
     - Di :: sonstige Dienstleistung
     - Du :: Dungeon
     - Fu :: fürstliches Gebäude
@@ -82,7 +83,7 @@
         Regeln, wer das Gebäude betreten darf; die Identitätmuss hieb- und
         stichfest sein, keine Schwächen der Bewohner erkennbar; braucht extrem
         gute Betrüger und Schwindler.
-       
+        
 ** Südhafen (S01)
 *** Pension Flussdämon
     :PROPERTIES:
@@ -1068,6 +1069,7 @@
 *** Redaktionshaus der Fanfare
     :PROPERTIES:
     :custom_id: UF11
+    :location: G14
     :typ:      Di Hw Wo
     :qps:      3/3/0
     :eind:     3/3/4
