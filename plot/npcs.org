@@ -28,11 +28,13 @@
      - Stoff fuer eine gute Story bekommen
      - Befragt die Helden (ggf. nach Patroullie)
        Je nach Umgang wird der spaetere Artikel die Helden abwerten oder idealisieren
-   - Info ::
-     - [ ] [[file:locations.org::#T02][Efferdkirche]] sucht Recken zum Schutz der Buerger
-     - [ ] 
    - Werte :: Willenskraft 12 (14/13/15)   
-   - Ort :: [[file:locations.org::#UF11][Redaktionshaus]]
+   - Orte :: [[file:locations.org::#UF11][Redaktionshaus]]
+*** Info [/]
+    TODO links
+    - [ ] [[file:locations.org::#T02][Efferdkirche]] sucht Recken zum Schutz der Buerger
+    - [ ] Der H'Ranga Kult war in der Vergangenheit aktiv in Havena; evtl. erstarkt der Wieder
+    - [ ] Konkurrierende Schmuggler die sich gegenseitig an die Kehle gehen
 ** Rohnwin ui Kerkill
    :PROPERTIES:
    :CUSTOM_ID: RK1
@@ -47,5 +49,4 @@
      - Schreiber der Fanfare
      - Verschwoerungstheoretiker
    - Ziele :: Auflage machen
-   - Ort :: [[file:locations.org::#UF11][Redaktionshaus]]     
-     
+   - Ort :: [[file:locations.org::#UF11][Redaktionshaus]]

@@ -27,7 +27,7 @@
      - Verkauf durch Botenjunge *Jendar*
      - 12 Heller
      - reisserischer Bericht ueber Morde in Havena
-***** Links :: [0/2]
+***** Links [0/2]
       - [ ] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
       - [ ] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
 **** TODO Karten fuer Vollmondball auf Rethis
@@ -40,7 +40,7 @@
      - Kostuemball zum Thema: *Die 6 Elemente*
      - 1 Dukate
      - in 2 Tagen am Abend
-***** Links :: [0/2]
+***** Links [0/2]
       - [ ] [[#UF06][Schneider Aradin]]
       - [ ] [[#G24][Rethis]]
         
@@ -92,7 +92,7 @@
      :layer: GN
      :SRC:      GN 24 SH 33 ST 11
      :END:
-***** Links :: [0/1]
+***** Links [0/1]
       - [ ] Graustein
 *** Orkendorf
      
@@ -195,16 +195,16 @@
 **** Pferdepension (Feldmarken)     
 **** Konkurrierende Schmugglebaden
 **** Imman mit Ranziger Toss
-**** Das Grauen im Nebel (Nekerueberfaelle, aberglaeubische & verunsicherte Gradisten)
+**** Das Grauen im Nebel (Nekerueberfaelle)
 **** Simianide, die Mechanika
 **** Kult der H'Ranga (Allesverschlingende)
 **** Lorbold & Klopatex
 **** Heist
 ** Master Plot
 *** Personen Organisationen    
-    - Charyptoroth https://de.wiki-aventurica.de/wiki/Charyptoroth
-    - Efferd https://de.wiki-aventurica.de/wiki/Efferd
-    - Numinoru https://de.wiki-aventurica.de/wiki/Numinoru
+    - [[https://de.wiki-aventurica.de/wiki/Charyptoroth][Charyptoroth]]
+    - [[https://de.wiki-aventurica.de/wiki/Efferd][Efferd]]
+    - [[https://de.wiki-aventurica.de/wiki/Numinoru][Numinoru]]
     - Feenwesen (Nymphen)
     - Havena Stadt Elite & Haendler
 *** Ereignisse / Plots
@@ -214,6 +214,12 @@
     - Der Namenlose / die 14 Lobpreisungen (siehe Offenbarung des Himmels)
     - Der Meteoreisenblock (Rohling eines schwarzen Auges) in Angbar
     - Imman (mit Ranziger Toss)
+    - Kultisten (Faschisten):
+      - leben in einer alternativen Realitaet (cultist mindset)3
+      - alles was nicht dem kultischen Weltbild entspricht, wird als fundamental falsch empfunden
+      - nur der eigene Glaube, die eigenen Gefuehle sind wahr & richtig
+      - wenn sie zur Rede gestellt werden, reagieren sie mit Gewalt, da sie keine rationalen Argumente haben
+        
 *** Orte
     - Unheiligtuemer der Charyptoroth
       - auf der Krakeninsel Nymphaeum > Auquamarinportal > Pforte des Grauens
