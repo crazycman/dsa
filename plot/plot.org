@@ -11,7 +11,7 @@
      
 ** Nodes
    :PROPERTIES:
-   :COLUMNS:  %45ITEM %4CUSTOM_ID %4LAYER %6LOCATION %17SRC
+   :COLUMNS:  %45ITEM %4CUSTOM_ID(ID) %4LAYER %6LOCATION %17SRC
    :END:
 *** Unspezifisch
 **** TODO Sonderausgabe der Havena-Fanfare
@@ -43,7 +43,12 @@
 ***** Links [0/2]
       - [ ] [[#UF06][Schneider Aradin]]
       - [ ] [[#G24][Rethis]]
-        
+**** Begegnung mit der anderen Soeldnergruppe
+     :PROPERTIES:
+     :custom_id: 4
+     :location: MA OR NA
+     :layer: GN
+     :END:
 *** Unterfluren
 **** Redaktionshaus Havena-Fanfare & Dreikronen-Drukerei
      :PROPERTIES:

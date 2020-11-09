@@ -1,11 +1,22 @@
 #+STARTUP: content
 * Organisationen
+  :PROPERTIES:
+  :COLUMNS:  %31ITEM %4CUSTOM_ID(ID) %18SRC
+  :END: 
+** Legende
+*** Zusammenhalt, Beziehungen, Finanzkraft
+    - 1 :: minimal
+    - 2 :: mässig
+    - 3 :: hinlänglich
+    - 4 :: ansehnlich
+    - 5 :: groß
+    - 6 :: immens
 ** Nebelgeister (Verwegene Schmuggler)
    :PROPERTIES:
    :CUSTOM_ID: NG1
    :SRC:
    :END:
-   - Weitere Bezeichnungen :: -
+   - Weitere Bezeichnungen ::
    - Symbol/Erkennungszeichen ::
    - Wahlspruch :: 
    - Herkunft: ::
@@ -15,5 +26,44 @@
    - Wichtige Personen ::
    - Stützpunkte ::
    - Domänen ::
-   - Zusammenhalt, Beziehungen und Finanzkraft ::
-   - Zitat :: 
+   - Zusammenhalt, Beziehungen, Finanzkraft ::
+   - Zitat ::
+** Stadtgarde
+   :PROPERTIES:
+   :CUSTOM_ID: SG1
+   :SRC:      SH 107 SH 24
+   :END:
+   - Weitere Bezeichnungen :: Eisenbeißer, Blauröcke, Gilias Hunde
+   - Symbol/Erkennungszeichen ::
+     - blaue Uniform mit Stadtwappen
+     - Gardeamulett mit kleinem Gwen Petry
+   - Wahlspruch :: Im Namen der Zwölfe und des Fürsten!
+   - Herkunft: :: seit Jahrhunderten existent
+   - Größe :: 80 Stadtgardisten
+   - Hierarchie :: streng
+     - Grad *I*: Gemeiner, Grad *II*: Korporal
+     - Grad *III*: Weibel, Fähnrich Grad *IV*: Hauptmann
+   - Wichtige Personen ::
+     - [[file:npcs.org::#GD1][Gilia Delvenstein]] Hautpfrau
+     - [[file:npcs.org::FB1][Fackelbart]] Weibel
+     - Trode Torfstecher Korporal
+   - Stützpunkte ::
+     - [[file:locations.org::#OF11][Garnison]] Hauptsitz, [[file:locations.org::#KR03][Krakenwache]], [[file:locations.org::#NA07][Nalleshofwache]]
+     - [[file:locations.org::#MA06][Nordtor]], [[file:locations.org::#FE03][Suedtor]], [[file:locations.org::#UF12][Garether Tor]], [[file:locations.org::#OF10][Nostrianer Tor]], [[file:locations.org::#SÜ10][Zollbruecke]]
+   - Domänen ::
+     - Durchsetzung der Stadtordnung und des Stadtfriedens
+     - Bewachung der Stadttore, öffentlicher Plätze, der Straßen und städtischer Gebäude
+     - Eintreiben von Zoll an den Toren
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 4/4/3
+   - Zitat ::
+     Aber Havena! Havena ist schlimm. Denn da sind die Gardisten einfach nur
+     inkompetent und abergläubisch. Unberechenbar
+
+   Dienst ist schlecht bezahlt, Aufgaben sind nicht anspruchsvoll.
+   Deshalb herrscht *Inkompetenz*, Dilettantismus, Bequemlichkeit, *Korruption* und *Aberglaube*.
+
+*** Ziele und Methoden
+    - Patrouillen in den besseren Viertel (meist zwei Gardisten auf Streife)
+    - Keine Patrouillen in Orkendorf oder am Bennain-Damm nach Einbruch der Dunkelheit
+    - Bewaffnung: Wappenrock, Hellebarde und Kurzschwert, selten Leichte Armbrust, Signalhorn 
+   
