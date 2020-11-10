@@ -6,9 +6,14 @@
   - Ausblick auf die Art des Abenteuers (Sandbox)
 
 ** Stimmung
-   - Hafen & Meer
+   - efferdergeben, freiheitsliebend,
+   - geschäftstüchtig, melancholisch.
+   - häufig sind Zeichen von Verfall früheren Glanzes
+   - misstrauisch gegenüber Magie und dem Boronkult
+   - zwiespältig gegenüber dem Mittelreich und der Kaiserin
+   - Hafen, Meer, Nebel, Wetter (SH 8)
    - Gwen Petryl
-     
+   - "Efferd hat uns alles gegeben und uns alles genommen. So oder so, vergessen hat er uns nie."
 ** Nodes
    :PROPERTIES:
    :COLUMNS:  %45ITEM %4CUSTOM_ID(ID) %4LAYER %6LOCATION %17SRC
@@ -181,7 +186,36 @@
       - Tagelöhner
       - Fanfare ::
         - ertrunken im Seehafen
-** Handlung   
+** Wetter
+*** Tabelle
+|   W20 | Wind Typische Windrichtung | Stärke              | Wettercharakter                                                                                                   |
+|-------+----------------------------+---------------------+-------------------------------------------------------------------------------------------------------------------|
+|   1-8 | Beleman West               | schwach bis stark   | stetes Wolkentreiben, heiter bis bedeckt; trocken bis Dauerregen; mild; vertreibt oft Nebel und bietet gute Sicht |
+|  9-13 | Nuianna Nordwest           | schwach             | dunstig bis tief vernebelt; feucht; kalt                                                                          |
+| 14-15 | Horoban Südost             | schwach bis mäßig   | sonnig bis bewölkt; trocken, aber dunstig; warm                                                                   |
+| 16-17 | Rondrikan Nordwest         | stark bis stürmisch | dunkelwolkig; Regen und Gewitter; kühl, Sturmflut möglich, im Winter Schneesturm                                  |
+|    18 | Caranthu Ostnordost        | schwach bis mäßig   | sonnig bis bewölkt; trocken; im Sommer warm, im Winter eisig                                                      |
+|    19 | Baltrir West               | mäßig bis stürmisch | heiter bis bedeckt; trocken bis Schauer; schneidend kalt aus den Höhen fallend und in Böen alles mit sich reißend |
+|    20 | Katla wechselnd            | mäßig bis stürmisch | unbeständig, schneller Wetterwechsel, Windhosen, plötzliche Sturmflut                                             |
+*** Gezeiten
+    Zwischen dem höchsten und niedrigsten Wasserstand liegen ca. 6Std. und 15 Min.
+    Dadurch hat fast jeder Tag vier Gezeiten (2x Ebbe, 2x Flut), manche aber auch nur drei.
+    Ebbe und Flut finden jeden Tag etwa eine Dreiviertelstunde später statt.
+    - Niedrigwasser ::
+      - Schiffe mit viel Tiefgang bleiben im Hafen, um nicht auf Grund zu laufen.
+      - Fleetenkieker holen Unrat aus dem Schlick des Hafens und der Fleete.
+    - Hochwasser ::
+      - Fahrrinnen des Großen Flusses sind am besten zu befahren, bei Tageslicht herrscht Hochbetrieb.
+      - Viele Schiffe nutzen die günstige Stunde und legen ab.
+        Im Hafenbecken wird es eng, an der Zollbrücke stocken die Dreimaster.
+        Lotsen haben alle Hände voll zu tun, und Flüche hallen über das Wasser.
+    - Aktueller Gezeitenstand :: 1W20:
+      - 1 :: Niedrigwasser
+      - 2-10 :: auflaufendes Wasser
+      - 11 :: Hochwasser
+      - 12-20 :: ablaufendes Wasser
+
+** Handlung
 *** Beginn
     - Bei der naechtlichen Einfahrt nach Havena stoppt das Schiff der Helden
       nach Lichtzeichen an den aeussersten Auslaeufern der Unterstadt, um einen
@@ -196,6 +230,12 @@
       - von Lata in eine Feenwelt geschickt
       - von Nhywyll Dunkelwasser gefangen genommen
     - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden.
+*** Encounters
+    (Zufalls) Begegnungen
+    - [[file:organizations.org::Encounter-Nebelgeister][Encounter-Nebelgeister]]
+      Nebelgeister bei aktiver Schmuggelaktion
+    - [[file:organizations.org::Encounter-Stadtgarde][Encounter-Stadtgarde]]
+      Garde auf Patroullie mit Focus: Magie / schwere Waffen / Schmuggelware
 *** Plot Hooks
 **** Pferdepension (Feldmarken)     
 **** Konkurrierende Schmugglebaden
@@ -205,6 +245,8 @@
 **** Kult der H'Ranga (Allesverschlingende)
 **** Lorbold & Klopatex
 **** Heist
+**** Cuanu ui Bennain (verschollener ehemaliger König)
+     SH 7 SH 78 
 ** Master Plot
 *** Personen Organisationen    
     - [[https://de.wiki-aventurica.de/wiki/Charyptoroth][Charyptoroth]]

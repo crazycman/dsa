@@ -14,20 +14,52 @@
 ** Nebelgeister (Verwegene Schmuggler)
    :PROPERTIES:
    :CUSTOM_ID: NG1
-   :SRC:
+   :SRC: SH 51 SH 105
    :END:
-   - Weitere Bezeichnungen ::
-   - Symbol/Erkennungszeichen ::
-   - Wahlspruch :: 
-   - Herkunft: ::
-   - Personen der Historie ::
-   - Größe ::
-   - Hierarchie ::
+   - Symbol/Erkennungszeichen :: Zinken mit zwei Augen und drei Wellenlinien
+   - Wahlspruch :: Auf Nebel über den Wassern und in den Köpfen
+   - Herkunft: :: gegründet 990 BF, frühere Anführer:
+     - Mi Laghail (990 BF bis zu seiner Verhaftung 1012 BF)
+     - Rondriane Kevendoch (1012 BF bis zu ihrem Rückzug 1035 BF) 
+   - Größe :: ein Dutzend Mitglieder
+   - Hierarchie :: gering
+     - Grad I: Zuträger, Schmieresteher
+     - Grad II: neue Geister
+     - Grad III: erfahrene Geister
+     - Grad IV: Graf der Unterstadt (Anführer)
    - Wichtige Personen ::
+     - [[file:npcs.org::#RT1][Ranziger Toss]] (IV)
+     - Lyn Barc, der Aal (III)
+     - Thalionmel Agilfried (III)
+     - Galwin Caeldric (III)       
    - Stützpunkte ::
+     - Geisterinsel, Zwischenlager in der Unterstadt
+     - Mhoranns Haus (Versteck in Südhafen)
+     - [[file:locations.org::#G08][Esche und Kork]], verschwiegene Treffen
+     - [[file:locations.org::#OR02][Gumbald Guthbrod]], wichtigster Hehler
    - Domänen ::
-   - Zusammenhalt, Beziehungen, Finanzkraft ::
-   - Zitat ::
+     - Schmuggel mit Spirituosen
+     - Alchimika und Südlandwaren über den Nebelpfad
+     - Sklavenhandel lehnen sie ab
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 5/4/3
+
+   Erfolgreichste und von Legenden umrankte Schmugglerbande.
+   Haben Verbündete bei einfachen Hafenleuten und in der Unterwelt,
+   aber keine Verbindung zu Reichen und Mächtigen.
+*** Ziele und Methoden
+    - Erfolg fußt auf *Erfahrung*, Vorsicht, ausgeprägter Ortskenntnis der Unterstadt,
+      feinfühligen Bootsspähern, kräftigen Armen und geschickten Verhandlungsführern.
+    - *Vorsicht*: Sie lassen sich nicht zu riskanten Lieferungen verleiten,
+      sondern warten lieber ideale Bedingungen ab: Notfalls muss der Hehler länger warten.
+    - Mit *Carlogsalbe* können die Nebelgeister *im Dunkeln* sehen, wo eine Laterne zu riskant ist.
+    #+NAME: Encounter-Nebelgeister
+    - Sie feuern *Gerüchte über sich an* und kleiden sich hin und wieder in
+      lange Laken oder lassen sich unter der Wirkung eines Stillezaubers von
+      Thalionmel sehen, um wie echte Geister zu wirken.
+    - Werden sie *von der Garde entdeckt*, teilen sie sich auf, legen mit
+      Laternenflößchen falsche Fährten und werfen Fleischabfälle ins Wasser, um
+      Kreaturen der Unterstadt auf die Verfolger zu hetzen. Notfalls versenken
+      sie die Konterbande in beschwerten Säcken und Fässern oder verstecken sie in Ruinen.
 ** Stadtgarde
    :PROPERTIES:
    :CUSTOM_ID: SG1
@@ -41,12 +73,14 @@
    - Herkunft: :: seit Jahrhunderten existent
    - Größe :: 80 Stadtgardisten
    - Hierarchie :: streng
-     - Grad *I*: Gemeiner, Grad *II*: Korporal
-     - Grad *III*: Weibel, Fähnrich Grad *IV*: Hauptmann
+     - Grad I: Gemeiner
+     - Grad II: Korporal
+     - Grad III: Weibel, Fähnrich
+     - Grad IV: Hauptmann
    - Wichtige Personen ::
-     - [[file:npcs.org::#GD1][Gilia Delvenstein]] Hautpfrau
-     - [[file:npcs.org::FB1][Fackelbart]] Weibel
-     - Trode Torfstecher Korporal
+     - [[file:npcs.org::#GD1][Gilia Delvenstein]] (IV)
+     - [[file:npcs.org::FB1][Fackelbart]] Weibel (III)
+     - [[file:npcs.org::#TF1][Trode Torfstecher]] (II)
    - Stützpunkte ::
      - [[file:locations.org::#OF11][Garnison]] Hauptsitz, [[file:locations.org::#KR03][Krakenwache]], [[file:locations.org::#NA07][Nalleshofwache]]
      - [[file:locations.org::#MA06][Nordtor]], [[file:locations.org::#FE03][Suedtor]], [[file:locations.org::#UF12][Garether Tor]], [[file:locations.org::#OF10][Nostrianer Tor]], [[file:locations.org::#SÜ10][Zollbruecke]]
@@ -63,7 +97,66 @@
    Deshalb herrscht *Inkompetenz*, Dilettantismus, Bequemlichkeit, *Korruption* und *Aberglaube*.
 
 *** Ziele und Methoden
+    #+NAME: Encounter-Stadtgarde
     - Patrouillen in den besseren Viertel (meist zwei Gardisten auf Streife)
     - Keine Patrouillen in Orkendorf oder am Bennain-Damm nach Einbruch der Dunkelheit
     - Bewaffnung: Wappenrock, Hellebarde und Kurzschwert, selten Leichte Armbrust, Signalhorn 
-   
+** Vogtgarde
+   :PROPERTIES:
+   :CUSTOM_ID: VG1
+   :SRC:      SH 108
+   :END:
+   - Weitere Bezeichnungen :: Grünröcke
+   - Symbol/Erkennungszeichen ::
+     - schwarzgrüne Uniformen mit dem Wappen der Stadtmark: silberne Wellenlinie auf Blau
+   - Größe :: 20 Gardisten
+   - Hierarchie :: streng
+   - Wichtige Personen :: [[file:npcs.org::#AH1][Ardach Herlogan]]
+   - Stützpunkte :: [[file:locations.org::#OF03][Haus des Stadtvogts]]
+   - Domänen :: Leibgarde und Schatzwaechter des Stadtvogts
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 5/6/6
+
+   Die Gardisten sind *gute Kämpfer*, selten bestechlich und berüchtigt für ihr
+   hartes Durchgreifen und *viele Sonderbefugnisse*.
+   Der Stadtvogt lässt sie gerne anrücken, wenn er glaubt, dass die Stadtgarde überfordert ist.
+** Havener Seekrieger
+   :PROPERTIES:
+   :CUSTOM_ID: HS1
+   :SRC:      SH 108
+   :END:
+   - Weitere Bezeichnungen :: Seehunde
+   - Symbol/Erkennungszeichen ::
+     - bunte Uniformen mit Wappen: silbernes Schiff über silberner Wellenlinie auf Blau
+   - Größe :: 2 Banner (120 ~ 200 Personen)
+   - Hierarchie :: streng
+   - Wichtige Personen ::
+     - [[file:npcs.org::#OD1][Obair Duggan]] Hautpmann
+   - Stützpunkte :: [[file:locations.org::#FI05][Garnison der Seekrieger]]
+   - Domänen :: Hafenwehr, die auf Befehl des Hafenmeisters fuer Ordnung im Hafen sorgt
+     - steht Zöllnern zur Seite steht
+     - Schiffe entert, die sich den Anweisungen von Lotsen und Zöllnern
+       widersetzen und beispielsweise Zoll und Liegegebühren prellen wollen
+     - Piratenjäger im Delta
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 5/4/4
+
+   Einheit der Stadt, die zur mittelreichischen Westflotte gehört.
+   Verfügen ueber (min.) 2 Schiffe.
+** Leibbanner der Fürstengarde
+   :PROPERTIES:
+   :CUSTOM_ID: LF1
+   :SRC:      SH 38
+   :END:
+   - Weitere Bezeichnungen :: Ritter der Krone
+   - Symbol/Erkennungszeichen :: blauer Rock mit drei silbernen Kronen auf der Brust
+   - Größe :: 3 Schwadronen (schwere Reiterei)
+   - Hierarchie :: streng
+   - Wichtige Personen ::
+   - Stützpunkte :: [[file:locations.org::#OF04][Fürstenpalast]]
+   - Domänen ::
+     - treuesten Beschützer des Fürsten, Palastwachen, Leibgarde
+     - werden mitunter auch mit delikaten Missionen betraut
+   - Zusammenhalt, Beziehungen, Finanzkraft ::
+
+   Diese adligen Recken erhalten ihren Ritterschlag häufig direkt durch den
+   Herrscher und haben sich mit ihrem Eid von familiärem Besitz, Erbansprüchen und
+   Verpflichtungen losgesagt, sodass sie ganz der Krone verschrieben sind.

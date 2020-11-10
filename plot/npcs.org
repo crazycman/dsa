@@ -8,6 +8,7 @@
    :CUSTOM_ID: NS1
    :SEX:      w
    :OCCUPATION: Schreiberin
+   :ORGANIZATION: Fanfare
    :LOCATION: UF11
    :SRC:      GN 14 SH 26
    :ORGANIZATION:
@@ -28,7 +29,7 @@
      - Stoff fuer eine gute Story bekommen
      - Befragt die Helden (ggf. nach Patroullie)
        Je nach Umgang wird der spaetere Artikel die Helden abwerten oder idealisieren
-   - Werte :: Willenskraft 12 (14/13/15)   
+   - Werte :: Willenskraft 12 (14/13/15)
    - Orte :: [[file:locations.org::#UF11][Redaktionshaus]]
 *** Info [/]
     TODO links
@@ -36,11 +37,13 @@
     - [ ] Der H'Ranga Kult der Allesverschlingenden war in der Vergangenheit aktiv in Havena
       evtl. erstarkt der wieder
     - [ ] Konkurrierende Schmuggler die sich gegenseitig an die Kehle gehen
+    - [ ] Die [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und abergläubisch; im Gegensatz zu der [[file:organizations.org::#VG1][Vogtgarde]]
 ** Rohnwin ui Kerkill
    :PROPERTIES:
    :CUSTOM_ID: RK1
    :SEX:      m
    :OCCUPATION: Schreiber
+   :ORGANIZATION: Fanfare
    :LOCATION: UF11
    :SRC:      GN 14 SH 26
    :ORGANIZATION:
@@ -56,6 +59,7 @@
    :CUSTOM_ID: GD1
    :SEX:      w
    :OCCUPATION: Hauptfrau Garde
+   :ORGANIZATION: SG1
    :LOCATION: OF11
    :SRC:      SH 108
    :END:
@@ -72,6 +76,7 @@
    :CUSTOM_ID: FB1
    :SEX:      m
    :OCCUPATION: Gardist
+   :ORGANIZATION: SG1
    :LOCATION: OF11
    :SRC:      SH 108
    :END:
@@ -93,6 +98,7 @@
    :CUSTOM_ID: TF1
    :SEX:      m
    :OCCUPATION: Gardist
+   :ORGANIZATION: SG1
    :LOCATION: OF11
    :SRC:      SH 108
    :END:
@@ -103,5 +109,108 @@
      - lässt sich leicht um den Finger wickeln – besonders mit ein paar Münzen. 
      - Der Korporal sammelt Witze und ist immer erfreut, einen neuen zu hören
    - Ziele ::
+     - schnelle Dukate machen und gute Zeit in der Schänke haben
    - Orte :: [[file:locations.org::#OF11][Garnison]]
-
+** Obair Duggan
+   :PROPERTIES:
+   :CUSTOM_ID: OD1
+   :SEX:      m
+   :OCCUPATION: Hauptmann Seekrieger
+   :ORGANIZATION: HS1
+   :LOCATION: FI05
+   :SRC:      SH 108
+   :END:
+   - Aussehen :: 58 Jahre, ergraut
+   - Zitate ::
+   - Rollenspiel ::
+     - offen & freudlich
+   - Hintergrund :: Hauptmann der Havener Seekrieger
+   - Ziele ::
+   - Orte :: [[file:locations.org::#FI05][Garnison der Seekrieger]]
+** Ardach Herlogan
+   :PROPERTIES:
+   :CUSTOM_ID: AH1
+   :SEX:      m
+   :OCCUPATION: Stadtvogt
+   :ORGANIZATION:
+   :LOCATION: OF03
+   :SRC:      SH 46 SH 70 SH131
+   :END:
+   - Aussehen :: 58 Jahre, klein gewachsen, braune Locken, buschiger Vollbart
+   - Zitate ::
+     Das *Problem des Schmuggels* ist nicht, dass zu wenige Gardisten hinschauen,
+     sondern dass zu viele wegschauen.
+     Die eine Hälfte hat schmuggelnde Freunde oder Verwandte, die andere Hälfte
+     genießt feine Gewürze, Premer Feuer und Rauschkraut aus den Hehlerkellern.
+     Und allen gemeinsam ist, dass sie schlottern und winseln, wenn sie nachts
+     auf dem Bennain-Damm wachen oder mit Booten in die Unterstadt fahren sollen
+   - Rollenspiel ::
+     - charismatischer Menschenkenner
+   - Hintergrund ::
+     - Stadtvogt von Havena, Markvogt der Stadtmark Havena und *Edler von Glydwick*
+     - Die Herlogans sind ein *uraltes Adelsgeschlecht* im Besitz von viel Land.
+       Sie sind manchmal etwas melancholisch, behaupten, seit der Stadtgründung
+       zu Havena zu gehören und von Feen abzustammen.
+     - *Herrscht ueber Havena* als Stellvertreter des Fürsten.
+     - Verwahrt die Stadtsymbole wie Schlüssel und Siegel und nimmt
+       repräsentative Aufgaben für Havena wahr.
+     - Er sorgt für den *Stadtfrieden* sowie die Sicherheit der Stadtmauern. die
+       Vogtgarde untersteht seinem Befehl. Ardach Herlogan sitzt bei schweren
+       Verbrechen selbst zu Gericht und fällt Urteile im Namen des Fürsten.
+     - Aus dem politischen Alltag hält sich der Stadtvogt oft heraus, er hat
+       aber gegenüber den Beschlüssen des Ältestenrats und des Rats der Kapitäne
+       ein fürstliches Vetorecht.
+     - Herlogan ist ein *Machtmensch ohne Skrupel*, der schon als junger Mann
+       seine Eltern und seinen älteren Bruder bei einem „Unglück“ auf dem Großen
+       Fluss beiseite schaffen ließ, um das Familienerbe anzutreten. Er predigt
+       hohe Werte und *schimpft auf den Schmuggel*, mischt aber selbst über Dritte
+       kräftig im *Schattenhandel* mit Rauschkraut und Luxuswaren bis hin zum
+       Verschleppen von Neckern mit.
+     - Zensiert jede Ausgabe der Fanfare.
+   - Ziele ::
+     - Macht wahren & ausbauen
+     - Profit durch Schmuggel
+     - Informationen sammeln: Was geht in Havena vor sich; wer sind die relevanten Akteure
+   - Werte :: Willenskraft 15 (14/15/16)
+   - Orte :: [[file:locations.org::#OF03][Haus des Stadtvogts]]
+** Ranziger Toss
+   :PROPERTIES:
+   :CUSTOM_ID: RT1
+   :SEX:      m
+   :OCCUPATION: Imman Ausputzer
+   :ORGANIZATION: NG1
+   :LOCATION: G08
+   :SRC:      SH 69 SH 131
+   :END:
+   - Aussehen :: 29 Jahre, massig (riesenhaft), Kapitänshut
+   - Zitate :: Mit dir wisch' ich den Boden auf
+   - Volkes Stimme ::
+     Bullen vor! Bullen vor!
+     Wer ist im Stall das beste Ross? Der Ranzige Toss!
+     Freudig der Stürmer nach vorne schoss. Doch er prallte dort nur auf den Toss!
+   - Rollenspiel ::
+     - grimmig, lächelt nicht
+     - laut, brüllt Kommandos, schmettert Lieder
+   - Hintergrund ::
+     - Toss stammt aus den Gassen des *Orkendorfs* und pflegt zuhause seine kranke Mutter.
+     - Arbeitet als *Ewerführer* im Hafen (steuert flache Lastkähne im Hafen)
+     - Blocker bei den Havena Bullen
+     - Anführer der Nebelgeister (*Graf der Unterstadt*).
+     - Als Schmuggler ist er erstaunlich geschickt, kann gut schleichen und weiß
+       die Bandenmitglieder auf sich einzuschwören.
+       Er ist ein kräftiger Kämpfer mit Hiebwaffen und Wurfaxt.
+     - Wenn er gefasst wird, hofft er darauf, von einem Bullen Fan laufen gelassen zu werden.
+   - Ziele ::
+     - Geld beiseite schaffe und als Schmuggler unentdeckt bleiben
+     - Kariere bei den Havena Bullen so lange wie moeglich, als Deckmantel
+     - Beziehungen ausbauen
+   - Werte :: Willenskraft
+   - Orte ::
+     - [[file:locations.org::#G08][Esche und Kork]]
+   - Organisationen ::
+     - [[file:organizations.org::#NG1][Nebelgeister (Verwegene Schmuggler)]]
+     - Havena Bullen (Imman Manschaft)
+   - Anekdote :: Als eine Hafenarbeiterin ausrutschte und zwischen Hafenkai und
+     die Bordwand einer 20 Schritt langen Kogge fiel, reagierte er sofort: Toss
+     drückte das Schiff mit aller Kraft fort, bis selbst die Anlegeleine riss,
+     und rettete so die Frau davor, zerquetscht zu werden.

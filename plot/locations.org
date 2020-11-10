@@ -795,6 +795,13 @@
     :reich:    6
     :src:      SH 23
     :END:
+    - Ein weißgetünchter Bau im almadanischen Stil, ist eines der *prunkvollsten* Gebäude Havenas.
+      Im Garten hinter dem reich verzierten Gitterzaun leben *exotische Ziertiere*
+      wie Pfaue, Sittiche, Weißhirsche, Harnischträger und Zornbrecht, ein Brabaker Waldelefant.
+      Im Teich des Anwesens wird ein *Necker* gefangen gehalten.
+    - Die Residenz von Stadtvogt Ardach Herlogan ist auch Sitz der Vogtgarde.
+    - Gerüchte besagen, Herlogan habe seine Reichtümer in einem *unterirdischen Labyrinth* versteckt,
+      über das zwei verrückte Trolle wachen.
 *** Fürstenpalast
     :PROPERTIES:
     :custom_id: OF04
