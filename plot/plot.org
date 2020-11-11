@@ -385,7 +385,9 @@
       running.
 *** Namen
     https://albernia.westlande.info/index.php?title=Albernische_Namen
-
+** Resources
+   - Maps https://www.deviantart.com/foundryatropos
+   - DSA https://www.deviantart.com/steffenbrand
 * Sql
 
 ** insert & select

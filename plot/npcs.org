@@ -204,7 +204,7 @@
      - Geld beiseite schaffe und als Schmuggler unentdeckt bleiben
      - Kariere bei den Havena Bullen so lange wie moeglich, als Deckmantel
      - Beziehungen ausbauen
-   - Werte :: Willenskraft
+   - Werte :: Willenskraft (15/13/12)
    - Orte ::
      - [[file:locations.org::#G08][Esche und Kork]]
    - Organisationen ::
@@ -214,3 +214,116 @@
      die Bordwand einer 20 Schritt langen Kogge fiel, reagierte er sofort: Toss
      drückte das Schiff mit aller Kraft fort, bis selbst die Anlegeleine riss,
      und rettete so die Frau davor, zerquetscht zu werden.
+** Lyn Barc, der Aal
+   :PROPERTIES:
+   :CUSTOM_ID: LB1
+   :SEX:      w
+   :OCCUPATION: Schmugglerin
+   :ORGANIZATION: NG1
+   :LOCATION: G08
+   :SRC:      SH 105
+   :END:
+   - Aussehen :: 45 Jahre, klein und drahtig, graues Strubbelhaar
+   - Rollenspiel ::
+     - trockener Humor
+   - Hintergrund ::
+     - Streunerin
+     - rechte Hand von [[#RT1][Ranziger Toss]]
+     - Liebhaberin von Wein, Tabak und Rauschkraut
+     - als Verbündete treu, als Gegnerin aber mit allen Wassern gewaschen, und
+       sie schneidet auch Kehlen durch, wenn es sein muss
+   - Ziele ::
+     - guter Rausch & Profit
+   - Werte :: Willenskraft 9 (14/13/12)
+** Thalionmel Agilfied, Thal das Blümchen
+   :PROPERTIES:
+   :CUSTOM_ID: TA1
+   :SEX:      w
+   :OCCUPATION: Wirtin
+   :ORGANIZATION: NG1
+   :LOCATION: G08
+   :SRC:      SH 71 SH 105 SK 21
+   :END:
+   - Aussehen :: Auelfe, 58 Jahre, schwarzhaarig, schwarze Augen mit Blauschimmer, feine Züge
+   - Zitate :: "Setzt euch! Ich bring euch erstmal eine Runde Premer Feuer!"
+   - Rollenspiel ::
+     - bezaubernd
+   - Hintergrund ::
+     - Wirtin [[file:locations.org::#G08][Esche und Kork]]
+     - von allen geschätzte Erscheinung, die zu Havena gehört wie der Hafen
+     - Thalionmel hofft immer auf Nachricht von ihrer Zwillingsschwester Aldare,
+       die das Fernweh in die weite Welt getrieben hat
+     - Sie hat eine Schwäche für abenteuerlustige Männer
+   - Ziele ::
+     - die Taverne fuehren & als Treffpunkt der Nebelgeist nicht auffallen
+   - Werte :: intuitive Zauberin
+     - SK 3
+     - Handel 12 (13/14/15)
+     - Menschenkenntnis 12 (13/14/15)
+     - Willenskraft 10 (13/14/15)
+     - Bannbaladin 7 (14/14/15)
+     - Sensibar 6 (14/14/15)
+   - Orte :: [[file:locations.org::#G08][Esche und Kork]]
+** Seola, der Falke
+   :PROPERTIES:
+   :CUSTOM_ID: SF1
+   :SEX:      w
+   :OCCUPATION: Schmugglerin
+   :ORGANIZATION: NG1
+   :LOCATION: UF01
+   :SRC:      SH 105
+   :END:
+   - Aussehen :: 45 Jahre, derb, abenteuerlustig
+   - Rollenspiel ::
+     - blind
+   - Hintergrund ::
+     - führt trotz ihrer Blindheit die Transporte dank ihres guten Gehörs und
+       sechsten Sinns für Gefahr sicher durch die Unterstadt.
+     - Tagsüber pflegt sie Kranke im [[file:locations.org::#UF01][Siechenhaus]].
+** Mhoran Dhonn, der Zwirbel
+   :PROPERTIES:
+   :CUSTOM_ID: MD1
+   :SEX:      m
+   :OCCUPATION: Werftarbeiter
+   :ORGANIZATION: NG1
+   :LOCATION: S01
+   :SRC:      SH 105
+   :END:
+   - Aussehen :: 37 Jahre, knollennasig, langer und gepflegter Bart, Holzbein (mit Geheimfach)
+   - Rollenspiel ::
+     - zwirbelt seinen Bart
+   - Hintergrund ::
+     - hält Werkzeuge und die Boote der Bande in Schuss, die bei seinem Haus in Südhafen lagern
+   - Orte :: Werft im Suedhafen
+** Dunvall und Cynvall
+   :PROPERTIES:
+   :CUSTOM_ID: DC1
+   :SEX:      m
+   :OCCUPATION: Hafenarbeiter
+   :ORGANIZATION: NG1
+   :LOCATION: Hafen
+   :SRC:      SH 105
+   :END:
+   - Aussehen :: Zwillinge 22 Jahre, schwarze Schnauzer, hünenhaft
+   - Hintergrund ::
+     - Ruderer und Lastenschlepper. Am Tag arbeiten die Zwillinge als Schauermänner am Hafen
+** Galwin Caeldric
+   :PROPERTIES:
+   :CUSTOM_ID: GC1
+   :SEX:      m
+   :OCCUPATION: Schmuggler
+   :ORGANIZATION: NG1
+   :LOCATION: Moorburg
+   :SRC:      SH 43 SH 106
+   :END:
+   - Aussehen :: 26 Jahre braunhaarig, Galgenhumor (Knöcherner)
+   - Hintergrund ::
+     Hat für die Bande den Kopf hingehalten und sitzt in der Moorburg. Die
+     anderen versprachen, für ihn zu sorgen und ihn rauszuholen. Doch seit
+     einiger Zeit kommt das Geld für Galwins gute Haftbedingungen nicht mehr an,
+     sodass er im Knochenturm leidet. Galwin verliert langsam das Vertrauen in
+     seine Kumpane und steht kurz davor, die Nebelgeister zu verraten.
+   - Ziele ::
+     - rauskommen 
+     - dichthalten
+   - Orte :: Moorburg

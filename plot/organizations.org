@@ -29,12 +29,12 @@
      - Grad IV: Graf der Unterstadt (Anführer)
    - Wichtige Personen ::
      - [[file:npcs.org::#RT1][Ranziger Toss]] (IV)
-     - Lyn Barc, der Aal (III)
-     - Thalionmel Agilfried (III)
-     - Galwin Caeldric (III)       
+     - [[file:npcs.org::#LB1][Lyn Barc, der Aal]] (III)
+     - [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] (III)
+     - [[file:npcs.org::#GC1][Galwin Caeldric]] (III)       
    - Stützpunkte ::
      - Geisterinsel, Zwischenlager in der Unterstadt
-     - Mhoranns Haus (Versteck in Südhafen)
+     - [[file:npcs.org::#MD1][Mhorans]] Haus (Versteck in Südhafen)
      - [[file:locations.org::#G08][Esche und Kork]], verschwiegene Treffen
      - [[file:locations.org::#OR02][Gumbald Guthbrod]], wichtigster Hehler
    - Domänen ::
@@ -60,6 +60,22 @@
       Laternenflößchen falsche Fährten und werfen Fleischabfälle ins Wasser, um
       Kreaturen der Unterstadt auf die Verfolger zu hetzen. Notfalls versenken
       sie die Konterbande in beschwerten Säcken und Fässern oder verstecken sie in Ruinen.
+*** Heler & Abnehmer
+**** Heler
+     - [[file:locations.org::#OR02][Gute Güter Guthbrod]]
+     - [[file:locations.org::#OR03][Wolters Krämerladen]]
+     - [[file:locations.org::#OF06][Weinhändler Hal Austrolf]] (versteckt Rauschkräuter)
+     - [[file:locations.org::#MA04][Kevendochs exotische Krämerwaren]]
+**** Abnehmer
+     - [[file:locations.org::#UF02][Apotheke Ehrwalt]]
+     - [[file:locations.org::#OF08][Wachsfigurenkabinett]]
+     - [[file:locations.org::#UF10][Mechanica Simiadane]]
+     - Schreiber, Maler und Rattenfänger erwerben *verbotene Alchimika*,
+       nutzen sie für ihr Handwerk oder verkaufen sie unter der Hand.
+       Ohne den Schmuggel müssten viele ihr Geschäft aufgeben.
+     - *Gifte und Rauschkräuter* gehen durch die Hände der Unterwelt
+     - Abnhemer fuer hoch besteuerte *Luxuswaren* finden sich fast ueberall;
+       z.B. [[file:locations.org::#UF06][Schneider Aradin]]       
 ** Stadtgarde
    :PROPERTIES:
    :CUSTOM_ID: SG1

@@ -2,7 +2,7 @@
    %^{CUSTOM_ID}p
    %^{SEX}p
    %^{OCCUPATION}p
-   %^{ORGANISATION}p
+   %^{ORGANIZATION}p
    %^{LOCATION}p
    %^{SRC}p
    - Aussehen ::
