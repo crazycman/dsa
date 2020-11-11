@@ -85,6 +85,9 @@
         gute Betrüger und Schwindler.
         
 ** Südhafen (S01)
+   :PROPERTIES:
+   :custom_id: S01
+   :END:
 *** Pension Flussdämon
     :PROPERTIES:
     :custom_id: G18
@@ -194,6 +197,9 @@
     :src:      SH 12 SK 7 
     :END:
 ** Boroninsel (S02)
+   :PROPERTIES:
+   :custom_id: S02
+   :END:
 *** Haus der Borongeweihten
     :PROPERTIES:
     :custom_id: BO01
@@ -213,6 +219,9 @@
     :src:      SH 13
     :END:
 ** Fischerort (S03)
+   :PROPERTIES:
+   :custom_id: S03
+   :END:
 *** Efferdschule
     :PROPERTIES:
     :custom_id: FI01
@@ -303,7 +312,19 @@
     :reich:    6
     :src:      SH 124
     :END:
+*** Fischmarkt
+    :PROPERTIES:
+    :custom_id: FI06
+    :typ:      Ha
+    :qps:      4/3/-
+    :eind:     -
+    :reich:    -
+    :src:      SH 13
+    :END:
 ** Krakeninsel (S04)
+   :PROPERTIES:
+   :custom_id: S04
+   :END:   
 *** Zum Aal
     :PROPERTIES:
     :custom_id: G01
@@ -341,6 +362,9 @@
     :src:      SH 107
     :END:
 ** Marschen (S05)
+   :PROPERTIES:
+   :custom_id: S05
+   :END:
 *** Rahjas Lobgesang
     :PROPERTIES:
     :custom_id: G02
@@ -432,6 +456,9 @@
     :src:      GN 24 SH 15
     :END:
 ** Orkendorf (S06)
+   :PROPERTIES:
+   :custom_id: S06
+   :END:   
 *** Krakenkönig
     :PROPERTIES:
     :custom_id: G04
@@ -541,6 +568,9 @@
     :src:      SH 17
     :END:
 ** Nalleshof (S07)
+   :PROPERTIES:
+   :custom_id: S07
+   :END:   
 *** Drachenschiff
     :PROPERTIES:
     :custom_id: G20
@@ -686,6 +716,9 @@
     :src:      SH 18
     :END:
 ** Feldmark (S08)
+   :PROPERTIES:
+   :custom_id: S08
+   :END:
 *** Glockengießerei Kuinocs
     :PROPERTIES:
     :custom_id: FE01
@@ -732,6 +765,9 @@
     :src:      GN 15 23 SH 22 ST 13 
     :END:
 ** Oberfluren (S09)
+   :PROPERTIES:
+   :custom_id: S09
+   :END:
 *** Fürstenschänke
     :PROPERTIES:
     :custom_id: G10
@@ -947,6 +983,9 @@
     :src:      SH 25
     :END:
 ** Unterfluren (S10)
+   :PROPERTIES:
+   :custom_id: S10
+   :END:   
 *** Havenapalast
     :PROPERTIES:
     :custom_id: G14
@@ -1101,7 +1140,17 @@
     :reich:    -
     :src:      SH 11
     :END:
+** Hafen (HA)
+   :PROPERTIES:
+   :custom_id: HA
+   :END:
+*** Seehafen (Orkendorf, Nalleshof)
+*** Binnenhafen (Fischerort)
+*** Südhafen 
 ** Fürstenstieg (FU)
+   :PROPERTIES:
+   :custom_id: FU
+   :END:
 *** Ferdokbogen
     :PROPERTIES:
     :custom_id: FÜ01
@@ -1175,6 +1224,9 @@
     :src:      SH 125
     :END:
 ** Lhamin (LH)
+   :PROPERTIES:
+   :custom_id: LH
+   :END:
 *** Haus des Goldenen Dreizacks
     :PROPERTIES:
     :custom_id: T12
@@ -1212,6 +1264,9 @@
     :src:      SH 124
     :END:
 ** Firunsstadt (FS)
+   :PROPERTIES:
+   :custom_id: FS
+   :END:
 *** Thaumaturgische Akademie
     :PROPERTIES:
     :custom_id: FS01
@@ -1249,6 +1304,9 @@
     :src:      GN 30 SH 124 ST 34 
     :END:
 ** Efferdheim (EH)
+   :PROPERTIES:
+   :custom_id: EH
+   :END:
 *** Lagerhäuser Bhuan Bruadhirs
     :PROPERTIES:
     :custom_id: EH01

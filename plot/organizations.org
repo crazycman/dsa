@@ -47,6 +47,12 @@
    Haben Verbündete bei einfachen Hafenleuten und in der Unterwelt,
    aber keine Verbindung zu Reichen und Mächtigen.
 *** Ziele und Methoden
+    - Der Nebelpfad (SH 104)
+      - Nachts wird Konterbande von Schiff *auf kleines Boot geladen*
+      - Die Schmuggler bringen Konterbande *durch die Unterstadt* entweder
+        - in Zwischenversteck
+        - ueber Bennain-Damm oder Klippen von Fischerort nach Havena
+      - Ziel ist der Keller eines Hehlers    
     - Erfolg fußt auf *Erfahrung*, Vorsicht, ausgeprägter Ortskenntnis der Unterstadt,
       feinfühligen Bootsspähern, kräftigen Armen und geschickten Verhandlungsführern.
     - *Vorsicht*: Sie lassen sich nicht zu riskanten Lieferungen verleiten,
@@ -60,10 +66,10 @@
       Laternenflößchen falsche Fährten und werfen Fleischabfälle ins Wasser, um
       Kreaturen der Unterstadt auf die Verfolger zu hetzen. Notfalls versenken
       sie die Konterbande in beschwerten Säcken und Fässern oder verstecken sie in Ruinen.
-*** Heler & Abnehmer
-**** Heler
-     - [[file:locations.org::#OR02][Gute Güter Guthbrod]]
+*** Hehler & Abnehmer
+**** Hehler
      - [[file:locations.org::#OR03][Wolters Krämerladen]]
+     - [[file:locations.org::#OR02][Gute Güter Guthbrod]]
      - [[file:locations.org::#OF06][Weinhändler Hal Austrolf]] (versteckt Rauschkräuter)
      - [[file:locations.org::#MA04][Kevendochs exotische Krämerwaren]]
 **** Abnehmer
@@ -76,6 +82,50 @@
      - *Gifte und Rauschkräuter* gehen durch die Hände der Unterwelt
      - Abnhemer fuer hoch besteuerte *Luxuswaren* finden sich fast ueberall;
        z.B. [[file:locations.org::#UF06][Schneider Aradin]]       
+** TODO Die Silberne Hand
+   :PROPERTIES:
+   :CUSTOM_ID: SH1
+   :SRC:      SH 106
+   :END:
+   - Weitere Bezeichnungen ::
+   - Symbol/Erkennungszeichen ::
+   - Wahlspruch :: Auf dem Silberpfad reisen.
+   - Herkunft: ::
+   - Größe :: Netzwerk aus ca. 20 Personen dazu ettliche Handlanger (Schläger u.a.)
+   - Hierarchie :: gering
+   - Wichtige Personen ::
+     - [[file:npcs.org::#IK1][Idra Kerkil]] Zoellnerin
+     - Im Zentrum des Netzes sitzt die Händlerin und *Kapitänin Meriwen* Bleichbruck (SH 70).
+       Sie kann so gut wie alles besorgen wenn der Preis stimmt.
+       Meriwen ist gerissen genug, sich nicht ertappen zu lassen, kann
+       zahllose Hebel in Havena in Bewegung setzen und hat darüber hinaus
+       Verbindungen von Grangor bis Thorwal. Ihre Unternehmungen plant sie
+       sorgfältig, um die Risiken zu minimieren.
+   - Domänen ::
+     - Schmuggel
+     - Sklavenhandel (Necker)
+   - Zusammenhalt, Beziehungen, Finanzkraft ::
+   - Zitat ::
+
+   Die Silberne Hand ist das teils eng geknüpfte, teils lockere Geflecht von
+   Nutzern des Silberpfades: Kapitäne, Matrosen, Zöllner, Träger, Lageristen,
+   Gardisten, Händler. Zu den stillen Profiteuren der Silbernen Hand gehören
+   auch die reichen Familien *Ongswin* (Gifte, Rauschkräuter), *Engstrand* und
+   *Pliskern*. Am Hafen erzielen sie Teile ihres Gewinns mit dem Schattenhandel,
+   während sie öffentlich im Ältestenrat den Schmuggel aufs Schärfste
+   verurteilen.
+
+   Der Einfluss der Silbernen Hand reicht weit. Um Gefahren für das Geschäft zu
+   beseitigen, greift sie auf viele Methoden zurück: Schikane durch die Garde,
+   Rufschädigung, Drohungen durch Schlägerbanden, Diebstahl, Brandstiftung,
+   Entführung, Mord. Wer singen will, endet schnell als Wasserleiche im
+   Hafenbecken
+*** Ziele und Methoden
+    Ueber den Silberpfad gelangen groessere Mengen Konterbande nach Havena.
+    Die Methode erfordert viel Bestechungsgeld.
+    - Schiff mit Konterbande wird von eingeweihte Zöllner durchsucht
+    - Schlüsselworte helfen auch Planung zu erkennen wer auf dem Silberpfad reist. 
+    
 ** Stadtgarde
    :PROPERTIES:
    :CUSTOM_ID: SG1

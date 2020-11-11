@@ -1,7 +1,7 @@
 #+STARTUP: content
 * NPCs 
   :PROPERTIES:
-  :COLUMNS: %30ITEM %4CUSTOM_ID(ID) %15OCCUPATION(BERUF) %4LOCATION(LOC) %4ORGANIZATION(ORG) %1SEX(GES) %12SRC
+  :COLUMNS:  %28ITEM %3CUSTOM_ID(ID) %14OCCUPATION(BERUF) %7LOCATION(LOC) %3ORGANIZATION(ORG) %1SEX(GES) %12SRC
   :END: 
 ** Niamh Schlappmaul
    :PROPERTIES:
@@ -179,7 +179,7 @@
    :SEX:      m
    :OCCUPATION: Imman Ausputzer
    :ORGANIZATION: NG1
-   :LOCATION: G08
+   :LOCATION: G08 HA
    :SRC:      SH 69 SH 131
    :END:
    - Aussehen :: 29 Jahre, massig (riesenhaft), Kapitänshut
@@ -206,6 +206,7 @@
      - Beziehungen ausbauen
    - Werte :: Willenskraft (15/13/12)
    - Orte ::
+     - [[file:locations.org::#HA][Hafen]]
      - [[file:locations.org::#G08][Esche und Kork]]
    - Organisationen ::
      - [[file:organizations.org::#NG1][Nebelgeister (Verwegene Schmuggler)]]
@@ -220,7 +221,7 @@
    :SEX:      w
    :OCCUPATION: Schmugglerin
    :ORGANIZATION: NG1
-   :LOCATION: G08
+   :LOCATION: G08 HA
    :SRC:      SH 105
    :END:
    - Aussehen :: 45 Jahre, klein und drahtig, graues Strubbelhaar
@@ -235,6 +236,9 @@
    - Ziele ::
      - guter Rausch & Profit
    - Werte :: Willenskraft 9 (14/13/12)
+   - Orte ::
+     - [[file:locations.org::*Hafen (HA)][Hafen]]
+     - [[file:locations.org::#G08][Esche und Kork]]
 ** Thalionmel Agilfied, Thal das Blümchen
    :PROPERTIES:
    :CUSTOM_ID: TA1
@@ -301,12 +305,14 @@
    :SEX:      m
    :OCCUPATION: Hafenarbeiter
    :ORGANIZATION: NG1
-   :LOCATION: Hafen
+   :LOCATION: HA
    :SRC:      SH 105
    :END:
    - Aussehen :: Zwillinge 22 Jahre, schwarze Schnauzer, hünenhaft
    - Hintergrund ::
-     - Ruderer und Lastenschlepper. Am Tag arbeiten die Zwillinge als Schauermänner am Hafen
+     - Ruderer und Lastenschlepper.
+     - Am Tag arbeiten die Zwillinge als Schauermänner am Hafen
+   - Orte :: [[file:locations.org::#HA][Hafen]]
 ** Galwin Caeldric
    :PROPERTIES:
    :CUSTOM_ID: GC1
@@ -327,3 +333,53 @@
      - rauskommen 
      - dichthalten
    - Orte :: Moorburg
+** Wilanna, die Moevenfrau
+   :PROPERTIES:
+   :CUSTOM_ID: WM1
+   :SEX:      w
+   :OCCUPATION: Bettlerin
+   :ORGANIZATION: NG1
+   :LOCATION: HA
+   :SRC:      SH 71 SH 106
+   :END:
+   - Aussehen :: 28 Jahre, Glubschaugen, verfilztes Haar, bedeckt mit Möwenkot,
+     zerschlissene Admiralsuniform der Westflotte
+   - Zitate :: "KNA, KNA, KNA, KAN!" Moevengeschrei nachahmend
+   - Rollenspiel ::
+     - wirr fuchtelnd & krakeelend
+   - Hintergrund ::
+     - wird dort zu Hilfe gerufen, wo die Seevoegel es zu penetrant treiben
+     - *krakeelt* minutenlang mit den Möwen, führt einen *wirren Tanz* auf und balgt
+       sich mit ihnen um Fischabfall. Dann fliegen sie weg.
+     - hetzt Moeven auf unliebsamme Zeitgenossen
+     - Nutzt ihre Tiere auch als *Boten*. Sie lässt sich mit einer Empfehlung
+       von Vertrauten ([[*Lyn Barc, der Aal][Lyn Barc]], Imo Wolter) für einige Silbertaler dafür
+       anwerben, kleine Dinge (bis 3 Unzen Gewicht) an Vogelbeinen bis zu zehn
+       Meilen weit fliegen zu lassen, etwa zu einem Schiff an der Küste.
+   - Ziele ::
+     - den perfekten Einklang mit den Moeven zu finden
+     - ist auf der Suche nach dem Tierkoenig der Seevoegel
+   - Werte :: Magiedilettantin (Einfluss)
+   - Orte ::
+     - Nachmittags [[file:locations.org::#FI06][Fischmarkt]]
+     - schlaeft nachts am [[file:locations.org::*Hafen (HA)][Hafen]]kai, bedeckt von Moevenleibern
+** Idra Kerkil
+   :PROPERTIES:
+   :CUSTOM_ID: IK1
+   :SEX:      w
+   :OCCUPATION: Zoellnerin
+   :ORGANIZATION: SH1
+   :LOCATION: HA
+   :SRC:      SH 71 SH 106
+   :END:      
+   - Aussehen :: 39 Jahre, korpulent
+   - Zitate :: "Hamm se was zu verzollen die Herrschaften?"
+   - Rollenspiel :: schwatzhaft
+   - Hintergrund ::
+     - wickelt die wichtigsten Warendurchgänge ab,
+     - hat zur Absicherung etliche Transaktionen in einem versteckten Buch niedergelegt
+   - Ziele ::
+     - Reich werden & Einfluss gewinnen
+   - Orte :: [[file:locations.org::#SÜ10][Zollbrücke]]
+
+   Zentrale Person auf dem Silberpfad. Organisiert eingeweihte Zöllner.
