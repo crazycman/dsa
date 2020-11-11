@@ -82,49 +82,43 @@
      - *Gifte und Rauschkräuter* gehen durch die Hände der Unterwelt
      - Abnhemer fuer hoch besteuerte *Luxuswaren* finden sich fast ueberall;
        z.B. [[file:locations.org::#UF06][Schneider Aradin]]       
-** TODO Die Silberne Hand
+** Die Silberne Hand
    :PROPERTIES:
    :CUSTOM_ID: SH1
    :SRC:      SH 106
    :END:
-   - Weitere Bezeichnungen ::
    - Symbol/Erkennungszeichen ::
    - Wahlspruch :: Auf dem Silberpfad reisen.
-   - Herkunft: ::
+   - Herkunft: :: loses Netzwerk besteht basierend auf Bestechung seit Jahrzenten 
    - Größe :: Netzwerk aus ca. 20 Personen dazu ettliche Handlanger (Schläger u.a.)
    - Hierarchie :: gering
    - Wichtige Personen ::
      - [[file:npcs.org::#IK1][Idra Kerkil]] Zoellnerin
-     - Im Zentrum des Netzes sitzt die Händlerin und *Kapitänin Meriwen* Bleichbruck (SH 70).
-       Sie kann so gut wie alles besorgen wenn der Preis stimmt.
-       Meriwen ist gerissen genug, sich nicht ertappen zu lassen, kann
-       zahllose Hebel in Havena in Bewegung setzen und hat darüber hinaus
-       Verbindungen von Grangor bis Thorwal. Ihre Unternehmungen plant sie
-       sorgfältig, um die Risiken zu minimieren.
+     - [[file:npcs.org::#MB1][Meriwen Bleichbruck]] (stellv. Kontorleiterin Engstrand)
    - Domänen ::
      - Schmuggel
      - Sklavenhandel (Necker)
-   - Zusammenhalt, Beziehungen, Finanzkraft ::
-   - Zitat ::
-
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 3/6/6
+    
    Die Silberne Hand ist das teils eng geknüpfte, teils lockere Geflecht von
    Nutzern des Silberpfades: Kapitäne, Matrosen, Zöllner, Träger, Lageristen,
    Gardisten, Händler. Zu den stillen Profiteuren der Silbernen Hand gehören
    auch die reichen Familien *Ongswin* (Gifte, Rauschkräuter), *Engstrand* und
    *Pliskern*. Am Hafen erzielen sie Teile ihres Gewinns mit dem Schattenhandel,
-   während sie öffentlich im Ältestenrat den Schmuggel aufs Schärfste
-   verurteilen.
-
-   Der Einfluss der Silbernen Hand reicht weit. Um Gefahren für das Geschäft zu
-   beseitigen, greift sie auf viele Methoden zurück: Schikane durch die Garde,
-   Rufschädigung, Drohungen durch Schlägerbanden, Diebstahl, Brandstiftung,
-   Entführung, Mord. Wer singen will, endet schnell als Wasserleiche im
-   Hafenbecken
+   während sie öffentlich im Ältestenrat den Schmuggel aufs Schärfste verurteilen.
+   
+   Der Einfluss der Silbernen Hand reicht weit. 
 *** Ziele und Methoden
-    Ueber den Silberpfad gelangen groessere Mengen Konterbande nach Havena.
-    Die Methode erfordert viel Bestechungsgeld.
-    - Schiff mit Konterbande wird von eingeweihte Zöllner durchsucht
-    - Schlüsselworte helfen auch Planung zu erkennen wer auf dem Silberpfad reist. 
+    - Ueber den *Silberpfad* gelangen groessere Mengen Konterbande nach Havena.
+      Die Methode erfordert viel Bestechungsgeld.
+      - Schiff mit Konterbande wird von eingeweihte Zöllner durchsucht
+      - Schlüsselworte helfen auch Planung zu erkennen wer auf dem Silberpfad reist.
+    - Um Gefahren für das Geschäft zu beseitigen, wird auf folgende Methoden zurück gegriffen:
+      - Schikane durch die Garde
+      - Rufschädigung
+      - Drohungen durch Schlägerbanden, Diebstahl, Brandstiftung
+      - Entführung, Mord
+      Wer singen will, endet schnell als Wasserleiche im Hafenbecken
     
 ** Stadtgarde
    :PROPERTIES:

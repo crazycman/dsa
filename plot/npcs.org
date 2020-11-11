@@ -383,3 +383,32 @@
    - Orte :: [[file:locations.org::#SÜ10][Zollbrücke]]
 
    Zentrale Person auf dem Silberpfad. Organisiert eingeweihte Zöllner.
+** Meriwen Bleichbruck
+   :PROPERTIES:
+   :CUSTOM_ID: MB1
+   :SEX:      w
+   :OCCUPATION: Kontorleiterin
+   :ORGANIZATION: SH1
+   :LOCATION: 
+   :SRC:      SH 70 SH 106
+   :END:
+   - Aussehen :: 43 Jahre, 1,65 Schritt, schwarzer Pagenschnitt, stechende graue Augen,
+     Goldohrring im linken Ohr
+   - Zitat :: "Was darf ich euch besorgen?"
+   - Rollenspiel ::
+     - kuehl und *berrechnend*, gerissen & vorsichtig
+     - zupft am Ohring
+   - Hintergrund ::
+     - *stellvertretende Kontorleiterin* des Handelshauses *Engstrand*
+     - zuverlässigste Ansprechpartnerin, um Handelswaren aller Art zum gewünschten Termin zu erhalten
+     - erfahrene Kauffrau und Kapitänin verhandelt hart mit Kunden, Verkäufern oder Dieben und Piraten
+     - Logistischer Kopf der [[file:organizations.org::#SH1][Silbernen Hand]]
+       Sie kann so gut wie alles besorgen wenn der Preis stimmt.
+       Sie kann zahllose Hebel in Havena in Bewegung setzen und
+       hat darüber hinaus Verbindungen von Grangor bis Thorwal.
+       Ihre Unternehmungen plant sie sorgfältig, um die Risiken zu minimieren.
+   - Ziele ::
+     - stetig Reichtum mehren um in den Stadtadel aufzusteigen
+   - Werte :: Willenskraft 13 (14,15,13)
+   - Orte ::
+     - [[file:locations.org::#NA03][Kontor Engstrand]]
