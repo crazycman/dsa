@@ -389,7 +389,7 @@
    :SEX:      w
    :OCCUPATION: Kontorleiterin
    :ORGANIZATION: SH1
-   :LOCATION: 
+   :LOCATION: NA03
    :SRC:      SH 70 SH 106
    :END:
    - Aussehen :: 43 Jahre, 1,65 Schritt, schwarzer Pagenschnitt, stechende graue Augen,
@@ -402,13 +402,58 @@
      - *stellvertretende Kontorleiterin* des Handelshauses *Engstrand*
      - zuverlässigste Ansprechpartnerin, um Handelswaren aller Art zum gewünschten Termin zu erhalten
      - erfahrene Kauffrau und Kapitänin verhandelt hart mit Kunden, Verkäufern oder Dieben und Piraten
-     - Logistischer Kopf der [[file:organizations.org::#SH1][Silbernen Hand]]
-       Sie kann so gut wie alles besorgen wenn der Preis stimmt.
-       Sie kann zahllose Hebel in Havena in Bewegung setzen und
-       hat darüber hinaus Verbindungen von Grangor bis Thorwal.
-       Ihre Unternehmungen plant sie sorgfältig, um die Risiken zu minimieren.
+     - Kontrolliert den Schmuggel der [[file:organizations.org::#SH1][Silbernen Hand]] auf dem Silberpfad
+       - Sie kann so gut wie alles besorgen wenn der Preis stimmt.
+       - Sie kann zahllose Hebel in Havena in Bewegung setzen und
+         hat darüber hinaus Verbindungen von Grangor bis Thorwal.
+       - Ihre Unternehmungen plant sie sorgfältig, um die Risiken zu minimieren.
    - Ziele ::
      - stetig Reichtum mehren um in den Stadtadel aufzusteigen
+     - die Nebelgeister schwaechen, da sie den Profit der Silbernen Hand schmälern
    - Werte :: Willenskraft 13 (14,15,13)
    - Orte ::
      - [[file:locations.org::#NA03][Kontor Engstrand]]
+*** Info [0/3]
+    - [ ] Verbindung zu Axel ueber handel mit Familie von Aue
+    - [ ] [[file:plot.org::#5][Vollmondball auf der Rethis]]
+    - [ ] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
+** Simiadane Spectalli, Mechanica
+   :PROPERTIES:
+   :CUSTOM_ID: SM1
+   :SEX:      w
+   :OCCUPATION: Erfinderin
+   :ORGANIZATION: 
+   :LOCATION: UF10
+   :SRC:      SH 66 SH 129
+   :END:
+   - Aussehen :: 55 (36) Jahre, blondes wirres Haar, Furunkel auf der Strin, Arbeitsschürze
+   - Zitate :: Vertüftelt noch eins! Was sagt Ihr Cavalliere Cranium?
+     Meine Sprungfederfüße für pedestrische Beschleunigung ziehen nach links?
+     Unmöglich, meine Berechnungen stimmen immer! Na schön.
+     Ich schau sie mir noch mal an. Dieses Mal werden sie per-fekt!«
+   - Rollenspiel ::
+     - nervös, wunderlich
+     - führt Selbstgespräche mit dem Furunkel auf ihrer Stirn , das sie *Cavalliere Cranium* nennt 
+   - Hintergrund ::
+     - begeisterte Mechanica, hoch konzentriert auf ihre Arbeit
+     - letzte *Lehrling des legendären Leonardo*, ehe dieser 1020 BF entführt wurde
+     - Verliess mit 16 Havena und kehrte nach Wanderjahren im Sueden mit
+       *Leonardos Testament* zurueck und beanspruchte Werkstatt und Patente des Meisters
+     - fortschrittsfeindlicher Bürger zweifeln die Echtheit des Testaments an
+     - Fürst *Finnian bestätigte Simiadanes Anspruch* auf das Erbe unter zwei Bedingungen:
+       - Neue Erfindungen muss sie zuerst dem Fürstenhof zum Kauf anbieten.
+       - Alle zwei Wochen muss sie zur Überprüfung ihres Seelenheils einen Praiosgeweihten aufsuchen.
+   - Ziele ::
+     - Will ihre Erfindungen testen lassen (Verbesserung)
+     - Will ihr Geheimnis bewahren 
+   - Werte :: Willenskraft
+   - Orte :: [[file:locations.org::#UF10][Simiadanes Werkstatt]]
+
+   Hinter Simiadane verbirgt sich die Mechanika *Heliantha Ugolinez* aus Alanfa.
+   - sie ist keine Schülerin Leonardos, sondern studierte an der Universität
+     Al’Anfa beim Mechanikus Protasius Aurelius, einem langjährigen Konkurrenten Leonardos
+   - Heliantha lernet Simiadane im Horasreich kennen und nahm ihre Rolle ein als
+     sie von ihrem Verschwinden erfuhr
+   - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
+   
+*** Info [/]

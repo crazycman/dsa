@@ -196,6 +196,15 @@
     :reich:    -
     :src:      SH 12 SK 7 
     :END:
+*** Bennain-Damm
+    :PROPERTIES:
+    :custom_id: SÜ11
+    :typ:      Of
+    :qps:      -
+    :eind:     -
+    :reich:    -
+    :src:      SH 14
+    :END:
 ** Boroninsel (S02)
    :PROPERTIES:
    :custom_id: S02
@@ -1103,7 +1112,7 @@
     :reich:    -
     :src:      SH 27
     :END:
-*** Mechanica Simiadane
+*** Simiadane Werkstatt
     :PROPERTIES:
     :custom_id: UF10
     :typ:      Di Hw Wo

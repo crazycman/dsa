@@ -120,6 +120,27 @@
       - Entführung, Mord
       Wer singen will, endet schnell als Wasserleiche im Hafenbecken
     
+** Kamaluqs Tatzen
+   :PROPERTIES:
+   :CUSTOM_ID: KT1
+   :SRC:      SH 107 SH 24
+   :END:
+   - Symbol/Erkennungszeichen :: Jaguar Tatze
+   - Wahlspruch :: Heimlich wie der Jaguar im Dschungel
+   - Herkunft: :: Altoum (waldmenschenblütige Betreiber)
+   - Größe :: can ein Dutzend
+   - Hierarchie :: mäßig
+   - Wichtige Personen ::
+   - Stützpunkte :: Rauschkrauthöhlen [[file:locations.org::#S07][Nalleshof]]
+   - Domänen ::
+     - Rauschkrauthandel
+     - Betrieb von Rauschkrauthöhlen
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 4/3/3
+
+   Sie nutzen es aus, dass ihr Glaube an den göttlichen Jaguar Kamaluq und die
+   Geister der Natur in Havena eher unbekannt sind, und sie deshalb
+   *abergläubisch gefürchtet werden*. Der Waldmensch *Tote Hand* von der Rethis
+   bezieht von ihnen exquisite Rauschmittel für das Vergnügungsschiff.
 ** Stadtgarde
    :PROPERTIES:
    :CUSTOM_ID: SG1
@@ -220,3 +241,46 @@
    Diese adligen Recken erhalten ihren Ritterschlag häufig direkt durch den
    Herrscher und haben sich mit ihrem Eid von familiärem Besitz, Erbansprüchen und
    Verpflichtungen losgesagt, sodass sie ganz der Krone verschrieben sind.
+** Efferdkirche
+   :PROPERTIES:
+   :CUSTOM_ID: EK1
+   :SRC:      SH 62 SH 112
+   :END:
+   - Weitere Bezeichnungen ::
+     - Bruderschaft von Wind und Wogen
+     - Diener des Fischgesichtigen (beleidigend), Delphinknechte (beleidigend)   
+   - Symbol/Erkennungszeichen :: Dreizack, Delphin / Tracht in blau und türkis
+   - Wahlspruch :: Auf Ebbe folgt die Flut
+   - Herkunft: ::
+     Die Efferdkirche ist seit der Stadtgründung in Havena ansässig und wurde
+     durch die *Verdrängung Numinorus* und die Bedeutung der Seefahrt zum wichtigsten Kult.
+   - Größe :: 20 Geweihte, 100 Akoluthen
+   - Hierarchie :: mäßig
+     - Grad I: Grauling (Novize), Akoluth
+     - Grad II: Gefährte von Wind und Wogen (Priester)
+     - Grad III: Bewahrer von Wind und Wogen (Praetor)
+     - Grad IV: Meister der Brandung (Metropolit), Hüter des Zirkels (Patriarch)
+   - Wichtige Personen ::
+     - Graustein, Vorsteher des [[file:locations.org::#T02][alten Efferdtempels]] (III)
+     - Eghina Maegharin, Vorsteherin des [[file:locations.org::#T06][Hauses der Göttlichen Woge]] (III)
+     - Niamh Flutseherin, Hofkaplanin des Efferd im [[file:locations.org::#OF04][Fürstenpalast]] (II)
+     - Lata, heilige Drachenschildkröte (wie IV)
+   - Stützpunkte ::
+     - [[file:locations.org::*Alter Efferdtempel][Alter Efferdtempel]], Fischer und Seefahrer
+     - [[file:locations.org::*Haus der Göttlichen Woge][Haus der Göttlichen Woge]], Händler und Adlige
+     - [[file:locations.org::#FI01][Efferdschule]]
+     - [[file:locations.org::#NA06][Haus der Efferdbrüder]], teils in der Hand der Strömenden
+     - Leuchtturm Havenafeuer, teils in der Hand der Strömenden
+     - [[file:locations.org::#LK][Latas Kaverne]]
+     - diverse Altäre im Stadtgebiet, zwei Schiffe im Hafen
+   - Domänen ::
+     - Flüsse und Meere, Wetter, Gezeiten, maritime Lebewesen
+     - Segnung des Fischfangs, sichere Seefahrt, Segnung von Schiffen und Mannschaft
+     - Schutz vor Stürmen und Hochwasser, Schutz vor Seeungeheuern,
+     - Trink- und Brauchwasser, Handel und Förderung des Seehandels, Beratung zum Seerecht
+   - Artefakte ::
+     - Efferdperle (SH 92, schützt vor KreaturenCharyptoroths)
+     - Dreizack Tiefendorn (SH 88, dem Numinoru-Kult geraubt)
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 4/6/5
+*** Ziele und Methoden
+

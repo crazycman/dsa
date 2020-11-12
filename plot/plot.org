@@ -80,13 +80,14 @@
      :END:
      
 *** Feldmarschen
-**** Rethis
+**** Vollmondball auf der Rethis
      :PROPERTIES:
-     :custom_id: G24
+     :custom_id: 5
      :location: D11
      :layer: GN
      :src: GN 17 SH 35
      :END:
+     [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
 **** Tarverne Schatzinsel
      :PROPERTIES:
      :custom_id: G25
@@ -236,6 +237,11 @@
       Nebelgeister bei aktiver Schmuggelaktion
     - [[file:organizations.org::Encounter-Stadtgarde][Encounter-Stadtgarde]]
       Garde auf Patroullie mit Focus: Magie / schwere Waffen / Schmuggelware
+    - [[file:npcs.org::#WM1][Wilanna, die Moevenfrau]] am Fischmarkt beim Vertreiben von Moeven.
+      [[file:npcs.org::#FB1][Fackelbart]] taucht auf und murmelt etwas ueber verbotene Magie, wird aber
+      von Umstehenden beschwichtigt.
+    - In [[file:locations.org::*Nalleshof (S07)][Nalleshof]] (Gassenwissen -2)
+      eine Jaguar Tatze als verborgenes Zeich auf einer Rauschkrauthöhle, betrieben von [[file:organizations.org::#KT1][Kamaluqs Tatzen]] 
 *** Plot Hooks
 **** Pferdepension (Feldmarken)     
 **** Konkurrierende Schmugglebaden
