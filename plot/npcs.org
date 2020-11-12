@@ -455,5 +455,6 @@
    - Heliantha lernet Simiadane im Horasreich kennen und nahm ihre Rolle ein als
      sie von ihrem Verschwinden erfuhr
    - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
-   
 *** Info [/]
+    - [ ] Auftrag: Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
+      die Aschimeter dort einst zusammenbaute

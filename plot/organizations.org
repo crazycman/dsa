@@ -264,6 +264,7 @@
      - Graustein, Vorsteher des [[file:locations.org::#T02][alten Efferdtempels]] (III)
      - Eghina Maegharin, Vorsteherin des [[file:locations.org::#T06][Hauses der Göttlichen Woge]] (III)
      - Niamh Flutseherin, Hofkaplanin des Efferd im [[file:locations.org::#OF04][Fürstenpalast]] (II)
+     - Gilia (II)
      - Lata, heilige Drachenschildkröte (wie IV)
    - Stützpunkte ::
      - [[file:locations.org::*Alter Efferdtempel][Alter Efferdtempel]], Fischer und Seefahrer
@@ -283,4 +284,26 @@
      - Dreizack Tiefendorn (SH 88, dem Numinoru-Kult geraubt)
    - Zusammenhalt, Beziehungen, Finanzkraft :: 4/6/5
 *** Ziele und Methoden
-
+    - Bewahren Havener vor unheiligen Kräften aus der Unterstadt
+    - Verbreitetes Bild: dank ihrer Ermahnungen hat Efferd Havenen noch nicht versenkt
+    - Kirche will *Macht und Autorität* über Havena bewahren
+    - Muster der *Sternenmuschel* gemäß ihrer Eingebungen aufspannen
+    - Stärken:
+      - Efferd als legitimer & etablierte Gott, der Ansehen in der Bevölkerung genisst
+      - Unterschiedliche Glaubensansichten ist man gewohnt und stellt sie zum Streitgespräch
+    - Schwächen:
+      - mäßig ausgeprägte Kirchenstruktur
+      - *Launenhaftigkeit der Priester*, die ein konsequentes Vorgehen gegen feindliche Kulte erschweren
+    - Mittel im Repertoire:
+      - Visionssuche, Fahrten auf den Ozean, *Befragung von Latas Orakel* und Recherche
+      - *Bekehrung* von Anhängern rivalisierender Kulte
+      - *wütende Predigten*, eigene Gläubige gegen den anderen Kult *mobilisieren*
+        und ihre Taten als gerechte Sache sanktionieren
+      - kircheninterne *Ächtung der Lehren des gegnerischen Kultes*,
+        Einwirkung auf Fürst & Ältestenrat für Verbote der Strömenden und Verbreitung ihrer Schriften
+        Anrufung der *Inquisition* wegen Ketzerei
+      - *verdecktes Einschleusen* eines Vertrauten in den rivalisierenden Kult
+      - *offenes Kräftemessen* mit einem bekennenden Anhänger des gegnerischen Kultes als Götterurteil:
+        Predigtduell, Herbeirufen eines Göttlichen Zeichens,
+        Tauch- und Segelwettbewerb, Beherrschung der Fluten und Wassertiere
+      - *Anheuern* von Dieben, Schlägern, Plünderern, Entführern, um dem Gegner Schaden zuzufügen
