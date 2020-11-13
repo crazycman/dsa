@@ -4,7 +4,6 @@
 * Havena Kampange
   - Handlungsfreiheit
   - Ausblick auf die Art des Abenteuers (Sandbox)
-
 ** Stimmung
    - efferdergeben, freiheitsliebend,
    - geschäftstüchtig, melancholisch.
@@ -395,6 +394,71 @@
    - Maps https://www.deviantart.com/foundryatropos
    - DSA https://www.deviantart.com/steffenbrand
    - Dungeon desing https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
+** Protokoll
+*** Rico
+**** Schlecht
+     - Kommunikation ist schwierig; Dinge sind teilweise schwer zu verstehen?
+     - zu wenige AP
+**** Gut
+     - Abenteuer war abwechslungsreich & lang
+**** Verbessern
+     - Mikro
+*** Axel
+**** Gut
+     - Froh, dass wir ueberhaupt spielen koennen
+     - im Charackter spielen, durch Gespräche ins Spiel eintauchen
+     - Liebt Redezeit, wie im Theater
+     - Infos uebermittelt durch Spiel; durch Rollenspiel
+     - Episch & fantastisch um aus dem Altag auszubrechen (Meistertexte)
+**** Schlecht 
+     - Kaempfe (dauern zu lange): besser umgehen, Rollenspiel oder kreativer Kampf; z.B. Kronleuchter
+     - Wahlos sterben ist doof
+     - Aus dem Spiel raussein; besser Pausen machen
+**** Verbesser
+     - Stops einbauen: "Es geht zu schnell"
+     - Sideevents sollen zur Story beitragen
+     - Meister sollte Proben gestatten auf Basis von guten Ideen / Aktionen
+     - auch mal still sein
+*** Tobi
+**** Gut
+**** Schlecht
+     - zu viele & zu lange Kaempfe, zu viele Gegner
+     - Einzelgespraeche sind schwierig und stoeren die Konzentration
+**** Verbessern
+     - Jeder Held sollte die Moeglichkeit bekommen sich einzubringen
+     - [Wichtig] Handlungsfreiheit fuer die Helden zu agieren
+     - [Wichtig] Aktionen haben Konsequenzen / Belohnung von guten Aktionen
+     - [Wichtig] Plot / Agenda ist vorhanden; es solle etwas passieren!
+*** Muelli
+**** Gut
+     - Abwechslungsreich
+     - Konkrete Aufgabe / Problem das zusammen geloest werden muss; Planen
+     - Raetsel
+**** Schlecht
+     - alleine vor dem Laptop kommt manchmal nicht so viel Stimmung auf
+     - verzetteln ist schlecht; der Zug im Abenteuer sollte da sein
+**** Verbessern
+     - Reihenfloge fuer Aktionen festlegen; damit niemand hintern runter faellt
+*** Merle
+**** Gut
+     - das wir es ueberhaupt machen
+     - Rotation beim Meistern
+**** Schlecht
+     - online Atmosphaere aufbauen; z.b. Musik ist online schwer
+**** Verbessern
+     - Freunde als NPCs
+*** Japser
+**** Gut
+     - Gemeinsam Probleme loesen; Handlungsfreihe
+**** Schlecht
+     - Sprache bei DSA
+     - Vorlesen von Abenteuertexten 
+**** Verbessern
+     - Probenerflog / Misserflog hat Konsequenzen (Sterben)
+     - Proben als Behlonung fuer gute Aktionen / Ideen
+     - besser weniger & starke Gegner; kurze Kaempfe
+*** Diskussion
+    
 * Sql
 
 ** insert & select
