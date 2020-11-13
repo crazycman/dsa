@@ -394,6 +394,7 @@
 ** Resources
    - Maps https://www.deviantart.com/foundryatropos
    - DSA https://www.deviantart.com/steffenbrand
+   - Dungeon desing https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
 * Sql
 
 ** insert & select

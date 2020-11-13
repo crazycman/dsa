@@ -458,3 +458,4 @@
 *** Info [/]
     - [ ] Auftrag: Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
       die Aschimeter dort einst zusammenbaute
+    - [ ] Befreundet mit Branwen

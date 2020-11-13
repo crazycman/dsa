@@ -1,6 +1,7 @@
 #+STARTUP: content
 * Orte  
   :PROPERTIES:
+  :id: orte
   :COLUMNS:  %31ITEM %4CUSTOM_ID(ID) %3LOCATION(LOC) %8TYP %6QPS %5EIND %1REICH %18SRC
   :END: 
 ** Legende
@@ -91,142 +92,21 @@
 *** Pension Flussdämon
     :PROPERTIES:
     :custom_id: G18
+    :location: B4
     :typ:      Ga Ub
     :qps:      3/4/8
     :eind:     3/4/4
     :reich:    3
     :src:      SH 12
     :END:
-*** Zum Scharfen Hobel
-    :PROPERTIES:
-    :custom_id: G19
-    :typ:      Ga
-    :qps:      4/2/0
-    :eind:     3/2/3
-    :reich:    2
-    :src:      SH 12
-    :END:
-*** Haus der Flusslotsengilde
-    :PROPERTIES:
-    :custom_id: SÜ01
-    :typ:      Gi
-    :qps:      -
-    :eind:     3/3/4
-    :reich:    3
-    :src:      SH 12
-    :END:
-*** Haus der Seelotsengilde
-    :PROPERTIES:
-    :custom_id: SÜ02
-    :typ:      Gi
-    :qps:      -
-    :eind:     4/4/3
-    :reich:    4
-    :src:      SH 12
-    :END:
-*** Scharfrichterhütte
-    :PROPERTIES:
-    :custom_id: SÜ03
-    :typ:      St Ha
-    :qps:      -
-    :eind:     3/4/4
-    :reich:    4
-    :src:      SH 12
-    :END:
-*** Kontor Ongswin
-    :PROPERTIES:
-    :custom_id: SÜ04
-    :typ:      Ha
-    :qps:      -
-    :eind:     4/3/4
-    :reich:    5
-    :src:      SH 27
-    :END:
-*** Wagnerei Pir Kutschner
-    :PROPERTIES:
-    :custom_id: SÜ05
-    :typ:      Hw
-    :qps:      4/5/0
-    :eind:     4/3/3
-    :reich:    4
-    :src:      SH 27
-    :END:
-*** Brauerei Havenabier
-    :PROPERTIES:
-    :custom_id: SÜ06
-    :typ:      Hw
-    :qps:      3/3/0
-    :eind:     3/2/2
-    :reich:    3
-    :src:      SH 27
-    :END:
-*** Werft Saordubh
-    :PROPERTIES:
-    :custom_id: SÜ07
-    :typ:      Hw
-    :qps:      4/4/0
-    :eind:     3/2/3
-    :reich:    3
-    :src:      SH 12
-    :END:
-*** Werft Maraiche
-    :PROPERTIES:
-    :custom_id: SÜ08
-    :typ:      Hw
-    :qps:      4/5/0
-    :eind:     3/4/2
-    :reich:    4
-    :src:      SH 12
-    :END:
-*** Hafenmeisterei des Südhafens
-    :PROPERTIES:
-    :custom_id: SÜ09
-    :typ:      St Di
-    :qps:      -
-    :eind:     5/4/4
-    :reich:    4
-    :src:      SH 19 ST 11 
-    :END:
-*** Zollbrücke
-    :PROPERTIES:
-    :custom_id: SÜ10
-    :typ:      Of
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 12 SK 7 
-    :END:
-*** Bennain-Damm
-    :PROPERTIES:
-    :custom_id: SÜ11
-    :typ:      Of
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 14
-    :END:
-** Boroninsel (S02)
-   :PROPERTIES:
-   :custom_id: S02
-   :END:
-*** Haus der Borongeweihten
-    :PROPERTIES:
-    :custom_id: BO01
-    :typ:      Wo
-    :qps:      -
-    :eind:     2/3/4
-    :reich:    3
-    :src:      SH 13
-    :END:
-*** Borontempel
-    :PROPERTIES:
-    :custom_id: T01
-    :typ:      Du Te
-    :qps:      -
-    :eind:     5/6/5
-    :reich:    5
-    :src:      SH 13
-    :END:
+    - *benannt nach einem Flussschiff*, das mit Mann und Maus sank, als es 1003
+      BF gegen einen Pfeiler der Prinzessin-Emer-Brücke fuhr.
+      Die traurig tönende Schiffsglocke hängt im Gastraum.
+    - Aus einigen Zimmern blickt man direkt auf die Unterstadt.
+      *Wirt Vornan Taahc* (*976 BF, wirr abstehendes, weißes Haar, Holzbein, lispelt)
+      hat etliche Unheil abwehrende Zeichen und Talismane angebracht,
+      trichtert allen Gästen ein, wie sie sich gegen böse Einflüssesichern müssen,
+      und zieht allabendlich selbst die Salzkreise gegen Geister um die Betten der Gäste.
 ** Fischerort (S03)
    :PROPERTIES:
    :custom_id: S03
@@ -279,6 +159,7 @@
 *** Pension Am Fischmarkt
     :PROPERTIES:
     :custom_id: G16
+    :location: G2
     :typ:      Ga Ub
     :qps:      2/3/10
     :eind:     4/2/2
@@ -377,93 +258,19 @@
 *** Rahjas Lobgesang
     :PROPERTIES:
     :custom_id: G02
+    :location: K4
     :typ:      Ga Ub
     :qps:      4/4/12
     :eind:     3/3/2
     :reich:    3
     :src:      SH 16
     :END:
-*** Alte Marschen
-    :PROPERTIES:
-    :custom_id: G03
-    :typ:      Ga Kr
-    :qps:      5/4/0
-    :eind:     3/3/4
-    :reich:    4
-    :src:      GN 41 SH 16
-    :END:
-*** Theater an der Gauklergasse
-    :PROPERTIES:
-    :custom_id: MA01
-    :typ:      Di
-    :qps:      3/3/0
-    :eind:     3/2/4
-    :reich:    2
-    :src:      SH 15
-    :END:
-*** Haus Marteniel
-    :PROPERTIES:
-    :custom_id: MA02
-    :typ:      Di Wo
-    :qps:      -
-    :eind:     5/6/5
-    :reich:    6
-    :src:      SH 15
-    :END:
-*** Hungerturm
-    :PROPERTIES:
-    :custom_id: MA03
-    :typ:      Du
-    :qps:      -
-    :eind:     2/2/0
-    :reich:    1
-    :src:      SH 16
-    :END:
-*** Kevendochs exotische Krämerw.
-    :PROPERTIES:
-    :custom_id: MA04
-    :typ:      Ha Kr
-    :qps:      5/5/0
-    :eind:     4/5/5
-    :reich:    4
-    :src:      SH 16
-    :END:
-*** Bäckerei Brandub
-    :PROPERTIES:
-    :custom_id: MA05
-    :typ:      Hw
-    :qps:      4/3/0
-    :eind:     4/4/3
-    :reich:    4
-    :src:      SH 27
-    :END:
-*** Nordtor
-    :PROPERTIES:
-    :custom_id: MA06
-    :typ:      St
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 11
-    :END:
-*** Marschentor
-    :PROPERTIES:
-    :custom_id: MA07
-    :typ:      St
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 11
-    :END:
-*** Rahjatempel
-    :PROPERTIES:
-    :custom_id: T04
-    :typ:      Te
-    :qps:      -
-    :eind:     3/2/3
-    :reich:    5
-    :src:      GN 24 SH 15
-    :END:
+    - liegt direkt am Park, und nicht wenige verbinden einen Besuch im Tempel mit
+      einem Abstecher in das Gasthaus, das Gaukler-, Tanz- und Bardendarbietungen
+      offeriert, die *oft zu ausschweifenden Feiern* werden.
+    - *Wirtin Arlaine Raidric* (*991 BF, langes blondes Haar, lebhaft) wollte
+      einst selbst Rahjapriesterin werden und müht sich nun, ihr Haus zu einem
+      Leuchtturm für Rahjas Gebote zu machen.
 ** Orkendorf (S06)
    :PROPERTIES:
    :custom_id: S06
@@ -471,111 +278,79 @@
 *** Krakenkönig
     :PROPERTIES:
     :custom_id: G04
+    :location: H4
     :typ:      Ga Ub Kr
     :qps:      1/1/4
     :eind:     2/2/3
     :reich:    1
     :src:      SH 17
     :END:
+    - Die Kneipe muss als die *schäbigste Spelunke Havenas* gelten.
+      Die meisten Gäste finden sich hier erst ein, nachdem die übrigen Tavernen geschlossen haben.
+    - Im ganzen Orkendorf spekuliert man über den Nebenerwerb der
+      *Wirtin Margoris Priam* (*994 BF, kräftige Statur, leicht kurzsichtig),
+      denn allen ist klar, dass die ehemalige Immanspielerin mit derart niedrigen Preisen
+      nicht einmal sich selbst versorgen könnte.
 *** Zum Goldenen Drachen
     :PROPERTIES:
     :custom_id: G05
+    :location: H5
     :typ:      Ga Ub
     :qps:      2/2/20
     :eind:     2/3/2
     :reich:    2
     :src:      SH 17
     :END:
+    - *Hotel* (Kennzeichen: Goldener Drache, feuerspeiend),
+      bietet Reisenden *einfache Unterkunft* inmitten des Orkendorfs
+      und verbreitet mit einem Avesschrein eine gewisse Aufbruchsstimmung.
+    - Im Gastraum steht über der Eingangstür „Das Abenteuer beginnt!“, und irgendwann hat
+      es sich eingebürgert, *Trinksprüche auf „Alrik*, den unbekannten Abenteurer“ auszubringen.
+      Düstere Holzstiche zeigen mehr oder minder ferne Orte wie ein Wirtshaus
+      bei Gratenfels und eine Tempelpyramide tief im Dschungel.    
 *** Heldenzuflucht
     :PROPERTIES:
     :custom_id: G06
+    :location: H5
     :typ:      Ga Ub
     :qps:      1/2/14
     :eind:     3/2/2
     :reich:    1
     :src:      SH 27
     :END:
+    - *Herberge* mies!!
 *** Großmast
     :PROPERTIES:
     :custom_id: G07
+    :location: H6
     :typ:      Ga Ub
     :qps:      3/3/18
     :eind:     3/2/3
     :reich:    3
     :src:      GN 41 SH 17
     :END:
+    - Als das *Hotel* Großmast (Kennzeichen: *Schiff mitten in der Stadt*) 1036 BF abbrannte,
+      erbaute es Eigentümer Caerwyn ui Merodin als Schiff auf dem Trockenen neu.
+      Die *voll seetüchtige*, von dicken Balken gehaltene Karacke an
+      der Fürstenallee gilt als kuriosestes Gasthaus der Stadt.
+    - Doch ui Merodin begreift die Großmast als Zuflucht vor Efferds kommendem Zorn.
+      Vor allem vor erwarteten Rondrikanen scheucht er von achtern die
+      Bediensteten und Gäste auf Posten und *probt Segelmanöver*.
+    - **Caerwyn ui Merodin* (*974 BF, wachssteifer Bart, Monokel, Holzbein, SH 71),
+      der Kapitän der Kapitäne, ist ein erfahrener Seemann und leitet seit vielen
+      Jahren gewissenhaft und idealistisch den Rat der Kapitäne
 *** Esche und Kork
     :PROPERTIES:
     :custom_id: G08
+    :location: I7
     :typ:      Ga Ub Kr
     :qps:      3/3/12
     :eind:     4/4/3
     :reich:    3
     :src:      SH 34 SK 20 
     :END:
-*** Bordell Hafenmaid
-    :PROPERTIES:
-    :custom_id: G09
-    :typ:      Di Ga Kr
-    :qps:      1/2/0
-    :eind:     3/3/2
-    :reich:    2
-    :src:      SH 27
-    :END:
-*** Tätowierer Thorkar Frenjarson
-    :PROPERTIES:
-    :custom_id: OR01
-    :typ:      Di
-    :qps:      3/3/0
-    :eind:     2/2/3
-    :reich:    2
-    :src:      SH 27
-    :END:
-*** Gute Güter Guthbrod
-    :PROPERTIES:
-    :custom_id: OR02
-    :typ:      Ha Kr
-    :qps:      2/2/0
-    :eind:     4/5/4
-    :reich:    4
-    :src:      SH 17
-    :END:
-*** Wolters Krämerladen
-    :PROPERTIES:
-    :custom_id: OR03
-    :typ:      Ha Kr
-    :qps:      4/3/0
-    :eind:     3/5/6
-    :reich:    3
-    :src:      SH 17 ST 12 
-    :END:
-*** Kuriositätenladen Runwald
-    :PROPERTIES:
-    :custom_id: OR04
-    :typ:      Ha
-    :qps:      3/3/0
-    :eind:     2/2/4
-    :reich:    3
-    :src:      SH 17
-    :END:
-*** Heilerin Dhanara Faihc
-    :PROPERTIES:
-    :custom_id: OR05
-    :typ:      Di Kr
-    :qps:      4/3/0
-    :eind:     2/3/3
-    :reich:    3
-    :src:      SH 27
-    :END:
-*** Nechts Menagerie
-    :PROPERTIES:
-    :custom_id: OR06
-    :typ:      Ha Di
-    :qps:      4/4/0
-    :eind:     4/5/3
-    :reich:    4
-    :src:      SH 17
-    :END:
+    - die Stammkneipe der Havena Bullen
+    - Wirtin [[file:npcs.org::#TA1][Thalionmel Agilfied]]
 ** Nalleshof (S07)
    :PROPERTIES:
    :custom_id: S07
@@ -583,195 +358,27 @@
 *** Drachenschiff
     :PROPERTIES:
     :custom_id: G20
+    :location: E8
     :typ:      Ga Ub
     :qps:      3/3/18
     :eind:     2/3/3
     :reich:    2
     :src:      SH 18
     :END:
-*** Salzfass
-    :PROPERTIES:
-    :custom_id: G21
-    :typ:      Ga
-    :qps:      3/3/0
-    :eind:     3/4/3
-    :reich:    3
-    :src:      SH 18
-    :END:
-*** Schipperkrug
-    :PROPERTIES:
-    :custom_id: G22
-    :typ:      Ga
-    :qps:      2/2/0
-    :eind:     3/2/3
-    :reich:    2
-    :src:      SH 18
-    :END:
+    - *Herberge* Drachenschiff (Kennzeichen: originaler Drachenkopf einer Otta)
+      mit ihrem thorwalschen Holzschmuck steigen gerne *Mannschaften von Thorwalerschiffen* ab.
+    - Ansonsten fällt auf, wie grob und robust das Mobiliar gezimmert ist.
+      Im Gastraum werden *echte Gelage* gefeiert,
+      und regelmäßig gehört dazu auch eine *Schlägerei*, auf die manche regelrecht warten
 *** Herberge Walfisch
     :PROPERTIES:
     :custom_id: G23
+    :location: F9
     :typ:      Ga Ub
     :qps:      4/4/12
     :eind:     3/2/3
     :reich:    2
     :src:      SH 27
-    :END:
-*** Hafenmeisterei des Seehafens
-    :PROPERTIES:
-    :custom_id: NA01
-    :typ:      St Di
-    :qps:      -
-    :eind:     4/4/3
-    :reich:    4
-    :src:      SK 7 ST 11
-    :END:
-*** Kontor Rastburger
-    :PROPERTIES:
-    :custom_id: NA02
-    :typ:      Ha
-    :qps:      -
-    :eind:     5/3/5
-    :reich:    5
-    :src:      SH 27
-    :END:
-*** Kontor Engstrand
-    :PROPERTIES:
-    :custom_id: NA03
-    :typ:      Ha
-    :qps:      -
-    :eind:     5/3/4
-    :reich:    5
-    :src:      SH 27
-    :END:
-*** Kontor Stoerrebrandt
-    :PROPERTIES:
-    :custom_id: NA04
-    :typ:      Ha Di
-    :qps:      -
-    :eind:     5/3/4
-    :reich:    5
-    :src:      SH 27
-    :END:
-*** Totenpier
-    :PROPERTIES:
-    :custom_id: NA05
-    :typ:      Of
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 18
-    :END:
-*** Haus der Efferdbrüder
-    :PROPERTIES:
-    :custom_id: NA06
-    :typ:      Gi
-    :qps:      -
-    :eind:     3/4/3
-    :reich:    4
-    :src:      SH 18 ST 13 
-    :END:
-*** Nalleshofwache
-    :PROPERTIES:
-    :custom_id: NA07
-    :typ:      St
-    :qps:      -
-    :eind:     5/4/4
-    :reich:    2
-    :src:      SH 18
-    :END:
-*** Waffenhändlerin Curamach
-    :PROPERTIES:
-    :custom_id: NA08
-    :typ:      Ha
-    :qps:      4/4/0
-    :eind:     4/3/3
-    :reich:    4
-    :src:      SH 27
-    :END:
-*** Laternenmacher Igwun Blyain
-    :PROPERTIES:
-    :custom_id: NA09
-    :typ:      Hw
-    :qps:      5/5/0
-    :eind:     3/3/4
-    :reich:    4
-    :src:      SH 18
-    :END:
-*** Garos Rollfuhrwerke
-    :PROPERTIES:
-    :custom_id: NA10
-    :typ: Di
-    :qps: 4/4/0 
-    :eind: 3/2/3
-    :reich: 3
-    :src: SH 27
-    :END:
-*** Maler Juce
-    :PROPERTIES:
-    :custom_id: NA11
-    :typ:      Hw
-    :qps:      6/4/0
-    :eind:     3/2/4
-    :reich:    4
-    :src:      SH 27
-    :END:
-*** Ingerimmtempel
-    :PROPERTIES:
-    :custom_id: T05
-    :typ:      Te
-    :qps:      -
-    :eind:     5/4/3
-    :reich:    4
-    :src:      SH 18
-    :END:
-** Feldmark (S08)
-   :PROPERTIES:
-   :custom_id: S08
-   :END:
-*** Glockengießerei Kuinocs
-    :PROPERTIES:
-    :custom_id: FE01
-    :typ:      Hw
-    :qps:      4/3/0
-    :eind:     2/3/3
-    :reich:    4
-    :src:      Stadtplan
-    :END:
-*** Gerbergruben Reißgrams Speichel
-    :PROPERTIES:
-    :custom_id: FE02
-    :typ:      Hw Kr
-    :qps:      4/4/0
-    :eind:     5/4/4
-    :reich:    3
-    :src:      SH 22
-    :END:
-*** Südtor
-    :PROPERTIES:
-    :custom_id: FE03
-    :typ:      St
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 11
-    :END:
-*** Vergnügungsschiff Rethis
-    :PROPERTIES:
-    :custom_id: G24
-    :typ:      Di Ga Ma
-    :qps:      4/5/0
-    :eind:     4/3/4
-    :reich:    5
-    :src:      GN 17 SH 35
-    :END:
-*** Schatzinsel
-    :PROPERTIES:
-    :custom_id: G25
-    :typ:      Ga
-    :qps:      2/3/0
-    :eind:     2/3/2
-    :reich:    2
-    :src:      GN 15 23 SH 22 ST 13 
     :END:
 ** Oberfluren (S09)
    :PROPERTIES:
@@ -789,181 +396,15 @@
 *** Am Palastgarten
     :PROPERTIES:
     :custom_id: G11
+    :location: I10
     :typ:      Ga Ub
     :qps:      5/5/30
     :eind:     5/4/5
     :reich:    5
     :src:      SH 23
     :END:
-*** Oase der 1.000 Freuden
-    :PROPERTIES:
-    :custom_id: G12
-    :typ:      Ga
-    :qps:      4/6/0
-    :eind:     4/3/3
-    :reich:    4
-    :src:      SH 24 ST 6
-    :END:
-*** Rondras Einkehr
-    :PROPERTIES:
-    :custom_id: G13
-    :typ:      Ga
-    :qps:      3/3/0
-    :eind:     4/3/3
-    :reich:    4
-    :src:      SH 24
-    :END:
-*** Sternwarte
-    :PROPERTIES:
-    :custom_id: OF01
-    :typ:      Di Le
-    :qps:      3/4/-
-    :eind:     4/4/3
-    :reich:    4
-    :src:      SH 25
-    :END:
-*** Instrumentenbauer Allain Ruggard
-    :PROPERTIES:
-    :custom_id: OF02
-    :typ:      Hw Ha
-    :qps:      4/5/-
-    :eind:     3/4/4
-    :reich:    5
-    :src:      SH 26
-    :END:
-*** Haus des Stadtvogts
-    :PROPERTIES:
-    :custom_id: OF03
-    :typ:      St Wo
-    :qps:      -
-    :eind:     6/6/5
-    :reich:    6
-    :src:      SH 23
-    :END:
-    - Ein weißgetünchter Bau im almadanischen Stil, ist eines der *prunkvollsten* Gebäude Havenas.
-      Im Garten hinter dem reich verzierten Gitterzaun leben *exotische Ziertiere*
-      wie Pfaue, Sittiche, Weißhirsche, Harnischträger und Zornbrecht, ein Brabaker Waldelefant.
-      Im Teich des Anwesens wird ein *Necker* gefangen gehalten.
-    - Die Residenz von Stadtvogt Ardach Herlogan ist auch Sitz der Vogtgarde.
-    - Gerüchte besagen, Herlogan habe seine Reichtümer in einem *unterirdischen Labyrinth* versteckt,
-      über das zwei verrückte Trolle wachen.
-*** Fürstenpalast
-    :PROPERTIES:
-    :custom_id: OF04
-    :typ:      Fu Wo
-    :qps:      -
-    :eind:     6/5/5
-    :reich:    6
-    :src:      SH 23
-    :END:
-*** Stadthaus
-    :PROPERTIES:
-    :custom_id: OF05
-    :typ:      St
-    :qps:      -
-    :eind:     4/5/4
-    :reich:    5
-    :src:      GN 41 SH 23
-    :END:
-*** Weinhändler Hal Austrolf
-    :PROPERTIES:
-    :custom_id: OF06
-    :typ:      Ha Kr
-    :qps:      4/5/0
-    :eind:     5/5/6
-    :reich:    5
-    :src:      SH 27
-    :END:
-*** Maskenmuseum
-    :PROPERTIES:
-    :custom_id: OF07
-    :typ:      Di Ha
-    :qps:      5/4/0
-    :eind:     4/4/4
-    :reich:    5
-    :src:      SH 25
-    :END:
-*** Wachsfigurenkabinett
-    :PROPERTIES:
-    :custom_id: OF08
-    :typ:      Di
-    :qps:      4/4/0
-    :eind:     3/4/4
-    :reich:    4
-    :src:      GN 42 SH 38 ST 20 
-    :END:
-*** Fürstliche Münze
-    :PROPERTIES:
-    :custom_id: OF09
-    :typ:      Fu
-    :qps:      -
-    :eind:     6/6/5
-    :reich:    6
-    :src:      SH 23
-    :END:
-*** Nostrianer Tor
-    :PROPERTIES:
-    :custom_id: OF10
-    :typ:      St
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 11
-    :END:
-*** Garnison
-    :PROPERTIES:
-    :custom_id: OF11
-    :typ:      St
-    :qps:      -
-    :eind:     6/6/5
-    :reich:    4
-    :src:      SH 23 ST 20 
-    :END:
-*** Kriegerakademie Ruadas Ehr
-    :PROPERTIES:
-    :custom_id: OF12
-    :typ:      Le St
-    :qps:      -
-    :eind:     5/5/4
-    :reich:    3
-    :src:      SH 24
-    :END:
-*** Beilunker Reiter
-    :PROPERTIES:
-    :custom_id: OF13
-    :typ:      Di
-    :qps:      5/6/0
-    :eind:     4/5/5
-    :reich:    4
-    :src:      Stadtplan
-    :END:
-*** Schwertschule Uinin
-    :PROPERTIES:
-    :custom_id: OF14
-    :typ:      Le
-    :qps:      -
-    :eind:     4/3/4
-    :reich:    4
-    :src:      SH 24
-    :END:
-*** Haus der Göttlichen Woge
-    :PROPERTIES:
-    :custom_id: T06
-    :typ:      Te
-    :qps:      -
-    :eind:     3/4/4
-    :reich:    5
-    :src:       SH 33 ST 12
-    :END:
-*** Rondratempel
-    :PROPERTIES:
-    :custom_id: T07
-    :typ:      Te
-    :qps:      -
-    :eind:     6/3/4
-    :reich:    5
-    :src:      SH 24
-    :END:
+    - *nobles Hotel*, dessen Suite im ersten Stock häufig von *durchreisenden Adligen* genutzt wird.
+      Aus einem Zimmer auf dem Dachboden kann man einen Blick auf die fürstlichen Gärten werfen.
 *** Traviatempel
     :PROPERTIES:
     :custom_id: T08
@@ -998,164 +439,36 @@
 *** Havenapalast
     :PROPERTIES:
     :custom_id: G14
+    :location: G13
     :typ:      Ga Ub
     :qps:      5/5/32
     :eind:     5/4/5
     :reich:    5
     :src:      SH 26
     :END:
+    - *vornehmes Hotel*, von dem viele sagen, es sei das *beste Haus der Stadt*.
+      Den Ruf verdankt es dem verstorbenen ehemaligen Besitzer Gerard Ongswin, der sich
+      zu seiner Zeit sehr dafür einsetzte, den Havenapalast zum ersten Haus der Stadt zu machen.
+      Heute gehört das Hotel seinem Neffen und Alleinerben *Cumal Ongswin* (SH 47).
 *** Zum Garether Tor
     :PROPERTIES:
     :custom_id: G15
+    :location: G15
     :typ:      Ga Ub
     :qps:      2/4/18
     :eind:     2/3/3
     :reich:    2
     :src:      GN 12 SH 26
     :END:
-*** Hesindetempel
-    :PROPERTIES:
-    :custom_id: T10
-    :typ:      Te Le
-    :qps:      -
-    :eind:     4/6/5
-    :reich:    5
-    :src:      GN 13 SH 26 ST 33
-    :END:
-*** Perainetempel
-    :PROPERTIES:
-    :custom_id: T11
-    :typ:      Te
-    :qps:      -
-    :eind:     2/2/3
-    :reich:    2
-    :src:      SH 27
-    :END:
-*** Siechenhaus
-    :PROPERTIES:
-    :custom_id: UF01
-    :typ:      Di
-    :qps:      4/1/35
-    :eind:     2/1/3
-    :reich:    3
-    :src:      SH 27
-    :END:
-*** Apotheke Ehrwalt
-    :PROPERTIES:
-    :custom_id: UF02
-    :typ:      Hw Ma
-    :qps:      4/5/0
-    :eind:     3/4/4
-    :reich:    4
-    :src:      GN 14 SH 27
-    :END:
-*** Villa Rastburger
-    :PROPERTIES:
-    :custom_id: UF03
-    :typ:      Wo
-    :qps:      -
-    :eind:     6/5/5
-    :reich:    6
-    :src:      SH 27
-    :END:
-*** Schlosser Zirkeldreher
-    :PROPERTIES:
-    :custom_id: UF04
-    :typ:      Hw
-    :qps:      4/4/0
-    :eind:     4/4/3
-    :reich:    4
-    :src:      SH 27
-    :END:
-*** Spielzeugmacherin Riandra Stevir
-    :PROPERTIES:
-    :custom_id: UF05
-    :typ:      Ha Hw
-    :qps:      3/3/0
-    :eind:     3/3/4
-    :reich:    4
-    :src:      SH 27
-    :END:
-*** Schneider Aradin
-    :PROPERTIES:
-    :custom_id: UF06
-    :typ:      Hw
-    :qps:      5/5/0
-    :eind:     4/5/5
-    :reich:    5
-    :src:      GN 13 SH 27 ST 12
-    :END:
-*** Badehaus Nixenquell
-    :PROPERTIES:
-    :custom_id: UF07
-    :typ:      Di
-    :qps:      4/4/0
-    :eind:     4/3/5
-    :reich:    4
-    :src:      GN 12 SH 26
-    :END:
-*** Bogenbauer Silberblüte
-    :PROPERTIES:
-    :custom_id: UF08
-    :typ:      Hw Di
-    :qps:      5/4/0
-    :eind:     3/3/4
-    :reich:    4
-    :src:      SH 27
-    :END:
-*** Prinzessin-Emer-Brücke
-    :PROPERTIES:
-    :custom_id: UF09
-    :typ:      Of
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 27
-    :END:
-*** Simiadane Werkstatt
-    :PROPERTIES:
-    :custom_id: UF10
-    :typ:      Di Hw Wo
-    :qps:      5/4/0
-    :eind:     4/5/4
-    :reich:    4
-    :src:      GN 23 SH 41
-    :END:
-*** Redaktionshaus der Fanfare
-    :PROPERTIES:
-    :custom_id: UF11
-    :location: G14
-    :typ:      Di Hw Wo
-    :qps:      3/3/0
-    :eind:     3/3/4
-    :reich:    3
-    :src:      GN 14 SH 26 ST 13 
-    :END:
-*** Garether Tor
-    :PROPERTIES:
-    :custom_id: UF12
-    :typ:      St
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 11
-    :END:
-*** Alter Geschützturm
-    :PROPERTIES:
-    :custom_id: UF13
-    :typ:      St Te
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 11
-    :END:
-** Hafen (HA)
-   :PROPERTIES:
-   :custom_id: HA
-   :END:
-*** Seehafen (Orkendorf, Nalleshof)
-*** Binnenhafen (Fischerort)
-*** Südhafen 
+    - die *Taverne* lebt vor allem davon, dass sie die erste Unterkunft
+      ist, die Reisende erblicken, nachdem sie über den
+      Knüppeldamm in die Stadt gekommen sind.
+    - Bemerkenswert ist der *Stammgast Safiriel* (*ca. 915 BF, korpulent, ständig betrunken),
+      eine *Halbelfe*, die Fremde gerne mit Freundschaftszaubern becirct, bis sie ihr einen ausgeben.
+      Will man sie zur Rechenschaft ziehen, weist sie einen fünfzig Jahre alten
+      Schutzbrief Fürst Halman ui Bennains vor, der ihr Straffreiheit und „freie
+      Hand beim Einsatz magischer Mittel“ gewährt. Man munkelt, der
+      lebenslustige Fürst habe einst ihr Herz gebrochen.
 ** Fürstenstieg (FU)
    :PROPERTIES:
    :custom_id: FU
@@ -1325,3 +638,21 @@
     :reich:    -
     :src:      SH 124
     :END:
+* Column View
+  #+BEGIN: columnview :hlines 1 :id orte :match "+typ={Ub}-custom_id={T08}-custom_id={FÜ04}" :format "%ITEM(Gasthaus) %CUSTOM_ID(ID) %LOCATION(LOC) %QPS"
+  | Gasthaus              | ID  | LOC | QPS    |
+  |-----------------------+-----+-----+--------|
+  | Pension Flussdämon    | G18 | B4  | 3/4/8  |
+  | Pension Am Fischmarkt | G16 | G2  | 2/3/10 |
+  | Rahjas Lobgesang      | G02 | K4  | 4/4/12 |
+  | Krakenkönig           | G04 | H4  | 1/1/4  |
+  | Zum Goldenen Drachen  | G05 | H5  | 2/2/20 |
+  | Heldenzuflucht        | G06 | H5  | 1/2/14 |
+  | Großmast              | G07 | H6  | 3/3/18 |
+  | Esche und Kork        | G08 | I7  | 3/3/12 |
+  | Drachenschiff         | G20 | E8  | 3/3/18 |
+  | Herberge Walfisch     | G23 | F9  | 4/4/12 |
+  | Am Palastgarten       | G11 | I10 | 5/5/30 |
+  | Havenapalast          | G14 | G13 | 5/5/32 |
+  | Zum Garether Tor      | G15 | G15 | 2/4/18 |
+  #+END:

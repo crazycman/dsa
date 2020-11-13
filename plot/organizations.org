@@ -283,6 +283,7 @@
      - Efferdperle (SH 92, schützt vor KreaturenCharyptoroths)
      - Dreizack Tiefendorn (SH 88, dem Numinoru-Kult geraubt)
    - Zusammenhalt, Beziehungen, Finanzkraft :: 4/6/5
+   - Belohnungen :: SH 113
 *** Ziele und Methoden
     - Bewahren Havener vor unheiligen Kräften aus der Unterstadt
     - Verbreitetes Bild: dank ihrer Ermahnungen hat Efferd Havenen noch nicht versenkt
