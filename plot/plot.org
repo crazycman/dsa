@@ -217,19 +217,55 @@
 
 ** Handlung
 *** Beginn
-    - Bei der naechtlichen Einfahrt nach Havena stoppt das Schiff der Helden
-      nach Lichtzeichen an den aeussersten Auslaeufern der Unterstadt, um einen
-      Schmuggler (einen Nebelgeist?) an Bord zu nehmen. Bei der Schmugglerware
-      handelt es sich um Gwen Petryl (Wert ca. 5000 S) oder das Krakenauge (Charyptoroth Artefakt).
-    - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich, ausserdem ist die
-      Durchfahrt durch die Unterstadt in der Nacht zu gefaehrlich. Deshalb
-      Ankert das Schiff in unmittelbarer Naehe der Unterstadt.
-    - Aufgrund der grossen Menge Gwen Petryl wird das Schiff bei Durchfahren der
-      Unterstadt (am Ankergrund) von (mehreren?) Riesenoktopeden (Daimoniden) angegriffen.
-    - Beim Kampf wird Leowald ins Wasser gerissen und anschliessend
-      - von Lata in eine Feenwelt geschickt
-      - von Nhywyll Dunkelwasser gefangen genommen
-    - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden.
+**** von Al'Anfa nach Havena
+     - Dauer :: 24 Tage
+     - Kosten ::
+       - 180 S. :: Gruppendeck, Haengematte, einfache Verpflegung
+       - 480 S. :: Dreier - Viererkabine, einfache Verpflegung
+       - 1140 S. :: Einzelkabine, gute Verpflegung
+***** Schiff
+      - Karavelle :: jüngerer Schiffstyp für Fahrten auf hoher See, Wellenreiter
+        - Havena-Segel :: Dreieckssegel, das Kreuzen gegen den Wind erlaubt
+        - Heckruder & senkrechter Achtersteven, Mischtakelung
+      - Willem Kuyfhoff :: *Grangorer* Handelsschiff, kleine schnelle Karavelle
+      - Hanno Kuyfhoff-Rothstrand :: Kapitän & Händler, 56 Jahre, weisser Bart, Karavellen Experte
+      - Werte ::
+        - Länge, Breite :: 20,4m, 6,3m
+        - Tiefgang :: 3,3m
+        - Besatzung :: 25 Mann [Q 13]
+        - Takelage :: III (Havena 1, Havena 1, Sprietsegel 1) [90]
+        - Beweglichkeit :: hoch (4)
+        - Struktur  :: 16, Haerte 1
+        - Geschwindigkeit :: vor Wind 12, mit rauem Wind 16, am Wind 5 Meilen pro Stunde
+        - Bewaffnung :: 1 leicht Rotze (beweglich), *1 Hornisse*
+
+      An Bord des Schiffes ist es *sehr eng*, die Manschaft schläft an Deck, wenn das Wetter es zulässt.
+      Der Rest des freien Plates ist mit *Salz, gepökeltem Fisch, Stoffen, Weizen & Wein* bis
+      zum Bersten gefüllt. Lediglich ein schmaler Gang im Laderaum.
+      
+      Unterdeck befindet sich einem Laderaum *versteckte Schmuggelware*: Rauschkraut.
+     
+**** Einfahrt nach Havena
+     - *Leowald* [0/4]
+       - [ ] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]];
+       - [ ] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
+       - [ ] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
+       - [ ] [[file:npcs.org::*Branwen, die Hexe][Branwen]] tolle Frau; wahnsinns rote Haare. Hat mich immer abblitzen lassen.
+         Man munkelt, sie sei mit einem Necker liiert 
+
+     - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich,
+       ausserdem ist dieDurchfahrt durch die Unterstadt in der Nacht zu gefaehrlich.
+       Deshalb *ankert die Karavellen zur Daemmerung* im Flussdelta vor Havena.
+     - In der Nacht: nach Lichtzeichen kommt kurze Zeit spaeter ein Ruderboot
+       *[[file:npcs.org::#LB1][Lyn Barc, der Aal]] kommt an Bord* um Schmuggelware (Rauschkraut) in empfang zu nehmen.
+       Sie hat kurz zuvor in der Unterstadt das *Krakenauge* gefunden und traegt es bei sich.
+     - Aufgrund der Präsens des Artefakts wird das Schiff am Ankergrund von
+       mehreren *Riesenoktopeden* (Daimoniden) angegriffen.
+     - Beim Kampf wird *Leowald ins Wasser gerissen* und anschliessend
+       - von Lata in eine Feenwelt geschickt
+       - von Nhywyll Dunkelwasser gefangen genommen
+     - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
+     - Lyn entkommt, das Krakenauge geht verloren
 *** Encounters
     (Zufalls) Begegnungen
     - [[file:organizations.org::Encounter-Nebelgeister][Encounter-Nebelgeister]]

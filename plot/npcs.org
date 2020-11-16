@@ -455,7 +455,38 @@
    - Heliantha lernet Simiadane im Horasreich kennen und nahm ihre Rolle ein als
      sie von ihrem Verschwinden erfuhr
    - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
-*** Info [/]
+*** Info [0/2]
     - [ ] Auftrag: Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
       die Aschimeter dort einst zusammenbaute
-    - [ ] Befreundet mit Branwen
+    - [ ] Befreundet mit [[#BH1][Branwen]]
+** Branwen, die Hexe
+   :PROPERTIES:
+   :CUSTOM_ID: BH1
+   :SEX:      w
+   :OCCUPATION: Schatzsucherin
+   :ORGANIZATION: 
+   :LOCATION:
+   :SRC:      SH 67 SH 130
+   :END:
+   - Aussehen :: 28 Jahre, gutaussehend, rotes Haar, grüne Augen
+   - Zitate :: Da drüben! Da könnte ein Tauchgang lohnen.
+     Ich spüre es, es kribbelt richtig auf meiner Haut. Wie? Magisch? Ich? Nein
+   - Rollenspiel ::
+     - faehrt mit der Hand durchs lange Haar
+   - Hintergrund ::
+     - Schatzsucherin in der Unterstadt
+     - sucht in der Unterstadt nach ihrem verschollenen Vater
+     - ist liiert den Necker *Ybalio*, der sie haeufig in die Unterstadt begleitet
+   - Ziele ::
+     - ihren Vater *Taranion* finden (der lebt auf der Karavelle *Meerschaum*)
+   - Orte :: [[file:locations.org::*Nalleshof (S07)][Nalleshof]]
+
+   - Branwen besitzt ein Boot (6 Personen) im [[file:locations.org::#S01][Südhafen]].
+   - In Fischerort begegnet der schönen Rothaarigen oft Missgunst.
+     *Frauen hassen sie*, weil etliche Männer ihrem Liebreiz verfallen.
+     In den Gassen flüstert man, *sie sei eine Hexe*, die mit unheiligen Mächten im Bunde sei.
+   - Branwen ist *Magiedilettantin*
+     - Bannbaladin
+     - Horriphobus
+     - Magisches Gespür für Schatzsuche in der Unterstadt (Begegnungen -1 SH 119, Schatz +3 SH 120)
+*** Info [/]
