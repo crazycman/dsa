@@ -265,7 +265,7 @@
      - Eghina Maegharin, Vorsteherin des [[file:locations.org::#T06][Hauses der Göttlichen Woge]] (III)
      - Niamh Flutseherin, Hofkaplanin des Efferd im [[file:locations.org::#OF04][Fürstenpalast]] (II)
      - Gilia (II)
-     - Lata, heilige Drachenschildkröte (wie IV)
+     - [[file:npcs.org::#LA1][Lata, Drachenschildkroete]], heilige Drachenschildkröte (wie IV)
    - Stützpunkte ::
      - [[file:locations.org::*Alter Efferdtempel][Alter Efferdtempel]], Fischer und Seefahrer
      - [[file:locations.org::*Haus der Göttlichen Woge][Haus der Göttlichen Woge]], Händler und Adlige
@@ -287,7 +287,7 @@
 *** Ziele und Methoden
     - Bewahren Havener vor unheiligen Kräften aus der Unterstadt
     - Verbreitetes Bild: dank ihrer Ermahnungen hat Efferd Havenen noch nicht versenkt
-    - Kirche will *Macht und Autorität* über Havena bewahren
+    - Kirche will *Macht und Autorität über Havena bewahren*
     - Muster der *Sternenmuschel* gemäß ihrer Eingebungen aufspannen
     - Stärken:
       - Efferd als legitimer & etablierte Gott, der Ansehen in der Bevölkerung genisst

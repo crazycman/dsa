@@ -1,0 +1,88 @@
+* Sonderfertigkeiten
+** Mächtiger Schlag
+   :PROPERTIES:
+   :CUSTOM_ID: sf-ms
+   :END:
+   (passiv)
+   - Regel ::
+   - Bei einer *gelungenen Attacke* müssen Gegner der Größenkategorien mittel und kleiner
+     *eine Probe auf Kraftakt* bestehen, ansonsten erhalten sie den *Status* [[#st-li][Liegend]].
+   - Die Probe ist für den Gegner um die Hälfte der Punkte erschwert,
+     die die Körperkraft des Wesens über 20 liegt (bei einer KK von 23 um 2).
+   - Dem Mächtigen Schlag kann man *nur mittels Ausweichen* komplett entgehen.
+     Bei einer Parade, gleich ob gelungen oder nicht, muss die Probe auf Kraftakt gewürfelt werden.
+   - Voraussetzungen :: Wesen verfügt automatisch über die SF.
+** Klammergriff
+   :PROPERTIES:
+   :CUSTOM_ID: sf-kg
+   :END:
+   Mittels Fangarmen, Tentakeln, Rüsseln, langen Armen oder dem ganzen Körper
+   kann ein Wesen einen Helden umschlingen, anheben und würgen.
+   Der Klammergriff kann nur gegen Gegner kleinerer Größenkategorien eingesetzt werden.
+   - Regel ::
+     - Dem Wesen muss eine AT mit seinem Fangarm gelingen.
+       Kann der Gegner sich *nicht verteidigen, hält der Angreifer ihn fest*.
+     - Solange der Gegner festgehalten wird, leidet er unter den *Status* [[#st-ei][Eingeengt]] und [[#st-fi][Fixiert]].
+       ab der nächsten kr muss das wesen keine at mehr würfeln,
+       sondern erzeugt durch *quetschen sp* in höhe der ausgewürfelten tp des angriffs.
+     - aus dem klammergriff zu *lösen*, ist eine *gelungene vergleichsprobe auf kraftakt*
+       (ziehen & zerren) nötig.
+     - mittels einer freien aktion *kann der klammernde den gehaltenen loslassen*.
+       sollte der klammernde sein opfer angehoben haben, stürzt es und erleidet den status [[*liegend][liegend]],
+       sofern ihm nicht eine *Probe auf Körperbeherrschung* (Kampfmanöver) gelingt.
+   - Erschwernis :: –4
+   - Voraussetzungen :: Wesen verfügt automatisch über die SF
+** Tentakelschwung
+   Wesen mit einem langen, kräftigen Schwanz oder Tentakel können diese als
+   Waffe einsetzen und *über den Boden fegen*, um *mehrere Gegner zu Fall zu bringen*.
+   - Regel :: angreifende Wesen ist mindestens eine Größenkategorie größer als seine Ziele,
+     - Angriff kann man *nur ausweichen*.
+     - *Verteidigung misslungen*, stürzt der Gegner und erleidet den Status [[#st-li][Liegend]].
+     - Durch den Fall erleidet man *1W3 SP*.
+     - Ein solcher Angriff kann nur gegen Ziele vor dem angreifenden Wesen ausgeführt werden.
+   - Erschwernis :: –2 pro Ziel
+   - Voraussetzungen :: Wesen verfügt automatisch über die SF
+** Verbeißen
+   Manche Tiere verbeißen sich regelrecht in ihren Gegner. Dies führt dazu, dass
+   sich das *Opfer kaum noch bewegen* kann und es durch das Reißen *starken Blutverlust* erleidet.
+   - Regel ::
+     - Biss-Angriff, kann *nicht verteidigt* werden, so hat sich die Kreatur festgebissen.
+     - *nachfolgenden KR gelingt Biss-Attacke automatisch*
+     - Jede weitere *KR +1 TP* an 
+     - Der Gegner erhält den Status [[*Fixiert][Fixiert]]
+     - *Verteidigung des Beissers sinkt*, während es durch den Biss am Gegner hängt, *auf 0*.
+     - Das Wesen kann am *Ende einer KR entscheiden loszulassen* (was eine freie Aktion kostet).
+   - Erschwernis :: –2
+   - Voraussetzungen :: Wesen verfügt automatisch über die SF
+* Status
+** Fixiert
+   :PROPERTIES:
+   :CUSTOM_ID: st-fi
+   :END:
+   Wenn eine Person am Boden festklebt oder von Ranken oder Fallen an Ort und
+   Stelle gehalten wird, gilt sie als Fixiert.
+   - Ihre *GS fällt auf 0*
+   - *Ausweichenwert wird um 4 gesenkt*.
+** Eingeengt
+   :PROPERTIES:
+   :CUSTOM_ID: st-ei
+   :END:
+   Befindet sich eine Person in einer beengten Umgebung, beispielsweise in
+   niedrigen Räumen, engen Stollen oder in einem dichten Gedränge, gilt dies als
+   beengte Umgebung. Bewegung ist eingschraenkt, was sich besonders im Kampf
+   negativ auswirkt. Waffen mit der Reichweite kurz führen hier nicht zu Abzügen.
+   - Kurze Waffen :: +/–0 auf AT; +/–0 auf PA
+   - Mittlere Waffen :: –4 auf AT; –4 auf PA
+   - Lange Waffen :: –8 auf AT; –8 auf PA
+   Talentanwendungen können in solchen Situationen um bis zu 2 erschwert werden.
+   Zauber und Liturgien werden normalerweise nicht negativ beeinflusst, wenn der Wirkende eingeengt ist.
+** Liegend
+   :PROPERTIES:
+   :CUSTOM_ID: st-li
+   :END:
+   - So lange die Person liegt, kann sie sich nur sehr langsam fortbewegen (*GS 1*).
+   - Ihre *Verteidigung ist um 2 erschwert, ihre Angriffe um 4*.
+   - Aufstehen :: 1 Aktion. Ist ein
+     - *Gegner in Angriffsdistanz*, kann er dabei einen *Passierschlag* ausführen.
+     - Um *keinen Passierschlag* abzubekommen : *Probe auf Körperbeherrschung (Kampfmanöver)* ablegen.
+       Bei Gelingen bekommt er keinen Passierschlag ab.

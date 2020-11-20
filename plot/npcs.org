@@ -493,5 +493,47 @@
      - Bannbaladin
      - Horriphobus
      - Magisches Gespür für Schatzsuche in der Unterstadt (Begegnungen -1 SH 119, Schatz +3 SH 120)
+*** Info [0/0]
+** Lata, Drachenschildkroete
+   :PROPERTIES:
+   :CUSTOM_ID: LA1
+   :SEX:      w
+   :OCCUPATION: Sendbotin Efferds
+   :ORGANIZATION: EK1
+   :LOCATION: LK
+   :SRC:      SH 110
+   :END:
+   - Aussehen :: 12 Schritt lang, 4 Schritt hoch
+     - der *uralte Schildkroetenpanzer* trägt Muscheln, Seepocken zahllosen Narben erbitterter Kämpfe
+     - Der Kopf ist von einem *Hornkamm* geschmückt
+     - Ihre gütigen, gelben Augen sind tellergroß und blinzeln selten
+   - Zitate ::
+     - Heilige Lata! (Ausruf des Erstaunens)
+   - Rollenspiel ::
+     - uralt, weise & langmuetig
+     - freundlich & vertrauensselig gegenueber Sterblichen
+   - Hintergrund ::
+     - kam kurz nach der grossen Flut nach Havena
+   - Kommunikation :: per *Gedankensprache*.
+     - wählt als Gegenüber einen intuitiven Magiebegabten (Hexe, Elf)
+     - Die Worte, Eindrücke und Bilder steigen wie eine Springflut im verbundenen Geist an.
+       Lata *beginnt meist mit einfachen Botschaften*, die immer komplexer werden.
+       Oft werden ihre Gedanken so stark und intensiv, dass ein Mensch sie kaum noch erfassen kann,
+       im Bildersturm ertrinkt und noch Stunden oder Tage später in der Erinnerung neue Details findet.
+       Empfänger erwachen oft nach dem „Gespräch“ keuchend und mit blutender Nase im Sand der Kaverne.
+   - Ziele ::
+     - Die *Pforte des Grauens bewachen* und dafuer sorgen, dass sie geschlossen bleibt
+     - gegen charyptiden Wesen kaempfen und sie vernichten
+   - Fähigkeiten :: fremdartige, animalische Magie 
+     - magische Wellen der Zerstörung gegen Feinde zu senden
+     - in die Vergangenheit zu blicken
+     - Tore in nahe Feenwelten zu öffnen.
+     - Sie kann Landlebewesen die Fähigkeit zur Wasseratmung geben
+     - den Eingang zu ihrer Kaverne verhehlen
+   - Orte :: [[file:locations.org::#LK][Latas Kaverne]]
+
+   Die mächtige Drachenschildkröte gilt den Havenern als heiliges Wesen und das
+   Zeichen, dass Efferd sie vor dem Bösen beschützt.
+   Sie durchschwimmt die Unterstadt und geht dort auf Jagd nach charyptiden Kreaturen.
+   
 *** Info [/]
-** 

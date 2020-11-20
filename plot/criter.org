@@ -1,0 +1,12 @@
+* Wesen
+** Riesenoktopode
+   :PROPERTIES:
+   :CUSTOM_ID: cr-ok
+   :END:
+   - Aktionen :: 4, 1 Biss, 3 Tentakel, 1 magische Entladung
+   - Sonderfertigkeiten ::
+     - [[file:rules.org::#sf-kg][Klammergriff]] (Fangarm)
+     - [[file:rules.org::#sf-ms][Mächtiger Schlag]] (Fangarm) (-3)
+     - [[file:rules.org::*Tentakelschwung][Tentakelschwung]] (Fangarm)
+     - [[file:rules.org::*Verbeißen][Verbeißen]] (Biss)
+     - Unterwasserkampf

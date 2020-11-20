@@ -226,7 +226,10 @@
 ***** Schiff
       - Karavelle :: jüngerer Schiffstyp für Fahrten auf hoher See, Wellenreiter
         - Havena-Segel :: Dreieckssegel, das Kreuzen gegen den Wind erlaubt
-        - Heckruder & senkrechter Achtersteven, Mischtakelung
+        - Heckruder & senkrechter Achtersteven, Mischtakelung (mit Sprietsegel)
+        - Kraweelbauweise :: die Naehte zwischen den Planken sind kalfatert, wenig Wasser dringt ein
+          durch gedrungene From und hochgezogenes Heck, schaden selbst maechtige Wogen nicht
+          Wellen werden zerschnitten
       - Willem Kuyfhoff :: *Grangorer* Handelsschiff, kleine schnelle Karavelle
       - Hanno Kuyfhoff-Rothstrand :: Kapitän & Händler, 56 Jahre, weisser Bart, Karavellen Experte
       - Werte ::
@@ -253,20 +256,24 @@
        - [ ] [[file:npcs.org::*Branwen, die Hexe][Branwen]] tolle Frau; wahnsinns rote Haare. Hat mich immer abblitzen lassen.
              Man munkelt, sie sei mit einem Necker liiert
 
-     - Anreise SH 13
+     - Anreise vom Meer der Seiben Winde
+     - Lotse Cullain Nebelstecher SH 66
 
      - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich,
-       ausserdem ist dieDurchfahrt durch die Unterstadt in der Nacht zu gefaehrlich.
-       Deshalb *ankert die Karavellen zur Daemmerung* im Flussdelta vor Havena.
+       ausserdem ist die Durchfahrt durch die Unterstadt in der Nacht zu gefaehrlich.
+       Deshalb *ankert die Karavellen zur Daemmerung* im Flussdelta vor Havena;
+       *in Unmittelbarer Naehe der Unterstadt*.
+       Der Lotse bringt das Schiff auf Geheiss des Kapitäns dort hin; *unter Protest?*
+       mit *spezieller Laterne* zum Leuchten 
      - In der Nacht: nach Lichtzeichen kommt kurze Zeit spaeter ein Ruderboot
        *[[file:npcs.org::#LB1][Lyn Barc, der Aal]] kommt an Bord* um Schmuggelware (Rauschkraut) in empfang zu nehmen.
        Sie hat kurz zuvor in der Unterstadt das *Krakenauge* gefunden und traegt es bei sich.
      - Aufgrund der Präsens des Artefakts wird das Schiff am Ankergrund von
-       mehreren *Riesenoktopeden* (Daimoniden) angegriffen.
+       mehreren [[file:criter.org::#cr-ok][Riesenoktopoden]] (Daimoniden) angegriffen.
      - Beim Kampf wird *Leowald ins Wasser gerissen* und anschliessend
        - von Lata in eine Feenwelt geschickt
        - von Nhywyll Dunkelwasser gefangen genommen
-     - *Lata*, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
+     - [[file:npcs.org::*Lata, Drachenschildkroete][Lata]], die Drachenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
      - Lyn entkommt, das Krakenauge geht verloren
 *** Encounters
     (Zufalls) Begegnungen
