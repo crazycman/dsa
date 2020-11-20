@@ -257,7 +257,7 @@
              Man munkelt, sie sei mit einem Necker liiert
 
      - Anreise vom Meer der Seiben Winde
-     - Lotse Cullain Nebelstecher SH 66
+     - Lotse [[file:npcs.org::#CN1][Cullain Nebelstecher]]
 
      - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich,
        ausserdem ist die Durchfahrt durch die Unterstadt in der Nacht zu gefaehrlich.

@@ -493,7 +493,6 @@
      - Bannbaladin
      - Horriphobus
      - Magisches Gespür für Schatzsuche in der Unterstadt (Begegnungen -1 SH 119, Schatz +3 SH 120)
-*** Info [0/0]
 ** Lata, Drachenschildkroete
    :PROPERTIES:
    :CUSTOM_ID: LA1
@@ -535,5 +534,33 @@
    Die mächtige Drachenschildkröte gilt den Havenern als heiliges Wesen und das
    Zeichen, dass Efferd sie vor dem Bösen beschützt.
    Sie durchschwimmt die Unterstadt und geht dort auf Jagd nach charyptiden Kreaturen.
-   
-*** Info [/]
+** Cullain Nebelstecher
+   :PROPERTIES:
+   :CUSTOM_ID: CN1
+   :SEX:      m
+   :OCCUPATION: Seelotse
+   :ORGANIZATION:
+   :LOCATION: Hafen
+   :SRC:      SH 66
+   :END:
+   - Aussehen :: 32 Jahre, braunes Haar, gutaussehend, verschmitzt
+   - Zitate :: Jetzt sechs Strich steuerbord für 30 Schlag.
+     Steuerbord habe ich gesagt, du Dösbroodel, nicht backbord!
+     Oder willst du dich mit dem Kahn zu den Robben legen?
+   - Rollenspiel ::
+     - Pfeife schmauchend
+   - Hintergrund ::
+     - Cullain ist ein Havener Original. Der charmante Seelotse kennt jede
+       Sandbank zwischen Hafen und Mündung und bringt Schiffe von der kleinen
+       Kogge bis zur Viermastschivone selbst bei dichtem Nebel sicher durch die Fahrrinnen.
+     - Er liebt Geschichten, erzählt gerne Seemannsgarn, trägt jedes Gerücht
+       weiter und weiß, was in Havena vor sich geht.
+       Wettrunden und Boltantischen kann er kaum widerstehen und setzt gerne auf eine gute Gelegenheit.
+     - *Schürzenjäger*
+   - Ziele ::
+   - Orte :: [[file:locations.org::#HA][Hafen]], Lotseninsel
+
+   Spiel- und Wettschulden bringen Cullain regelmäßig in Schwierigkeiten.
+*** Info [0/2]
+    - [ ] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
+    - [ ] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], Ysilt Bennoch wurde in Krakendorf erstochen          
