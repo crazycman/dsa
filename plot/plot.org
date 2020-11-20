@@ -247,11 +247,13 @@
      
 **** Einfahrt nach Havena
      - *Leowald* [0/4]
-       - [ ] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]];
+       - [ ] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]]; Kadetten saufen in [[file:locations.org::#G13][Rondras Einkehr]]
        - [ ] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
        - [ ] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
        - [ ] [[file:npcs.org::*Branwen, die Hexe][Branwen]] tolle Frau; wahnsinns rote Haare. Hat mich immer abblitzen lassen.
-         Man munkelt, sie sei mit einem Necker liiert 
+             Man munkelt, sie sei mit einem Necker liiert
+
+     - Anreise SH 13
 
      - Bei Nacht ist die Einfahrt in den Hafen nicht moeglich,
        ausserdem ist dieDurchfahrt durch die Unterstadt in der Nacht zu gefaehrlich.
@@ -264,7 +266,7 @@
      - Beim Kampf wird *Leowald ins Wasser gerissen* und anschliessend
        - von Lata in eine Feenwelt geschickt
        - von Nhywyll Dunkelwasser gefangen genommen
-     - Lata, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
+     - *Lata*, die Riesenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
      - Lyn entkommt, das Krakenauge geht verloren
 *** Encounters
     (Zufalls) Begegnungen
@@ -276,7 +278,9 @@
       [[file:npcs.org::#FB1][Fackelbart]] taucht auf und murmelt etwas ueber verbotene Magie, wird aber
       von Umstehenden beschwichtigt.
     - In [[file:locations.org::*Nalleshof (S07)][Nalleshof]] (Gassenwissen -2)
-      eine Jaguar Tatze als verborgenes Zeich auf einer Rauschkrauthöhle, betrieben von [[file:organizations.org::#KT1][Kamaluqs Tatzen]] 
+      eine *Jaguar Tatze* als verborgenes Zeich auf einer Rauschkrauthöhle, betrieben von [[file:organizations.org::#KT1][Kamaluqs Tatzen]]
+      -> [[file:npcs.org::#AH1][Ardach Herlogan]]
+    - Die Beschuetzer der Marschen [GN 11] (andere Heldengruppe)
 *** Plot Hooks
 **** Pferdepension (Feldmarken)     
 **** Konkurrierende Schmugglebaden
@@ -285,9 +289,11 @@
 **** Simianide, die Mechanika
 **** Kult der H'Ranga (Allesverschlingende)
 **** Lorbold & Klopatex
-**** Heist
+**** Heist (Stadtvogt, siehe Die Gunst des Fuchses)
 **** Cuanu ui Bennain (verschollener ehemaliger König)
      SH 7 SH 78 
+**** Feenwelten
+     - Kaempfe werden anders interpretier: als Musik/Tanz/Performance Battles!
 ** Master Plot
 *** Personen Organisationen    
     - [[https://de.wiki-aventurica.de/wiki/Charyptoroth][Charyptoroth]]

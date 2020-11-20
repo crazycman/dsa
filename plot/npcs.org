@@ -246,20 +246,21 @@
    :OCCUPATION: Wirtin
    :ORGANIZATION: NG1
    :LOCATION: G08
-   :SRC:      SH 71 SH 105 SK 21
+   :SRC:      SH 71 SH 105 SH 132 SK 21
    :END:
    - Aussehen :: Auelfe, 58 Jahre, schwarzhaarig, schwarze Augen mit Blauschimmer, feine Züge
    - Zitate :: "Setzt euch! Ich bring euch erstmal eine Runde Premer Feuer!"
    - Rollenspiel ::
-     - bezaubernd
+     - bezaubernd, abenteuerlustig
    - Hintergrund ::
      - Wirtin [[file:locations.org::#G08][Esche und Kork]]
      - von allen geschätzte Erscheinung, die zu Havena gehört wie der Hafen
      - Thalionmel hofft immer auf Nachricht von ihrer Zwillingsschwester Aldare,
        die das Fernweh in die weite Welt getrieben hat
-     - Sie hat eine Schwäche für abenteuerlustige Männer
+     - Sie hat eine *Schwäche für abenteuerlustige Männer*
    - Ziele ::
-     - die Taverne fuehren & als Treffpunkt der Nebelgeist nicht auffallen
+     - die Taverne fuehren (unaufaellig, um als Treffpunkt der Nebelgeist nicht aufzufallen)
+     - ihre Schwester Aldare finden
    - Werte :: intuitive Zauberin
      - SK 3
      - Handel 12 (13/14/15)
@@ -268,6 +269,9 @@
      - Bannbaladin 7 (14/14/15)
      - Sensibar 6 (14/14/15)
    - Orte :: [[file:locations.org::#G08][Esche und Kork]]
+
+   - Ihr Ziehvater Sulpiz zog Thalionmel und ihre Schwester als Findelkinder gross.
+     Nachdem er ihnen gestand, zog Aldare hinaus in die Welt um die verschollene Mutter zu finden.
 ** Seola, der Falke
    :PROPERTIES:
    :CUSTOM_ID: SF1
@@ -490,3 +494,4 @@
      - Horriphobus
      - Magisches Gespür für Schatzsuche in der Unterstadt (Begegnungen -1 SH 119, Schatz +3 SH 120)
 *** Info [/]
+** 
