@@ -317,7 +317,7 @@
      - Ruderer und Lastenschlepper.
      - Am Tag arbeiten die Zwillinge als Schauermänner am Hafen
    - Orte :: [[file:locations.org::#HA][Hafen]]
-** Galwin Caeldric
+** Leohain Stoertenbecher
    :PROPERTIES:
    :CUSTOM_ID: GC1
    :SEX:      m
@@ -328,11 +328,13 @@
    :END:
    - Aussehen :: 26 Jahre braunhaarig, Galgenhumor (Knöcherner)
    - Hintergrund ::
-     Hat für die Bande den Kopf hingehalten und sitzt in der Moorburg. Die
-     anderen versprachen, für ihn zu sorgen und ihn rauszuholen. Doch seit
-     einiger Zeit kommt das Geld für Galwins gute Haftbedingungen nicht mehr an,
-     sodass er im Knochenturm leidet. Galwin verliert langsam das Vertrauen in
-     seine Kumpane und steht kurz davor, die Nebelgeister zu verraten.
+     - Bruder von *Leowald*
+     - Hat für die Bande den Kopf hingehalten und sitzt in der Moorburg. Die
+       anderen versprachen, für ihn zu sorgen und ihn rauszuholen. Doch seit
+       einiger Zeit kommt das Geld für Galwins gute Haftbedingungen nicht mehr
+       an, sodass er im Knochenturm leidet. Galwin verliert langsam das
+       Vertrauen in seine Kumpane und steht kurz davor, die Nebelgeister zu
+       verraten.
    - Ziele ::
      - rauskommen 
      - dichthalten
@@ -461,7 +463,7 @@
    - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
 *** Info [0/2]
     - [ ] Auftrag: Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
-      die Aschimeter dort einst zusammenbaute
+          die Aschimeter dort einst zusammenbaute
     - [ ] Befreundet mit [[#BH1][Branwen]]
 ** Branwen, die Hexe
    :PROPERTIES:
@@ -493,6 +495,40 @@
      - Bannbaladin
      - Horriphobus
      - Magisches Gespür für Schatzsuche in der Unterstadt (Begegnungen -1 SH 119, Schatz +3 SH 120)
+** Cullain Nebelstecher
+   :PROPERTIES:
+   :CUSTOM_ID: CN1
+   :SEX:      m
+   :OCCUPATION: Seelotse
+   :ORGANIZATION:
+   :LOCATION: Hafen
+   :SRC:      SH 66
+   :END:
+   - Aussehen :: 32 Jahre, braunes Haar, gutaussehend, verschmitzt
+   - Zitate :: Jetzt sechs Strich steuerbord für 30 Schlag.
+     Steuerbord habe ich gesagt, du Dösbroodel, nicht backbord!
+     Oder willst du dich mit dem Kahn zu den Robben legen?
+   - Rollenspiel ::
+     - Pfeife schmauchend
+   - Hintergrund ::
+     - Cullain ist ein Havener Original. Der charmante Seelotse kennt jede
+       Sandbank zwischen Hafen und Mündung und bringt Schiffe von der kleinen
+       Kogge bis zur Viermastschivone selbst bei dichtem Nebel sicher durch die Fahrrinnen.
+     - Er liebt Geschichten, erzählt gerne Seemannsgarn, trägt jedes Gerücht
+       weiter und weiß, was in Havena vor sich geht.
+       Wettrunden und Boltantischen kann er kaum widerstehen und setzt gerne auf eine gute Gelegenheit.
+     - *Schürzenjäger*
+   - Ziele ::
+   - Orte :: [[file:locations.org::#HA][Hafen]], Lotseninsel
+
+   Spiel- und Wettschulden bringen Cullain regelmäßig in Schwierigkeiten.
+*** Info [0/4]
+    - [ ] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
+    - [ ] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], *Ysilt Bennoch* wurde in Krakendorf erstochen
+    - [ ] vor einigen Jahren Umtriebe des Kultes der *Allesverschlingenden*
+          wahnsinniger Thorwaler Kultist; seitdem verstaerkte Umtriebe
+    - [ ] ist oft im [[file:locations.org::#G08][Esche und Kork]] und kann sich dort mit den Helden treffen
+      
 ** Lata, Drachenschildkroete
    :PROPERTIES:
    :CUSTOM_ID: LA1
@@ -534,33 +570,95 @@
    Die mächtige Drachenschildkröte gilt den Havenern als heiliges Wesen und das
    Zeichen, dass Efferd sie vor dem Bösen beschützt.
    Sie durchschwimmt die Unterstadt und geht dort auf Jagd nach charyptiden Kreaturen.
-** Cullain Nebelstecher
+** Gilia
    :PROPERTIES:
-   :CUSTOM_ID: CN1
-   :SEX:      m
-   :OCCUPATION: Seelotse
-   :ORGANIZATION:
-   :LOCATION: Hafen
-   :SRC:      SH 66
+   :CUSTOM_ID: GI1
+   :SEX:      w
+   :OCCUPATION: Efferd Geweihte
+   :ORGANIZATION: EK1
+   :LOCATION: T02
+   :SRC:      SH 34 SH 106
    :END:
-   - Aussehen :: 32 Jahre, braunes Haar, gutaussehend, verschmitzt
-   - Zitate :: Jetzt sechs Strich steuerbord für 30 Schlag.
-     Steuerbord habe ich gesagt, du Dösbroodel, nicht backbord!
-     Oder willst du dich mit dem Kahn zu den Robben legen?
+   - Aussehen :: 37 Jahre, rotbraunes Haar, viele Sommersprossen
    - Rollenspiel ::
-     - Pfeife schmauchend
-   - Hintergrund ::
-     - Cullain ist ein Havener Original. Der charmante Seelotse kennt jede
-       Sandbank zwischen Hafen und Mündung und bringt Schiffe von der kleinen
-       Kogge bis zur Viermastschivone selbst bei dichtem Nebel sicher durch die Fahrrinnen.
-     - Er liebt Geschichten, erzählt gerne Seemannsgarn, trägt jedes Gerücht
-       weiter und weiß, was in Havena vor sich geht.
-       Wettrunden und Boltantischen kann er kaum widerstehen und setzt gerne auf eine gute Gelegenheit.
-     - *Schürzenjäger*
+     - herzlich & temperamentvoll
+     - Wutanfaelle
+   - Hintergrund :: eine kundige Gwen Petryl-Schleiferin
    - Ziele ::
-   - Orte :: [[file:locations.org::#HA][Hafen]], Lotseninsel
+     - Neckerbefreien 
+   - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
+*** Info [0/1]
+  - [ ] [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
+** Libana
+   :PROPERTIES:
+   :CUSTOM_ID: LI1
+   :SEX:      w
+   :OCCUPATION: Novizin Efferdtempel
+   :ORGANIZATION: EK1
+   :LOCATION: T02
+   :SRC:      SH 34 SH 106
+   :END:
+   - Aussehen :: 16 Jahre, dunkles und nasses Haar, blass-bläuliche Haut, ausdruckslose Miene
+   - Rollenspiel :: liebt Abenteuergeschichten
+   - Hintergrund :: Liban ist die *Tocheter der geflohene charyptoroth Kultistin Selwine Dukatajeff*
+     - kam im Alter von neun Jahren in die Obhut der Efferdkirche, als Selwines Frevel bekannt wurden.
+     - Seitdem hat Selwine wiederholt versucht, Libana *den Dienern des Fischgesichtigen zu entreißen*:
+       Mit Vergiftung, Erpressung und Entführungsversuchen.
+     - wenn es sie nicht gäbe, hätte Selwine die Region um Havena längst verlassen.
+     - Selwine ist eine Charyptorothpaktiererin, die sich auf die Manipulation
+       der Fluten versteht. Wirklich wichtig ist ihr aber nur Libana, die
+       verhängnisvoller Teil ihres Paktes ist: Vor vielen Jahren verzweifelte
+       Selwine bei einem Schiffbruch, den sie mit ihrer Familie erlitt, an den
+       Göttern. Sie bot der Herrin der Nachtblauen Tiefen ihren Mann und ihre
+       Seele, wenn dafür nur ihre Tochter leben würde. Ihr Mann ertrank, sie
+       selbst ging einen Pakt ein, und Libana überlebte.
+     - Doch *Libana ist seitdem ebenfalls gezeichnet*: Sie ist freudlos, und ihre Haut muss
+       stets feucht gehalten werden, damit sie nicht austrocknet.
+     - Die Efferdgeweihten, die sich Libanas annahmen, mussten zudem feststellen, dass
+       ein Lebensband zwischen Mutter und der unschuldigen Tochter besteht: Stirbt
+       eine, siecht auch die andere binnen Stunden dahin. Reinigende Zeremonien im
+       Tempel konnten das Band nicht auflösen.
+     - *Libanas Herkunft ist ein offenes Geheimnis*, aber die Efferdgeweihten
+       bemühen sich, der Heranwachsenden neue Lebensfreude zu geben und ihr
+       dämonisches Stigma zu heilen. Gegen Selwine gehen sie nur vorsichtig vor,
+       um Libana nicht zu gefährden.
+   - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
 
-   Spiel- und Wettschulden bringen Cullain regelmäßig in Schwierigkeiten.
-*** Info [0/2]
-    - [ ] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
-    - [ ] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], Ysilt Bennoch wurde in Krakendorf erstochen          
+   fällt auf durch: *kränkliche Erscheinung*, *viele efferdgeweihte Amulette* und stets *nasse Kleidung*
+** Caye
+   :PROPERTIES:
+   :CUSTOM_ID: CA1
+   :SEX:      m
+   :OCCUPATION: Koch
+   :ORGANIZATION: EV1
+   :LOCATION: G08
+   :SRC:      SRC 35 SH 106
+   :END:
+   - Aussehen :: 49 Jahre, Glatze, viele Tätowierungen, schüchtern
+   - Zitate :: Singend
+   - Rollenspiel :: singt beim Kochen und verstummt wenn jemand die Kueche betritt
+   - Hintergrund ::
+     - behauptet, ein Bastardsohn des ehemaligen Fürsten Halman zu sein, eines bekannten Herzensbrechers
+   - Ziele ::
+     - gutes Essen
+     - Necker befreien
+   - Orte :: [[file:locations.org::*Esche und Kork][Esche und Kork]]
+*** Info [/]
+    - [ ] Mitgliede in [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
+
+** Sula
+   :PROPERTIES:
+   :CUSTOM_ID: SU1
+   :SEX:      w
+   :OCCUPATION: Magd
+   :ORGANIZATION: 
+   :LOCATION: G08
+   :SRC:      SRC 35
+   :END:
+   - Aussehen :: 31 Jahre, blondes Haar, großherzig
+   - Rollenspiel :: hilfsbereit
+   - Hintergrund ::
+     ist ein ehemaliges Bettlermädchen aus dem Orkendorf. Die Travia-Akoluthin
+     ist bei der Arbeit stets von einer Traube halb angenommener,
+     *schmuddeliger Gossenkinder umgeben, die ihr zur Hand gehen*.
+   - Orte :: [[file:locations.org::*Esche und Kork][Esche und Kork]]      

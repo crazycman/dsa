@@ -217,6 +217,8 @@
 
 ** Handlung
 *** Beginn
+**** Al'Anfa
+     - Markt und Verkauf von *Achsel von der Klaue*
 **** von Al'Anfa nach Havena
      - Dauer :: 24 Tage
      - Kosten ::
@@ -254,7 +256,7 @@
        - [ ] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
        - [ ] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
        - [ ] [[file:npcs.org::*Branwen, die Hexe][Branwen]] tolle Frau; wahnsinns rote Haare. Hat mich immer abblitzen lassen.
-             Man munkelt, sie sei mit einem Necker liiert
+             Man munkelt, sie sei mit einem *Nixer* (Necker) liiert
 
      - Anreise vom Meer der Seiben Winde
      - Lotse [[file:npcs.org::#CN1][Cullain Nebelstecher]]
@@ -275,6 +277,10 @@
        - von Nhywyll Dunkelwasser gefangen genommen
      - [[file:npcs.org::*Lata, Drachenschildkroete][Lata]], die Drachenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
      - Lyn entkommt, das Krakenauge geht verloren
+
+**** Hafen
+     -[[file:locations.org::#SÜ10][Zollbrücke]] und Zoellnerin [[file:npcs.org::#IK1][Idra Kerkil]]
+     
 *** Encounters
     (Zufalls) Begegnungen
     - [[file:organizations.org::Encounter-Nebelgeister][Encounter-Nebelgeister]]

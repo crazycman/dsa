@@ -31,7 +31,7 @@
      - [[file:npcs.org::#RT1][Ranziger Toss]] (IV)
      - [[file:npcs.org::#LB1][Lyn Barc, der Aal]] (III)
      - [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] (III)
-     - [[file:npcs.org::#GC1][Galwin Caeldric]] (III)       
+     - [[file:npcs.org::#GC1][Leohain Stoertenbecher]] (III)       
    - Stützpunkte ::
      - Geisterinsel, Zwischenlager in der Unterstadt
      - [[file:npcs.org::#MD1][Mhorans]] Haus (Versteck in Südhafen)
@@ -264,7 +264,7 @@
      - Graustein, Vorsteher des [[file:locations.org::#T02][alten Efferdtempels]] (III)
      - Eghina Maegharin, Vorsteherin des [[file:locations.org::#T06][Hauses der Göttlichen Woge]] (III)
      - Niamh Flutseherin, Hofkaplanin des Efferd im [[file:locations.org::#OF04][Fürstenpalast]] (II)
-     - Gilia (II)
+     - [[file:npcs.org::*Gilia][Gilia]] (II)
      - [[file:npcs.org::#LA1][Lata, Drachenschildkroete]], heilige Drachenschildkröte (wie IV)
    - Stützpunkte ::
      - [[file:locations.org::*Alter Efferdtempel][Alter Efferdtempel]], Fischer und Seefahrer
@@ -308,3 +308,29 @@
         Predigtduell, Herbeirufen eines Göttlichen Zeichens,
         Tauch- und Segelwettbewerb, Beherrschung der Fluten und Wassertiere
       - *Anheuern* von Dieben, Schlägern, Plünderern, Entführern, um dem Gegner Schaden zuzufügen
+** Efferds Vergeltung (Neckerfreunde)
+   :PROPERTIES:
+   :CUSTOM_ID: EV1
+   :SRC:      SH 106
+   :END:
+   - Größe :: ca. 2 Dutzend Personen
+   - Hierarchie :: gering
+   - Wichtige Personen ::
+     - Efferdgeweihte [[file:npcs.org::#GI1][Gilia]]
+     - [[file:npcs.org::#CA1][Caye]] Koch des [[file:locations.org::#G08][Esche und Kork]]
+     - Ybalio (Necker)
+   - Stützpunkte ::
+     - [[file:locations.org::#NA06][Haus der Efferdbrüder]]
+   - Domänen :: Befreiung von Neckern (und anderen Skalven) aus Gefangenschaft 
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 4/3/2
+   - Zitat :: Fuer Efferd: Auf in die Freihheit!
+
+   - Aufgrund von Korruption und Vetterwirtschaft, ist der illegalen Neckerhaltung schwer bezukommen,
+     deshalb *befreien sie gefangene Necker* und andere Skalven auf eigene Faust.
+   - Sie glauben, dass die *Necker Schützlinge Efferds* sind. Wenn die Meerwesen
+     von Menschenhand gequält und missbraucht werden, dann werde der Zorn des
+     Gottes Havena unweigerlich aufs Neue treffen und diesmal kein Sterblicher
+     lebend davonkommen
+   - Kooperieren mit Dieben
+   - nutzen die *Kanalisation*
+   
