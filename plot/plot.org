@@ -269,7 +269,7 @@
        mit *spezieller Laterne* zum Leuchten 
      - In der Nacht: nach Lichtzeichen kommt kurze Zeit spaeter ein Ruderboot
        *[[file:npcs.org::#LB1][Lyn Barc, der Aal]] kommt an Bord* um Schmuggelware (Rauschkraut) in empfang zu nehmen.
-       Sie hat kurz zuvor in der Unterstadt das *Krakenauge* gefunden und traegt es bei sich.
+       Sie hat kurz zuvor in der Unterstadt das [[file:items.org::#KA1][Krakenauge]] gefunden und traegt es bei sich.
      - Aufgrund der Präsens des Artefakts wird das Schiff am Ankergrund von
        mehreren [[file:criter.org::#cr-ok][Riesenoktopoden]] (Daimoniden) angegriffen.
      - Beim Kampf wird *Leowald ins Wasser gerissen* und anschliessend
