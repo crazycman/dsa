@@ -2,58 +2,41 @@
 ** Krakenauge
    :PROPERTIES:
    :CUSTOM_ID: KA1
-   :TYP: Artefakt
+   :TYP: Artefakt daemonisch
    :SRC: SH 91 SH 92
    :END:
-   - Beschreibung :: eine unregelmäßig geformte, düster funkelnde, hühnereigroße
-     Kugel, in der sich blaue, grüne und rote Schlieren bewegen
-   - Wirkung :: Das Krakenauge ist ein erzdämonischer Talisman aus der Domäne
-     Charyptoroths, der Macht über Wesen aus der Tiefsee verleiht. Das Auge
-     erleichtert Beschwörungen von Dämonen aus Charyptoroths Gefolge um 3.
-     Darüber hinaus ähnelt es einem dauerhaft wirkenden Artefakt mit einem HERR
-     ÜBER DAS TIERREICH (20 FP), der sich jedoch auf Meereslebewesen innerhalb
-     von 16 Schritt Reichweite beschränkt. Mit dem Krakenauge lassen sich
-     Meereslebewesen aller Größenkategorien beherrschen, abgesehen von
-     Kulturschaffenden, Delphinen, Walen und Rochen. Selbst Seeschlangen und
-     andere ähnlich große Meeresungeheuer können der Wirkung des dunklen
-     Talismans nicht widerstehen.
+   - Beschreibung :: eine unregelmäßig geformte, düster funkelnde, hühnereigroße Kugel,
+     in der sich blaue, grüne und rote Schlieren bewegen
+   - Wirkung :: *Charyptoroth Talisman*, der *Macht über Wesen aus der Tiefsee* verleiht.
+     - erleichtert Beschwörungen von Dämonen aus Charyptoroths Gefolge um 3.
+     - dauerhaft wirkenden Artefakt mit einem *HERR ÜBER DAS TIERREICH (20 FP)*,
+       beschränkt auf Meereslebewesen aller Größenkategorien innerhalb von 16 Schritt Reichweite.
    - Kosten :: unbekannt
    - Preis :: unbezahlbar
    
-Die Herkunft des Krakenauges ist unklar, es befand sich jedoch lange Jahre in
-den Händen des Charyptoroth-Kultes. Mit seiner Kraft soll es den Kultisten
-möglich gewesen sein, eine Seeschlange herbeizurufen und ihr Befehle zu geben.
-Die Wenigen, die seiner ansichtig wurden, berichten davon, dass das Auge
-ungeahnte Beeinflussung bei jenen ausübt, die in seine Schlieren schauen oder
-seinem leisen Zischeln lauschen. Versprechungen von der Macht über das Meer und
-über das eigene Schicksal scheinen dabei eine Schlüsselrolle zu spielen.
+   Die Wenigen, die seiner ansichtig wurden, berichten davon, dass das Auge
+   ungeahnte Beeinflussung bei jenen ausübt, die in seine Schlieren schauen oder
+   seinem *leisen Zischeln* lauschen.
+   *Versprechungen von der Macht über das Meer* und über das eigene Schicksal
+   scheinen dabei eine Schlüsselrolle zu spielen.
 
-Das letzte Mal eingesetzt wurde der dunkle Talisman im Jahr 1035 BF bei der
-Brautschau des jungen Prinzen Finnian ui Bennain. Aber selbst unter Einsatz all
-ihrer Kräfte konnten die finsteren Kultisten nicht verhindern, dass das
-Krakenauge in den Fluten vor Havena versank, ohne sein böses Werk zu
-vollbringen. Bis heute suchen sowohl Abgesandte des Fürsten, die Hexen der
-Thorwaler, Geweihte des Efferd als auch die sich neu formierenden Anhänger der
-Charyb’Yzz nach diesem Kleinod, das ungeahnte Macht über die Bestien der Tiefsee
-und der Unterstadt verleihen soll
+   *Letzte Sichtung* im Jahr 1035 BF bei der Brautschau des jungen Prinzen
+   Finnian ui Bennain. Aber selbst unter Einsatz all ihrer Kräfte konnten die
+   finsteren Kultisten nicht verhindern, dass das Krakenauge in den Fluten vor
+   Havena versank, ohne sein böses Werk zu vollbringen.
+   Bis heute *suchen* sowohl Abgesandte des Fürsten, die Hexen der Thorwaler,
+   *Geweihte des Efferd* als auch die sich neu formierenden Anhänger der
+   Charyb’Yzz nach diesem Kleinod, das ungeahnte Macht über die Bestien der
+   Tiefsee und der Unterstadt verleihen soll
 
-Es soll jedoch nicht unerwähnt bleiben, dass der kostbare Talisman anscheinend
-einen finsteren Gegenpart hat: das Krakenauge. Es steht zu befürchten, dass die
-Herrin der Nachtblauen Tiefen sich hiermit ihr eigenes Artefakt geschaffen hat,
-um Efferds Macht und Glanz zu trotzen. Der hühnereigroße, unregelmäßig geformte
-Stein, in dem mal schwarzblaue, mal schmutzig grüne, mal düsterrote
-Lichtschlieren funkeln, konnte unheiligen Kulten der Havener Unterstadt
-entrissen werden. Mit ihm riefen sie abscheuliches Tentakelgezücht zu Hilfe,
-aber es nutzte ihnen nichts. Viele, die des Auges ansichtig wurden, scheinen für
-den rechten Glauben verloren und folgen nun sinisteren Plänen. Es heißt ferner,
-dass die weise Matriarchin Larona Seeträumerin durch das Wirken des Krakenauges
-einen viel zu frühen Tod fand.
+   Finsteren Gegenpart der Efferdperle. Viele, die des Auges ansichtig wurden,
+   scheinen für den rechten Glauben verloren und folgen nun sinisteren Plänen.
+   Es heißt ferner, dass die weise *Matriarchin Larona Seeträumerin* durch das
+   Wirken des Krakenauges einen viel *zu frühen Tod* fand.
 
-Auf der Suche nach dem Krakenauge erkunden die Kultisten die Unterstadt, in der
-Hoffnung, das Artefakt möge sie zu alter Macht zurückführen. Nicht einmal sie
-wissen, dass sich das Artefakt inzwischen im Besitz von Yonahoh befindet.
-Offenbar hat sich der neue Anführer des Kultes noch nicht als würdig erwiesen,
-das Krakenauge zurückzuerhalten. Yonahoh beten sie als Sohn der
-Allesverschlingenden an, der dereinst Havena zerstören wird. Sobald sie von der
-Pforte des Grauens und der *Sternenmuschel* erfahren, werden sie versuchen, das
-Siegel zu stören.
+   Das Artefakt befindet sich inzwischen im Besitz von *Yonahoh* befindet.
+   Offenbar hat sich der neue Anführer des Kultes noch nicht als würdig
+   erwiesen, das Krakenauge zurückzuerhalten. Yonahoh beten sie als Sohn der
+   Allesverschlingenden an, der dereinst Havena zerstören wird. Sobald sie von
+   der Pforte des Grauens und der *Sternenmuschel* erfahren, werden sie
+   versuchen, das Siegel zu stören.
