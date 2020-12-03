@@ -40,3 +40,15 @@
    Allesverschlingenden an, der dereinst Havena zerstören wird. Sobald sie von
    der Pforte des Grauens und der *Sternenmuschel* erfahren, werden sie
    versuchen, das Siegel zu stören.
+** Efferdperle
+   :PROPERTIES:
+   :CUSTOM_ID: EP1
+   :TYP: Artefakt goettlich
+   :SRC: SH 93 
+   :END:
+   - Beschreibung :: eine wunderschöne, etwa hühnereigroße Perle von makelloser Reinheit
+   - Wirkung ::
+     - Erleichtert Zeremonien der Efferdkirche
+     - Schutzkreis gegen Daemonen (u.A.), 6 Schritt
+   - Kosten :: unbekannt
+   - Preis :: unbezahlbar

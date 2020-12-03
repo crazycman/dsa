@@ -261,7 +261,7 @@
      - Grad III: Bewahrer von Wind und Wogen (Praetor)
      - Grad IV: Meister der Brandung (Metropolit), Hüter des Zirkels (Patriarch)
    - Wichtige Personen ::
-     - Graustein, Vorsteher des [[file:locations.org::#T02][alten Efferdtempels]] (III)
+     - [[file:npcs.org::#GS1][Graustein]], Vorsteher des [[file:locations.org::#T02][alten Efferdtempels]] (III)
      - Eghina Maegharin, Vorsteherin des [[file:locations.org::#T06][Hauses der Göttlichen Woge]] (III)
      - Niamh Flutseherin, Hofkaplanin des Efferd im [[file:locations.org::#OF04][Fürstenpalast]] (II)
      - [[file:npcs.org::*Gilia][Gilia]] (II)

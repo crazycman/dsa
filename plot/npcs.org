@@ -31,7 +31,7 @@
        Je nach Umgang wird der spaetere Artikel die Helden abwerten oder idealisieren
    - Werte :: Willenskraft 12 (14/13/15)
    - Orte :: [[file:locations.org::#UF11][Redaktionshaus]]
-*** Info [/]
+*** Info [0/4]
     TODO links
     - [ ] [[file:locations.org::#T02][Efferdkirche]] sucht Recken zum Schutz der Buerger
     - [ ] Der H'Ranga Kult der Allesverschlingenden war in der Vergangenheit aktiv in Havena
@@ -509,7 +509,7 @@
      Steuerbord habe ich gesagt, du Dösbroodel, nicht backbord!
      Oder willst du dich mit dem Kahn zu den Robben legen?
    - Rollenspiel ::
-     - Pfeife schmauchend
+     - **Pfeife schmauchend*
    - Hintergrund ::
      - Cullain ist ein Havener Original. Der charmante Seelotse kennt jede
        Sandbank zwischen Hafen und Mündung und bringt Schiffe von der kleinen
@@ -522,9 +522,9 @@
    - Orte :: [[file:locations.org::#HA][Hafen]], Lotseninsel
 
    Spiel- und Wettschulden bringen Cullain regelmäßig in Schwierigkeiten.
-*** Info [0/4]
-    - [ ] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
-    - [ ] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], *Ysilt Bennoch* wurde in Krakendorf erstochen
+*** TODO Info [2/4]
+    - [X] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
+    - [X] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], *Ysilt Bennoch* wurde in Krakendorf erstochen
     - [ ] vor einigen Jahren Umtriebe des Kultes der *Allesverschlingenden*
           wahnsinniger Thorwaler Kultist; seitdem verstaerkte Umtriebe
     - [ ] ist oft im [[file:locations.org::#G08][Esche und Kork]] und kann sich dort mit den Helden treffen
@@ -570,6 +570,49 @@
    Die mächtige Drachenschildkröte gilt den Havenern als heiliges Wesen und das
    Zeichen, dass Efferd sie vor dem Bösen beschützt.
    Sie durchschwimmt die Unterstadt und geht dort auf Jagd nach charyptiden Kreaturen.
+** Graustein
+   :PROPERTIES:
+   :CUSTOM_ID: GS1
+   :SEX:      m
+   :OCCUPATION: Efferd Geweihter
+   :ORGANIZATION: EK1
+   :LOCATION: T02
+   :SRC:      SH 65
+   :END:
+   - Aussehen :: 66 Jahre, 1,78 Schritt, schütteres, graues Haar, kieselgraue Augen, stimmgewaltig
+   - Zitate :: Wie schwach und unmerklich der Sog auch sein mag: Wenn du nicht
+     gegen ihn anruderst oder anschwimmst, wird dich der Strudel früher oder später verschlingen
+   - Rollenspiel ::
+     - lauenhaft wie Efferd (*laut* / leise)
+     - *Mystiker* der sich Versenkung und Studium widmet       
+   - Hintergrund ::
+     - Hüter und *Sprachrohr Latas*, mit der er oft stundenlang Zwiesprache hält.
+       Wer zu Lata will, muss Graustein überzeugen, dieser Begegnung würdig zu sein.
+     - In Latas Grotte fand die *heilige Efferdperle*, die seitdem den *Tempel ziert*.
+     - *Unterstadtkenner* und besitzt profundes Wissen über die Kreaturen des
+       Meeres, alte Kulte sowie die dämonische Widersacherin Efferds, die er
+       leidenschaftlich bekämpft.
+   - Ziele ::
+     - *Macht & Autoritaet* der Efferdkirche erhalten (gegen Numinoru & Charyptoroth)
+     - die *Sternenmuschel* aufbauen und staerken (Schutz vor der Pforte des Grauens)
+   - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
+   - Artefakte :: [[file:items.org::#EP1][Efferdperle]] (wird jeden Wassertag im Tempel praesentiert)
+
+   Graustein weiss von der Pforte des Grauens & und um die Bedeutung der Sternenmuschel.
+   
+   Er weiss auch, dass der *Efferdkult Numinoru aus der Stadt verdrängt hat*.
+   Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
+   Autoritätsverlust befürchtet
+   
+*** Info [0/2]
+    - [ ] *Auftrag* Patroullie & Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
+      - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
+      - Wieso sind sie so aggresiv (als Geschoepfe Efferds?)
+      - 12 Silbertaler pro Nacht
+      - 24 fuer die erfolgreiche Abwehr von Angreifern (abzuholen am folgenden Morgen)
+      - 3*300 Silbertaler, wenn die Gefahr entgueltig beseitigt wird
+    - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
+          zunaechst *geheim: *Sternenmuschel*
 ** Gilia
    :PROPERTIES:
    :CUSTOM_ID: GI1
@@ -589,6 +632,8 @@
    - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
 *** Info [0/1]
   - [ ] [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
+  - [ ] Es koennte sein, dass die Kinder Efferds aufbegehren, gegen das Unrecht
+        (Versklavung) dass ihnen angetan wird
 ** Libana
    :PROPERTIES:
    :CUSTOM_ID: LI1
@@ -643,7 +688,7 @@
      - gutes Essen
      - Necker befreien
    - Orte :: [[file:locations.org::*Esche und Kork][Esche und Kork]]
-*** Info [/]
+*** Info [0/1]
     - [ ] Mitgliede in [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
 
 ** Sula

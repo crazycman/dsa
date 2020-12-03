@@ -105,7 +105,7 @@
 ***** Links [0/1]
       - [ ] Graustein
 *** Orkendorf
-     
+    
 *** GN (Grauen aus dem Nebel)
 **** Opfer der Angriffe [5/9]
      :PROPERTIES:
@@ -217,9 +217,11 @@
 
 ** Handlung
 *** Beginn
-**** Al'Anfa
+**** DONE Al'Anfa
+     CLOSED: [2020-11-27 Fr 11:32]
      - Markt und Verkauf von *Achsel von der Klaue*
-**** von Al'Anfa nach Havena
+**** DONE von Al'Anfa nach Havena
+     CLOSED: [2020-11-27 Fr 11:32]
      - Dauer :: 24 Tage
      - Kosten ::
        - 180 S. :: Gruppendeck, Haengematte, einfache Verpflegung
@@ -228,10 +230,11 @@
 ***** Schiff
       - Karavelle :: jüngerer Schiffstyp für Fahrten auf hoher See, Wellenreiter
         - Havena-Segel :: Dreieckssegel, das Kreuzen gegen den Wind erlaubt
-        - Heckruder & senkrechter Achtersteven, Mischtakelung (mit Sprietsegel)
-        - Kraweelbauweise :: die Naehte zwischen den Planken sind kalfatert, wenig Wasser dringt ein
-          durch gedrungene From und hochgezogenes Heck, schaden selbst maechtige Wogen nicht
-          Wellen werden zerschnitten
+        - Heckruder & *senkrechter Achtersteven*, Mischtakelung (mit Sprietsegel)
+        - Kraweelbauweise ::
+          - die Naehte zwischen den Planken sind kalfatert, wenig Wasser dringt ein
+          - durch gedrungene From und hochgezogenes Heck, schaden selbst maechtige Wogen nicht
+            Wellen werden zerschnitten: *Wellschneider*
       - Willem Kuyfhoff :: *Grangorer* Handelsschiff, kleine schnelle Karavelle
       - Hanno Kuyfhoff-Rothstrand :: Kapitän & Händler, 56 Jahre, weisser Bart, Karavellen Experte
       - Werte ::
@@ -249,15 +252,20 @@
       zum Bersten gefüllt. Lediglich ein schmaler Gang im Laderaum.
       
       Unterdeck befindet sich einem Laderaum *versteckte Schmuggelware*: Rauschkraut.
-     
-**** Einfahrt nach Havena
-     - *Leowald* [0/4]
-       - [ ] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]]; Kadetten saufen in [[file:locations.org::#G13][Rondras Einkehr]]
-       - [ ] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
-       - [ ] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
-       - [ ] [[file:npcs.org::*Branwen, die Hexe][Branwen]] tolle Frau; wahnsinns rote Haare. Hat mich immer abblitzen lassen.
-             Man munkelt, sie sei mit einem *Nixer* (Necker) liiert
 
+**** DONE kurz vor Havena
+     CLOSED: [2020-11-27 FR 11:32]
+    - *Leowald* [5/5]      
+      - [X] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]]; Kadetten saufen in [[file:locations.org::#G13][Rondras Einkehr]]
+      - [X] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
+      - [X] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
+      - [X] [[file:npcs.org::*Branwen, die Hexe][Branwen]] tolle Frau; wahnsinns rote Haare. Hat mich immer abblitzen lassen.
+            Man munkelt, sie sei mit einem *Nixer* (Necker) liiert
+      - [X] Infos im Bezug auf Rauschkrauthandel bzgl. [[file:locations.org::#MA04][Kevendochs exotische Krämerw.]]
+            [[file:locations.org::#OR03][Wolters Krämerladen]] 
+      
+**** DONE Einfahrt nach Havena
+     CLOSED: [2020-11-27 Fr 11:32]
      - Anreise vom Meer der Seiben Winde
      - Lotse [[file:npcs.org::#CN1][Cullain Nebelstecher]]
 
@@ -269,6 +277,7 @@
        mit *spezieller Laterne* zum Leuchten 
      - In der Nacht: nach Lichtzeichen kommt kurze Zeit spaeter ein Ruderboot
        *[[file:npcs.org::#LB1][Lyn Barc, der Aal]] kommt an Bord* um Schmuggelware (Rauschkraut) in empfang zu nehmen.
+       [[file:npcs.org::#DC1][Dunvall]] begleitet sie als Ruderer
        Sie hat kurz zuvor in der Unterstadt das [[file:items.org::#KA1][Krakenauge]] gefunden und traegt es bei sich.
      - Aufgrund der Präsens des Artefakts wird das Schiff am Ankergrund von
        mehreren [[file:criter.org::#cr-ok][Riesenoktopoden]] (Daimoniden) angegriffen.
@@ -276,10 +285,10 @@
        - von Lata in eine Feenwelt geschickt
        - von Nhywyll Dunkelwasser gefangen genommen
      - [[file:npcs.org::*Lata, Drachenschildkroete][Lata]], die Drachenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
-     - Lyn entkommt, das Krakenauge geht verloren
+     - Lyn und Dunvall verstecken sich an Bord, das Krakenauge geht verloren
 
 **** Hafen
-     -[[file:locations.org::#SÜ10][Zollbrücke]] und Zoellnerin [[file:npcs.org::#IK1][Idra Kerkil]]
+     - [[file:locations.org::#SÜ10][Zollbrücke]] und Zoellnerin [[file:npcs.org::#IK1][Idra Kerkil]]
      
 *** Encounters
     (Zufalls) Begegnungen
@@ -307,6 +316,29 @@
      SH 7 SH 78 
 **** Feenwelten
      - Kaempfe werden anders interpretier: als Musik/Tanz/Performance Battles!
+** How to make an RPG sandbox
+   https://twitter.com/hexcrawl/status/1331669009209589760
+   1. Define (initial) borders of the sandbox.
+   2. Fill with a collection of cool stuff.
+   3. Liberally strew scenario hooks around the joint.
+      [[https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox][juggling scenario hooks in a sandbox]]
+   4. Give the PCs a sampling of the scenario hooks.
+      (Either 1-2 per PC or 3-5 for the group is a good baseline.)
+   5. Make sure the PCs have a default action to take
+      if they don't have any better ideas for something to do.
+   6. Sit back and see what happens, generally putting stuff into motion when it
+      gets "touched" (by either the PCs or the mechanics of the sandbox).
+   7. Generally speaking, the exact nature of the sandbox you're running is going to be defined by:
+      - The borders you set.
+      - How you fill it (and what you fill it with).
+      - The default action.
+   8. [[https://thealexandrian.net/wordpress/40638/roleplaying-games/blades-in-the-dark-alternative-starting-situations][Baldes in the Dark]] you have a city, stock it with factions and clocks, and
+      have a default action of either seizing a claim or doing your chosen type
+      of criminal activity.
+** Leowald
+   - Ruestung: blaue Rüstung, nennt sich *Epharit-Rüstung*: RS 6, Belastung 3,
+     keine zusätzliche Belastung, 700 S wert; Eine Plattenrüstung, die das
+     Zaubern nicht einschränkt wie normale Eisen-Platten-Rüstungen
 ** Master Plot
 *** Personen Organisationen    
     - [[https://de.wiki-aventurica.de/wiki/Charyptoroth][Charyptoroth]]
