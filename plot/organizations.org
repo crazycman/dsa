@@ -318,7 +318,7 @@
    - Wichtige Personen ::
      - Efferdgeweihte [[file:npcs.org::#GI1][Gilia]]
      - [[file:npcs.org::#CA1][Caye]] Koch des [[file:locations.org::#G08][Esche und Kork]]
-     - Ybalio (Necker)
+     - [[file:npcs.org::#YB1][Ybalio]] (Necker)
    - Stützpunkte ::
      - [[file:locations.org::#NA06][Haus der Efferdbrüder]]
    - Domänen :: Befreiung von Neckern (und anderen Skalven) aus Gefangenschaft 

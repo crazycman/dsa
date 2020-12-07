@@ -18,7 +18,8 @@
    :COLUMNS:  %45ITEM %4CUSTOM_ID(ID) %4LAYER %6LOCATION %17SRC
    :END:
 *** Unspezifisch
-**** TODO Sonderausgabe der Havena-Fanfare
+**** DONE Sonderausgabe der Havena-Fanfare
+     CLOSED: [2020-12-04 Fr 17:09]
      :PROPERTIES:
      :custom_id: 1
      :location: ueberall
@@ -31,9 +32,9 @@
      - Verkauf durch Botenjunge *Jendar*
      - 12 Heller
      - reisserischer Bericht ueber Morde in Havena
-***** Links [0/2]
-      - [ ] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
-      - [ ] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
+***** Links [2/2]
+      - [X] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
+      - [X] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
 **** TODO Karten fuer Vollmondball auf Rethis
      :PROPERTIES:
      :custom_id: 2
@@ -46,7 +47,7 @@
      - in 2 Tagen am Abend
 ***** Links [0/2]
       - [ ] [[#UF06][Schneider Aradin]]
-      - [ ] [[#G24][Rethis]]
+      - [ ] [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
 **** Begegnung mit der anderen Soeldnergruppe
      :PROPERTIES:
      :custom_id: 4
@@ -94,6 +95,11 @@
      :layer: GN
      :src: GN 15 SH 22 ST 13
      :END:     
+**** TODO Treffen mit Nebelgeistern 
+     Angebot von [[file:npcs.org::#LB1][Lyn Barc]] zur Kooperation:
+     Treffpunkt morgen Abend 22:00h am *Fusse der Prinzessin-Emer-Brücke in Feldmarken*
+     - Schmuggel auf dem Nebelpfad wird immer schwerer
+
 *** Fischerort
 **** Alter Efferdtempel
      :PROPERTIES:
@@ -102,8 +108,6 @@
      :layer: GN
      :SRC:      GN 24 SH 33 ST 11
      :END:
-***** Links [0/1]
-      - [ ] Graustein
 *** Orkendorf
     
 *** GN (Grauen aus dem Nebel)
@@ -187,6 +191,9 @@
       - Fanfare ::
         - ertrunken im Seehafen
 ** Wetter
+   :PROPERTIES:
+   :CUSTOM_ID: wetter
+   :END:
 *** Tabelle
 |   W20 | Wind Typische Windrichtung | Stärke              | Wettercharakter                                                                                                   |
 |-------+----------------------------+---------------------+-------------------------------------------------------------------------------------------------------------------|
@@ -255,14 +262,16 @@
 
 **** DONE kurz vor Havena
      CLOSED: [2020-11-27 FR 11:32]
-    - *Leowald* [5/5]      
+    *Leowald*
+    - Info [5/5]      
       - [X] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]]; Kadetten saufen in [[file:locations.org::#G13][Rondras Einkehr]]
       - [X] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
       - [X] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
       - [X] [[file:npcs.org::*Branwen, die Hexe][Branwen]] tolle Frau; wahnsinns rote Haare. Hat mich immer abblitzen lassen.
             Man munkelt, sie sei mit einem *Nixer* (Necker) liiert
-      - [X] Infos im Bezug auf Rauschkrauthandel bzgl. [[file:locations.org::#MA04][Kevendochs exotische Krämerw.]]
-            [[file:locations.org::#OR03][Wolters Krämerladen]] 
+      - [X] Infos im Bezug auf Rauschkrauthandel bzgl.
+        - [[file:locations.org::#MA04][Kevendochs exotische Krämerw.]]
+        - [[file:locations.org::#OR03][Wolters Krämerladen]] 
       
 **** DONE Einfahrt nach Havena
      CLOSED: [2020-11-27 Fr 11:32]
@@ -287,7 +296,15 @@
      - [[file:npcs.org::*Lata, Drachenschildkroete][Lata]], die Drachenschildkroete taucht zur Rettung auf und bezwingt die Oktopeden
      - Lyn und Dunvall verstecken sich an Bord, das Krakenauge geht verloren
 
-**** Hafen
+**** DONE Nach dem Angriff auf dem Schiff
+     CLOSED: [2020-12-04 Fr 22:42]
+     - Angebot von [[file:npcs.org::#LB1][Lyn Barc]] zur Kooperation:
+       Treffpunkt morgen Abend 22:00h am Fusse der Prinzessin-Emer-Brücke in Feldmarken
+       - Schmuggel auf dem Nebelpfad wird immer schwerer
+
+**** DONE Hafen am Nachsten Morgen
+     CLOSED: [2020-12-04 Fr 22:43]
+     - [[#wetter][Wetter]]
      - [[file:locations.org::#SÜ10][Zollbrücke]] und Zoellnerin [[file:npcs.org::#IK1][Idra Kerkil]]
      
 *** Encounters

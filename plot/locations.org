@@ -313,6 +313,10 @@
     :reich:    5
     :src:      GN 24 SH 33 SK 15 ST 11 
     :END:
+**** Personen
+     - [[file:npcs.org::#GS1][Graustein]]
+     - [[file:npcs.org::#GI1][Gilia]] (Geweihte)
+     - [[file:npcs.org::#LI1][Libana]] (16 Jahre Novizin)
 *** Tsatempel
     :PROPERTIES:
     :custom_id: T03
@@ -561,6 +565,8 @@
     :END:
     - die Stammkneipe der Havena Bullen
     - Wirtin [[file:npcs.org::#TA1][Thalionmel Agilfied]]
+    - Koch [[file:npcs.org::#CA1][Caye]]
+    - Schankmagd [[file:npcs.org::#SU1][Sula]]
 *** Bordell Hafenmaid
     :PROPERTIES:
     :custom_id: G09
@@ -595,8 +601,10 @@
     :qps:      4/3/0
     :eind:     3/5/6
     :reich:    3
-    :src:      SH 17 ST 12 
+    :src:      SH 17 SH 100 ST 12 
     :END:
+    Hinter der Fassade von Wolters Krämerladen verbirgt sich der
+    *Zugang zum geheimen Phextempel* Havenas (R6, U5/6/6).
 *** Kuriositätenladen Runwald
     :PROPERTIES:
     :custom_id: OR04
@@ -828,6 +836,11 @@
     :reich:    2
     :src:      GN 15 23 SH 22 ST 13 
     :END:
+    bietet schales Bier und mäßige Eintöpfe, aber präsentiert in ihrem Gastraum
+    ungewöhnliche Fundstücke aus der Unterstadt.
+**** Personen
+     - [[file:npcs.org::*Ordhan Faic][Ordhan Faic]]
+     - [[file:npcs.org::#WP1][Waern Poschrat]]
 ** Oberfluren (S09)
    :PROPERTIES:
    :custom_id: S09
@@ -1156,7 +1169,7 @@
     :qps:      5/5/0
     :eind:     4/5/5
     :reich:    5
-    :src:      GN 13 SH 27 ST 12
+    :src:      GN 13 SH 27 ST 13
     :END:
 *** Badehaus Nixenquell
     :PROPERTIES:

@@ -390,6 +390,7 @@
 
    Zentrale Person auf dem Silberpfad. Organisiert eingeweihte Zöllner.
 ** Meriwen Bleichbruck
+   stellvertretende Kontorleiterin
    :PROPERTIES:
    :CUSTOM_ID: MB1
    :SEX:      w
@@ -420,9 +421,10 @@
    - Orte ::
      - [[file:locations.org::#NA03][Kontor Engstrand]]
 *** Info [0/3]
-    - [ ] Verbindung zu Axel ueber handel mit Familie von Aue
+    - [ ] Verbindung zu Axel ueber Handel mit Familie von Aue
     - [ ] [[file:plot.org::#5][Vollmondball auf der Rethis]]
     - [ ] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
+          auch der Stadtvogt [[#AH1][Ardach Herlogan]] sieht den Schmuggel als grosses Problem
 ** Simiadane Spectalli, Mechanica
    :PROPERTIES:
    :CUSTOM_ID: SM1
@@ -464,7 +466,7 @@
 *** Info [0/2]
     - [ ] Auftrag: Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
           die Aschimeter dort einst zusammenbaute
-    - [ ] Befreundet mit [[#BH1][Branwen]]
+    - [ ] Befreundet mit [[#BH1][Branwen]]; diese ist mit [[*Ybalio][Ybalio]] dem Necker liiert
 ** Branwen, die Hexe
    :PROPERTIES:
    :CUSTOM_ID: BH1
@@ -528,6 +530,12 @@
     - [ ] vor einigen Jahren Umtriebe des Kultes der *Allesverschlingenden*
           wahnsinniger Thorwaler Kultist; seitdem verstaerkte Umtriebe
     - [ ] ist oft im [[file:locations.org::#G08][Esche und Kork]] und kann sich dort mit den Helden treffen
+    - [ ] *Unterstadt*: vor 300 Jahren von der grossen Flut ueberschwemmt
+      - überflutete Schwemmlandschaft voller sumpfiger Inselchen und schweigender Ruinen.
+      - Ausdehnung von 1,5 auf 2 Meilen etwa doppelt so groß wie das heutige Havena
+      - Schatzsucher, Verbrecher, Schmuggler und Kultisten treiben sich dort hermum
+      - betreten ist Verboten (vom Fuerstenhaus)
+      - [[#BH1][Branwen]] und [[#OF1][Ordhan Faic]] kennen sich dort gut aus, sie sind oft in der [[file:locations.org::*Schatzinsel][Schatzinsel]]
       
 ** Lata, Drachenschildkroete
    :PROPERTIES:
@@ -577,8 +585,9 @@
    :OCCUPATION: Efferd Geweihter
    :ORGANIZATION: EK1
    :LOCATION: T02
-   :SRC:      SH 65
+   :SRC:      SH 65 SH 129
    :END:
+   Bewahrer von Wind und Wogen
    - Aussehen :: 66 Jahre, 1,78 Schritt, schütteres, graues Haar, kieselgraue Augen, stimmgewaltig
    - Zitate :: Wie schwach und unmerklich der Sog auch sein mag: Wenn du nicht
      gegen ihn anruderst oder anschwimmst, wird dich der Strudel früher oder später verschlingen
@@ -604,8 +613,8 @@
    Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
    Autoritätsverlust befürchtet
    
-*** Info [0/2]
-    - [ ] *Auftrag* Patroullie & Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
+*** Info [1/2]
+    - [X] *Auftrag* Patroullie & Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
       - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
       - Wieso sind sie so aggresiv (als Geschoepfe Efferds?)
       - 12 Silbertaler pro Nacht
@@ -679,6 +688,7 @@
    :LOCATION: G08
    :SRC:      SRC 35 SH 106
    :END:
+   Koch
    - Aussehen :: 49 Jahre, Glatze, viele Tätowierungen, schüchtern
    - Zitate :: Singend
    - Rollenspiel :: singt beim Kochen und verstummt wenn jemand die Kueche betritt
@@ -700,6 +710,7 @@
    :LOCATION: G08
    :SRC:      SRC 35
    :END:
+   Schankmagd
    - Aussehen :: 31 Jahre, blondes Haar, großherzig
    - Rollenspiel :: hilfsbereit
    - Hintergrund ::
@@ -707,3 +718,134 @@
      ist bei der Arbeit stets von einer Traube halb angenommener,
      *schmuddeliger Gossenkinder umgeben, die ihr zur Hand gehen*.
    - Orte :: [[file:locations.org::*Esche und Kork][Esche und Kork]]      
+** Domnall Dalpert
+   :PROPERTIES:
+   :CUSTOM_ID: DD1
+   :SEX:      m
+   :OCCUPATION: Hesinde Geweither
+   :ORGANIZATION: EV1
+   :LOCATION: T10
+   :SRC:      GN 13 SH 70 
+   :END:
+   - Aussehen :: 67 Jahre, hager, wirres weißes Haar und weißer Bart
+   - Zitate :: Seid gesegnet mit Hesindes Weisheit
+   - Rollenspiel ::
+     - *hohe Stimme, nervös*
+     - menschenscheu       
+   - Hintergrund ::
+     - Angst um den Tempel (wegen Zauberbann in Havena)
+     - Experte der Kraeuterkunde und der Stadtgeschichte
+     - Steckenpferd ist die grosse Flut: Er glaubt, dass sie - wie bei Selem -
+       durch einen ins Meer fallenden Stern ausgelöst worden war, und dass die
+       *Häufung von fallendem Gwen Petryl möglicherweise eineneue Flut ankündigt*
+   - Ziele ::
+     - plant eine Expedition vor die Küste, um den Meteor von 702 BF auf dem Meeresgrund zu finden
+   - Orte :: [[file:locations.org::#T10][Hesindetempel]]
+
+   Wer sein Vertrauen gewinnt hat einen loyalen Verbuendeten
+   Unterstuetzt verfolgte Zauberkundige diskret
+     
+*** Info [0/3]
+    - [ ] Vertrauen gewinnen:
+      - Hesinde gefaellig
+    - [ ] im *Leseraum* stehen nur uninteressante Schriften
+    - [ ] Bibliothek:
+      - [ ] (Magiekunde -2; -1 bei gezielter Suche nach Necker; ca. 8 Stunden) 
+            *Compendium Drakomagia* von Pher Drodont Werk über Drachen und ihre Magie und Weltsicht
+            enthaelt einen Abschnitt ueber *Necker* 
+      - [ ] Infos ueber Necker in historischen Werken:
+        Sammelprobe (7 Proben, je 30 min, *Geschichtswissen*)
+        - [ ] QS 6:
+          - Necker sind scheue, friedvolle und duldsame Wesen
+          - manchmal Tauschhandel zwischen Menschen & Neckern
+          - Selbst die Versklavung von einzelnen Necker fuehrte bisher nicht zu Angriffen
+        - [ ] QS 10: Passus aus der Stadtchronik, die seltenes aggresives Neckerverhalten beschreibt
+              (Handout, GN 14)
+** Ordhan Faic
+   :PROPERTIES:
+   :CUSTOM_ID: OF1
+   :SEX:      m
+   :OCCUPATION: Unterstadtgaenger
+   :ORGANIZATION: 
+   :LOCATION: G25
+   :SRC:      GN 15 SH 71
+   :END:
+   - Aussehen :: 96 Jahre, hager, fehlender Arm, riecht nach fauligem Fisch; fast blind
+   - Zitate ::
+     - bekannt als *irren Flößer* oder den *alten Schatzsucher*
+   - Rollenspiel ::
+     - *wirr* brabbelt vor sich hin 
+   - Hintergrund ::
+     - lebt auf krude gezimmerten Floß aus Trümmern und Treibgut in der Unterstadt
+     - betrachtet die Unterstadt als sein Revier und versucht andere
+       Schatzsucher in der Regel zu verteiben
+     - Fundstücke setzt er in Fusel und Rauschkraut um, oder er spendet sie an
+       Phex, in dessen Gunst er sich glaubt
+   - Ziele ::
+     - Schaetze finden 
+   - Orte :: [[file:locations.org::#G25][Schatzinsel]], Unterstadt
+*** Info [0/1]
+    - [ ] Gebrabbel:
+      - immer wieder hin und her, hin und her und immer wieder, wann hoeren die auf?
+        (Necker schwimmen unter seinem Floss durch)
+      - und es wallt im Wasser, hoch und runter, hoch und runter wie giftige Quallen
+        und sie tragen es nach Hause in die Tiefe
+        (die Necker haben Stoffe / Kleidung bei sich)
+** Waern Poschrat
+   :PROPERTIES:
+   :CUSTOM_ID: WP1
+   :SEX:      m
+   :OCCUPATION: Wirtin
+   :ORGANIZATION:
+   :LOCATION: G25
+   :SRC:      GN 15
+   :END:
+   - Aussehen :: 50 Jahre, dick, Dreitagebart
+   - Rollenspiel ::
+     - ansteckendes Lachen
+   - Hintergrund ::
+     - Wirt der [[file:locations.org::#G25][Schatzinsel]]
+
+   ist ein alter Schatzsucher,der sich mit Glücksrittern gern über die Tücken
+   und Geheimnisse der Unterstadt austauscht und seine Geschichten mit jedem
+   Jahr schauriger klingen lässt. Wenn in Havena jemand etwas Belangloses
+   erzählt, ist eine beliebt gewordene Entgegnung „Interessiert das vielleicht
+   Waern?“ oder „Waern interessiert’s!“
+   
+*** Info [0/4]
+    - [ ] den Pferden geht es gut; 1 Dukate pro Pferd
+    - [ ] der *modernde Schluerfer* hat mich vor 2 Tagen zu tode erschreckt
+    *Allgemein zu Neckern*
+    - [ ] Verwunderung bzgl. der Uebergriffe (Necker sind eigentlich friedlich)
+    - [ ] manche Schatzsucher tauschen und handeln mit Neckern 
+    - [ ] Alkohol macht sie aggresiv, *Neckerrausch*
+    - [ ] Vollmondlicht macht sie aggresiv
+** Ybalio
+   :PROPERTIES:
+   :CUSTOM_ID: YB1
+   :SEX:      m
+   :OCCUPATION: Necker aus der Unterstadt
+   :ORGANIZATION: EV1
+   :LOCATION: G25
+   :SRC:      SH 68 SH 130
+   :END:
+   - Aussehen :: stattlicher Necker, langes weisses Haar, 
+     rechtes Ohr fehlt, grosser Priatenohring am linke Ohr
+   - Zitate ::
+     Languste sagt: Brodeln-unten-kriechend-Dunkelheit. Tag tuuinas nicht gut
+     für Tauchen in laainnaas uinaa uejo. Trockenohren bleiben besser an Luft.
+     Lail aneeja müssen Herz weiter schlagen, hören auf mich.
+   - Rollenspiel ::
+     - guter Saenger
+   - Hintergrund ::
+   - Ziele ::
+   - Orte :: Unterstadt
+
+   Liebt [[*Branwen, die Hexe][Branwen]] und es qualt ihn, dass er nicht mit ihr zusammen sein kann.
+   Finsteres wie verführerisches Angebot von *Nhywyll Dunkelwasser*:
+   die sich wunderte, dass ihr betörender Gesang bei ihm – einem wahrlich Liebenden – nicht wirkte.
+   Sie *versprach ihm, Branwen in eine Neckerin* zu verwandeln –
+   wenn *Ybalio als ihr Agent* gewisse Dienste übernehmen würde.
+   Ybalio lehnte ab und floh, doch seitdem trägt er die Verlockung und den Zweifel in sich.
+   
+*** Info [0/0]
