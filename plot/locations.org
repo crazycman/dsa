@@ -1241,176 +1241,176 @@
    :END:
 *** Seehafen (Orkendorf, Nalleshof)
 *** Binnenhafen (Fischerort)
-*** Südhafen 
-** Fürstenstieg (FU)
+*** Südhafen
+** Unterstadt
    :PROPERTIES:
-   :custom_id: FU
-   :END:
-*** Ferdokbogen
+   :id: unterstadt
+   :COLUMNS:  %31ITEM %4CUSTOM_ID(ID) %3LOCATION(LOC) %10NIVEAU %3VERFALL %18SRC
+   :END: 
+*** Fürstenstieg (FU)
     :PROPERTIES:
-    :custom_id: FÜ01
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 121
+    :custom_id: FU
     :END:
-*** Stolz von Gareth
+**** Ferdokbogen
+     :PROPERTIES:
+     :custom_id: FÜ01
+     :location: G5
+     :typ:      Du
+     :niveau: -3 bis -1
+     :verfall: 2
+     :src:      SH 121
+     :END:
+**** Stolz von Gareth
+     :PROPERTIES:
+     :custom_id: FÜ02
+     :location: G3
+     :typ:      Du
+     :niveau: -4 bis -2
+     :verfall: 5
+     :src:      SH 121
+     :END:
+**** Perlenschmiede
+     :PROPERTIES:
+     :custom_id: FÜ03
+     :location: I5
+     :typ:      Du
+     :niveau: -3 bis 2
+     :verfall: 3
+     :src:      SH 122
+     :END:
+**** Spukgasthaus Efferdsgrab
+     :PROPERTIES:
+     :custom_id: FÜ04
+     :location: J5
+     :typ:      Du Ga Ub
+     :qps:      3/3/14
+     :niveau: 1 bis 2
+     :verfall: 1/6
+     :src:      SH 122
+     :END:
+**** Nahemas Turm
+     :PROPERTIES:
+     :custom_id: FÜ05
+     :location: H8
+     :typ:      Du
+     :niveau: -3 bis 4
+     :verfall: 1
+     :src:      SH 122 ST 36
+     :END:
+**** Thermen
+     :PROPERTIES:
+     :custom_id: FÜ06
+     :location: G4
+     :typ:      Du
+     :niveau: -1 bis 1
+     :src:      SH 124
+     :END:
+**** Fürstenpalast Talagh Gorn
+     :PROPERTIES:
+     :custom_id: FÜ07
+     :location: I8
+     :typ:      Du
+     :niveau: -4 bis 2
+     :verfall: 3
+     :src:      SH 127 ST 36
+     :END:
+**** Karavelle Meerschaum
+     :PROPERTIES:
+     :custom_id: KM
+     :location: H4
+     :typ:      Du Te
+     :niveau: -2 bis 3
+     :verfall: 4/2
+     :src:      SH 125
+     :END:
+*** Lhamin (LH)
     :PROPERTIES:
-    :custom_id: FÜ02
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 121
+    :custom_id: LH
     :END:
-*** Perlenschmiede
+**** Haus des Goldenen Dreizacks
+     :PROPERTIES:
+     :custom_id: T12
+     :location: F5
+     :typ:      Du
+     :niveau: 0 bis 3
+     :verfall: 4
+     :src:      SH 123 SK 16
+     :END:
+**** Perainetempel
+     :PROPERTIES:
+     :custom_id: T13
+     :location: D5
+     :typ:      Du Kr
+     :niveau: -1 bis 2
+     :verfall: 3
+     :src:      SH 123
+     :END:
+**** Praiostempel
+     :PROPERTIES:
+     :custom_id: T14
+     :location: E5
+     :typ:      Du Te
+     :niveau: -2 bis 0
+     :verfall: 5
+     :src:      GN 30 SH 123
+     :END:
+**** Gartheltas Puppentheater
+     :PROPERTIES:
+     :custom_id: LH01
+     :location: E4
+     :typ:      Du
+     :niveau: 0 bis 2
+     :src:      SH 124
+     :END:
+*** Firunsstadt (FS)
     :PROPERTIES:
-    :custom_id: FÜ03
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 122
+    :custom_id: FS
     :END:
-*** Spukgasthaus Efferdsgrab
+**** Thaumaturgische Akademie
+     :PROPERTIES:
+     :custom_id: FS01
+     :location: B3
+     :typ:      Du
+     :niveau: -3 bis 2
+     :verfall: 3
+     :src:      GN 30 SH 122
+     :END:
+**** Große Bibliothek
+     :PROPERTIES:
+     :custom_id: FS02
+     :location: E2
+     :typ:      Du
+     :niveau: -2 bis -1
+     :verfall: 6
+     :src:      SH 123
+     :END:
+**** Kaiser-Gerbald-Säule
+     :PROPERTIES:
+     :custom_id: FS03
+     :location: E3
+     :typ:      Du
+     :src:      SH 121
+     :END:
+**** Traviatempel
+     :PROPERTIES:
+     :custom_id: T15
+     :location: B1
+     :typ:      Du Kr Te
+     :niveau: 0 bis 3
+     :src:      GN 30 SH 124 ST 34
+     :END:
+*** Efferdheim (EH)
     :PROPERTIES:
-    :custom_id: FÜ04
-    :typ:      Du Ga Ub
-    :qps:      3/3/14
-    :eind:     -
-    :reich:    -
-    :src:      SH 122
+    :custom_id: EH
     :END:
-*** Nahemas Turm
-    :PROPERTIES:
-    :custom_id: FÜ05
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 122 ST 36 
-    :END:
-*** Thermen
-    :PROPERTIES:
-    :custom_id: FÜ06
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 124
-    :END:
-*** Fürstenpalast Talagh Gorn
-    :PROPERTIES:
-    :custom_id: FÜ07
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 127 ST 36 
-    :END:
-*** Karavelle Meerschaum
-    :PROPERTIES:
-    :custom_id: KM
-    :typ:      Du Te
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 125
-    :END:
-** Lhamin (LH)
-   :PROPERTIES:
-   :custom_id: LH
-   :END:
-*** Haus des Goldenen Dreizacks
-    :PROPERTIES:
-    :custom_id: T12
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 123 SK 16
-    :END:
-*** Perainetempel
-    :PROPERTIES:
-    :custom_id: T13
-    :typ:      Du Kr
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 123
-    :END:
-*** Praiostempel
-    :PROPERTIES:
-    :custom_id: T14
-    :typ:      Du Te
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      GN 30 SH 123
-    :END:
-*** Gartheltas Puppentheater
-    :PROPERTIES:
-    :custom_id: LH01
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 124
-    :END:
-** Firunsstadt (FS)
-   :PROPERTIES:
-   :custom_id: FS
-   :END:
-*** Thaumaturgische Akademie
-    :PROPERTIES:
-    :custom_id: FS01
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      GN 30 SH 122
-    :END:
-*** Große Bibliothek
-    :PROPERTIES:
-    :custom_id: FS02
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 123
-    :END:
-*** Kaiser-Gerbald-Säule
-    :PROPERTIES:
-    :custom_id: FS03
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 121
-    :END:
-*** Traviatempel
-    :PROPERTIES:
-    :custom_id: T15
-    :typ:      Du Kr Te
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      GN 30 SH 124 ST 34 
-    :END:
-** Efferdheim (EH)
-   :PROPERTIES:
-   :custom_id: EH
-   :END:
-*** Lagerhäuser Bhuan Bruadhirs
-    :PROPERTIES:
-    :custom_id: EH01
-    :typ:      Du
-    :qps:      -
-    :eind:     -
-    :reich:    -
-    :src:      SH 124
-    :END:
+**** Lagerhäuser Bhuan Bruadhirs
+     :PROPERTIES:
+     :custom_id: EH01
+     :location: I1
+     :typ:      Du
+     :niveau: -4
+     :src:      SH 124
+     :END:
 * Column View
   #+BEGIN: columnview :hlines 1 :id orte :match "+typ={Ub}-custom_id={T08}-custom_id={FÜ04}" :format "%ITEM(Gasthaus) %CUSTOM_ID(ID) %LOCATION(LOC) %QPS"
   | Gasthaus              | ID  | LOC | QPS    |

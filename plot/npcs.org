@@ -224,6 +224,7 @@
    :LOCATION: G08 HA
    :SRC:      SH 105
    :END:
+   Schmugglerin
    - Aussehen :: 45 Jahre, klein und drahtig, graues Strubbelhaar
    - Rollenspiel ::
      - trockener Humor
@@ -248,6 +249,7 @@
    :LOCATION: G08
    :SRC:      SH 71 SH 105 SH 132 SK 21
    :END:
+   Wirtin der Esche & Kork
    - Aussehen :: Auelfe, 58 Jahre, schwarzhaarig, schwarze Augen mit Blauschimmer, feine Züge
    - Zitate :: "Setzt euch! Ich bring euch erstmal eine Runde Premer Feuer!"
    - Rollenspiel ::
@@ -622,7 +624,9 @@
       - 3*300 Silbertaler, wenn die Gefahr entgueltig beseitigt wird
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
+    - [ ] Karte von Haven (mit Karte der alten Unterstadt)?
 ** Gilia
+   Efferdgeweihte
    :PROPERTIES:
    :CUSTOM_ID: GI1
    :SEX:      w
