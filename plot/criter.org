@@ -10,3 +10,35 @@
      - [[file:rules.org::*Tentakelschwung][Tentakelschwung]] (Fangarm)
      - [[file:rules.org::*Verbeißen][Verbeißen]] (Biss)
      - Unterwasserkampf
+** Necker
+   :PROPERTIES:
+   :CUSTOM_ID: cr-nk
+   :END:
+   - Anmutige Meermenschen; äußerst friedliebende & neugierige Wesen
+   - ungewöhnlich glatte, **fahlweisse Haut* mit bläulichen oder grünlichen Farbton
+   - (meist) langes *weisses/grünliches Hautphaar*
+   - *Schwimmhäute* zwischen Fingern & Zehen; ausgezeichnete Schwimmer
+   - benoetigen *keinen Schlaf*; halten sich zur *Regeneration im Wasser* auf
+   - *koennen Wasser & Luft atmen*; sich aber nicht laenger als 3 St. an Land aufhatlen
+     sterben nach laengerer Zeit ohne Zugang zu Wasser auf dem Trocknen
+   - Verfluechtigen sich in *Gischt & Meerwasser nach ihrem Tode*
+   - singen liebliche & wunderschoene & melancholische *Lieder*
+   - gewoehnlich nackt; Schmuck aus Perlmutt; bewaffnet Mit Netz, Spiess, Dreizack
+   - Sparche & Magie ::
+     - Die Sprache der Necker ist ein *melodischer, vokalhaltiger Singsang*
+     - *senden mittels urtümlicher Zauberei ausdrucksstarke Bilder in die Gedanken* ihres Gegenübers
+     - Feentore erspueren (Hellsicht), Beeinflussung (Neckerkuss), *Wasseratmung verleihen*
+
+   - Staemme ::
+     - Wogenwerfer :: schwimmen mit Schwertfischen um die Wette
+     - Kinder der Mondenhalle :: leben in den Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
+       und treiben manchmal Handel mit Menschen
+       
+*** Infos [0/6]
+   - [ ] Necker sind die Geister der bei der grossen Flut Ertrunkenen
+   - [ ] Verwunderung bzgl. der Uebergriffe (*Necker sind eigentlich friedlich*)
+   - [ ] manche Schatzsucher tauschen und handeln mit Neckern 
+   - [ ] Alkohol macht sie aggresiv, *Neckerrausch*
+   - [ ] Vollmondlicht entrueckt sie & macht sie aggresiv
+   - [ ] Neckersklaverei durch die Gruppe *Lapislazuli*;
+         Neckerbefreiung durch [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]

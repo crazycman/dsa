@@ -42,7 +42,7 @@
      :layer: GN
      :END:
      - junge Verkäuferin *Fianna*
-     - Kostuemball zum Thema: *Die 6 Elemente*
+     - Kostuemball/Maskenball zum Thema: *Die 6 Elemente*
      - 1 Dukate
      - in 2 Tagen am Abend
 ***** Links [0/2]
@@ -99,7 +99,9 @@
      Angebot von [[file:npcs.org::#LB1][Lyn Barc]] zur Kooperation:
      Treffpunkt morgen Abend 22:00h am *Fusse der Prinzessin-Emer-Brücke in Feldmarken*
      - Schmuggel auf dem Nebelpfad wird immer schwerer
-     - [ ] Auftrag: Rettet die Ware 
+       - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
+       - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) mach Jagd aus uns
+     - [ ] *Auftrag*: Bergt die Ware aus [[file:locations.org::#T13][Perainetempel in der Unterstadt]]
 
 *** Fischerort
 **** Alter Efferdtempel

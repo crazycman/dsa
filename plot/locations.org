@@ -837,7 +837,8 @@
     :src:      GN 15 23 SH 22 ST 13 
     :END:
     bietet schales Bier und mäßige Eintöpfe, aber präsentiert in ihrem Gastraum
-    ungewöhnliche Fundstücke aus der Unterstadt.
+    ungewöhnliche Fundstücke aus der Unterstadt; die [[file:npcs.org::*Waern Poschrat][Wirt Poschrat]] oft persönlich aus der
+    Unterstadt geborgen hat
 **** Personen
      - [[file:npcs.org::*Ordhan Faic][Ordhan Faic]]
      - [[file:npcs.org::#WP1][Waern Poschrat]]
@@ -1171,6 +1172,14 @@
     :reich:    5
     :src:      GN 13 SH 27 ST 13
     :END:
+    *zweistöckige Fachwerkgebäude* dient im Untergeschoss als Verkaufsraum und
+    Lager, im Obergeschoss als Werkstatt und Wohnraum für den Besitzer,
+
+    Bei Schneider Aradin lassen sich die *Reichen der Stadt einkleiden*.
+    Meister Yurro Aradin redet viel über die aktuelle Garether und Vinsalter Mode und verschweigt dafür,
+    dass viele seiner edlen *Stoffe aus Schmuggelware* stammen, die er günstiger erwirbt.
+**** Personen
+     [[file:npcs.org::*Yurro Aradin][Yurro Aradin]]
 *** Badehaus Nixenquell
     :PROPERTIES:
     :custom_id: UF07
@@ -1345,6 +1354,11 @@
      :verfall: 3
      :src:      SH 123
      :END:
+     Versteck der [[file:organizations.org::#NG1][Nebelgeister (Verwegene Schmuggler)]]
+     - Kennzeichen ::
+       - Im Nordosten der Unterstadt, gar nicht so weit von der Stadtmauer.
+         Wo die große Zypresse steht.
+       - Portal flankiert von Storchendarstellungen
 **** Praiostempel
      :PROPERTIES:
      :custom_id: T14
