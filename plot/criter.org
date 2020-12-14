@@ -33,7 +33,41 @@
      - Wogenwerfer :: schwimmen mit Schwertfischen um die Wette
      - Kinder der Mondenhalle :: leben in den Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
        und treiben manchmal Handel mit Menschen
-       
+*** Werte
+    Größe: 1,60 bis 1,80 Schritt
+    Gewicht: 60 bis 65 Stein
+    MU 12 KL 12 IN 14 CH 15
+    FF 12 GE 14 KO 13 KK 10
+    LeP 26 AsP 35 KaP – INI 13+1W6
+    AW 7 SK 2 ZK 0 GS 6/8 (an Land / im Wasser)
+    Waffenlos: AT 11 PA 7 TP 1W6 RW kurz
+    Neckerdreizack: AT 11 PA 6 TP 1W6+4 RW lang
+    RS/BE: 0/0
+    Aktionen: 1
+    Vorteile/Nachteile: Altersresistenz, Gutaussehend II,
+      Nichtschläfer, Wasserlebewesen, Zauberer / Angst vor (zu langer Landaufenthalt, Feuer) II,
+      Blutrausch (Auslöser: misslungene Probe auf Willenskraft nach Alkoholgenuss oder während Vollmond auf Landgang)
+    Sonderfertigkeiten: Unterwasserkampf
+    Talente: Betören 8, Einschüchtern 1, Handel 3, Klettern 3, Körperbeherrschung 7,
+      Kraftakt 2, Schwimmen 12, Selbstbeherrschung 3, Sinnesschärfe 6, Überreden 4,
+      Verbergen 5, Willenskraft 5
+    Zauber: Blick in die Gedanken 14, Odem Arcanum 12
+      und andere Zauber mit dem Merkmal Hellsicht in der Tradition der Necker
+    Anzahl: 1 
+    Größenkategorie: mittel
+    Typus: Kulturschaffende, humanoid
+    Beute: keine
+    Kampfverhalten: Necker scheuen Kämpfe und versuchen stattdessen zu fliehen,
+      oder sie verteidigen sich mit einem Neckerdreizack.
+      Im Neckerrausch, wie die Blutrauschvariante der Necker genannt wird,
+      greifen sie hingegen direkt an, notfalls auch mit bloßen Händen.
+    Schmerz +1 bei: 20 LeP, 13 LeP, 7 LeP, 5 LeP oder weniger
+    Flucht: wenn Ärger droht, im Neckerrausch bei 3 Stufen Schmerz
+    Sonderregeln:
+      Tiefseesprache: Ein Necker kann sich mit allen Lebewesen des Meeres unterhalten.
+      Telepathie: Für 1 AsP kann der Necker seine Gedanken in Form von fremdartigen Bildern
+        (meist mit Meer- oder Wasserbezug) an alle Lebewesen in 8 Schritt Entfernung aussenden.
+        Dies sorgt während eines Kampfes für keine zusätzliche Ablenkung.
 *** Infos [0/6]
    - [ ] Necker sind die Geister der bei der grossen Flut Ertrunkenen
    - [ ] Verwunderung bzgl. der Uebergriffe (*Necker sind eigentlich friedlich*)

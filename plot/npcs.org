@@ -421,21 +421,21 @@
    - Werte :: Willenskraft 13 (14,15,13)
    - Orte ::
      - [[file:locations.org::#NA03][Kontor Engstrand]]
-*** Info [0/5]
-    - [ ] Verbindung zu Axel ueber Handel mit Familie von Aue
-    - [ ] zu den *Angriffen*
+*** Info [5/5]
+    - [X] Verbindung zu Axel ueber Handel mit Familie von Aue
+    - [X] zu den *Angriffen*
       - Eindringling von den Wachleuten & Hunden vertrieben; entkommen in Kanal:
         - Wiederlich nach Fisch stinkend
         - mit Muscheln & Tang bewachsen?
         - leutend gruene Augen 
       - "Wuerde mich nicht wundern, wenn die Nebelgeister hinter den Angriffen stecken;
          die Angst nuetzt hinen!"
-    - [ ] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
+    - [X] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
           auch der Stadtvogt [[#AH1][Ardach Herlogan]] sieht den Schmuggel als grosses Problem
-    - [ ] *Auftrag*: Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
+    - [X] *Auftrag*: Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
           zahlt fuer Informationen und Kopfpraemien fuer gefangene Schmuggler;
           kein unmittelbares Interesse an Hehlern (das sie ja auch die Ware der Silbernen Hand absetzen)
-    - [ ] [[file:plot.org::#5][Vollmondball auf der Rethis]]
+    - [X] [[file:plot.org::#5][Vollmondball auf der Rethis]]
 ** Simiadane Spectalli, Mechanica
    :PROPERTIES:
    :CUSTOM_ID: SM1
@@ -535,7 +535,7 @@
    - Orte :: [[file:locations.org::#HA][Hafen]], Lotseninsel
 
    Spiel- und Wettschulden bringen Cullain regelmäßig in Schwierigkeiten.
-*** TODO Info [2/4]
+*** Info [2/4]
     - [X] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
     - [X] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], *Ysilt Bennoch* wurde in Krakendorf erstochen
     - [ ] vor einigen Jahren Umtriebe des Kultes der *Allesverschlingenden*
@@ -624,15 +624,15 @@
    Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
    Autoritätsverlust befürchtet
    
-*** Info [1/3]
+*** Info [2/3]
     - [X] *Auftrag* Patroullie & Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
       - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
       - Wieso sind sie so aggresiv (als Geschoepfe Efferds?)
       - 12 Silbertaler pro Nacht
       - 24 fuer die erfolgreiche Abwehr von Angreifern (abzuholen am folgenden Morgen)
       - 3*300 Silbertaler, wenn die Gefahr entgueltig beseitigt wird
-      - [ ] Siegel des Efferdtempel um sich auszuweisen
-    - [ ] Karte von Haven (mit Karte der alten Unterstadt)?
+      - [X] Siegel des Efferdtempel um sich auszuweisen
+    - [X] Karte von Haven (mit Karte der alten Unterstadt)? -> sieh [[#DD1][Domnall Dalpert]]
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
 ** Gilia
@@ -759,13 +759,13 @@
    Wer sein Vertrauen gewinnt hat einen loyalen Verbuendeten
    Unterstuetzt verfolgte Zauberkundige diskret
      
-*** Info [0/5]
-    - [ ] Vertrauen gewinnen: (Bekehren & Ueberzeugen)
+*** Info [3/5]
+    - [X] Vertrauen gewinnen: (Bekehren & Ueberzeugen)
       - Hesinde gefaellig
     - [ ] im *Leseraum* stehen nur uninteressante Schriften
-    - [ ] Bibliothek:
-      - [ ] Karte von altem Havena  
-      - [ ] (Magiekunde -2; -1 bei gezielter Suche nach Necker; ca. 8 Stunden) 
+    - [-] Bibliothek:
+      - [X] Karte von altem Havena  
+      - [X] (Magiekunde -2; -1 bei gezielter Suche nach Necker; ca. 8 Stunden) 
             *Compendium Drakomagia* von Pher Drodont Werk über Drachen und ihre Magie und Weltsicht
             enthaelt einen Abschnitt ueber *Necker* 
       - [ ] Infos ueber [[file:criter.org::*Necker][Necker]] in historischen Werken:
@@ -776,7 +776,7 @@
           - Selbst die Versklavung von einzelnen Necker fuehrte bisher nicht zu Angriffen
         - [ ] QS 10: Passus aus der Stadtchronik, die seltenes aggresives Neckerverhalten beschreibt
               (Handout, GN 14)
-    - [ ] *Magieverbot in Havena*: Hintergrund & Tipp auf [[file:locations.org::#FS01][Thaumaturgische Akademie]]
+    - [X] *Magieverbot in Havena*: Hintergrund & Tipp auf [[file:locations.org::#FS01][Thaumaturgische Akademie]]
       - Vor ueber 500 Jahren: Gründung der Magierschule Thaumaturgische Akademie;
         bekannt und beruehmt fuer *machtvolle Artefaktemagie*
         *Mondenhalle*: Grosse Kuppelhalle, sechseckiger Grundriss, Alabasterstatue Madas (Mondgoettin)
@@ -799,9 +799,9 @@
           - Verhaengt ein vollständiges Magieverbot für das ganze Stadtgebiet verfügt.
         - Alle Zauberer, die die Kämpfe überlebt haben, werden der Stadt verwiesen,
           das Akademiegebäude wird versiegelt.
-        - hundert Jahre spater kommt dann die grosse Flut
+        - hundert Jahre spaeter kommt dann die grosse Flut
           
-    - [ ] Theorie zur grossen Flut: wie bei Selem durch einen ins Meer fallenden Stern ausgelöst,
+    - [X] Theorie zur grossen Flut: wie bei Selem durch einen ins Meer fallenden Stern ausgelöst,
            und dass die *Häufung von fallendem Gwen Petryl möglicherweise eine neue Flut ankündigt*
 ** Ordhan Faic
    Alter Schatzsucher
@@ -918,4 +918,3 @@
    wenn *Ybalio als ihr Agent* gewisse Dienste übernehmen würde.
    Ybalio lehnte ab und floh, doch seitdem trägt er die Verlockung und den Zweifel in sich.
    
-*** Info [0/0]

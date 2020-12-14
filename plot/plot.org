@@ -95,13 +95,14 @@
      :layer: GN
      :src: GN 15 SH 22 ST 13
      :END:     
-**** TODO Treffen mit Nebelgeistern 
+**** DONE Treffen mit Nebelgeistern 
+     CLOSED: [2020-12-11 Fr 16:28]
      Angebot von [[file:npcs.org::#LB1][Lyn Barc]] zur Kooperation:
      Treffpunkt morgen Abend 22:00h am *Fusse der Prinzessin-Emer-Brücke in Feldmarken*
      - Schmuggel auf dem Nebelpfad wird immer schwerer
        - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
        - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) mach Jagd aus uns
-     - [ ] *Auftrag*: Bergt die Ware aus [[file:locations.org::#T13][Perainetempel in der Unterstadt]]
+     - [X] *Auftrag*: Bergt die Ware aus [[file:locations.org::#T13][Perainetempel in der Unterstadt]]
 
 *** Fischerort
 **** Alter Efferdtempel
@@ -501,6 +502,7 @@
    - Maps https://www.deviantart.com/foundryatropos
    - DSA https://www.deviantart.com/steffenbrand
    - Dungeon desing https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
+   - Tools; e.g. Hex Editor https://entaria.de/coole-rpg-tools
 ** Protokoll
 *** Rico
 **** Schlecht
