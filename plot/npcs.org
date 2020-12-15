@@ -418,7 +418,7 @@
    - Ziele ::
      - stetig Reichtum mehren um in den Stadtadel aufzusteigen
      - die Nebelgeister schwaechen, da sie den Profit der Silbernen Hand schmälern
-   - Werte :: Willenskraft 13 (14,15,13)
+   - Werte :: Willenskraft 8 (12,14,14)
    - Orte ::
      - [[file:locations.org::#NA03][Kontor Engstrand]]
 *** Info [5/5]
@@ -445,6 +445,7 @@
    :LOCATION: UF10
    :SRC:      SH 66 SH 129
    :END:
+   Mechanica
    - Aussehen :: 55 (36) Jahre, blondes wirres Haar, Furunkel auf der Strin, Arbeitsschürze
    - Zitate :: Vertüftelt noch eins! Was sagt Ihr Cavalliere Cranium?
      Meine Sprungfederfüße für pedestrische Beschleunigung ziehen nach links?
@@ -636,7 +637,6 @@
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
 ** Gilia
-   Efferdgeweihte
    :PROPERTIES:
    :CUSTOM_ID: GI1
    :SEX:      w
@@ -645,6 +645,7 @@
    :LOCATION: T02
    :SRC:      SH 34 SH 106
    :END:
+   Efferd Geweihte
    - Aussehen :: 37 Jahre, rotbraunes Haar, viele Sommersprossen
    - Rollenspiel ::
      - herzlich & temperamentvoll
@@ -804,7 +805,6 @@
     - [X] Theorie zur grossen Flut: wie bei Selem durch einen ins Meer fallenden Stern ausgelöst,
            und dass die *Häufung von fallendem Gwen Petryl möglicherweise eine neue Flut ankündigt*
 ** Ordhan Faic
-   Alter Schatzsucher
    :PROPERTIES:
    :CUSTOM_ID: OF1
    :SEX:      m
@@ -813,6 +813,7 @@
    :LOCATION: G25
    :SRC:      GN 15 SH 71
    :END:
+   Alter Schatzsucher
    - Aussehen :: 96 Jahre, hager, fehlender Arm, riecht nach fauligem Fisch; fast blind
    - Zitate ::
      - bekannt als *irren Flößer* oder den *alten Schatzsucher*
@@ -833,9 +834,8 @@
         (Necker schwimmen unter seinem Floss durch)
       - und es wallt im Wasser, hoch und runter, hoch und runter wie giftige Quallen
         und sie tragen es nach Hause in die Tiefe
-        (die Necker haben Stoffe / Kleidung bei sich)
+        (die Necker haben Stoffe / Kleidung bei sich)    
 ** Waern Poschrat
-   Wirt Schatzinsel
    :PROPERTIES:
    :CUSTOM_ID: WP1
    :SEX:      m
@@ -844,6 +844,7 @@
    :LOCATION: G25
    :SRC:      GN 15
    :END:
+   Wirt Schatzinsel
    - Aussehen :: 50 Jahre, dick, Dreitagebart
    - Rollenspiel ::
      - ansteckendes Lachen
@@ -855,7 +856,6 @@
    Jahr schauriger klingen lässt. Wenn in Havena jemand etwas Belangloses
    erzählt, ist eine beliebt gewordene Entgegnung „Interessiert das vielleicht
    Waern?“ oder „Waern interessiert’s!“
-   
 *** Info [0/3]
     - [ ] den Pferden geht es gut; 1 Dukate pro Pferd
     - [ ] der *modernde Schluerfer* hat mich vor 2 Tagen zu tode erschreckt
@@ -864,9 +864,7 @@
           in letzter Zeit klangen sie *klagend, gezwungen & trauernd*
           Vielleicht sind sie in not?
           Floesst jemand ihnen Alkohol ein?
-
 ** Yurro Aradin
-   Schneider
    :PROPERTIES:
    :CUSTOM_ID: YA1
    :SEX:      m
@@ -875,6 +873,7 @@
    :LOCATION: UF06
    :SRC:      GN 13 SH 27 ST 13
    :END:
+   Schneider
    - Aussehen :: 40 Jahre, redet viel, meist mit Massband uber der Schulter
    - Rollenspiel ::
      - Bianca Castafiore Stimme
@@ -882,15 +881,15 @@
      - Schneider der Reichen 
      - [[file:locations.org::#UF06][Schneider Aradin]]
        
-*** Infos
+*** Infos [0/3]
     - [ ] gerade schwer beschaeftig; Laden quillt ueber vor *farbenfrohen Stoffen*
           hat wenig Zeit fuer Helden, die nichts kaufen
     - [ ] zwei Feste stehen bevor
       - [[file:plot.org::#2][Vollmondball auf Rethis]] (Maskenball mit Thema: die 6 Elemente)
       - Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren
     - [ ] Schneider von [[file:plot.org::#3][Scibor Aberkrom]]; der trug gerne leuchtende Farben (Rot, Orange, Gelb)
+          der ist ja jetzt tot: wollt ihr ein rotes Feuerdschinn-Kostuem (Vollmondball) fuer 50S?
 ** Ybalio
-   Necker
    :PROPERTIES:
    :CUSTOM_ID: YB1
    :SEX:      m
@@ -899,6 +898,7 @@
    :LOCATION: G25
    :SRC:      SH 68 SH 130
    :END:
+   Necker
    - Aussehen :: stattlicher Necker, langes weisses Haar, 
      rechtes Ohr fehlt, grosser Priatenohring am linke Ohr
    - Zitate ::
@@ -917,4 +917,137 @@
    Sie *versprach ihm, Branwen in eine Neckerin* zu verwandeln –
    wenn *Ybalio als ihr Agent* gewisse Dienste übernehmen würde.
    Ybalio lehnte ab und floh, doch seitdem trägt er die Verlockung und den Zweifel in sich.
-   
+** Yanne Binsen
+   :PROPERTIES:
+   :CUSTOM_ID: YB1
+   :SEX:      w
+   :OCCUPATION: Tsa Geweithe
+   :ORGANIZATION: 
+   :LOCATION: T03
+   :SRC:      GN 14 SH 26
+   :END:
+   Tsa Geweithe
+   - Aussehen :: 65 Jahre alt, Aussehen Anfang 20, blond, Regenbogentunika
+   - Rollenspiel :: macht gerne Handstand
+   - Hintergrund ::
+     - ist eine Kennerin und Vertraute vieler Feen.
+     - Sie *verschwand 994 BF im Farindelwald*, verbrachte dort einige Monate in
+       Feenwelten und kehrte ins Aventurien des Jahres 1040 BF zurück.
+     - Sie sagt, ein *funkensprühender Stern und Träume von einer traurigen Königin* im Wasser
+       hätten sie nach Havena geführt
+   - Ziele ::
+     - Farindel supporten
+   - Werte :: Willenskraft 2 (12/14/14)
+   - Orte :: [[file:locations.org::#T03][Tsatempel]]
+*** Info [0/2]
+    - [ ] Feen (Farindel) & Nhywyll Dunkelwasser
+    - [ ] (GN) Besucher vor einem Monat in Vollmondnacht (2 ZP, 1 ZP bei gelungener Menschenkenntnis)
+      - junger (20), reicher Mann mit dunklem Haar [[*Padraig Pliskern][Padraig]] (Nachname nicht bekannt)
+      - kam an zwei aufeinanderfolgenden Naechten, spendet Schmucksteine & Blumen & sah aufs Meer
+      - Erzaehlte davon, wie er um eine Frau werbe und auf einen neuen Aufbruch hoffe
+      - Als Ich mich in der zweiten Nacht zur Ruhe legte, sass er noch am Ufer zur Unterstadt
+      - seitdem nicht mehr gesehen
+** Padraig Pliskern
+   :PROPERTIES:
+   :CUSTOM_ID: PP1
+   :SEX:      m
+   :OCCUPATION: Patrizier
+   :ORGANIZATION: 
+   :LOCATION: OF02
+   :SRC:      GN 44
+   :END:
+   Patrizier, ertauschet *das Rote Kleid*
+   - Aussehen :: 22 Jahre, dunkelhaarig, geltungssuechtig & arrogant
+   - Zitate :: Aus der Bahn hier kommt Padraig.
+   - Rollenspiel ::
+     - Stolzer Stutzer
+     - geltungssuechtig & arrogant
+   - Hintergrund ::
+   - Ziele ::
+     - *Rovena einen Antrag* machen um die Haeuser Pliskern und Ratsburger zu verbinden
+   - Werte :: Willenskraft 7 
+   - Orte :: Stadvilla mit Garten in Oberfluren neben [[file:locations.org::#OF02][Instrumentenbauer Allain Ruggard]]
+*** Info [0/0]
+** Asa Anjuhal
+   :PROPERTIES:
+   :CUSTOM_ID: AA1
+   :SEX:      w
+   :OCCUPATION: Wirtin
+   :ORGANIZATION:
+   :LOCATION: G24
+   :SRC:      SH 36
+   :END:
+   Wirtin der Rethis
+   - Aussehen :: 58 Jahre, 1,85 Schritt, wallendes rotes Haar
+   - Rollenspiel :: skrupellos
+   - Hintergrund ::
+     - ist eine aufmerksame Gastgeberin und auch heute noch eine große Verführerin.
+     - Sie arbeitete *einst selbst als Rethismädchen* und erbte das Schiff von der Vorbesitzerin.
+       Man munkelt, es soll damals nicht mit rechten Dingen zugegangen sein.
+     - Abnehmerin von *Schmuggelware* der [[file:organizations.org::#SH1][Die Silberne Hand]] (Alkohol)
+     - haelt den *Necker Bilanil als Sklaven* im Unterdeck der Rethis
+   - Ziele ::
+     - Reichtum und Einfluss mehren
+   - Orte :: [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
+*** Info [/]
+** Tote Hand
+   :PROPERTIES:
+   :CUSTOM_ID: TH1
+   :SEX:      m
+   :OCCUPATION: Croupier
+   :ORGANIZATION:
+   :LOCATION: G24
+   :SRC:      SH 36 SH 107
+   :END:
+   Herr der Karten auf der Rethis
+   - Aussehen :: 24 Jahre, Waldmensch, schwarzes Haar ueber Augen, hoher Hut mit Totenkopfsymbol
+   - Rollenspiel :: raucht Tabakrolle
+   - Hintergrund ::
+     - in Nalleshof aufgewachsen
+     - bezieht exquisites Rauschkraut von [[file:organizations.org::#KT1][Kamaluqs Tatzen]]
+   - Ziele ::
+   - Werte :: Willenskraft 7 (13/13/13)
+   - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
+
+   Er liest auch mit unheilschwangerem Gestus aus der Hand und den Adern im Augapfel.  
+*** Info [/]
+** Phederino du Novara 
+   :PROPERTIES:
+   :CUSTOM_ID: PN1
+   :SEX:      m
+   :OCCUPATION: Magier
+   :ORGANIZATION:
+   :LOCATION: G24
+   :SRC:      SH 36 SH 101
+   :END:
+   Heiler & Babier der Rethis
+   - Aussehen :: 32 zierlich, blonde Perücke, unwiderstehliches Lächeln, stark parfümiert
+   - Rollenspiel :: auf der Hut
+   - Hintergrund ::
+     - Der *gefallene Weißmagier* mit Abschluss der Kusliker Halle der Metamorphosen
+       *bietet zahlungskräftigen Kunden illegale Zauberei* an: Liebestränke, eine
+       verführerische Gestalt, die Entfernung von Makeln, mitunter sogar ein ganz neues Gesicht.
+     - Phederino versteckt sich vor den Häschern der Weißen Gilde in Havena (400 S. Kopfgeld)
+       und flieht bei Gefahr in Katzengestalt.
+   - Ziele :: unentdeckt bleiben 
+   - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
+*** Info [/]
+** Bilanil
+   :PROPERTIES:
+   :CUSTOM_ID: BI1
+   :SEX:      m
+   :OCCUPATION: Sklave
+   :ORGANIZATION:
+   :LOCATION: G24
+   :SRC:      GN 19
+   :END:
+   Necker Sklave auf der Rethis
+   - Aussehen :: meergruene Haut, traurig, teilnahmslos
+   - Rollenspiel :: trauriger Singsang
+   - Hintergrund ::
+     - von Stamm der Wogenwerfer
+     - exotische Vorfuehrungen
+     - Kundinen unterhalten 
+   - Werte :: Willenskraft 2 (11,13,13)
+   - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
+*** Info [/]
