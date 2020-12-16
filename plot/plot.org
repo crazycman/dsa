@@ -118,14 +118,14 @@
 ***** Links [2/2]
       - [X] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
       - [X] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
-**** TODO Begegnung mit der anderen Soeldnergruppe
+**** TODO [#C] Begegnung mit der anderen Soeldnergruppe
      :PROPERTIES:
      :custom_id: 4
      :location: MA OR NA
      :layer: GN
      :END:
 *** Unterfluren
-**** TODO Redaktionshaus Havena-Fanfare & Dreikronen-Drukerei
+**** Redaktionshaus Havena-Fanfare & Dreikronen-Drukerei
      :PROPERTIES:
      :custom_id: UF11
      :location: G14
@@ -210,7 +210,7 @@
       wohl beim Gang vom Traviatempel von Neckern überfallen. Nur zitternd traf
       sie zuhause ein. So groß war der Schrecken, dass die Necker ihr die
       Kleider vom Leibe reißen wollten.
-****** Angriff Etaine [0/6]                                               :info:
+****** Angriff Etaine [0/6]                                            :info:
        - [ ] Orangerotes Kleid
        - [ ] erst verlaesst sie ihren Mann wegen irgendeiner Unterstadtfueherin und dann sowas
        - [ ] spricht kaum noch ein Wort

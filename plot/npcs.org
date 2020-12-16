@@ -704,7 +704,7 @@
    - Ziele ::
      - Neckerbefreien 
    - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
-*** ueber Neckerfreunde [0/2]                                             :info:
+*** ueber Neckerfreunde [0/2]                                          :info:
   - [ ] [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
   - [ ] Es koennte sein, dass die Kinder Efferds aufbegehren, gegen das Unrecht
         (Versklavung) dass ihnen angetan wird
@@ -905,7 +905,7 @@
    Jahr schauriger klingen lässt. Wenn in Havena jemand etwas Belangloses
    erzählt, ist eine beliebt gewordene Entgegnung „Interessiert das vielleicht
    Waern?“ oder „Waern interessiert’s!“
-*** ueber Necker in Not & Branwen [0/3]                                   :info:
+*** ueber Necker in Not & Branwen [0/3]                                :info:
     - [ ] den Pferden geht es gut; 1 Dukate pro Pferd
     *Allgemein zu [[file:criter.org::#cr-nk][Necker]]*
     - [ ] *Neckergesang*: normalerweise schoen, friedlich & betörend;
@@ -931,7 +931,7 @@
      - Schneider der Reichen 
      - [[file:locations.org::#UF06][Schneider Aradin]]
        
-*** beim Schneider [0/3]                                                    :info:
+*** beim Schneider [0/3]                                               :info:
     - [ ] gerade schwer beschaeftig; Laden quillt ueber vor *farbenfrohen Stoffen*
           hat wenig Zeit fuer Helden, die nichts kaufen
     - [ ] zwei Feste stehen bevor
@@ -989,7 +989,7 @@
      - Farindel supporten
    - Werte :: Willenskraft 2 (12/14/14)
    - Orte :: [[file:locations.org::#T03][Tsatempel]]
-*** im Tsa Tempel [0/2]                                                    :info:
+*** im Tsa Tempel [0/2]                                                :info:
     - [ ] Feen (Farindel) & Nhywyll Dunkelwasser
     - [ ] (GN) Besucher vor einem Monat in Vollmondnacht (2 ZP, 1 ZP bei gelungener Menschenkenntnis)
       - junger (20), reicher Mann mit dunklem Haar [[*Padraig Pliskern][Padraig]] (Nachname nicht bekannt)
@@ -1146,7 +1146,7 @@
      - Mutter von [[#RR1][Rovena Rastburger]]
    - Ziele :: Verschärfung des Magieverbots     
    - Orte :: [[file:locations.org::#UF03][Villa Rastburger]]
-*** ueber Rovena Rastburger (rote Kleid) [0/1]                            :info:
+*** ueber Rovena Rastburger (rote Kleid) [0/1]                         :info:
     - [ ] meine Tocheter [[*Rovena Rastburger][Rovena]] macht mir sorgen
       - [ ] sie traegt den Kopf in den Wolken ist hochnaesig geworden
       - [ ] es ist so schlimm, dass sie aus der Villa ins Gaestehaus in der Fuerstenallee gezogen ist
