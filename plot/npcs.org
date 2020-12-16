@@ -283,6 +283,37 @@
 
    - Ihr Ziehvater Sulpiz zog Thalionmel und ihre Schwester als Findelkinder gross.
      Nachdem er ihnen gestand, zog Aldare hinaus in die Welt um die verschollene Mutter zu finden.
+*** Werte
+   Größe: 1,75 Schritt
+   Gewicht: 50 Stein
+   MU 14 KL 13 IN 14 CH 15
+   FF 12 GE 13 KO 13 KK 9
+   LeP 30 AsP 30 KaP - INI 13+1W6
+   AW 7 SK 3 ZK 1 GS 8
+   Waffenlos: AT 12 PA 7 TP 1W6 RW kurz
+   Dolch: AT 13 PA 8 TP 1W6+2 RW kurz
+   RS/BE: 1/0
+   Aktionen: 1
+   Vorteile/Nachteile:
+   Sonderfertigkeiten:
+   Talente:
+     - Handel 12 (13/14/15)
+     - Menschenkenntnis 12 (13/14/15)
+     - Willenskraft 10 (13/14/15)
+   Zauber:
+     - Bannbaladin 7 (14/14/15)
+     - Sensibar 6 (14/14/15)
+     - Balsam Salabunde 8 (13/14/12)
+     - Friedenslied 8 (14/14/15)
+     - Blitz dich find 6 (14/14/15)
+   Anzahl: 1 
+   Größenkategorie:
+   Typus: Kulturschaffende, humanoid
+   Beute: keine
+   Kampfverhalten:
+   Schmerz +1 bei:
+   Flucht:
+   Sonderregeln:     
 ** Seola, der Falke
    :PROPERTIES:
    :CUSTOM_ID: SF1
@@ -977,8 +1008,8 @@
      - ist eine aufmerksame Gastgeberin und auch heute noch eine große Verführerin.
      - Sie arbeitete *einst selbst als Rethismädchen* und erbte das Schiff von der Vorbesitzerin.
        Man munkelt, es soll damals nicht mit rechten Dingen zugegangen sein.
-     - Abnehmerin von *Schmuggelware* der [[file:organizations.org::#SH1][Die Silberne Hand]] (Alkohol)
-     - haelt den *Necker Bilanil als Sklaven* im Unterdeck der Rethis
+     - Abnehmerin von *Schmuggelware* der [[file:organizations.org::#SH1][Silbernen Hand]] (Alkohol)
+     - haelt den *Necker Bilanil als Sklaven* im Unterdeck der Rethis (Verbindung [[file:organizations.org::#LA1][Lapislazuli]])
    - Ziele ::
      - Reichtum und Einfluss mehren
    - Orte :: [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
@@ -1143,4 +1174,3 @@
      - Schmuggel [[file:organizations.org::#SH1][Die Silberne Hand]] & Sklavenhandel [[file:organizations.org::#LA1][Lapislazuli]]
    - Werte ::
    - Orte :: Villa in Oberfluren
-*** Info [/]    

@@ -164,7 +164,7 @@
 **** DONE Treffen mit Nebelgeistern 
      CLOSED: [2020-12-11 Fr 23:55]
      Angebot von [[file:npcs.org::#LB1][Lyn Barc]] zur Kooperation:
-     Treffpunkt morgen Abend 22:00h am *Fusse der Prinzessin-Emer-Brücke in Feldmarken*
+     Treffpunkt morgen Abend 22:00h am *Fusse der [[file:locations.org::#UF09][Prinzessin-Emer-Brücke]] in Feldmarken*
      - Schmuggel auf dem Nebelpfad wird immer schwerer
        - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
        - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) machen Jagd auf uns

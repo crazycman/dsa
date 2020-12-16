@@ -68,11 +68,11 @@
       Telepathie: Für 1 AsP kann der Necker seine Gedanken in Form von fremdartigen Bildern
         (meist mit Meer- oder Wasserbezug) an alle Lebewesen in 8 Schritt Entfernung aussenden.
         Dies sorgt während eines Kampfes für keine zusätzliche Ablenkung.
-*** Infos [0/6]
+*** Infos [0/7]
    - [ ] Necker sind die Geister der bei der grossen Flut Ertrunkenen
    - [ ] Verwunderung bzgl. der Uebergriffe (*Necker sind eigentlich friedlich*)
    - [ ] manche Schatzsucher tauschen und handeln mit Neckern 
    - [ ] Alkohol macht sie aggresiv, *Neckerrausch*
    - [ ] Vollmondlicht entrueckt sie & macht sie aggresiv
-   - [ ] Neckersklaverei durch die Gruppe *Lapislazuli*;
-         Neckerbefreiung durch [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
+   - [ ] Neckersklaverei durch die Gruppe [[file:organizations.org::#LA1][Lapislazuli]]
+   - [ ] Neckerbefreiung durch [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
