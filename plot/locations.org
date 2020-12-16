@@ -836,15 +836,23 @@
     :reich:    5
     :src:      GN 17 SH 35
     :END:
+    - [[file:rules.org::#fr-bs][Brettspiele]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
+
+    Häufige Gäste sind
+    - Rhonwin ui Notorn (Seite 47),
+    - Doride Rastburger (Seite 48), (Rovena Ratsburger; GN)
+    - Faerwyn Wogenholf (Seite 67) und
+    - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]]
+    - [[file:npcs.org::#SM1][Simiadane Spectalli, Mechanica]], wenn sie einem Geldgeber eine Erfindung vorführt.      
 **** Personen
-     - [[file:npcs.org::#AA1][Asa Anjuhal]] Wirtin
-     - [[file:npcs.org::#TH1][Tote Hand]] Croupier
-     - [[file:npcs.org::#PN1][Phederino du Novara]] Heiler & Babier (Magier)
+     - Wirtin :: [[file:npcs.org::#AA1][Asa Anjuhal]] 
+     - Croupier :: [[file:npcs.org::#TH1][Tote Hand]] 
+     - Heiler & Babier :: [[file:npcs.org::#PN1][Phederino du Novara]] (Magier)
      - Koechin :: *Glenna*, Sammlung scharfer Eisenwalder Messer und eine große Bandbreite an Gewürzen
      - Waechter :: *Azif*, ein alter Tulamide
      - Waechter :: *Tsaingla*, eine kaltäugige Feldmärkerin
      - Papagei :: *Avessi*, "Praios zum Grrruss! Guterrr Avessi."
-     - [[file:npcs.org::#BI1][Bilanil]] Neckersklave
+     - Neckersklave :: [[file:npcs.org::#BI1][Bilanil]] 
 *** Schatzinsel
     :PROPERTIES:
     :custom_id: G25

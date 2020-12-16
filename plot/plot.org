@@ -499,10 +499,11 @@
 *** Namen
     https://albernia.westlande.info/index.php?title=Albernische_Namen
 ** Resources
-   - Maps https://www.deviantart.com/foundryatropos
-   - DSA https://www.deviantart.com/steffenbrand
-   - Dungeon desing https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
-   - Tools; e.g. Hex Editor https://entaria.de/coole-rpg-tools
+   - DSA :: https://www.deviantart.com/steffenbrand
+   - Maps :: https://www.deviantart.com/foundryatropos
+   - Dungeon desing :: https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
+   - Tools :: e.g. Hex Editor https://entaria.de/coole-rpg-tools
+   - Hex Editor ::  http://hextml.playest.net
 ** Protokoll
 *** Rico
 **** Schlecht

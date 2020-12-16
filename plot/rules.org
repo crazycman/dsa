@@ -86,3 +86,19 @@
      - *Gegner in Angriffsdistanz*, kann er dabei einen *Passierschlag* ausführen.
      - Um *keinen Passierschlag* abzubekommen : *Probe auf Körperbeherrschung (Kampfmanöver)* ablegen.
        Bei Gelingen bekommt er keinen Passierschlag ab.
+* Focusreglen
+** Kneipenspiele
+   [[https://ulisses-regelwiki.de/index.php/Fokus_Kneipenspiele.html][Fokusregeln Kneipenspiele]]
+*** Brettspiele
+    :PROPERTIES:
+    :CUSTOM_ID: fr-bs
+    :END:
+    - *Vergleichsprobe auf Brett- & Glücksspiel* (Brettspiele) zwischen den Teilnehmern gewürfelt.
+    - Der Teilnehmer mit mehr QS gewinnt die Partie.
+    - Bei *komplexen Brettspielen* kann stattdessen auch eine *Sammelprobe* abgelegt werden.
+      Wer zuerst 10 QS angesammelt hat, erreicht das Spielziel.
+      Bei *Gleichstand*, gewinnt der Spieler mit insgesamt mehr QS, 
+      bzw. werden solange Proben auf Brett- & Glücksspiel (Brettspiele) gewürfelt,
+      bis ein Spieler nach einer Runde mehr QS erreicht hat als alle anderen.
+    - Eine Probe steht für mehrere Züge und für ein Intervall von 10 Minuten.
+      Es sind beliebig viele Proben erlaubt, um die 10 QS zu erreichen.

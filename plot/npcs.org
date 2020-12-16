@@ -967,7 +967,7 @@
      - *Rovena einen Antrag* machen um die Haeuser Pliskern und Ratsburger zu verbinden
    - Werte :: Willenskraft 7 
    - Orte :: Stadvilla mit Garten in Oberfluren neben [[file:locations.org::#OF02][Instrumentenbauer Allain Ruggard]]
-*** Info [0/0]
+*** Info [/]
 ** Asa Anjuhal
    :PROPERTIES:
    :CUSTOM_ID: AA1
