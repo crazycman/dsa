@@ -167,7 +167,7 @@
      Treffpunkt morgen Abend 22:00h am *Fusse der Prinzessin-Emer-Brücke in Feldmarken*
      - Schmuggel auf dem Nebelpfad wird immer schwerer
        - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
-       - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) mach Jagd aus uns
+       - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) machen Jagd auf uns
 *** Fischerort
 **** DONE Alter Efferdtempel
      CLOSED: [2020-12-11 Fr 20:25]

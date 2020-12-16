@@ -124,11 +124,11 @@
    :PROPERTIES:
    :CUSTOM_ID: KT1
    :SRC:      SH 107 SH 24
-   :END:
+   :END:   
    - Symbol/Erkennungszeichen :: Jaguar Tatze
    - Wahlspruch :: Heimlich wie der Jaguar im Dschungel
    - Herkunft: :: Altoum (waldmenschenblütige Betreiber)
-   - Größe :: can ein Dutzend
+   - Größe :: ca. ein Dutzend
    - Hierarchie :: mäßig
    - Wichtige Personen ::
    - Stützpunkte :: Rauschkrauthöhlen [[file:locations.org::#S07][Nalleshof]]
@@ -138,9 +138,34 @@
    - Zusammenhalt, Beziehungen, Finanzkraft :: 4/3/3
 
    Sie nutzen es aus, dass ihr Glaube an den göttlichen Jaguar Kamaluq und die
-   Geister der Natur in Havena eher unbekannt sind, und sie deshalb
-   *abergläubisch gefürchtet werden*. Der Waldmensch *Tote Hand* von der Rethis
-   bezieht von ihnen exquisite Rauschmittel für das Vergnügungsschiff.
+   Geister der Natur in Havena eher unbekannt sind, und sie deshalb *abergläubisch gefürchtet werden*.
+   Der Waldmensch [[file:npcs.org::#TH1][Tote Hand]] von der Rethis bezieht von ihnen Rauschmittel für das Vergnügungsschiff.
+** Lapislazuli
+   :PROPERTIES:
+   :CUSTOM_ID: LA1
+   :SRC:      SH 106
+   :END:
+   Sklavenhändler
+   - Symbol/Erkennungszeichen :: 
+   - Wahlspruch :: Necker, Schlepper, Neckerfaenger. 
+   - Herkunft: :: Al'Anfa
+   - Größe :: ca. ein Dutzend
+   - Hierarchie :: mäßig
+   - Wichtige Personen ::
+   - Stützpunkte :: Muhrsape (Alveran)
+   - Domänen ::
+     - Skalvenhandel
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 3/3/3
+
+   In der Muhrsape haben die Sklavenjäger der Gruppe Lapislazuli ihr Versteck,
+   das sie "Alveran" nennen. Diese größtenteils aus Al’Anfanern bestehende Bande
+   lauert *Neckern* bei Vollmond an deren bevorzugten Gesangsorten auf, um sie in
+   die *Sklaverei* zu verschleppen. Wegen Erfahrungen mit dem Neckerrausch werden
+   sie in Ketten gelegt. Gegen Austrocknung steckt man sie bis zum
+   Weitertransport in schlammige Löcher. Ein Nebengeschäft ist die Jagd auf
+   Menschen, die in der Perle des Südens hohe Preise erzielen können, zum
+   Beispiel attraktive Rothaarige und talentierte Handwerker.
+   In die Geschäfte sind auch [[file:npcs.org::#CO1][Cumal Ongswin]] und [[file:npcs.org::#AH1][Ardach Herlogan]] als Hintermänner verwickelt.
 ** Stadtgarde
    :PROPERTIES:
    :CUSTOM_ID: SG1

@@ -137,6 +137,7 @@
    :LOCATION: OF03
    :SRC:      SH 46 SH 70 SH131
    :END:
+   Stadtvogt
    - Aussehen :: 58 Jahre, klein gewachsen, braune Locken, buschiger Vollbart
    - Zitate ::
      Das *Problem des Schmuggels* ist nicht, dass zu wenige Gardisten hinschauen,
@@ -166,13 +167,13 @@
        Fluss beiseite schaffen ließ, um das Familienerbe anzutreten. Er predigt
        hohe Werte und *schimpft auf den Schmuggel*, mischt aber selbst über Dritte
        kräftig im *Schattenhandel* mit Rauschkraut und Luxuswaren bis hin zum
-       Verschleppen von Neckern mit.
+       Verschleppen von Neckern mit ([[file:organizations.org::*Lapislazuli][Lapislazuli]], [[file:organizations.org::*Die Silberne Hand][Die Silberne Hand]])
      - Zensiert jede Ausgabe der Fanfare.
    - Ziele ::
      - Macht wahren & ausbauen
      - Profit durch Schmuggel
      - Informationen sammeln: Was geht in Havena vor sich; wer sind die relevanten Akteure
-   - Werte :: Willenskraft 15 (14/15/16)
+   - Werte :: Willenskraft 10 (14/15/14)
    - Orte :: [[file:locations.org::#OF03][Haus des Stadtvogts]]
 ** Ranziger Toss
    :PROPERTIES:
@@ -244,6 +245,10 @@
      - [[file:locations.org::#G08][Esche und Kork]]
 *** ACTIVE Queste : Konterbande aus Unterstad bergen                  :quest:
     Bergt die Ware aus [[file:locations.org::#T13][Perainetempel in der Unterstadt]]
+    *Hintergrund*:
+    - Schmuggel auf dem Nebelpfad wird immer schwerer
+    - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
+    - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) machen Jagd auf uns
 ** Thalionmel Agilfied, Thal das Blümchen
    :PROPERTIES:
    :CUSTOM_ID: TA1
@@ -956,27 +961,6 @@
       - Erzaehlte davon, wie er um eine Frau werbe und auf einen neuen Aufbruch hoffe
       - Als Ich mich in der zweiten Nacht zur Ruhe legte, sass er noch am Ufer zur Unterstadt
       - seitdem nicht mehr gesehen
-** Padraig Pliskern
-   :PROPERTIES:
-   :CUSTOM_ID: PP1
-   :SEX:      m
-   :OCCUPATION: Patrizier
-   :ORGANIZATION: 
-   :LOCATION: OF02
-   :SRC:      GN 44
-   :END:
-   Patrizier, ertauschet *das Rote Kleid*
-   - Aussehen :: 22 Jahre, dunkelhaarig, geltungssuechtig & arrogant
-   - Zitate :: Aus der Bahn hier kommt Padraig.
-   - Rollenspiel ::
-     - Stolzer Stutzer
-     - geltungssuechtig & arrogant
-   - Hintergrund ::
-   - Ziele ::
-     - *Rovena einen Antrag* machen um die Haeuser Pliskern und Ratsburger zu verbinden
-   - Werte :: Willenskraft 7 
-   - Orte :: Stadvilla mit Garten in Oberfluren neben [[file:locations.org::#OF02][Instrumentenbauer Allain Ruggard]]
-*** Info [/]
 ** Asa Anjuhal
    :PROPERTIES:
    :CUSTOM_ID: AA1
@@ -1060,3 +1044,103 @@
    - Werte :: Willenskraft 2 (11,13,13)
    - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
 *** Info [/]
+    
+** Padraig Pliskern
+   :PROPERTIES:
+   :CUSTOM_ID: PP1
+   :SEX:      m
+   :OCCUPATION: Patrizier
+   :ORGANIZATION: 
+   :LOCATION: OF02
+   :SRC:      GN 44
+   :END:
+   Patrizier, ertauschet *das Rote Kleid*
+   - Aussehen :: 22 Jahre, dunkelhaarig, geltungssuechtig & arrogant
+   - Zitate :: Aus der Bahn hier kommt Padraig.
+   - Rollenspiel ::
+     - Stolzer Stutzer
+     - geltungssuechtig & arrogant
+   - Hintergrund ::
+     - Vater ist *Tuchhändler* und Vermittler von Söldlingen
+     - schenkte [[#RR1][Rovena Rastburger]] das *Rote Kleid*
+   - Ziele ::
+     - *[[*Rovena Ratsburger][Rovena]] einen Antrag* machen um die Haeuser Pliskern und Rastburger zu verbinden
+   - Werte :: Willenskraft 7 
+   - Orte :: Stadvilla mit Garten in Oberfluren neben [[file:locations.org::#OF02][Instrumentenbauer Allain Ruggard]]
+*** Info [/]
+** Rovena Rastburger
+   :PROPERTIES:
+   :CUSTOM_ID: RR1
+   :SEX:      w
+   :OCCUPATION: Tochter
+   :ORGANIZATION:
+   :LOCATION: S06
+   :SRC:      GN 44
+   :END:
+   - Aussehen :: 19 Jahre, schwarzhaarig,
+     - ohne Kleid: durchschnittliches Aussehen
+     - mit Kleid: die Augenweide
+   - Rollenspiel :: *mädchenhaftes Kichern*, eingebildet
+   - Hintergrund ::
+     - frueher eher fromm & zurückhaltend
+     - glaubt heute, dass ihr die Welt nicht widerstehen kann
+     - kann in der eigenen Familie auf keine bedeutende Stellung hoffen (5 Geschwister)
+     - *das Rote Kleid ist ihr Ein & Alles* und Garant fuer eine luxuriöse Zukunft
+   - Ziele ::
+     - [[#PP1][Padraig Pliskern]] loswerden, sie will eine bessere Partie machen 
+     - Aufstieg in der Gesellschaft durch Heirat mit [[*Cumal Ongswin][Cumal Ongswin]]
+   - Werte ::
+     - Willenskraft 5 (12/12/12)
+     - Betören 5 (12/12/12)
+     - SK 1
+   - Orte :: groß Gästehaus in der Fürstenallee (alter Fachwerbau)
+*** Info [/]
+** Doride Rastburger
+   :PROPERTIES:
+   :CUSTOM_ID: DR1
+   :SEX:      w
+   :OCCUPATION: Reeder
+   :ORGANIZATION:
+   :LOCATION: UF03
+   :SRC:      GN 48
+   :END:
+   Reeder
+   - Aussehen :: 50 Jahre, pummelig
+   - Rollenspiel ::
+   - Hintergrund ::
+     - Als *Emporkömmlinge* gelten die seit zwei Generationen reichen Rastburger.
+       Sie sind Reeder, handeln mit Nordlandwaren und gelten als eher bieder und gesetzestreu.
+     - Pfeffer liegt in der Luft zwischen ihr und Oberhaupt Alvide Rastburger.
+       Doride, *Mutter von fünf Kindern*, neidet der kinderlosen, mit einem Schelm
+       verheirateten Alvide die Führung des Hauses.
+     - Doride hasst Zauberei inbrünstig und setzt sich für eine Verschärfung des Magieverbots ein.
+     - Mutter von [[#RR1][Rovena Rastburger]]
+   - Ziele :: Verschärfung des Magieverbots     
+   - Orte :: [[file:locations.org::#UF03][Villa Rastburger]]
+*** Info [0/1]
+    - [ ] meine Tocheter [[*Rovena Rastburger][Rovena]] macht mir sorgen
+      - [ ] sie traegt den Kopf in den Wolken ist hochnaesig geworden
+      - [ ] es ist so schlimm, dass sie aus der Villa ins Gaestehaus in der Fuerstenallee gezogen ist
+      - [ ] ich vermute sie hegt eine heimliche Liebschaft
+      - [ ] ich hoffe sie ist nicht verhext worden
+** Cumal Ongswin
+   :PROPERTIES:
+   :CUSTOM_ID: CO1
+   :SEX:      m
+   :OCCUPATION: reicher Händler
+   :ORGANIZATION: SH1
+   :LOCATION: S06
+   :SRC:      SH 47 GN 44
+   :END:
+   Oberhaupt reicher Händlerfamilie
+   - Aussehen :: 34 Jahr, Brille, unaufaellig
+   - Rollenspiel :: ist ein zurückgezogener Schreibtischarbeiter
+   - Hintergrund ::
+     - Familie Ongswin handelt mit südländischen Luxusgütern.
+       verfüget über enormes Vermögen und schmückt sich gerne mit dem Titel "Lieferant des Fürsten"
+     - Mitglied des Ältestenrates       
+   - Ziele ::
+     - Schmuggel [[file:organizations.org::#SH1][Die Silberne Hand]] & Sklavenhandel [[file:organizations.org::#LA1][Lapislazuli]]
+   - Werte ::
+   - Orte :: Villa in Oberfluren
+*** Info [/]    
