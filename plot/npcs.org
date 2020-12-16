@@ -1,9 +1,11 @@
 #+STARTUP: content
+#+SEQ_TODO:   TODO(t) ACTIVE(i) WAITING(w@) | DONE(d)
 * NPCs 
   :PROPERTIES:
   :COLUMNS:  %28ITEM %3CUSTOM_ID(ID) %14OCCUPATION(BERUF) %7LOCATION(LOC) %3ORGANIZATION(ORG) %1SEX(GES) %12SRC
   :END: 
 ** Niamh Schlappmaul
+   Schreiberin der Fanfare
    :PROPERTIES:
    :CUSTOM_ID: NS1
    :SEX:      w
@@ -181,6 +183,7 @@
    :LOCATION: G08 HA
    :SRC:      SH 69 SH 131
    :END:
+   Ewerführer & Blocker der Havena Bullen
    - Aussehen :: 29 Jahre, massig (riesenhaft), Kapitänshut
    - Zitate :: Mit dir wisch' ich den Boden auf
    - Volkes Stimme ::
@@ -239,6 +242,8 @@
    - Orte ::
      - [[file:locations.org::*Hafen (HA)][Hafen]]
      - [[file:locations.org::#G08][Esche und Kork]]
+*** ACTIVE Queste : Konterbande aus Unterstad bergen                  :quest:
+    Bergt die Ware aus [[file:locations.org::#T13][Perainetempel in der Unterstadt]]
 ** Thalionmel Agilfied, Thal das Blümchen
    :PROPERTIES:
    :CUSTOM_ID: TA1
@@ -421,7 +426,7 @@
    - Werte :: Willenskraft 8 (12,14,14)
    - Orte ::
      - [[file:locations.org::#NA03][Kontor Engstrand]]
-*** Info [5/5]
+*** Info [4/4]
     - [X] Verbindung zu Axel ueber Handel mit Familie von Aue
     - [X] zu den *Angriffen*
       - Eindringling von den Wachleuten & Hunden vertrieben; entkommen in Kanal:
@@ -432,10 +437,11 @@
          die Angst nuetzt hinen!"
     - [X] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
           auch der Stadtvogt [[#AH1][Ardach Herlogan]] sieht den Schmuggel als grosses Problem
-    - [X] *Auftrag*: Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
-          zahlt fuer Informationen und Kopfpraemien fuer gefangene Schmuggler;
-          kein unmittelbares Interesse an Hehlern (das sie ja auch die Ware der Silbernen Hand absetzen)
     - [X] [[file:plot.org::#5][Vollmondball auf der Rethis]]
+*** ACTIVE Queste : Gegen Nebelgeister                                :quest:
+    - Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
+    - zahlt fuer Informationen und Kopfpraemien fuer gefangene Schmuggler
+    - kein unmittelbares Interesse an Hehlern (das sie ja auch die Ware der Silbernen Hand absetzen)
 ** Simiadane Spectalli, Mechanica
    :PROPERTIES:
    :CUSTOM_ID: SM1
@@ -475,10 +481,11 @@
    - Heliantha lernet Simiadane im Horasreich kennen und nahm ihre Rolle ein als
      sie von ihrem Verschwinden erfuhr
    - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
-*** Info [0/2]
-    - [ ] Auftrag: Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
-          die Aschimeter dort einst zusammenbaute
+*** Info [0/1]
     - [ ] Befreundet mit [[#BH1][Branwen]]; diese ist mit [[*Ybalio][Ybalio]] dem Necker liiert
+*** Queste : mechanische Artefakte                                    :quest:
+    Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
+    die Aschimeter dort einst zusammenbaute
 ** Branwen, die Hexe
    :PROPERTIES:
    :CUSTOM_ID: BH1
@@ -625,17 +632,19 @@
    Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
    Autoritätsverlust befürchtet
    
-*** Info [2/3]
-    - [X] *Auftrag* Patroullie & Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
-      - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
-      - Wieso sind sie so aggresiv (als Geschoepfe Efferds?)
-      - 12 Silbertaler pro Nacht
-      - 24 fuer die erfolgreiche Abwehr von Angreifern (abzuholen am folgenden Morgen)
-      - 3*300 Silbertaler, wenn die Gefahr entgueltig beseitigt wird
-      - [X] Siegel des Efferdtempel um sich auszuweisen
+*** Info [1/2]
     - [X] Karte von Haven (mit Karte der alten Unterstadt)? -> sieh [[#DD1][Domnall Dalpert]]
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
+*** ACTIVE Queste : Patroullie                                        :quest:
+    Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
+    - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
+    - Wieso sind sie so aggresiv (als Geschoepfe Efferds?)
+    - 12 Silbertaler pro Nacht
+    - 24 fuer die erfolgreiche Abwehr von Angreifern (abzuholen am folgenden Morgen)
+    - 3*300 Silbertaler, wenn die Gefahr entgueltig beseitigt wird
+    - [X] Siegel des Efferdtempel um sich auszuweisen
+    
 ** Gilia
    :PROPERTIES:
    :CUSTOM_ID: GI1

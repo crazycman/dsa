@@ -1204,8 +1204,8 @@
     Bei Schneider Aradin lassen sich die *Reichen der Stadt einkleiden*.
     Meister Yurro Aradin redet viel über die aktuelle Garether und Vinsalter Mode und verschweigt dafür,
     dass viele seiner edlen *Stoffe aus Schmuggelware* stammen, die er günstiger erwirbt.
-**** Personen
-     [[file:npcs.org::*Yurro Aradin][Yurro Aradin]]
+**** Personen     
+     - [[file:npcs.org::*Yurro Aradin][Yurro Aradin]]
 *** Badehaus Nixenquell
     :PROPERTIES:
     :custom_id: UF07
@@ -1252,6 +1252,11 @@
     :reich:    3
     :src:      GN 14 SH 26 ST 13 
     :END:
+    und die zugehörige Dreikronen-Druckerei
+    *Kennzeichen* blecherne Fanfare mit rotem Tuch, auf dem ein goldenes Schiff dargestellt ist
+**** Personen
+     - [[file:npcs.org::#NS1][Niamh Schlappmaul]]
+     - Schriftleiter :: *Rhonwin ui Kerkill* (53, tintenbefleckte Finger, auf der Suche nach Neuigkeiten)
 *** Garether Tor
     :PROPERTIES:
     :custom_id: UF12
