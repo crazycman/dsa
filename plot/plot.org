@@ -57,7 +57,7 @@
 **** DONE zwischen Grangor & Havena
      CLOSED: [2020-11-27 FR 11:34]
     *Leowald*
-    - Info [5/5]      
+***** Leo vor Havena [5/5]                                             :info:
       - [X] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]]; Kadetten saufen in [[file:locations.org::#G13][Rondras Einkehr]]
       - [X] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
       - [X] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
@@ -196,7 +196,7 @@
       Seeleute und Hafner nahmen Reißaus. Die Kutsche Aberkroms mit seinen Begleiterinnen ging durch.
       Die Kreaturen zerrten den Wehrlosen ins Hafenbecken und ersäuften ihn.
       Seinen Leichnam fand man erst Stunden später im Wasser treibend.
-****** Infos [0/6]
+****** Mord Scibor [0/6]                                               :info:
         - [ ] humanoid
         - [ ] von Schlick & Tang bedeckt
         - [ ] bewaffnet mit Dreizack
@@ -210,13 +210,12 @@
       wohl beim Gang vom Traviatempel von Neckern überfallen. Nur zitternd traf
       sie zuhause ein. So groß war der Schrecken, dass die Necker ihr die
       Kleider vom Leibe reißen wollten.
-****** Infos [0/6]
+****** Angriff Etaine [0/6]                                               :info:
        - [ ] Orangerotes Kleid
        - [ ] erst verlaesst sie ihren Mann wegen irgendeiner Unterstadtfueherin und dann sowas
        - [ ] spricht kaum noch ein Wort
        - [ ] bläulich schimmernde Haut
-       - [ ] langes weisses Haar
-       - [ ] Schwimmhäute
+       - [ ] bewaffnet mit Dreizack
 ***** WAITING Emer Mellrich
       *Marschen*
       In Marschen wankte eine nasse Gestalt aus der Unterstadt an die Sattlerin

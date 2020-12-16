@@ -839,7 +839,7 @@
     - [[file:rules.org::#fr-bs][Brettspiele]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
 
     Häufige Gäste sind
-    - Rhonwin ui Notorn (Seite 47),
+    - [[file:npcs.org::*Rhonwin ui Notorn][Rhonwin ui Notorn]]
     - [[file:npcs.org::#DR1][Doride Rastburger]], (Mutter von Rovena Ratsburger; GN)
     - Faerwyn Wogenholf (Seite 67) und
     - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]]

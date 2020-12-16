@@ -17,9 +17,9 @@
    :END:
    - Aussehen :: 40 Jahre, Rehaugen, breites Lächeln
    - Zitate ::
-     - Habt ihr Informationen zu den Angriffen? Arbeitet ihr fuer die Efferdkirche?
-     - In dramatischen Worten: Wie verlief die letzte Nacht?
-     - Habt ihr schon mal jemanden getoetet? Wie fuehlte sich das an?
+     - "Habt ihr Informationen zu den Angriffen? Arbeitet ihr fuer die Efferdkirche?"
+     - "In dramatischen Worten: Wie verlief die letzte Nacht?"
+     - "Habt ihr schon mal jemanden getoetet? Wie fuehlte sich das an?"
    - Rollenspiel ::
      - hektische Sprache & Bewegungen
      - zwanghaftes Blinzeln  
@@ -33,12 +33,16 @@
        Je nach Umgang wird der spaetere Artikel die Helden abwerten oder idealisieren
    - Werte :: Willenskraft 12 (14/13/15)
    - Orte :: [[file:locations.org::#UF11][Redaktionshaus]]
-*** Info [0/4]
-    - [ ] [[file:locations.org::#T02][Efferdkirche]] sucht Recken zum Schutz der Buerger
-    - [ ] Der H'Ranga Kult der Allesverschlingenden war in der Vergangenheit aktiv in Havena
-          evtl. erstarkt der wieder
+*** ueber die Angriffe [0/3]                                           :info:
+    - [ ] Der H'Ranga *Kult der Allesverschlingenden* war in der Vergangenheit aktiv in Havena
+          damals wahnsinniger Thorwaler Kultist; verstrickt mit *Vilais Vecushmar*
+          evtl. erstarkt der wieder und hat etwas mit den Angriffen zu tun
+    - [ ] tiefen Kreaturen
+      - [ ] humanoid
+      - [ ] nach Fisch stinkend, mit Algen und Schlamm behangen
+      - [ ] bläulich schimmernde Haut
+      - [ ] [[file:criter.org::#cr-nk][Necker]]? aber die sind eigentlich friedlich
     - [ ] Konkurrierende Schmuggler die sich gegenseitig an die Kehle gehen
-    - [ ] Die [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und abergläubisch; im Gegensatz zu der [[file:organizations.org::#VG1][Vogtgarde]]
 ** Rohnwin ui Kerkill
    :PROPERTIES:
    :CUSTOM_ID: RK1
@@ -249,6 +253,9 @@
     - Schmuggel auf dem Nebelpfad wird immer schwerer
     - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
     - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) machen Jagd auf uns
+*** ueber Gegenspieler der Nebelgeister [0/2]                          :info:
+    - [ ] Die [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und abergläubisch; im Gegensatz zu der [[file:organizations.org::#VG1][Vogtgarde]]
+    - [ ] Der Silberpfad hetzt uns in letzter Zeit Schlaegertrupps auf den Hals
 ** Thalionmel Agilfied, Thal das Blümchen
    :PROPERTIES:
    :CUSTOM_ID: TA1
@@ -462,7 +469,7 @@
    - Werte :: Willenskraft 8 (12,14,14)
    - Orte ::
      - [[file:locations.org::#NA03][Kontor Engstrand]]
-*** Info [4/4]
+*** gegen Nebelgeister [4/4]                                           :info:
     - [X] Verbindung zu Axel ueber Handel mit Familie von Aue
     - [X] zu den *Angriffen*
       - Eindringling von den Wachleuten & Hunden vertrieben; entkommen in Kanal:
@@ -517,9 +524,9 @@
    - Heliantha lernet Simiadane im Horasreich kennen und nahm ihre Rolle ein als
      sie von ihrem Verschwinden erfuhr
    - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
-*** Info [0/1]
+*** ueber Branwen [0/1]                                                :info:
     - [ ] Befreundet mit [[#BH1][Branwen]]; diese ist mit [[*Ybalio][Ybalio]] dem Necker liiert
-*** Queste : mechanische Artefakte                                    :quest:
+*** Queste : Mechanische Artefakte                                    :quest:
     Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
     die Aschimeter dort einst zusammenbaute
 ** Branwen, die Hexe
@@ -579,12 +586,10 @@
    - Orte :: [[file:locations.org::#HA][Hafen]], Lotseninsel
 
    Spiel- und Wettschulden bringen Cullain regelmäßig in Schwierigkeiten.
-*** Info [2/4]
+*** ueber die Unterstadt [3/4]                                         :info:
     - [X] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
     - [X] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], *Ysilt Bennoch* wurde in Krakendorf erstochen
-    - [ ] vor einigen Jahren Umtriebe des Kultes der *Allesverschlingenden*
-          wahnsinniger Thorwaler Kultist; seitdem verstaerkte Umtriebe
-    - [ ] ist oft im [[file:locations.org::#G08][Esche und Kork]] und kann sich dort mit den Helden treffen
+    - [X] ist oft im [[file:locations.org::#G08][Esche und Kork]] und kann sich dort mit den Helden treffen
     - [ ] *Unterstadt*: vor 300 Jahren von der grossen Flut ueberschwemmt
       - überflutete Schwemmlandschaft voller sumpfiger Inselchen und schweigender Ruinen.
       - Ausdehnung von 1,5 auf 2 Meilen etwa doppelt so groß wie das heutige Havena
@@ -668,7 +673,7 @@
    Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
    Autoritätsverlust befürchtet
    
-*** Info [1/2]
+*** ueber die Sternenmuschel [1/2]                                     :info:
     - [X] Karte von Haven (mit Karte der alten Unterstadt)? -> sieh [[#DD1][Domnall Dalpert]]
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
@@ -699,7 +704,7 @@
    - Ziele ::
      - Neckerbefreien 
    - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
-*** Info [0/1]
+*** ueber Neckerfreunde [0/2]                                             :info:
   - [ ] [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
   - [ ] Es koennte sein, dass die Kinder Efferds aufbegehren, gegen das Unrecht
         (Versklavung) dass ihnen angetan wird
@@ -758,9 +763,8 @@
      - gutes Essen
      - Necker befreien
    - Orte :: [[file:locations.org::*Esche und Kork][Esche und Kork]]
-*** Info [0/1]
+*** ueber Neckerbefreier [0/1]                                         :info:
     - [ ] Mitgliede in [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
-
 ** Sula
    :PROPERTIES:
    :CUSTOM_ID: SU1
@@ -805,7 +809,7 @@
    Wer sein Vertrauen gewinnt hat einen loyalen Verbuendeten
    Unterstuetzt verfolgte Zauberkundige diskret
      
-*** Info [3/5]
+*** Infos in Hesind Bibliothek [3/5]                                   :info:
     - [X] Vertrauen gewinnen: (Bekehren & Ueberzeugen)
       - Hesinde gefaellig
     - [ ] im *Leseraum* stehen nur uninteressante Schriften
@@ -873,11 +877,11 @@
    - Ziele ::
      - Schaetze finden 
    - Orte :: [[file:locations.org::#G25][Schatzinsel]], Unterstadt
-*** Info [0/1]
+*** ueber Necker in der Unterstadt (rote Stoffe) [0/1]                 :info:
     - [ ] Gebrabbel:
-      - immer wieder hin und her, hin und her und immer wieder, wann hoeren die auf?
+      - [ ] immer wieder hin und her, hin und her und immer wieder, wann hoeren die auf?
         (Necker schwimmen unter seinem Floss durch)
-      - und es wallt im Wasser, hoch und runter, hoch und runter wie giftige Quallen
+      - [ ] und es wallt im Wasser, hoch und runter, hoch und runter wie giftige Quallen
         und sie tragen es nach Hause in die Tiefe
         (die Necker haben Stoffe / Kleidung bei sich)    
 ** Waern Poschrat
@@ -901,14 +905,15 @@
    Jahr schauriger klingen lässt. Wenn in Havena jemand etwas Belangloses
    erzählt, ist eine beliebt gewordene Entgegnung „Interessiert das vielleicht
    Waern?“ oder „Waern interessiert’s!“
-*** Info [0/3]
+*** ueber Necker in Not & Branwen [0/3]                                   :info:
     - [ ] den Pferden geht es gut; 1 Dukate pro Pferd
-    - [ ] der *modernde Schluerfer* hat mich vor 2 Tagen zu tode erschreckt
     *Allgemein zu [[file:criter.org::#cr-nk][Necker]]*
     - [ ] *Neckergesang*: normalerweise schoen, friedlich & betörend;
           in letzter Zeit klangen sie *klagend, gezwungen & trauernd*
           Vielleicht sind sie in not?
           Floesst jemand ihnen Alkohol ein?
+    - [ ] Branwen ist normalerweise oft hier; schon seit einiger Zeit aber nicht mehr gesehen
+          Ist Branwen nicht in eine Neckermann verliebt?
 ** Yurro Aradin
    :PROPERTIES:
    :CUSTOM_ID: YA1
@@ -926,12 +931,12 @@
      - Schneider der Reichen 
      - [[file:locations.org::#UF06][Schneider Aradin]]
        
-*** Infos [0/3]
+*** beim Schneider [0/3]                                                    :info:
     - [ ] gerade schwer beschaeftig; Laden quillt ueber vor *farbenfrohen Stoffen*
           hat wenig Zeit fuer Helden, die nichts kaufen
     - [ ] zwei Feste stehen bevor
       - [[file:plot.org::#2][Vollmondball auf Rethis]] (Maskenball mit Thema: die 6 Elemente)
-      - Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren
+      - Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren; Veranstalter [[#CO1][Cumal Ongswin]]
     - [ ] Schneider von [[file:plot.org::#3][Scibor Aberkrom]]; der trug gerne leuchtende Farben (Rot, Orange, Gelb)
           der ist ja jetzt tot: wollt ihr ein rotes Feuerdschinn-Kostuem (Vollmondball) fuer 50S?
 ** Ybalio
@@ -984,7 +989,7 @@
      - Farindel supporten
    - Werte :: Willenskraft 2 (12/14/14)
    - Orte :: [[file:locations.org::#T03][Tsatempel]]
-*** Info [0/2]
+*** im Tsa Tempel [0/2]                                                    :info:
     - [ ] Feen (Farindel) & Nhywyll Dunkelwasser
     - [ ] (GN) Besucher vor einem Monat in Vollmondnacht (2 ZP, 1 ZP bei gelungener Menschenkenntnis)
       - junger (20), reicher Mann mit dunklem Haar [[*Padraig Pliskern][Padraig]] (Nachname nicht bekannt)
@@ -1013,7 +1018,6 @@
    - Ziele ::
      - Reichtum und Einfluss mehren
    - Orte :: [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
-*** Info [/]
 ** Tote Hand
    :PROPERTIES:
    :CUSTOM_ID: TH1
@@ -1034,7 +1038,6 @@
    - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
 
    Er liest auch mit unheilschwangerem Gestus aus der Hand und den Adern im Augapfel.  
-*** Info [/]
 ** Phederino du Novara 
    :PROPERTIES:
    :CUSTOM_ID: PN1
@@ -1055,7 +1058,6 @@
        und flieht bei Gefahr in Katzengestalt.
    - Ziele :: unentdeckt bleiben 
    - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
-*** Info [/]
 ** Bilanil
    :PROPERTIES:
    :CUSTOM_ID: BI1
@@ -1074,8 +1076,6 @@
      - Kundinen unterhalten 
    - Werte :: Willenskraft 2 (11,13,13)
    - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
-*** Info [/]
-    
 ** Padraig Pliskern
    :PROPERTIES:
    :CUSTOM_ID: PP1
@@ -1098,7 +1098,6 @@
      - *[[*Rovena Ratsburger][Rovena]] einen Antrag* machen um die Haeuser Pliskern und Rastburger zu verbinden
    - Werte :: Willenskraft 7 
    - Orte :: Stadvilla mit Garten in Oberfluren neben [[file:locations.org::#OF02][Instrumentenbauer Allain Ruggard]]
-*** Info [/]
 ** Rovena Rastburger
    :PROPERTIES:
    :CUSTOM_ID: RR1
@@ -1125,7 +1124,6 @@
      - Betören 5 (12/12/12)
      - SK 1
    - Orte :: groß Gästehaus in der Fürstenallee (alter Fachwerbau)
-*** Info [/]
 ** Doride Rastburger
    :PROPERTIES:
    :CUSTOM_ID: DR1
@@ -1148,7 +1146,7 @@
      - Mutter von [[#RR1][Rovena Rastburger]]
    - Ziele :: Verschärfung des Magieverbots     
    - Orte :: [[file:locations.org::#UF03][Villa Rastburger]]
-*** Info [0/1]
+*** ueber Rovena Rastburger (rote Kleid) [0/1]                            :info:
     - [ ] meine Tocheter [[*Rovena Rastburger][Rovena]] macht mir sorgen
       - [ ] sie traegt den Kopf in den Wolken ist hochnaesig geworden
       - [ ] es ist so schlimm, dass sie aus der Villa ins Gaestehaus in der Fuerstenallee gezogen ist
@@ -1159,7 +1157,7 @@
    :CUSTOM_ID: CO1
    :SEX:      m
    :OCCUPATION: reicher Händler
-   :ORGANIZATION: SH1
+   :ORGANIZATION: AR1
    :LOCATION: S06
    :SRC:      SH 47 GN 44
    :END:
@@ -1169,8 +1167,24 @@
    - Hintergrund ::
      - Familie Ongswin handelt mit südländischen Luxusgütern.
        verfüget über enormes Vermögen und schmückt sich gerne mit dem Titel "Lieferant des Fürsten"
-     - Mitglied des Ältestenrates       
+     - Mitglied des [[file:organizations.org::#AR1][Ältestenrates]]
    - Ziele ::
      - Schmuggel [[file:organizations.org::#SH1][Die Silberne Hand]] & Sklavenhandel [[file:organizations.org::#LA1][Lapislazuli]]
-   - Werte ::
+   - Werte :: Willenskraft 9 (14/13/12)
    - Orte :: Villa in Oberfluren
+** Rhonwin ui Notorn   
+   :PROPERTIES:
+   :CUSTOM_ID: RN1
+   :SEX:      m
+   :OCCUPATION: Zunftmeister Schneider
+   :ORGANIZATION: AR1
+   :LOCATION: S06
+   :SRC:      SH 47
+   :END:
+   Zunftmeister der Schneider
+   - Aussehen :: 53 Jahre, fett, arrogant
+   - Zitate :: Die dummen Fischer aus Fischerort haben doch keine Ahnung von den Geschicken Havenas.
+   - Rollenspiel :: arrogant; leckt sich die Finger ab.
+   - Hintergrund ::
+     einflussreicher und skrupelloser Strippenzieher,
+     der vornehmlich den Wohlstand der Reichen mehren will

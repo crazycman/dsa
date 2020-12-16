@@ -166,6 +166,33 @@
    Menschen, die in der Perle des Südens hohe Preise erzielen können, zum
    Beispiel attraktive Rothaarige und talentierte Handwerker.
    In die Geschäfte sind auch [[file:npcs.org::#CO1][Cumal Ongswin]] und [[file:npcs.org::#AH1][Ardach Herlogan]] als Hintermänner verwickelt.
+** Aeltestenrat
+   :PROPERTIES:
+   :CUSTOM_ID: AR1
+   :SRC:      SH 46
+   :END:
+   - Symbol/Erkennungszeichen :: 
+   - Wahlspruch :: Fuer die Stadt & den Fuersten.
+   - Herkunft: :: Havena
+   - Größe :: 35 Mitglieder
+   - Hierarchie :: streng
+   - Wichtige Personen ::
+     - [[file:npcs.org::#RN1][Rhonwin ui Notorn]]
+     - [[file:npcs.org::*Cumal Ongswin][Cumal Ongswin]]    
+   - Stützpunkte :: [[file:locations.org::#OF05][Stadthaus]]
+   - Domänen ::
+     - Handel, Stadtplanung & Verkehr
+     - [[#SG1][Stadtgarde]]
+   - Zusammenhalt, Beziehungen, Finanzkraft :: 3/5/5
+
+   Im Ratssaal des Stadthauses tagt mindestens einmal im Monat der Ältestenrat von Havena.
+   Das Stadtparlament ist weitgehend autonom für die Verwaltung der Stadt zuständig.
+   Ihm obliegen die Belange des Handels, der Stadtplanung und des Verkehrs,
+   außerdem untersteht ihm die Stadtgarde.   
+   Der Rat hat 35 Mitglieder, vor allem aus den Reihen einflussreicher Patrizier, der Gilden und der Zünfte.
+   Bereits im Jahr 618 v.BF soll der Rat erstmalig unter den Bragoldfürsten einberufen worden sein.
+   In den Dunklen Zeiten lenkte er sogar die Geschicke der Stadt und des gesamten Umlands.
+     
 ** Stadtgarde
    :PROPERTIES:
    :CUSTOM_ID: SG1
