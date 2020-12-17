@@ -1146,7 +1146,7 @@
      - Mutter von [[#RR1][Rovena Rastburger]]
    - Ziele :: Verschärfung des Magieverbots     
    - Orte :: [[file:locations.org::#UF03][Villa Rastburger]]
-*** ueber Rovena Rastburger (rote Kleid) [0/1]                         :info:
+*** ueber Rovena Rastburger (Rotes Kleid) [0/1]                        :info:
     - [ ] meine Tocheter [[*Rovena Rastburger][Rovena]] macht mir sorgen
       - [ ] sie traegt den Kopf in den Wolken ist hochnaesig geworden
       - [ ] es ist so schlimm, dass sie aus der Villa ins Gaestehaus in der Fuerstenallee gezogen ist

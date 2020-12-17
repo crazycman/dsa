@@ -153,6 +153,33 @@
      :src: GN 17 SH 35
      :END:
      [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
+    - [ ] [[file:npcs.org::*Niamh Schlappmaul][Niamh Schlappmaul]] versucht die Helden vor der Rethis abzufangen fuer ein *Interview*
+    - [ ] Kontrolle beim Einlass durch
+      *Azif* ein alter Tulamide
+      *Tsaingla* eine kaltäugige Feldmärkerin
+      - *keine Waffen*; Helden koennen es Umgehen, mit *Siegel des Efferdtempels*
+      - 1 Dukate Eintritt
+***** Gaeste     
+      - [[file:npcs.org::*Rhonwin ui Notorn][Rhonwin ui Notorn]], Zunftmeister der Schneider
+      - [[file:npcs.org::#DR1][Doride Rastburger]], Reeder, Mutter von [[file:npcs.org::#RR1][Rovena Rastburger]]
+      - [[file:npcs.org::#PP1][Padraig Pliskern]], stolzer Junker
+      - Faerwyn Wogenholf (Seite 67) und
+      - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]]
+      - [[file:npcs.org::#SM1][Simiadane Spectalli, Mechanica]], wenn sie einem Geldgeber eine Erfindung vorführt.
+***** Ereignisse
+      - [ ] *Tanz* mit kleiner Kapelle auf dem Hinterdeck
+      - [ ] Avessi der Papagei zeigt Flugkunststuecke (fliegt durch Rauchringe von Tote Hand)
+      - [ ] [[file:rules.org::#fr-bs][Kluecksspiel]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
+      - [ ] *Dekadenz*
+        - [ ] [[file:npcs.org::#BI1][Bilanil]] der Neckersklave (Prostitution)
+        - [ ] Rauschkrautkonsum
+        - [ ] Verachtung der einfachen Bevölkerung (Fischer & Arbeiter)
+***** auf dem Vollmondball                                             :info:
+      - [ ] Geruechte ueber die Angriffe (todo!)
+      - [ ] [[file:criter.org::#cr-nk][Necker]] und Tiefe Kreaturen
+      - [ ] Schmuggel: Graf der Unterstadt
+      - [ ] naechstes Fest der Havener Gesellschaft:
+            Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren; Veranstalter [[#CO1][Cumal Ongswin]]
 **** TODO Tarverne Schatzinsel
      :PROPERTIES:
      :custom_id: G25
@@ -197,7 +224,7 @@
       Die Kreaturen zerrten den Wehrlosen ins Hafenbecken und ersäuften ihn.
       Seinen Leichnam fand man erst Stunden später im Wasser treibend.
 ****** Mord Scibor [0/6]                                               :info:
-        - [ ] humanoid
+        - [ ] humanoid (Kerle aus dem Wasser; Tiefe Kreaturen)
         - [ ] von Schlick & Tang bedeckt
         - [ ] bewaffnet mit Dreizack
         - [ ] bläulich schimmernde Haut
@@ -318,25 +345,33 @@
      SH 7 SH 78 
 **** Feenwelten
      - Kaempfe werden anders interpretier: als Musik/Tanz/Performance Battles!
-** How to make an RPG sandbox
-   https://twitter.com/hexcrawl/status/1331669009209589760
-   1. Define (initial) borders of the sandbox.
-   2. Fill with a collection of cool stuff.
-   3. Liberally strew scenario hooks around the joint.
-      [[https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox][juggling scenario hooks in a sandbox]]
-   4. Give the PCs a sampling of the scenario hooks.
-      (Either 1-2 per PC or 3-5 for the group is a good baseline.)
-   5. Make sure the PCs have a default action to take
-      if they don't have any better ideas for something to do.
-   6. Sit back and see what happens, generally putting stuff into motion when it
-      gets "touched" (by either the PCs or the mechanics of the sandbox).
-   7. Generally speaking, the exact nature of the sandbox you're running is going to be defined by:
-      - The borders you set.
-      - How you fill it (and what you fill it with).
-      - The default action.
-   8. [[https://thealexandrian.net/wordpress/40638/roleplaying-games/blades-in-the-dark-alternative-starting-situations][Baldes in the Dark]] you have a city, stock it with factions and clocks, and
-      have a default action of either seizing a claim or doing your chosen type
-      of criminal activity.
+** Alexandrian
+*** How to make an RPG sandbox
+    https://twitter.com/hexcrawl/status/1331669009209589760
+    1. Define (initial) borders of the sandbox.
+    2. Fill with a collection of cool stuff.
+    3. Liberally strew scenario hooks around the joint.
+       [[https://thealexandrian.net/wordpress/37530/roleplaying-games/thought-of-the-day-juggling-scenario-hooks-in-a-sandbox][juggling scenario hooks in a sandbox]]
+    4. Give the PCs a sampling of the scenario hooks.
+       (Either 1-2 per PC or 3-5 for the group is a good baseline.)
+    5. Make sure the PCs have a default action to take
+       if they don't have any better ideas for something to do.
+    6. Sit back and see what happens, generally putting stuff into motion when it
+       gets "touched" (by either the PCs or the mechanics of the sandbox).
+    7. Generally speaking, the exact nature of the sandbox you're running is going to be defined by:
+       - The borders you set.
+       - How you fill it (and what you fill it with).
+       - The default action.
+    8. [[https://thealexandrian.net/wordpress/40638/roleplaying-games/blades-in-the-dark-alternative-starting-situations][Baldes in the Dark]] you have a city, stock it with factions and clocks, and
+       have a default action of either seizing a claim or doing your chosen type
+       of criminal activity.
+*** Hexcrawl
+    - [[https://thealexandrian.net/wordpress/17308/roleplaying-games/hexcrawl][Hexcrawl]]
+    - [[http://hextml.playest.net][Hexeditor]]
+    Normal movement has no modifiers. Hustling increases navigation DCs.
+    Cautious movement is made at 3/4 normal speed, navigation DCs are decreased,
+    and the chance for non-exploratory encounters is halved. Finally, while
+    exploring, characters move at 1/2 normal speed and the chance for encounters is doubled.
 ** Leowald
    - Ruestung: blaue Rüstung, nennt sich *Epharit-Rüstung*: RS 6, Belastung 3,
      keine zusätzliche Belastung, 700 S wert; Eine Plattenrüstung, die das
@@ -484,7 +519,7 @@
    - Maps :: https://www.deviantart.com/foundryatropos
    - Dungeon desing :: https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
    - Tools :: e.g. Hex Editor https://entaria.de/coole-rpg-tools
-   - Hex Editor ::  http://hextml.playest.net
+   - Hex Editor :: http://hextml.playest.net
 ** Protokoll
 *** Rico
 **** Schlecht

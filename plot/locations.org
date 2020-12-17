@@ -837,15 +837,6 @@
     :src:      GN 17 SH 35
     :END:
     - [[file:rules.org::#fr-bs][Brettspiele]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
-
-    Häufige Gäste sind
-    - [[file:npcs.org::*Rhonwin ui Notorn][Rhonwin ui Notorn]]
-    - [[file:npcs.org::#DR1][Doride Rastburger]], (Mutter von Rovena Ratsburger; GN)
-    - Faerwyn Wogenholf (Seite 67) und
-    - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]]
-    - [[file:npcs.org::#SM1][Simiadane Spectalli, Mechanica]], wenn sie einem Geldgeber eine Erfindung vorführt.
-
-    -> Info bzgl. Ball im Wachsfigurenkabinett & [[file:npcs.org::#CO1][Cumal Ongswin]]
 **** Personen
      - Wirtin :: [[file:npcs.org::#AA1][Asa Anjuhal]] 
      - Croupier :: [[file:npcs.org::#TH1][Tote Hand]] 
