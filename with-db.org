@@ -1,0 +1,69 @@
+* Sql
+  Org and SQL database (sqlite)
+** insert & select
+#+name: sqlite-populate-test
+#+header: :results silent
+#+header: :dir .
+#+header: :db test-sqlite.db
+#+begin_src sqlite
+  create table greeting(one varchar(10), two varchar(10));
+  insert into greeting values('Hello', 'DSA!');
+#+end_src
+
+#+name: sqlite-hello
+#+header: :column
+#+header: :colnames yes
+#+header: :separator \
+#+header: :results raw
+#+header: :dir .
+#+header: :db test-sqlite.db
+#+begin_src sqlite
+select * from greeting;
+#+end_src
+
+#+RESULTS: sqlite-hello
+one         two       
+----------  ----------
+Hello       world!    
+Hello       DSA!      
+
+** variables (scalar)
+#+BEGIN_SRC sqlite :db ./rip.db :var rel="tname" n=300 :colnames yes
+drop table if exists $rel;
+create table $rel(n int, id int);
+insert into $rel(n,id) values (1,210), (3,800), (4, 900);
+select * from $rel where id > $n;
+#+END_SRC
+
+#+RESULTS:
+| n |  id |
+|---+-----|
+| 3 | 800 |
+| 4 | 900 |
+
+** variables (tables)
+#+NAME: tableexample
+| id |  n |
+|----+----|
+|  1 |  5 |
+|  2 |  9 |
+|  3 | 10 |
+|  4 |  9 |
+|  5 | 10 |
+
+#+begin_src sqlite :db ./rip.db :var orgtable=tableexample :colnames yes
+drop table if exists testtable;
+create table testtable(id int, n int);
+.mode csv testtable
+.import $orgtable testtable
+select n, count(*) from testtable group by n;
+#+end_src
+
+#+RESULTS:
+|  n | count(*) |
+|----+----------|
+|  5 |        1 |
+|  9 |        2 |
+| 10 |        2 |
+
+** orgtables as updates

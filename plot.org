@@ -10,14 +10,15 @@
    - häufig sind Zeichen von Verfall früheren Glanzes
    - misstrauisch gegenüber Magie und dem Boronkult
    - zwiespältig gegenüber dem Mittelreich und der Kaiserin
-   - Hafen, Meer, Nebel, Wetter (SH 8)
+   - Hafen, Meer, Nebel, [[#wetter][Wetter]]
    - Gwen Petryl
    - "Efferd hat uns alles gegeben und uns alles genommen. So oder so, vergessen hat er uns nie."
 ** Nodes
    :PROPERTIES:
    :COLUMNS:  %45ITEM %4CUSTOM_ID(ID) %4LAYER %6LOCATION %17SRC
    :END:
-*** Beginn
+*** DONE Beginn
+    CLOSED: [2020-12-04 Fr 23:00]
 **** DONE In Al'Anfa
      CLOSED: [2020-11-27 Fr 11:32]
      - Markt: Verkauf von *Achsel von der Klaue*
@@ -318,6 +319,17 @@
       - 11 :: Hochwasser
       - 12-20 :: ablaufendes Wasser
 
+** Unter Wasser
+*** Atmung
+    - Liturgie :: [[https://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html][Unterwasseratmung]]
+    - Zauber :: [[https://ulisses-regelwiki.de/index.php/ZS_Wasseratem.html][Wasseratem]]
+    - Paktgeschenk :: [[https://de.wiki-aventurica.de/wiki/Wasseratmung%20(Paktgeschenk)][Paktgeschenk]]
+    - Alchemie ::
+      - [[https://ulisses-regelwiki.de/index.php/Wasserodem.html][Wasserodem]] in Havena verbotenes Tauchelexir, [[file:npcs.org::#SM1][Simiadane]] GN 28, SH 90
+      - [[https://de.wiki-aventurica.de/wiki/Purpurwasser][Purpurwasser]] (Efferds Wogen Seiten 42, 141)
+    - Pflanzlich :: [[https://ulisses-gamereference.com/index.php/Herb_Kajubo.html][Kajubo]]
+    - Mechanisch :: Simiande die Mechanika (SH 89-90)
+    - Elementar / Daemonisch :: durch Beschwoerung & entsprechenden Auftrag
 ** Handlung     
 *** Encounters
     (Zufalls) Begegnungen
@@ -329,7 +341,7 @@
       [[file:npcs.org::#FB1][Fackelbart]] taucht auf und murmelt etwas ueber verbotene Magie, wird aber
       von Umstehenden beschwichtigt.
     - In [[file:locations.org::*Nalleshof (S07)][Nalleshof]] (Gassenwissen -2)
-      eine *Jaguar Tatze* als verborgenes Zeich auf einer Rauschkrauthöhle, betrieben von [[file:organizations.org::#KT1][Kamaluqs Tatzen]]
+      eine *Jaguar Tatze* als verborgenes Zeich auf eine Rauschkrauthöhle, Betreiber: [[file:organizations.org::#KT1][Kamaluqs Tatzen]]
       -> [[file:npcs.org::#AH1][Ardach Herlogan]]
     - Die Beschuetzer der Marschen [GN 11] (andere Heldengruppe)
 *** Plot Hooks
@@ -345,6 +357,10 @@
      SH 7 SH 78 
 **** Feenwelten
      - Kaempfe werden anders interpretier: als Musik/Tanz/Performance Battles!
+** Leowald
+   - Ruestung :: blaue Rüstung, nennt sich *Epharit-Rüstung*: RS 6, Belastung 3,
+     keine zusätzliche Belastung, 700 S wert; Eine Plattenrüstung, die das
+     Zaubern nicht einschränkt wie normale Eisen-Platten-Rüstungen
 ** Alexandrian
 *** How to make an RPG sandbox
     https://twitter.com/hexcrawl/status/1331669009209589760
@@ -372,10 +388,6 @@
     Cautious movement is made at 3/4 normal speed, navigation DCs are decreased,
     and the chance for non-exploratory encounters is halved. Finally, while
     exploring, characters move at 1/2 normal speed and the chance for encounters is doubled.
-** Leowald
-   - Ruestung: blaue Rüstung, nennt sich *Epharit-Rüstung*: RS 6, Belastung 3,
-     keine zusätzliche Belastung, 700 S wert; Eine Plattenrüstung, die das
-     Zaubern nicht einschränkt wie normale Eisen-Platten-Rüstungen
 ** Master Plot
 *** Personen Organisationen    
     - [[https://de.wiki-aventurica.de/wiki/Charyptoroth][Charyptoroth]]
@@ -407,18 +419,6 @@
 *** Disfunktionale Familie
     - Axels Charackter Abenteuer: Familie vor dem Bankrott. Deswegen Schmuggel
 *** Wasser - Charyptoroth
-
-** Unter Wasser
-*** Atmung
-    - Liturgie :: [[https://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html][Unterwasseratmung]]
-    - Zauber :: [[https://ulisses-regelwiki.de/index.php/ZS_Wasseratem.html][Wasseratem]]
-    - Paktgeschenk :: [[https://de.wiki-aventurica.de/wiki/Wasseratmung%20(Paktgeschenk)][Paktgeschenk]]
-    - Alchemie ::
-      - [[https://ulisses-regelwiki.de/index.php/Wasserodem.html][Wasserodem]] in Havena verbotenes Tauchelexir, GN 28, SH 90
-      - [[https://de.wiki-aventurica.de/wiki/Purpurwasser][Purpurwasser]] (Efferds Wogen Seiten 42, 141)
-    - Pflanzlich :: [[https://ulisses-gamereference.com/index.php/Herb_Kajubo.html][Kajubo]]
-    - Mechanisch :: Simiande die Mechanika (SH 89-90)
-    - Elementar / Daemonisch :: durch Beschwoerung & entsprechenden Auftrag
 
 ** Reisen
    - Reise muss ein relevanter Teil des Abenteuers sein, sonst weglassen (z.B. Eskortierung)
@@ -585,72 +585,4 @@
      - besser weniger & starke Gegner; kurze Kaempfe
 *** Diskussion
     
-* Sql
 
-** insert & select
-#+name: sqlite-populate-test
-#+header: :results silent
-#+header: :dir .
-#+header: :db test-sqlite.db
-#+begin_src sqlite
-  -- create table greeting(one varchar(10), two varchar(10));
-  insert into greeting values('Hello', 'DSA!');
-#+end_src
-
-#+name: sqlite-hello
-#+header: :column
-#+header: :colnames yes
-#+header: :separator \
-#+header: :results raw
-#+header: :dir .
-#+header: :db test-sqlite.db
-#+begin_src sqlite
-select * from greeting;
-#+end_src
-
-#+RESULTS: sqlite-hello
-one         two       
-----------  ----------
-Hello       world!    
-Hello       DSA!      
-
-** variables (scalar)
-#+BEGIN_SRC sqlite :db ./rip.db :var rel="tname" n=300 :colnames yes
-drop table if exists $rel;
-create table $rel(n int, id int);
-insert into $rel(n,id) values (1,210), (3,800), (4, 900);
-select * from $rel where id > $n;
-#+END_SRC
-
-#+RESULTS:
-| n |  id |
-|---+-----|
-| 3 | 800 |
-| 4 | 900 |
-
-** variables (tables)
-#+NAME: tableexample
-| id |  n |
-|----+----|
-|  1 |  5 |
-|  2 |  9 |
-|  3 | 10 |
-|  4 |  9 |
-|  5 | 10 |
-
-#+begin_src sqlite :db ./rip.db :var orgtable=tableexample :colnames yes
-drop table if exists testtable;
-create table testtable(id int, n int);
-.mode csv testtable
-.import $orgtable testtable
-select n, count(*) from testtable group by n;
-#+end_src
-
-#+RESULTS:
-|  n | count(*) |
-|----+----------|
-|  5 |        1 |
-|  9 |        2 |
-| 10 |        2 |
-
-** orgtables as updates
