@@ -809,10 +809,10 @@
    Wer sein Vertrauen gewinnt hat einen loyalen Verbuendeten
    Unterstuetzt verfolgte Zauberkundige diskret
      
-*** Infos in Hesind Bibliothek [3/5]                                   :info:
+*** Infos in Hesind Bibliothek [4/5]                                   :info:
     - [X] Vertrauen gewinnen: (Bekehren & Ueberzeugen)
       - Hesinde gefaellig
-    - [ ] im *Leseraum* stehen nur uninteressante Schriften
+    - [X] im *Leseraum* stehen nur uninteressante Schriften
     - [-] Bibliothek:
       - [X] Karte von altem Havena  
       - [X] (Magiekunde -2; -1 bei gezielter Suche nach Necker; ca. 8 Stunden) 
