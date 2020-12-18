@@ -170,10 +170,10 @@
       - [ ] *Tanz* mit kleiner Kapelle auf dem Hinterdeck
       - [ ] Avessi der Papagei zeigt Flugkunststuecke (fliegt durch Rauchringe von Tote Hand)
       - [ ] [[file:rules.org::#fr-bs][Kluecksspiel]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
-      - [ ] *Dekadenz*
+      - [ ] *Dekadenz* dick Auftragen
         - [ ] [[file:npcs.org::#BI1][Bilanil]] der Neckersklave (Prostitution)
         - [ ] Rauschkrautkonsum
-        - [ ] Verachtung der einfachen Bevölkerung (Fischer & Arbeiter)
+        - [ ] Geringschaetzung (Verachtung) der einfachen Bevölkerung (Fischer & Arbeiter)
 ***** auf dem Vollmondball                                             :info:
       - [ ] Geruechte ueber die Angriffe (todo!)
       - [ ] [[file:criter.org::#cr-nk][Necker]] und Tiefe Kreaturen
