@@ -1287,7 +1287,7 @@
 **** Ferdokbogen
      :PROPERTIES:
      :custom_id: FÜ01
-     :location: G5
+     :LOCATION: D5
      :typ:      Du
      :niveau: -3 bis -1
      :verfall: 2
@@ -1296,7 +1296,7 @@
 **** Stolz von Gareth
      :PROPERTIES:
      :custom_id: FÜ02
-     :location: G3
+     :LOCATION: D3
      :typ:      Du
      :niveau: -4 bis -2
      :verfall: 5
@@ -1305,7 +1305,7 @@
 **** Perlenschmiede
      :PROPERTIES:
      :custom_id: FÜ03
-     :location: I5
+     :LOCATION: B5
      :typ:      Du
      :niveau: -3 bis 2
      :verfall: 3
@@ -1314,7 +1314,7 @@
 **** Spukgasthaus Efferdsgrab
      :PROPERTIES:
      :custom_id: FÜ04
-     :location: J5
+     :LOCATION: A5
      :typ:      Du Ga Ub
      :qps:      3/3/14
      :niveau: 1 bis 2
@@ -1324,7 +1324,7 @@
 **** Nahemas Turm
      :PROPERTIES:
      :custom_id: FÜ05
-     :location: H8
+     :LOCATION: C8
      :typ:      Du
      :niveau: -3 bis 4
      :verfall: 1
@@ -1333,7 +1333,7 @@
 **** Thermen
      :PROPERTIES:
      :custom_id: FÜ06
-     :location: G4
+     :LOCATION: D4
      :typ:      Du
      :niveau: -1 bis 1
      :src:      SH 124
@@ -1341,7 +1341,7 @@
 **** Fürstenpalast Talagh Gorn
      :PROPERTIES:
      :custom_id: FÜ07
-     :location: I8
+     :LOCATION: B8
      :typ:      Du
      :niveau: -4 bis 2
      :verfall: 3
@@ -1350,7 +1350,7 @@
 **** Karavelle Meerschaum
      :PROPERTIES:
      :custom_id: KM
-     :location: H4
+     :LOCATION: C4
      :typ:      Du Te
      :niveau: -2 bis 3
      :verfall: 4/2
@@ -1363,7 +1363,7 @@
 **** Haus des Goldenen Dreizacks
      :PROPERTIES:
      :custom_id: T12
-     :location: F5
+     :LOCATION: E5
      :typ:      Du
      :niveau: 0 bis 3
      :verfall: 4
@@ -1372,7 +1372,7 @@
 **** Perainetempel
      :PROPERTIES:
      :custom_id: T13
-     :location: D5
+     :LOCATION: G5
      :typ:      Du Kr
      :niveau: -1 bis 2
      :verfall: 3
@@ -1386,7 +1386,7 @@
 **** Praiostempel
      :PROPERTIES:
      :custom_id: T14
-     :location: E5
+     :LOCATION: F5
      :typ:      Du Te
      :niveau: -2 bis 0
      :verfall: 5
@@ -1395,7 +1395,7 @@
 **** Gartheltas Puppentheater
      :PROPERTIES:
      :custom_id: LH01
-     :location: E4
+     :LOCATION: F4
      :typ:      Du
      :niveau: 0 bis 2
      :src:      SH 124
@@ -1407,7 +1407,7 @@
 **** Thaumaturgische Akademie
      :PROPERTIES:
      :custom_id: FS01
-     :location: B3
+     :LOCATION: I3
      :typ:      Du
      :niveau: -3 bis 2
      :verfall: 3
@@ -1416,7 +1416,7 @@
 **** Große Bibliothek
      :PROPERTIES:
      :custom_id: FS02
-     :location: E2
+     :LOCATION: F2
      :typ:      Du
      :niveau: -2 bis -1
      :verfall: 6
@@ -1425,14 +1425,14 @@
 **** Kaiser-Gerbald-Säule
      :PROPERTIES:
      :custom_id: FS03
-     :location: E3
+     :LOCATION: F3
      :typ:      Du
      :src:      SH 121
      :END:
 **** Traviatempel
      :PROPERTIES:
      :custom_id: T15
-     :location: B1
+     :LOCATION: I1
      :typ:      Du Kr Te
      :niveau: 0 bis 3
      :src:      GN 30 SH 124 ST 34
@@ -1444,12 +1444,12 @@
 **** Lagerhäuser Bhuan Bruadhirs
      :PROPERTIES:
      :custom_id: EH01
-     :location: I1
+     :LOCATION: B1
      :typ:      Du
      :niveau: -4
      :src:      SH 124
      :END:
-* Column View
+* Schalfstaetten
   #+BEGIN: columnview :hlines 1 :id orte :match "+typ={Ub}-custom_id={T08}-custom_id={FÜ04}" :format "%ITEM(Gasthaus) %CUSTOM_ID(ID) %LOCATION(LOC) %QPS"
   | Gasthaus              | ID  | LOC | QPS    |
   |-----------------------+-----+-----+--------|
