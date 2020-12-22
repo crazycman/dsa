@@ -17,7 +17,7 @@
    :PROPERTIES:
    :COLUMNS:  %45ITEM %4CUSTOM_ID(ID) %4LAYER %6LOCATION %17SRC
    :END:
-*** DONE Beginn
+*** DONE Prolog
     CLOSED: [2020-12-04 Fr 23:00]
 **** DONE In Al'Anfa
      CLOSED: [2020-11-27 Fr 11:32]
@@ -58,7 +58,8 @@
 **** DONE zwischen Grangor & Havena
      CLOSED: [2020-11-27 FR 11:34]
     *Leowald*
-***** Leo vor Havena [5/5]                                             :info:
+***** DONE Leo vor Havena [5/5]                                        :info:
+      CLOSED: [2020-11-27 FR 11:34]
       - [X] empfiehlt das Gasthaus [[file:locations.org::#G08][Esche und Kork]]; Kadetten saufen in [[file:locations.org::#G13][Rondras Einkehr]]
       - [X] Hinweis auf [[file:npcs.org::#TA1][Thalionmel Agilfied, Thal das Blümchen]] fuer *Baxe*
       - [X] Die [[file:locations.org::#G23][Herberge Walfisch]] ist haeuffig ueberfuellt mit Pfeffersaecken
@@ -134,7 +135,8 @@
      :src: GN 14 SH 26 ST 13
      :END:
      - [[file:locations.org::#UF11][Redaktionshaus & Druckerei]]
-**** TODO Schneider Aradin
+**** DONE Schneider Aradin
+     CLOSED: [2020-12-21 Mo 22:09]
      :PROPERTIES:
      :custom_id: UF06
      :location: G11
@@ -154,19 +156,31 @@
      :src: GN 17 SH 35
      :END:
      [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
-    - [ ] [[file:npcs.org::*Niamh Schlappmaul][Niamh Schlappmaul]] versucht die Helden vor der Rethis abzufangen fuer ein *Interview*
-    - [ ] Kontrolle beim Einlass durch
-      *Azif* ein alter Tulamide
-      *Tsaingla* eine kaltäugige Feldmärkerin
-      - *keine Waffen*; Helden koennen es Umgehen, mit *Siegel des Efferdtempels*
-      - 1 Dukate Eintritt
+     - [X] [[file:npcs.org::*Niamh Schlappmaul][Niamh Schlappmaul]] versucht die Helden vor der Rethis abzufangen fuer ein *Interview*
+     - [ ] Kontrolle beim Einlass durch
+       *Azif* ein alter Tulamide
+       *Tsaingla* eine kaltäugige Feldmärkerin
+       - *keine Waffen*; Helden koennen es Umgehen, mit *Siegel des Efferdtempels*
+       - 1 Dukate Eintritt
+***** Personen
+      - Wirtin :: [[file:npcs.org::#AA1][Asa Anjuhal]], Gewand aus roten Herbstblaettern (Humusgeist)
+      - Croupier :: [[file:npcs.org::#TH1][Tote Hand]], langes rotes Feuergewand
+      - Heiler & Babier :: [[file:npcs.org::#PN1][Phederino du Novara]] (Magier)
+      - Koechin :: *Glenna*, Sammlung scharfer Eisenwalder Messer und eine große Bandbreite an Gewürzen
+      - Waechter :: *Azif*, ein alter Tulamide
+      - Waechter :: *Tsaingla*, eine kaltäugige Feldmärkerin
+      - Papagei :: *Avessi*, "Praios zum Grrruss! Guterrr Avessi."
+      - Neckersklave :: [[file:npcs.org::#BI1][Bilanil]]         
 ***** Gaeste     
-      - [[file:npcs.org::*Rhonwin ui Notorn][Rhonwin ui Notorn]], Zunftmeister der Schneider
-      - [[file:npcs.org::#DR1][Doride Rastburger]], Reeder, Mutter von [[file:npcs.org::#RR1][Rovena Rastburger]]
-      - [[file:npcs.org::#PP1][Padraig Pliskern]], stolzer Junker
+      - [[file:npcs.org::*Rhonwin ui Notorn][Rhonwin ui Notorn]], Zunftmeister der Schneider, grauer Steinschrat
+      - [[file:npcs.org::#DR1][Doride Rastburger]], Reeder, Mutter von [[file:npcs.org::#RR1][Rovena Rastburger]], blaue Wassernymphe
+      - [[file:npcs.org::#PP1][Padraig Pliskern]], stolzer Junker, weissblauer Eisgeist
       - Faerwyn Wogenholf (Seite 67) und
-      - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]]
-      - [[file:npcs.org::#SM1][Simiadane Spectalli, Mechanica]], wenn sie einem Geldgeber eine Erfindung vorführt.
+      - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]], erdbrauner Waldschart
+      - [[file:npcs.org::#SM1][Simiadane Spectalli, Mechanica]], rostroter mechanischer Kobold
+        wenn sie einem Geldgeber eine Erfindung vorführt.
+      - *Phelizzio Colophon* (64 Jahre, mechanik begeistert, hinkend), blauer Luftgeist
+        besieht Simiadanes Erfindungen
 ***** Ereignisse
       - [ ] *Tanz* mit kleiner Kapelle auf dem Hinterdeck
       - [ ] Avessi der Papagei zeigt Flugkunststuecke (fliegt durch Rauchringe von Tote Hand)
@@ -175,13 +189,20 @@
         - [ ] [[file:npcs.org::#BI1][Bilanil]] der Neckersklave (Prostitution)
         - [ ] Rauschkrautkonsum
         - [ ] Geringschaetzung (Verachtung) der einfachen Bevölkerung (Fischer & Arbeiter)
-***** auf dem Vollmondball                                             :info:
-      - [ ] Geruechte ueber die Angriffe (todo!)
+***** auf dem Vollmondball [0/4]                                       :info:
+      - [ ] Geruechte ueber die Angriffe
+        - Es sind die Schmuggler
+        - Es sind H'Range Kultisten der Allesverschlingenden
       - [ ] [[file:criter.org::#cr-nk][Necker]] und Tiefe Kreaturen
       - [ ] Schmuggel: Graf der Unterstadt
       - [ ] naechstes Fest der Havener Gesellschaft:
-            Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren; Veranstalter [[#CO1][Cumal Ongswin]]
-**** TODO Tarverne Schatzinsel
+        - Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren;
+        - Veranstalter [[#CO1][Cumal Ongswin]], der 5 neue Goetterstatuen stiftet
+        - nur geladene Gaeste
+**** DONE Der Schlurfer 
+     CLOSED: [2020-12-21 Mo 20:35]
+**** DONE Tarverne Schatzinsel
+     CLOSED: [2020-12-21 Mo 20:55]
      :PROPERTIES:
      :custom_id: G25
      :location: C13
@@ -208,13 +229,14 @@
      [[file:npcs.org::#GS1][Graustein]]
 *** Orkendorf
 *** GN (Grauen aus dem Nebel)
-**** TODO [#A] Opfer der Angriffe [5/9]
+**** TODO [#A] Opfer der Angriffe [7/9]
      :PROPERTIES:
      :custom_id: 3
      :layer: GN
      :src: GN 12
      :END:
-***** WAITING Scibor Aberkrom
+***** DONE Scibor Aberkrom
+      CLOSED: [2020-12-21 Mo 21:48]
       *Suedhafen*
       Wir trauern um Scibor Aberkrom.
       Der verdienstvolle Patrizier starb in Folge eines Angriffs durch die tiefen Kreaturen.
@@ -224,26 +246,41 @@
       Seeleute und Hafner nahmen Reißaus. Die Kutsche Aberkroms mit seinen Begleiterinnen ging durch.
       Die Kreaturen zerrten den Wehrlosen ins Hafenbecken und ersäuften ihn.
       Seinen Leichnam fand man erst Stunden später im Wasser treibend.
-****** Mord Scibor [0/6]                                               :info:
-        - [ ] humanoid (Kerle aus dem Wasser; Tiefe Kreaturen)
-        - [ ] von Schlick & Tang bedeckt
-        - [ ] bewaffnet mit Dreizack
-        - [ ] bläulich schimmernde Haut
-        - [ ] langes weisses Haar
-        - [ ] Schwimmhäute
-***** WAITING Etaine Achton
+****** DONE der Mord an Scibor [4/4]                                   :info:
+       CLOSED: [2020-12-21 Mo 21:48]
+       - [X] hat es nicht besser verdient, der fette Pfeffersack.
+             Geld wie Heu, aber gibt nix ab.
+             Verprasst alles fuer bunte Seidengewaender & noch bunter bemalte Dirnen.
+       - [X] Ist im Hafenbecken (Suedhafen) abgesoffen,         
+         - bei Gespräch mit einem Schiffseigner
+         - kamen 3 tiefe Kreaturen aus dem Hafenbecken gekraucht
+         - Seeleute & Hafner nahmen Reissaus. Kutsche mit Begleiterinnen ging durch.
+         - Die Kreaturen zogen ihn ins Hafenbecken und ersäuften ihn.
+       - [X] humanoid (Kerle aus dem Wasser; Tiefe Kreaturen)           
+       - [X] Details im Suedhafen (Gassenwissen QS 2)
+         - [X] von Schlick & Tang bedeckt
+         - [X] bewaffnet mit Dreizack
+         - [X] bläulich schimmernde Haut
+         - [X] langes weisses Haar
+         - [X] Schwimmhäute
+***** DONE Etaine Achton
+      CLOSED: [2020-12-21 Mo 22:45]
       *Fischerort*
       Nur die Götter wissen, was Etaine Achton aus Fischerort,
       Frau des Fischhändlers Hemwit, widerfahren ist. In Krakeninsel wurde sie
       wohl beim Gang vom Traviatempel von Neckern überfallen. Nur zitternd traf
       sie zuhause ein. So groß war der Schrecken, dass die Necker ihr die
       Kleider vom Leibe reißen wollten.
-****** Angriff Etaine [0/6]                                            :info:
-       - [ ] Orangerotes Kleid
-       - [ ] erst verlaesst sie ihren Mann wegen irgendeiner Unterstadtfueherin und dann sowas
-       - [ ] spricht kaum noch ein Wort
-       - [ ] bläulich schimmernde Haut
-       - [ ] bewaffnet mit Dreizack
+****** DONE der Angriff auf Etaine [2/3]                               :info:
+       CLOSED: [2020-12-21 Mo 22:46]
+      - [X] Angriffen auf dem Nachhauseweg vom Traviatempel
+      - [X] Kleider vom Leib gerissen
+      - [-] Details in Fischerort
+        - [ ] Orangerotes Kleid
+        - [X] erst verlaesst sie ihren Mann wegen irgendeiner Unterstadtfueherin und dann sowas
+        - [X] spricht kaum noch ein Wort
+        - [X] bläulich schimmernde Haut
+        - [X] bewaffnet mit Dreizack
 ***** WAITING Emer Mellrich
       *Marschen*
       In Marschen wankte eine nasse Gestalt aus der Unterstadt an die Sattlerin
@@ -287,6 +324,31 @@
        - Tagelöhner
        - Fanfare ::
          - ertrunken im Seehafen
+**** Nachforschungen
+***** Hafenmeisterei
+      CLOSED: [2020-12-21 Mo 22:20]
+***** Efferdtempel
+      CLOSED: [2020-12-21 Mo 22:30]
+***** Fischmarkt
+      CLOSED: [2020-12-21 Mo 22:40]
+***** Hesindetempel
+      CLOSED: [2020-12-21 Mo 22:20]
+***** ueber Branwen [6/7]                                              :info:
+      <2020-12-21 Mo>
+      - [X] aufgeweckte junge Frau, Unterstadtschatzsucherin
+      - [X] besitzt ein kleines Boot in Fischerort
+      - [X] [[#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
+      - [X] wurde schon seit einer Woche nicht mehr gesehen (weder in Fischerort noch in der Schatzinsel)
+      - [X] ist unbeliebt bei den Frauen in Fischerort: Sie spannt ihnen die Maenner aus!?
+      - [X] sie ist der Grund weshalb Hemwit Achton sein Frau Etaine verliess
+      - [ ] wird im Keller der [[file:locations.org::#FI04][Seekadettenschule]] gefangen gehalten
+***** ueber Ybalio [3/4]                                               :info:
+      <2020-12-21 Mo>
+      - [X] stattlicher Neckermann, Wandler zwischen Necker & Menschenwelt
+      - [X] sehr efferd gefaellige, verlor beim Kampf gegen eine Kreatur der Unterstadt sein rechtes Ohr
+      - [X] liebt [[file:npcs.org::#BH1][Branwen]]
+      - [ ] brach vor einer Woche auf in die Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
+            um den Angriffen auf den Grund zu gehen 
 ** Wetter
    :PROPERTIES:
    :CUSTOM_ID: wetter

@@ -5,7 +5,6 @@
   :COLUMNS:  %28ITEM %3CUSTOM_ID(ID) %14OCCUPATION(BERUF) %7LOCATION(LOC) %3ORGANIZATION(ORG) %1SEX(GES) %12SRC
   :END: 
 ** Niamh Schlappmaul
-   Schreiberin der Fanfare
    :PROPERTIES:
    :CUSTOM_ID: NS1
    :SEX:      w
@@ -15,6 +14,8 @@
    :SRC:      GN 14 SH 26
    :ORGANIZATION:
    :END:
+   <2020-12-21 Mo>
+   Schreiberin der Fanfare
    - Aussehen :: 40 Jahre, Rehaugen, breites Lächeln
    - Zitate ::
      - "Habt ihr Informationen zu den Angriffen? Arbeitet ihr fuer die Efferdkirche?"
@@ -68,6 +69,7 @@
    :LOCATION: OF11
    :SRC:      SH 108
    :END:
+   Efferdgeweihte
    - Aussehen :: 49 Jahre, korpulent, schlaff
    - Zitate :: "Habt ihr schon eine Kostuemidee fuer den Vollmondball auf der Rethis?"
    - Rollenspiel :: goennerhaft
@@ -231,6 +233,7 @@
    :LOCATION: G08 HA
    :SRC:      SH 105
    :END:
+   <2020-12-04 Fr>
    Schmugglerin
    - Aussehen :: 45 Jahre, klein und drahtig, graues Strubbelhaar
    - Rollenspiel ::
@@ -253,9 +256,10 @@
     - Schmuggel auf dem Nebelpfad wird immer schwerer
     - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
     - [[file:organizations.org::#VG1][Vogtgarde]] und Schlaegertrupps (der [[file:organizations.org::#SH1][Die Silberne Hand]]?) machen Jagd auf uns
-*** ueber Gegenspieler der Nebelgeister [0/2]                          :info:
-    - [ ] Die [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und abergläubisch; im Gegensatz zu der [[file:organizations.org::#VG1][Vogtgarde]]
-    - [ ] Der Silberpfad hetzt uns in letzter Zeit Schlaegertrupps auf den Hals
+*** DONE ueber Gegenspieler der Nebelgeister [2/2]                     :info:
+    CLOSED: [2020-12-21 Mo 19:35]
+    - [X] Die [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und abergläubisch; im Gegensatz zu der [[file:organizations.org::#VG1][Vogtgarde]]
+    - [X] Der Silberpfad hetzt uns in letzter Zeit Schlaegertrupps auf den Hals
 ** Thalionmel Agilfied, Thal das Blümchen
    :PROPERTIES:
    :CUSTOM_ID: TA1
@@ -265,6 +269,7 @@
    :LOCATION: G08
    :SRC:      SH 71 SH 105 SH 132 SK 21
    :END:
+   <2020-12-11 Fr>
    Wirtin der Esche & Kork
    - Aussehen :: Auelfe, 58 Jahre, schwarzhaarig, schwarze Augen mit Blauschimmer, feine Züge
    - Zitate :: "Setzt euch! Ich bring euch erstmal eine Runde Premer Feuer!"
@@ -361,6 +366,7 @@
    :LOCATION: HA
    :SRC:      SH 105
    :END:
+   <2020-12-04 Fr>
    - Aussehen :: Zwillinge 22 Jahre, schwarze Schnauzer, hünenhaft
    - Hintergrund ::
      - Ruderer und Lastenschlepper.
@@ -397,6 +403,7 @@
    :LOCATION: HA
    :SRC:      SH 71 SH 106
    :END:
+   <2020-12-21 Mo>
    - Aussehen :: 28 Jahre, Glubschaugen, verfilztes Haar, bedeckt mit Möwenkot,
      zerschlissene Admiralsuniform der Westflotte
    - Zitate :: "KNA, KNA, KNA, KAN!" Moevengeschrei nachahmend
@@ -427,6 +434,8 @@
    :LOCATION: HA
    :SRC:      SH 71 SH 106
    :END:      
+   Zoellnerin
+   <2020-12-11 Fr>
    - Aussehen :: 39 Jahre, korpulent
    - Zitate :: "Hamm se was zu verzollen die Herrschaften?"
    - Rollenspiel :: schwatzhaft
@@ -439,7 +448,6 @@
 
    Zentrale Person auf dem Silberpfad. Organisiert eingeweihte Zöllner.
 ** Meriwen Bleichbruck
-   stellvertretende Kontorleiterin
    :PROPERTIES:
    :CUSTOM_ID: MB1
    :SEX:      w
@@ -448,6 +456,8 @@
    :LOCATION: NA03
    :SRC:      SH 70 SH 106
    :END:
+   <2020-12-11 Fr>
+   stellvertretende Kontorleiterin
    - Aussehen :: 43 Jahre, 1,65 Schritt, schwarzer Pagenschnitt, stechende graue Augen,
      Goldohrring im linken Ohr
    - Zitat :: "Was darf ich euch besorgen?"
@@ -469,7 +479,8 @@
    - Werte :: Willenskraft 8 (12,14,14)
    - Orte ::
      - [[file:locations.org::#NA03][Kontor Engstrand]]
-*** gegen Nebelgeister [4/4]                                           :info:
+*** DONE gegen Nebelgeister [4/4]                                      :info:
+    CLOSED: [2020-12-11 Fr 22:25]
     - [X] Verbindung zu Axel ueber Handel mit Familie von Aue
     - [X] zu den *Angriffen*
       - Eindringling von den Wachleuten & Hunden vertrieben; entkommen in Kanal:
@@ -568,6 +579,8 @@
    :LOCATION: Hafen
    :SRC:      SH 66
    :END:
+   <2020-12-04 Fr>
+   Seelotse
    - Aussehen :: 32 Jahre, braunes Haar, gutaussehend, verschmitzt
    - Zitate :: Jetzt sechs Strich steuerbord für 30 Schlag.
      Steuerbord habe ich gesagt, du Dösbroodel, nicht backbord!
@@ -606,6 +619,7 @@
    :LOCATION: LK
    :SRC:      SH 110
    :END:
+   <2020-12-04 Fr>
    - Aussehen :: 12 Schritt lang, 4 Schritt hoch
      - der *uralte Schildkroetenpanzer* trägt Muscheln, Seepocken zahllosen Narben erbitterter Kämpfe
      - Der Kopf ist von einem *Hornkamm* geschmückt
@@ -647,6 +661,7 @@
    :LOCATION: T02
    :SRC:      SH 65 SH 129
    :END:
+   <2020-12-11 Fr>
    Bewahrer von Wind und Wogen
    - Aussehen :: 66 Jahre, 1,78 Schritt, schütteres, graues Haar, kieselgraue Augen, stimmgewaltig
    - Zitate :: Wie schwach und unmerklich der Sog auch sein mag: Wenn du nicht
@@ -673,7 +688,7 @@
    Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
    Autoritätsverlust befürchtet
    
-*** ueber die Sternenmuschel [1/2]                                     :info:
+*** Infos von Grausteindie [1/2]                                       :info:
     - [X] Karte von Haven (mit Karte der alten Unterstadt)? -> sieh [[#DD1][Domnall Dalpert]]
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
@@ -695,6 +710,7 @@
    :LOCATION: T02
    :SRC:      SH 34 SH 106
    :END:
+   <2020-12-11 Fr>
    Efferd Geweihte
    - Aussehen :: 37 Jahre, rotbraunes Haar, viele Sommersprossen
    - Rollenspiel ::
@@ -753,6 +769,7 @@
    :LOCATION: G08
    :SRC:      SRC 35 SH 106
    :END:
+   <2020-12-11 Fr>
    Koch
    - Aussehen :: 49 Jahre, Glatze, viele Tätowierungen, schüchtern
    - Zitate :: Singend
@@ -774,6 +791,7 @@
    :LOCATION: G08
    :SRC:      SRC 35
    :END:
+   <2020-12-11 Fr>
    Schankmagd
    - Aussehen :: 31 Jahre, blondes Haar, großherzig
    - Rollenspiel :: hilfsbereit
@@ -791,6 +809,8 @@
    :LOCATION: T10
    :SRC:      GN 13 SH 70 
    :END:
+   <2020-12-11 Fr>
+   Hesindegeweihter
    - Aussehen :: 67 Jahre, hager, wirres weißes Haar und weißer Bart
    - Zitate :: Seid gesegnet mit Hesindes Weisheit
    - Rollenspiel ::
@@ -862,6 +882,7 @@
    :LOCATION: G25
    :SRC:      GN 15 SH 71
    :END:
+   <2020-12-21 Mo>
    Alter Schatzsucher
    - Aussehen :: 96 Jahre, hager, fehlender Arm, riecht nach fauligem Fisch; fast blind
    - Zitate ::
@@ -876,12 +897,14 @@
        Phex, in dessen Gunst er sich glaubt
    - Ziele ::
      - Schaetze finden 
-   - Orte :: [[file:locations.org::#G25][Schatzinsel]], Unterstadt
-*** ueber Necker in der Unterstadt (rote Stoffe) [0/1]                 :info:
-    - [ ] Gebrabbel:
-      - [ ] immer wieder hin und her, hin und her und immer wieder, wann hoeren die auf?
+   - Orte :: [[file:locations.org::#G25][Schatzinsel]], Unterstadt**
+*** DONE ueber Necker in der Unterstadt (rote Stoffe) [1/1]            :info:
+  CLOSED: [2020-12-21 Mo 20:56]
+    - *Allgemein zu [[file:criter.org::#cr-nk][Necker]]*
+    - [X] Gebrabbel:
+      - [X] immer wieder hin und her, hin und her und immer wieder, wann hoeren die auf?
         (Necker schwimmen unter seinem Floss durch)
-      - [ ] und es wallt im Wasser, hoch und runter, hoch und runter wie giftige Quallen
+      - [X] und es wallt im Wasser, hoch und runter, hoch und runter wie giftige Quallen
         und sie tragen es nach Hause in die Tiefe
         (die Necker haben Stoffe / Kleidung bei sich)    
 ** Waern Poschrat
@@ -893,6 +916,7 @@
    :LOCATION: G25
    :SRC:      GN 15
    :END:
+   <2020-12-21 Mo>
    Wirt Schatzinsel
    - Aussehen :: 50 Jahre, dick, Dreitagebart
    - Rollenspiel ::
@@ -905,10 +929,11 @@
    Jahr schauriger klingen lässt. Wenn in Havena jemand etwas Belangloses
    erzählt, ist eine beliebt gewordene Entgegnung „Interessiert das vielleicht
    Waern?“ oder „Waern interessiert’s!“
-*** ueber Necker in Not & Branwen [0/3]                                :info:
-    - [ ] den Pferden geht es gut; 1 Dukate pro Pferd
+*** ueber Necker in Not & Branwen [2/3]                                :info:
+    <2020-12-21 Mo>
+    - [X] den Pferden geht es gut; 1 Dukate pro Pferd
     *Allgemein zu [[file:criter.org::#cr-nk][Necker]]*
-    - [ ] *Neckergesang*: normalerweise schoen, friedlich & betörend;
+    - [X] *Neckergesang*: normalerweise schoen, friedlich & betörend;
           in letzter Zeit klangen sie *klagend, gezwungen & trauernd*
           Vielleicht sind sie in not?
           Floesst jemand ihnen Alkohol ein?
@@ -923,6 +948,7 @@
    :LOCATION: UF06
    :SRC:      GN 13 SH 27 ST 13
    :END:
+   <2020-12-21 Mo>
    Schneider
    - Aussehen :: 40 Jahre, redet viel, meist mit Massband uber der Schulter
    - Rollenspiel ::
@@ -931,13 +957,14 @@
      - Schneider der Reichen 
      - [[file:locations.org::#UF06][Schneider Aradin]]
        
-*** beim Schneider [0/3]                                               :info:
-    - [ ] gerade schwer beschaeftig; Laden quillt ueber vor *farbenfrohen Stoffen*
+*** DONE beim Schneider [3/3]                                          :info:
+    CLOSED: [2020-12-21 Mo 22:10]
+    - [X] gerade schwer beschaeftig; Laden quillt ueber vor *farbenfrohen Stoffen*
           hat wenig Zeit fuer Helden, die nichts kaufen
-    - [ ] zwei Feste stehen bevor
+    - [X] zwei Feste stehen bevor
       - [[file:plot.org::#2][Vollmondball auf Rethis]] (Maskenball mit Thema: die 6 Elemente)
       - Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren; Veranstalter [[#CO1][Cumal Ongswin]]
-    - [ ] Schneider von [[file:plot.org::#3][Scibor Aberkrom]]; der trug gerne leuchtende Farben (Rot, Orange, Gelb)
+    - [X] Schneider von [[file:plot.org::#3][Scibor Aberkrom]]; der trug gerne leuchtende Farben (Rot, Orange, Gelb)
           der ist ja jetzt tot: wollt ihr ein rotes Feuerdschinn-Kostuem (Vollmondball) fuer 50S?
 ** Ybalio
    :PROPERTIES:

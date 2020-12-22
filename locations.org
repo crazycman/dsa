@@ -839,7 +839,7 @@
     - [[file:rules.org::#fr-bs][Brettspiele]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
 **** Personen
      - Wirtin :: [[file:npcs.org::#AA1][Asa Anjuhal]] 
-     - Croupier :: [[file:npcs.org::#TH1][Tote Hand]] 
+     - Croupier :: [[file:npcs.org::#TH1][Tote Hand]]
      - Heiler & Babier :: [[file:npcs.org::#PN1][Phederino du Novara]] (Magier)
      - Koechin :: *Glenna*, Sammlung scharfer Eisenwalder Messer und eine große Bandbreite an Gewürzen
      - Waechter :: *Azif*, ein alter Tulamide
