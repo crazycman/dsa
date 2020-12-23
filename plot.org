@@ -338,14 +338,15 @@
       CLOSED: [2020-12-21 Mo 22:40]
 ***** Hesindetempel
       CLOSED: [2020-12-21 Mo 22:20]
-***** ueber Branwen [6/7]                                              :info:
+***** ueber Branwen [6/8]                                              :info:
       <2020-12-21 Mo>
       - [X] aufgeweckte junge Frau, Unterstadtschatzsucherin
       - [X] besitzt ein kleines Boot in Fischerort
-      - [X] [[#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
+      - [X] [[file:npcs.org::#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
       - [X] wurde schon seit einer Woche nicht mehr gesehen (weder in Fischerort noch in der Schatzinsel)
       - [X] ist unbeliebt bei den Frauen in Fischerort: Sie spannt ihnen die Maenner aus!?
       - [X] sie ist der Grund weshalb [[file:npcs.org::#HA1][Hemwit Achton]] sein Frau Etaine verliess
+      - [ ] [[file:npcs.org::*Travigod Gawain][Travigod]] die Fischersfrau hat zuletzt mehrfach lautstark auf "die Hexe" geflucht
       - [ ] wird im Keller der [[file:locations.org::#FI04][Seekadettenschule]] gefangen gehalten
 ***** ueber Ybalio [3/4]                                               :info:
       <2020-12-21 Mo>
@@ -353,7 +354,15 @@
       - [X] sehr efferd gefaellige, verlor beim Kampf gegen eine Kreatur der Unterstadt sein rechtes Ohr
       - [X] liebt [[file:npcs.org::#BH1][Branwen]]
       - [ ] brach vor einer Woche auf in die Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
-            um den Angriffen auf den Grund zu gehen 
+            um den Angriffen auf den Grund zu gehen
+***** die Furien vom Fischerort [0/1]                                  :info:
+      - [[file:npcs.org::#TG1][Travigod Gawain]]
+      - [[file:npcs.org::*Etaine Achton][Etaine Achton]]
+      - [[file:npcs.org::*Hanni Glennard][Hanni Glennard]]
+      - [[file:npcs.org::*Ailbe Coiller][Ailbe Coiller]]
+      - [ ] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf  "die Hexe" [[file:npcs.org::#BH1][Branwen]]
+        - [ ] Die spannt uns doch die Maenner aus (Etaine, Hanni)
+        - [ ] hext sie impotent (Ailbe)
 ** Wetter
    :PROPERTIES:
    :CUSTOM_ID: wetter
