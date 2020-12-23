@@ -29,7 +29,10 @@
        - 180 S. :: Gruppendeck, Haengematte, einfache Verpflegung
        - 480 S. :: Dreier - Viererkabine, einfache Verpflegung
        - 1140 S. :: Einzelkabine, gute Verpflegung
-***** Schiff
+***** Schiff Willem Kuyfhoff
+      :PROPERTIES:
+      :CUSTOM_ID: SCH-WK
+      :END:
       - Karavelle :: jüngerer Schiffstyp für Fahrten auf hoher See, Wellenreiter
         - Havena-Segel :: Dreieckssegel, das Kreuzen gegen den Wind erlaubt
         - Heckruder & *senkrechter Achtersteven*, Mischtakelung (mit Sprietsegel)
@@ -181,10 +184,11 @@
         wenn sie einem Geldgeber eine Erfindung vorführt.
       - *Phelizzio Colophon* (64 Jahre, mechanik begeistert, hinkend), blauer Luftgeist
         besieht Simiadanes Erfindungen
-***** Ereignisse
+***** Ereignisse [0/4]
       - [ ] *Tanz* mit kleiner Kapelle auf dem Hinterdeck
-      - [ ] Avessi der Papagei zeigt Flugkunststuecke (fliegt durch Rauchringe von Tote Hand)
+      - [ ] Was war euer groesstes Abenteuer bisher? (in dramatischen Worten!)
       - [ ] [[file:rules.org::#fr-bs][Kluecksspiel]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
+      - [ ] Avessi der Papagei zeigt Flugkunststuecke (fliegt durch Rauchringe von Tote Hand)
       - [ ] *Dekadenz* dick Auftragen
         - [ ] [[file:npcs.org::#BI1][Bilanil]] der Neckersklave (Prostitution)
         - [ ] Rauschkrautkonsum
@@ -193,6 +197,7 @@
       - [ ] Geruechte ueber die Angriffe
         - Es sind die Schmuggler
         - Es sind H'Range Kultisten der Allesverschlingenden
+        - Der Alkohol macht die Necker wild; zuviel Seemanspisse im Hafenbecken
       - [ ] [[file:criter.org::#cr-nk][Necker]] und Tiefe Kreaturen
       - [ ] Schmuggel: Graf der Unterstadt
       - [ ] naechstes Fest der Havener Gesellschaft:
@@ -266,7 +271,7 @@
 ***** DONE Etaine Achton
       CLOSED: [2020-12-21 Mo 22:45]
       *Fischerort*
-      Nur die Götter wissen, was Etaine Achton aus Fischerort,
+      Nur die Götter wissen, was [[file:npcs.org::#EA1][Etaine Achton]] aus Fischerort,
       Frau des Fischhändlers Hemwit, widerfahren ist. In Krakeninsel wurde sie
       wohl beim Gang vom Traviatempel von Neckern überfallen. Nur zitternd traf
       sie zuhause ein. So groß war der Schrecken, dass die Necker ihr die
@@ -340,7 +345,7 @@
       - [X] [[#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
       - [X] wurde schon seit einer Woche nicht mehr gesehen (weder in Fischerort noch in der Schatzinsel)
       - [X] ist unbeliebt bei den Frauen in Fischerort: Sie spannt ihnen die Maenner aus!?
-      - [X] sie ist der Grund weshalb Hemwit Achton sein Frau Etaine verliess
+      - [X] sie ist der Grund weshalb [[file:npcs.org::#HA1][Hemwit Achton]] sein Frau Etaine verliess
       - [ ] wird im Keller der [[file:locations.org::#FI04][Seekadettenschule]] gefangen gehalten
 ***** ueber Ybalio [3/4]                                               :info:
       <2020-12-21 Mo>

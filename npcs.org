@@ -2,9 +2,21 @@
 #+SEQ_TODO:   TODO(t) ACTIVE(i) WAITING(w@) | DONE(d)
 * NPCs 
   :PROPERTIES:
-  :COLUMNS:  %28ITEM %3CUSTOM_ID(ID) %14OCCUPATION(BERUF) %7LOCATION(LOC) %3ORGANIZATION(ORG) %1SEX(GES) %12SRC
+  :COLUMNS:  %28ITEM %3CUSTOM_ID(ID) %14OCCUPATION(BERUF) %7LOCATION(LOC) %6ORGANIZATION(ORG) %1SEX(GES) %12SRC
   :END: 
-** Niamh Schlappmaul
+** Hanno Kuyfhoff-Rothstrand                                            :met:
+   :PROPERTIES:
+   :CUSTOM_ID: HK1
+   :SEX:      m
+   :OCCUPATION: Kapitän
+   :ORGANIZATION: 
+   :LOCATION: 
+   :SRC:      
+   :END:
+   <2020-11-27 Sa>
+   Kapitän & Händler, 56 Jahre, weisser Bart, Karavellen Experte
+   [[file:plot.org::#SCH-WK][Schiff Willem Kuyfhoff]] *Grangorer* Handelsschiff, kleine schnelle Karavelle
+** Niamh Schlappmaul                                                    :met:
    :PROPERTIES:
    :CUSTOM_ID: NS1
    :SEX:      w
@@ -12,7 +24,6 @@
    :ORGANIZATION: Fanfare
    :LOCATION: UF11
    :SRC:      GN 14 SH 26
-   :ORGANIZATION:
    :END:
    <2020-12-21 Mo>
    Schreiberin der Fanfare
@@ -52,7 +63,6 @@
    :ORGANIZATION: Fanfare
    :LOCATION: UF11
    :SRC:      GN 14 SH 26
-   :ORGANIZATION:
    :END:
    - Aussehen :: 53 Jahre, tintenbefleckte Finger
    - Hintergrund ::
@@ -181,7 +191,7 @@
      - Informationen sammeln: Was geht in Havena vor sich; wer sind die relevanten Akteure
    - Werte :: Willenskraft 10 (14/15/14)
    - Orte :: [[file:locations.org::#OF03][Haus des Stadtvogts]]
-** Ranziger Toss
+** Ranziger Toss                                                        :met:
    :PROPERTIES:
    :CUSTOM_ID: RT1
    :SEX:      m
@@ -190,6 +200,7 @@
    :LOCATION: G08 HA
    :SRC:      SH 69 SH 131
    :END:
+   <2020-12-11 Fr>
    Ewerführer & Blocker der Havena Bullen
    - Aussehen :: 29 Jahre, massig (riesenhaft), Kapitänshut
    - Zitate :: Mit dir wisch' ich den Boden auf
@@ -224,7 +235,7 @@
      die Bordwand einer 20 Schritt langen Kogge fiel, reagierte er sofort: Toss
      drückte das Schiff mit aller Kraft fort, bis selbst die Anlegeleine riss,
      und rettete so die Frau davor, zerquetscht zu werden.
-** Lyn Barc, der Aal
+** Lyn Barc, der Aal                                                    :met:
    :PROPERTIES:
    :CUSTOM_ID: LB1
    :SEX:      w
@@ -260,7 +271,7 @@
     CLOSED: [2020-12-21 Mo 19:35]
     - [X] Die [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und abergläubisch; im Gegensatz zu der [[file:organizations.org::#VG1][Vogtgarde]]
     - [X] Der Silberpfad hetzt uns in letzter Zeit Schlaegertrupps auf den Hals
-** Thalionmel Agilfied, Thal das Blümchen
+** Thalionmel Agilfied, Thal das Blümchen                               :met:
    :PROPERTIES:
    :CUSTOM_ID: TA1
    :SEX:      w
@@ -357,7 +368,7 @@
    - Hintergrund ::
      - hält Werkzeuge und die Boote der Bande in Schuss, die bei seinem Haus in Südhafen lagern
    - Orte :: Werft im Suedhafen
-** Dunvall und Cynvall
+** Dunvall und Cynvall                                                  :met:
    :PROPERTIES:
    :CUSTOM_ID: DC1
    :SEX:      m
@@ -394,7 +405,7 @@
      - rauskommen 
      - dichthalten
    - Orte :: Moorburg
-** Wilanna, die Moevenfrau
+** Wilanna, die Moevenfrau                                              :met:
    :PROPERTIES:
    :CUSTOM_ID: WM1
    :SEX:      w
@@ -425,7 +436,7 @@
    - Orte ::
      - Nachmittags [[file:locations.org::#FI06][Fischmarkt]]
      - schlaeft nachts am [[file:locations.org::*Hafen (HA)][Hafen]]kai, bedeckt von Moevenleibern
-** Idra Kerkil
+** Idra Kerkil                                                          :met:
    :PROPERTIES:
    :CUSTOM_ID: IK1
    :SEX:      w
@@ -447,7 +458,7 @@
    - Orte :: [[file:locations.org::#SÜ10][Zollbrücke]]
 
    Zentrale Person auf dem Silberpfad. Organisiert eingeweihte Zöllner.
-** Meriwen Bleichbruck
+** Meriwen Bleichbruck                                                  :met:
    :PROPERTIES:
    :CUSTOM_ID: MB1
    :SEX:      w
@@ -570,7 +581,7 @@
      - Bannbaladin
      - Horriphobus
      - Magisches Gespür für Schatzsuche in der Unterstadt (Begegnungen -1 SH 119, Schatz +3 SH 120)
-** Cullain Nebelstecher
+** Cullain Nebelstecher                                                 :met:
    :PROPERTIES:
    :CUSTOM_ID: CN1
    :SEX:      m
@@ -610,7 +621,7 @@
       - betreten ist Verboten (vom Fuerstenhaus)
       - [[#BH1][Branwen]] und [[#OF1][Ordhan Faic]] kennen sich dort gut aus, sie sind oft in der [[file:locations.org::*Schatzinsel][Schatzinsel]]
       
-** Lata, Drachenschildkroete
+** Lata, Drachenschildkroete                                            :met:
    :PROPERTIES:
    :CUSTOM_ID: LA1
    :SEX:      w
@@ -652,7 +663,7 @@
    Die mächtige Drachenschildkröte gilt den Havenern als heiliges Wesen und das
    Zeichen, dass Efferd sie vor dem Bösen beschützt.
    Sie durchschwimmt die Unterstadt und geht dort auf Jagd nach charyptiden Kreaturen.
-** Graustein
+** Graustein                                                            :met:
    :PROPERTIES:
    :CUSTOM_ID: GS1
    :SEX:      m
@@ -701,7 +712,7 @@
     - 3*300 Silbertaler, wenn die Gefahr entgueltig beseitigt wird
     - [X] Siegel des Efferdtempel um sich auszuweisen
     
-** Gilia
+** Gilia                                                                :met:
    :PROPERTIES:
    :CUSTOM_ID: GI1
    :SEX:      w
@@ -760,7 +771,7 @@
    - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
 
    fällt auf durch: *kränkliche Erscheinung*, *viele efferdgeweihte Amulette* und stets *nasse Kleidung*
-** Caye
+** Caye                                                                 :met:
    :PROPERTIES:
    :CUSTOM_ID: CA1
    :SEX:      m
@@ -782,7 +793,7 @@
    - Orte :: [[file:locations.org::*Esche und Kork][Esche und Kork]]
 *** ueber Neckerbefreier [0/1]                                         :info:
     - [ ] Mitgliede in [[file:organizations.org::#EV1][Efferds Vergeltung (Neckerfreunde)]]
-** Sula
+** Sula                                                                 :met:
    :PROPERTIES:
    :CUSTOM_ID: SU1
    :SEX:      w
@@ -800,7 +811,7 @@
      ist bei der Arbeit stets von einer Traube halb angenommener,
      *schmuddeliger Gossenkinder umgeben, die ihr zur Hand gehen*.
    - Orte :: [[file:locations.org::*Esche und Kork][Esche und Kork]]      
-** Domnall Dalpert
+** Domnall Dalpert                                                      :met:
    :PROPERTIES:
    :CUSTOM_ID: DD1
    :SEX:      m
@@ -873,7 +884,7 @@
           
     - [X] Theorie zur grossen Flut: wie bei Selem durch einen ins Meer fallenden Stern ausgelöst,
            und dass die *Häufung von fallendem Gwen Petryl möglicherweise eine neue Flut ankündigt*
-** Ordhan Faic
+** Ordhan Faic                                                          :met:
    :PROPERTIES:
    :CUSTOM_ID: OF1
    :SEX:      m
@@ -907,7 +918,7 @@
       - [X] und es wallt im Wasser, hoch und runter, hoch und runter wie giftige Quallen
         und sie tragen es nach Hause in die Tiefe
         (die Necker haben Stoffe / Kleidung bei sich)    
-** Waern Poschrat
+** Waern Poschrat                                                       :met:
    :PROPERTIES:
    :CUSTOM_ID: WP1
    :SEX:      m
@@ -939,7 +950,7 @@
           Floesst jemand ihnen Alkohol ein?
     - [ ] Branwen ist normalerweise oft hier; schon seit einiger Zeit aber nicht mehr gesehen
           Ist Branwen nicht in eine Neckermann verliebt?
-** Yurro Aradin
+** Yurro Aradin                                                         :met:
    :PROPERTIES:
    :CUSTOM_ID: YA1
    :SEX:      m
@@ -1215,3 +1226,93 @@
    - Hintergrund ::
      einflussreicher und skrupelloser Strippenzieher,
      der vornehmlich den Wohlstand der Reichen mehren will
+** Hemwit Achton
+   :PROPERTIES:
+   :CUSTOM_ID: HA1
+   :SEX:      m
+   :OCCUPATION: Fischer
+   :ORGANIZATION: 
+   :LOCATION: S03
+   :SRC:      GN 25
+   :END:
+   - Aussehen :: 
+   - Zitate :: 
+   - Rollenspiel ::
+   - Hintergrund ::
+   - Werte :: 
+** Etaine Achton
+   :PROPERTIES:
+   :CUSTOM_ID: EA1
+   :SEX:      w
+   :OCCUPATION: Fischerin
+   :ORGANIZATION: Furien
+   :LOCATION: S03
+   :SRC:      GN 25
+   :END:
+   Fischerin
+   - Aussehen :: 
+   - Zitate :: 
+   - Rollenspiel ::
+   - Hintergrund ::
+   - Werte :: 
+** Travigod Gawain
+   :PROPERTIES:
+   :CUSTOM_ID: TG1
+   :SEX:      w
+   :OCCUPATION: Fischerin
+   :ORGANIZATION:  Furien
+   :LOCATION: S03
+   :SRC:      GN 25
+   :END:
+   Fischerin
+   - Aussehen :: 
+   - Zitate :: 
+   - Rollenspiel ::
+   - Hintergrund ::
+   - Werte ::
+** Hanni Glennard
+   :PROPERTIES:
+   :CUSTOM_ID: HG1
+   :SEX:      w
+   :OCCUPATION: Fischerin
+   :ORGANIZATION:  Furien
+   :LOCATION: S03
+   :SRC:      GN 25
+   :END:
+   Fischerin
+   - Aussehen :: 
+   - Zitate :: 
+   - Rollenspiel ::
+   - Hintergrund ::
+   - Werte ::
+** Ailbe Coiller
+   :PROPERTIES:
+   :CUSTOM_ID: AC1
+   :SEX:      w
+   :OCCUPATION: Seilerin
+   :ORGANIZATION:  Furien
+   :LOCATION: S03
+   :SRC:      GN 25
+   :END:
+   Seilerin
+   - Aussehen :: 
+   - Zitate :: 
+   - Rollenspiel ::
+   - Hintergrund ::
+   - Werte ::           
+** Dunval Ardheg
+   :PROPERTIES:
+   :CUSTOM_ID: HA1
+   :SEX:      m
+   :OCCUPATION: Seekadett
+   :ORGANIZATION: Seekadetten
+   :LOCATION: FI04
+   :SRC:      GN 26
+   :END:
+   Seekadett
+   - Aussehen :: 
+   - Zitate :: 
+   - Rollenspiel ::
+   - Hintergrund ::
+   - Werte ::
+   - Orte :: [[file:locations.org::#FI04][Seekadettenschule]]
