@@ -263,6 +263,7 @@
      - [[file:locations.org::#G08][Esche und Kork]]
 *** ACTIVE Queste : Konterbande aus Unterstad bergen                  :quest:
     Bergt die Ware aus [[file:locations.org::#T13][Perainetempel in der Unterstadt]]
+    Bezahlung 40% ~ 40 Dukaten
     *Hintergrund*:
     - Schmuggel auf dem Nebelpfad wird immer schwerer
     - [[file:organizations.org::#SG1][Stadtgarde]] ist inkompetent und meist leicht auszutricksen 
@@ -296,12 +297,6 @@
      - die Taverne fuehren (unaufaellig, um als Treffpunkt der Nebelgeist nicht aufzufallen)
      - ihre Schwester Aldare finden
    - Werte :: intuitive Zauberin
-     - SK 3
-     - Handel 12 (13/14/15)
-     - Menschenkenntnis 12 (13/14/15)
-     - Willenskraft 10 (13/14/15)
-     - Bannbaladin 7 (14/14/15)
-     - Sensibar 6 (14/14/15)
    - Orte :: [[file:locations.org::#G08][Esche und Kork]]
 
    - Ihr Ziehvater Sulpiz zog Thalionmel und ihre Schwester als Findelkinder gross.
@@ -516,9 +511,10 @@
    :LOCATION: UF10
    :SRC:      SH 66 SH 129
    :END:
+   <2020-12-26 Sa>
    Mechanica
    - Aussehen :: 55 (36) Jahre, blondes wirres Haar, Furunkel auf der Strin, Arbeitsschürze
-   - Zitate :: Vertüftelt noch eins! Was sagt Ihr Cavalliere Cranium?
+   - Zitate :: Vertüftelt noch eins! Was sagt Ihr *Cavalliere Cranium*?
      Meine Sprungfederfüße für pedestrische Beschleunigung ziehen nach links?
      Unmöglich, meine Berechnungen stimmen immer! Na schön.
      Ich schau sie mir noch mal an. Dieses Mal werden sie per-fekt!«
@@ -549,8 +545,9 @@
 *** ueber Branwen [0/1]                                                :info:
     - [ ] Befreundet mit [[#BH1][Branwen]]; diese ist mit [[*Ybalio][Ybalio]] dem Necker liiert
 *** Queste : Mechanische Artefakte                                    :quest:
-    Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
-    die Aschimeter dort einst zusammenbaute
+    - Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
+      die Aschimeter dort einst zusammenbaute
+    - Erfindungen erproben 
 ** Branwen, die Hexe
    :PROPERTIES:
    :CUSTOM_ID: BH1

@@ -151,7 +151,8 @@
      CLOSED: [2020-12-11 Fr 21:25]
      [[file:npcs.org::*Domnall Dalpert][Domnall Dalpert]]
 *** Feldmarschen
-**** TODO Vollmondball auf der Rethis
+**** DONE Vollmondball auf der Rethis
+     CLOSED: [2020-12-26 Sa 23:41]
      :PROPERTIES:
      :custom_id: 5
      :location: D11
@@ -160,7 +161,7 @@
      :END:
      [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
      - [X] [[file:npcs.org::*Niamh Schlappmaul][Niamh Schlappmaul]] versucht die Helden vor der Rethis abzufangen fuer ein *Interview*
-     - [ ] Kontrolle beim Einlass durch
+     - [X] Kontrolle beim Einlass durch
        *Azif* ein alter Tulamide
        *Tsaingla* eine kaltäugige Feldmärkerin
        - *keine Waffen*; Helden koennen es Umgehen, mit *Siegel des Efferdtempels*
@@ -182,16 +183,17 @@
       - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]], erdbrauner Waldschart
       - [[file:npcs.org::#SM1][Simiadane Spectalli, Mechanica]], rostroter mechanischer Kobold
         wenn sie einem Geldgeber eine Erfindung vorführt.
+        - [ ] 3 Nebelschlucker-Fackeln, 2 Elidasfuesse, 1 Automaticus Magicus
       - *Phelizzio Colophon* (64 Jahre, mechanik begeistert, hinkend), blauer Luftgeist
         besieht Simiadanes Erfindungen
-***** Ereignisse [0/4]
-      - [ ] *Tanz* mit kleiner Kapelle auf dem Hinterdeck
-      - [ ] Was war euer groesstes Abenteuer bisher? (in dramatischen Worten!)
-      - [ ] [[file:rules.org::#fr-bs][Kluecksspiel]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
+***** Ereignisse [3/5]
+      - [X] *Tanz* mit kleiner Kapelle auf dem Hinterdeck
+      - [X] Was war euer groesstes Abenteuer bisher? (in dramatischen Worten!)
+      - [X] [[file:rules.org::#fr-bs][Kluecksspiel]] Boltan, Urdas, Zinnfigurenschlacht (komplexe Spiele)
       - [ ] Avessi der Papagei zeigt Flugkunststuecke (fliegt durch Rauchringe von Tote Hand)
       - [ ] *Dekadenz* dick Auftragen
-        - [ ] [[file:npcs.org::#BI1][Bilanil]] der Neckersklave (Prostitution)
-        - [ ] Rauschkrautkonsum
+        - [ ] [[file:npcs.org::#BI1][Bilanil]] der Neckersklave (Prostitution; Isora Stewir, 41, Wasser Wasserdschinn)
+        - [ ] Rauschkrautkonsum ([[file:npcs.org::#TH1][Tote Hand]] dealt; Sinnesschärfe -1)
         - [ ] Geringschaetzung (Verachtung) der einfachen Bevölkerung (Fischer & Arbeiter)
 ***** auf dem Vollmondball [0/4]                                       :info:
       - [ ] Geruechte ueber die Angriffe
@@ -234,7 +236,7 @@
      [[file:npcs.org::#GS1][Graustein]]
 *** Orkendorf
 *** GN (Grauen aus dem Nebel)
-**** TODO [#A] Opfer der Angriffe [7/9]
+**** TODO Opfer der Angriffe [7/9]
      :PROPERTIES:
      :custom_id: 3
      :layer: GN
