@@ -183,7 +183,7 @@
       - [[file:npcs.org::*Meriwen Bleichbruck][Meriwen Bleichbruck]], erdbrauner Waldschart
       - [[file:npcs.org::#SM1][Simiadane Spectalli, Mechanica]], rostroter mechanischer Kobold
         wenn sie einem Geldgeber eine Erfindung vorführt.
-        - [ ] 3 Nebelschlucker-Fackeln, 2 Elidasfuesse, 1 Automaticus Magicus
+        - [X] 3 Nebelschlucker-Fackeln, 2 Elidasfuesse, 1 Automaticus Magicus
       - *Phelizzio Colophon* (64 Jahre, mechanik begeistert, hinkend), blauer Luftgeist
         besieht Simiadanes Erfindungen
 ***** Ereignisse [3/5]
@@ -205,7 +205,23 @@
       - [ ] naechstes Fest der Havener Gesellschaft:
         - Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren;
         - Veranstalter [[#CO1][Cumal Ongswin]], der 5 neue Goetterstatuen stiftet
-        - nur geladene Gaeste
+        - nur geladene Gaeste          
+**** DONE Visionen des sterbenden Neckers
+     CLOSED: [2020-12-26 Sa 23:45]
+     kurz vor seinem Tode sendete euch der sterbende Necker folgende Gedankenbilder:
+     - ein Necker mit fehlendem Ohr der als Freund kommt, der als Freund kommt
+     - Roter Wirbel & rote Gischt im Wasser 
+     - Ruinen von Fluten umspült, unter Wasser durch eine grosse Oeffnung
+       ineiner Kuppel sieht man den Himmel. Ein Necker schwimmt zur Öffnung,
+       hastig getrieben, gezwungen. Er schwimmt zum Ufer und blickt sich
+       hektisch umher auf der Suche nach einem roten Kleidungsstück.
+     - Ein majestätischer Necker: über zwei Schritt gross, sein langes
+       weissgoldenes Haar schimmert silbern im Mondlicht und bläulich im
+       Gwen-Petryl Schein. Ein schmale Krone aus Korallen ziert sein Haupt. Auf
+       den Schultern trägt er einen dünnen Umhang aus rötlicher Seide. Sein
+       Blick ist wuetend, er zuernt den Neckern. Der einohrige versucht den
+       Neckerfuerts zu besaenftigen, wird aber daraufhin wutentbrannt von seinen
+       Schergen in einen dunklen Raum eingesperrt.
 **** DONE Der Schlurfer 
      CLOSED: [2020-12-21 Mo 20:35]
 **** DONE Tarverne Schatzinsel
@@ -364,7 +380,7 @@
       - [[file:npcs.org::*Ailbe Coiller][Ailbe Coiller]]
       - [ ] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf  "die Hexe" [[file:npcs.org::#BH1][Branwen]]
         - [ ] Die spannt uns doch die Maenner aus (Etaine, Hanni)
-        - [ ] hext sie impotent (Ailbe)
+        - [ ] hext sie zu Schlappschwanz (Ailbe)
 ** Wetter
    :PROPERTIES:
    :CUSTOM_ID: wetter

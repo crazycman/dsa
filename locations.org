@@ -1413,6 +1413,7 @@
      :verfall: 3
      :src:      GN 30 SH 122
      :END:
+     - [[file:npcs.org::#OY1][Oylaribel]]
 **** Große Bibliothek
      :PROPERTIES:
      :custom_id: FS02

@@ -1033,6 +1033,7 @@
       - Als Ich mich in der zweiten Nacht zur Ruhe legte, sass er noch am Ufer zur Unterstadt
       - seitdem nicht mehr gesehen
 ** Asa Anjuhal
+   <2020-12-26 Sa>
    :PROPERTIES:
    :CUSTOM_ID: AA1
    :SEX:      w
@@ -1062,6 +1063,7 @@
    :LOCATION: G24
    :SRC:      SH 36 SH 107
    :END:
+   <2020-12-26 Sa>
    Herr der Karten auf der Rethis
    - Aussehen :: 24 Jahre, Waldmensch, schwarzes Haar ueber Augen, hoher Hut mit Totenkopfsymbol
    - Rollenspiel :: raucht Tabakrolle
@@ -1329,3 +1331,24 @@
    - wechselnde Liebschaften 
    - Willenskraft 8 (14/13/14)
    - [[file:locations.org::#FI04][Seekadettenschule]]
+** Oylaribel
+   :PROPERTIES:
+   :CUSTOM_ID: OY1
+   :SEX:      m
+   :OCCUPATION: Neckerfuerst
+   :ORGANIZATION: Necker
+   :LOCATION: FS01
+   :SRC:      GN 35
+   :END:
+   - Aussehen :: majestätischer Necker:
+     - über zwei Schritt gross,
+     - sein langes weissgoldenes Haar schimmert silbern im Mondlicht und bläulich im Gwen-Petryl Schein
+     - Ein schmale Krone aus Korallen ziert sein Haupt
+     - Auf den Schultern trägt er einen dünnen Umhang aus rötlicher Seide
+   - Zitate ::
+   - Rollenspiel ::
+   - Hintergrund ::
+   - Ziele ::
+   - Werte :: Willenskraft
+   - Orte :: [[file:locations.org::#FS01][Thaumaturgische Akademie]]
+*** Info [/]
