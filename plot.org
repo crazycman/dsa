@@ -486,6 +486,7 @@
    :CUSTOM_ID: unter-wasser
    :END:   
 *** Atmung
+    - [[https://ulisses-regelwiki.de/index.php/Fokus_Tauchregeln.html][Tauchregeln]]
     - Liturgie :: [[https://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html][Unterwasseratmung]]
     - Zauber :: [[https://ulisses-regelwiki.de/index.php/ZS_Wasseratem.html][Wasseratem]]
     - Paktgeschenk :: [[https://de.wiki-aventurica.de/wiki/Wasseratmung%20(Paktgeschenk)][Paktgeschenk]]
