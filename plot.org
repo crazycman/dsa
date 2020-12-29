@@ -123,7 +123,7 @@
 ***** Links [2/2]
       - [X] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
       - [X] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
-**** TODO [#C] Begegnung mit der anderen Soeldnergruppe
+**** TODO [#B] Begegnung mit der anderen Soeldnergruppe
      :PROPERTIES:
      :custom_id: 4
      :location: MA OR NA
@@ -347,6 +347,23 @@
        - Tagelöhner
        - Fanfare ::
          - ertrunken im Seehafen
+**** TODO [#A] Thalionmel Enttaeuschung [0/2]
+     - [ ] Baxxe ::
+       - ich weiss, ihr seid ein guter Mensch, aber letzte Nacht; Efferd steh mir bei.
+       - es geht mir nicht mehr aus dem Kopf, wie ihr diesen stolzen und edlen Necker mit
+         den blossen Haenden getoetet habt.
+       - Necker sind die Kinder Efferds, und so hold und edel
+       - ich weiss, ihr wolltet uns schuetzen,
+         aber die Necker waren doch auch in Not, dass hat man doch gesehen!
+         So verzweifelt haben sie ausgeschaut! Die wollten doch nur die bunten Kleider uns sonst nix!
+         Da muss man die doch nicht gleich totschlagen!?!
+     - [ ] Dschadir ::
+       - im Vertauen, ich weiss, dass ihr ein Gilden Zauberer seid
+       - und ich glaube ihr habt gestern gut daran getan euch an das Zauberverbot zu halten,
+         aber sich dann im Nahkampf von dem Necker umhaun zu lassen? Meine Guete ihr habt Nerven.
+       - Als Tipp: Wo kein Klaeger, da kein Richter!
+       - Wobei, wahrscheinlich war es gut, das Meriwen Bleichbruck euch nicht hat zaubern sehn,
+         wer weiss, wem die das alles steckt! Am Ende landet ihr noch in der Moorburg.
 **** Nachforschungen
 ***** Hafenmeisterei
       CLOSED: [2020-12-21 Mo 22:20]
@@ -356,31 +373,82 @@
       CLOSED: [2020-12-21 Mo 22:40]
 ***** Hesindetempel
       CLOSED: [2020-12-21 Mo 22:20]
-***** ueber Branwen [6/8]                                              :info:
+***** TODO [#A] wo ist Branwen
+****** ueber Branwen [6/14]                                            :info:
       <2020-12-21 Mo>
       - [X] aufgeweckte junge Frau, Unterstadtschatzsucherin
       - [X] besitzt ein kleines Boot in Fischerort
       - [X] [[file:npcs.org::#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
       - [X] wurde schon seit einer Woche nicht mehr gesehen (weder in Fischerort noch in der Schatzinsel)
       - [X] ist unbeliebt bei den Frauen in Fischerort: Sie spannt ihnen die Maenner aus!?
-      - [X] sie ist der Grund weshalb [[file:npcs.org::#HA1][Hemwit Achton]] sein Frau Etaine verliess
-      - [ ] [[file:npcs.org::*Travigod Gawain][Travigod]] die Fischersfrau hat zuletzt mehrfach lautstark auf "die Hexe" geflucht
+      - [X] sie soll der Grund sein, aus dem [[file:npcs.org::#HA1][Hemwit Achton]] sein Frau Etaine verliess
+      - [ ] das ist ne Hex! Die treibt sich Abends wer weiss wo, und tagsueber in der Unterstadt rum!
+      - [ ] [[file:npcs.org::*Infos von Graustein][Infos von Graustein]]
+      - [ ] [[file:npcs.org::#ss1-info][Simiadane ueber Branwen]]
+      - [ ] [[file:npcs.org::#ha1-info][Hemwit ueber Travigod & Branwen]]
+      - [ ] [[#im-goldbutt][im Goldbutt]]
+      - [ ] [[#die-seiler][die Seiler]]
+      - [ ] [[#an-seekadettenschule][an der Seekadettenschule]]
+      - [ ] so ne Fischersfrau, die [[file:npcs.org::*Travigod Gawain][Travigod]] hat zuletzt mehrfach lautstark auf "die Hexe" geflucht
+        - Die verhext meinen Mann
+        - die [[file:npcs.org::*Etaine Achton][Etaine Achton]] hat da nickend daneben gestanden!
+        - und zwei juengere Frauen waren da auch mal dabei; keine Ahnung wer das war!
       - [ ] wird im Keller der [[file:locations.org::#FI04][Seekadettenschule]] gefangen gehalten
-***** ueber Ybalio [3/4]                                               :info:
-      <2020-12-21 Mo>
-      - [X] stattlicher Neckermann, Wandler zwischen Necker & Menschenwelt
-      - [X] sehr efferd gefaellige, verlor beim Kampf gegen eine Kreatur der Unterstadt sein rechtes Ohr
-      - [X] liebt [[file:npcs.org::#BH1][Branwen]]
-      - [ ] brach vor einer Woche auf in die Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
-            um den Angriffen auf den Grund zu gehen
-***** die Furien vom Fischerort [0/1]                                  :info:
-      - [[file:npcs.org::#TG1][Travigod Gawain]]
-      - [[file:npcs.org::*Etaine Achton][Etaine Achton]]
-      - [[file:npcs.org::*Hanni Glennard][Hanni Glennard]]
-      - [[file:npcs.org::*Ailbe Coiller][Ailbe Coiller]]
-      - [ ] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf  "die Hexe" [[file:npcs.org::#BH1][Branwen]]
-        - [ ] Die spannt uns doch die Maenner aus (Etaine, Hanni)
-        - [ ] hext sie zu Schlappschwanz (Ailbe)
+****** ueber Ybalio [3/4]                                              :info:
+       <2020-12-21 Mo>
+       - [X] stattlicher Neckermann, Wandler zwischen Necker & Menschenwelt
+       - [X] sehr efferd gefaellige, verlor beim Kampf gegen eine Kreatur der Unterstadt sein rechtes Ohr
+       - [X] liebt [[file:npcs.org::#BH1][Branwen]]
+       - [ ] brach vor einer Woche auf in die Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
+             um den Angriffen auf den Grund zu gehen
+****** die Furien vom Fischerort [0/1]                                 :info:
+       - [[file:npcs.org::#TG1][Travigod Gawain]]
+       - [[file:npcs.org::*Etaine Achton][Etaine Achton]]
+       - [[file:npcs.org::*Hanni Glennard][Hanni Glennard]]
+       - [[file:npcs.org::*Ailbe Coiller][Ailbe Coiller]]
+       - [ ] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf "die Hexe [[file:npcs.org::#BH1][Branwen]]" schimpfen
+         - [ ] Die spannt uns doch die Maenner aus (Etaine, Hanni)
+         - [ ] hext sie zu Schlappschwanz (Ailbe)
+****** im Goldbutt [0/4]
+       :PROPERTIES:
+       :CUSTOM_ID: im-goldbutt
+       :END:      
+       In der Taverne [[file:locations.org::#G17][Zum Goldbutt]] *vertrinken Fischer gerne ihre Tageseinnahmen*
+       und beteiligen sich an *Gesangswettbewerben* solo, im Duett und als Mannschaft.
+       Mitglieder der Unterwelt nutzen die dunklen Ecken der Taverne als Treffpunkt.
+       - [ ] [[file:npcs.org::#BH1][Branwen]] war vor drei Abenden hier
+       - [ ] ein Junge Frau ([[file:npcs.org::#HG1][Hanni Glennard]]) hat die den ganzen Abend ueber finster beobachtet
+       - [ ] die Junge war ein paar mal hier in Begleitung eines schmucken Seekadetten ([[file:npcs.org::#HA1][Dunval Ardheg]])
+       - [ ] zwischen denen ist es aber wohl aus, der ([[file:npcs.org::*Dunval Ardheg][Dunval Ardheg]]) ist jetzt mit anderen Liebchen
+****** die Seiler [0/2]
+       :PROPERTIES:
+       :CUSTOM_ID: die-seiler
+       :END:
+       Seiler *Brodan* kann berichten:
+       - [ ] [[file:npcs.org::#TG1][Travigod]] war hier, ja.
+         - Die hat mit [[file:npcs.org::*Ailbe Coiller][Ailbe]] der Frau vom *Elidir* und so einer jungen bisschen naiven so
+           ein richtig hartes, steifes Seil abgeholt. Nicht wahr Elidir?
+           "Ach halts Maul Brodan!"
+       - [ ] Elidir ::
+         - Die haben das Seil geliehen, keine Ahnung wofuer.
+         - die naive heisst [[file:npcs.org::*Hanni Glennard][Hanni Glennard]], und wurde von einem Seekadetten verarscht, soweit ich weiss
+****** an der Seekadettenschule [0/5]
+       :PROPERTIES:
+       :CUSTOM_ID: an-seekadettenschule
+       :END:       
+       [[file:locations.org::#FI04][Seekadettenschule]]
+       - Kennzeichen: Wappen (gekreuzte Degen über einem Fernrohr).
+       - Im weitläufigen Bau sind auch der Rat der Kapitäne, dessen Schreibstuben und das Ratsregister untergebracht.
+       - Haupttor; zwei Nebeneingaenge
+         und vier ueber Treppen erreichbare tieferliegende (verriegelte) Tueren (Kellerraeume).
+       - [ ] vor allem bei [[file:npcs.org::#HA1][Dunval Ardheg]] schmilzt das junge Weibsvolk dahin
+         - der treibt sich dan ab und zu in den Kellern mit ihnen rum
+         - und verleiht auch mal einen Schluessel dazu an seine Liebchen
+       - [ ] Beobachtung :: *ein Kellerraum wird nicht aufgesucht* von Dunval, Kadetten & Kellermeister
+       - [ ] Beobachtung :: *Nachts* bringt eine Frau Wasser & Essen zu der Gefangenen Branwen
+       - [ ] Kellertuer :: Schloesserknacken, Kraftakt -2; ggf. Verbergen -3 sonst 2 Wachen
+       - [ ] Ueberreden der Wachen :: die Kellertuer zu oeffnen
+             Vergl. Probe *Ueberreden* (-3/+3 guter Leumund) vs *Willenskraft* (5 14/13/11) 
 ** Wetter
    :PROPERTIES:
    :CUSTOM_ID: wetter
@@ -414,6 +482,9 @@
       - 12-20 :: ablaufendes Wasser
 
 ** Unter Wasser
+   :PROPERTIES:
+   :CUSTOM_ID: unter-wasser
+   :END:   
 *** Atmung
     - Liturgie :: [[https://ulisses-regelwiki.de/index.php/Lit_Unterwasseratmung.html][Unterwasseratmung]]
     - Zauber :: [[https://ulisses-regelwiki.de/index.php/ZS_Wasseratem.html][Wasseratem]]

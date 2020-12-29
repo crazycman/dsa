@@ -276,6 +276,19 @@
     :reich:    4
     :src:      GN 26 SH 14
     :END:
+    Kennzeichen: Wappen (gekreuzte Degen über einem Fernrohr), die Offiziere für
+    die albernische Flotte und die Westflotte des Mittelreichs ausbildet. Nach
+    dem ersten theoretischen Jahr geht es für die Kadetten drei Jahre auf See
+    für Entdeckungsfahrten, Küstensicherung, Piratenjagd und Kaperfahrt. Die
+    havenischen Offiziere sind bekannt dafür, eine intuitive Verbundenheit zur
+    See zu haben, gut Wolken und Strömungen lesen zu können und sich
+    bereitwillig Efferds Willen auszuliefern. Eine Statue des vor wenigen Jahren
+    im Kampf gegen die Blutige See gefallenen Großadmirals Rateral Sanin XII.
+    blickt stolz auf die Lernenden herab. In dem weitläufigen Bau sind auch der
+    Rat der Kapitäne, dessen Schreibstuben und das Ratsregister untergebracht.
+    Im großen, holzgetäfelten Sitzungssaal des Rates hängen Gemälde von Schiffen
+    und Schiffsführern, darunter auch ein Abbild des legendären Stadtgründers
+    Kapitän Havena.
 *** Garnison der Seekrieger
     :PROPERTIES:
     :custom_id: FI05
@@ -304,6 +317,9 @@
     :reich:    2
     :src:      SH 14 GN 25 
     :END:
+    Hier vertrinken Fischer gerne ihre Tageseinnahmen und beteiligen sich an
+    Gesangswettbewerben solo, im Duett und als Mannschaft.
+    Mitglieder der Unterwelt nutzen die dunklen Ecken der Taverne als Treffpunkt
 *** Alter Efferdtempel
     :PROPERTIES:
     :custom_id: T02

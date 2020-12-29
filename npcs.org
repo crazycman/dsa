@@ -542,8 +542,15 @@
    - Heliantha lernet Simiadane im Horasreich kennen und nahm ihre Rolle ein als
      sie von ihrem Verschwinden erfuhr
    - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
-*** ueber Branwen [0/1]                                                :info:
+*** Simiadane ueber Branwen [0/3]                                      :info:
+    :PROPERTIES:
+    :CUSTOM_ID: ss1-info
+    :END:
     - [ ] Befreundet mit [[#BH1][Branwen]]; diese ist mit [[*Ybalio][Ybalio]] dem Necker liiert
+    - [ ] Branwen war vor 4 Tagen hier und wollte [[file:plot.org::#unter-wasser][Wasserodem]] kaufen (verboten)
+          wollte dann weiter nach Fischerort
+    - [ ] in einem Lagerhaus im Suedhafen steht die *Tiefensucher*
+          ein 10 Schritt langer Katamaran, mit glaeserner Tauchglocke
 *** Queste : Mechanische Artefakte                                    :quest:
     - Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
       die Aschimeter dort einst zusammenbaute
@@ -695,11 +702,20 @@
    Er weiss auch, dass der *Efferdkult Numinoru aus der Stadt verdrängt hat*.
    Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
    Autoritätsverlust befürchtet
-   
-*** Infos von Grausteindie [1/2]                                       :info:
+*** Graustein Infos [2/6]                                              :info:
+    :PROPERTIES:
+    :CUSTOM_ID: gs1-info
+    :END:
     - [X] Karte von Haven (mit Karte der alten Unterstadt)? -> sieh [[#DD1][Domnall Dalpert]]
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
+    - [X] [[#BH1][Branwen]] und [[#YB1][Ybalio]] sind ein paar, dem Necker fehlt ein Ohr
+    - [ ] Branwen war zuletzt vor 4 Tagen im Tempel und betetet fuer eine verschollene Person
+    - [ ] vor einer Weile kam eine aufgeloeste Fischerin names [[#TG1][Travigod Gawain]]
+          und bat um Rat, da sie glaubte, ihr Mann sei der [[*Branwen, die Hexe][der Hexe Branwen]] verfallen
+          wir rieten ihr zu offenen Gespräch mit ihrem Mann
+    - [ ] was bringt die Necker dazu, sich so aggressiv zu verhalten?
+          Bitte forscht weiter und klaert das (90 Dukaten)!
 *** ACTIVE Queste : Patroullie                                        :quest:
     Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
     - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
@@ -1236,17 +1252,23 @@
    :END:
    Fischer mit Stand am [[file:locations.org::#FI06][Fischmarkt]]: Hemwits herrliche Heringe
    - 53 Jahre, Schnurrbart, Fischerschuerze
-*** Hemwit ueber Travigod & Branwen [0/2]                              :info:
-    - [ ] Travigod? Ne du, bleib mir mit bloss mit der alten Zippe gestohlen!
+*** Hemwit ueber Travigod & Branwen [0/3]                              :info:
+    :PROPERTIES:
+    :CUSTOM_ID: ha1-info
+    :END:
+    - [ ] [[*Travigod Gawain][Travigod]]? Ne du, bleib mir mit bloss mit der alten Zippe gestohlen!
       - Die hat eine liebe Etaine zu einem prueden Traviaheimchen gemacht,
         dass ich das nicht laenger mit ihr ausghalten habe, verstehst du?
       - Leute, jeden Abenden musst ich eine Stunde lang zu Travia
         fuer das Essen, das Heim und was nich alles beten!
       - Und von Rahja opfern wollte meine Frau dann schon gar nix mehr wissen.
+    - [ ] [[*Travigod Gawain][Travigod]] und Etaine hab ich mit zwei juengeren Frauen gesehn, in letzter Zeit:
+      - [[#HG1][Hanni Glennard]] jung, lange braune Haare und naiv
+      - [[#AC1][Ailbe Coiller]] die Frau eines Seilers
     - [ ] Ich und [[#BH1][Branwen]]? Oh bidde das glaubt ihr ja wohl nicht! Ich habe keine andere!
           Und schon gar nicht diese Branwen.
           Ich verkaufe eine Heringe, fertig aus. Wollt ihr welche?
-          Sind die frischesten hier auf dem Mark! Letzthin is sogar ein Papagei auf sie los!           
+          Sind die frischesten hier auf dem Mark! Letzthin is sogar ein Papagei auf sie los!
 ** Etaine Achton
    :PROPERTIES:
    :CUSTOM_ID: EA1
@@ -1280,7 +1302,8 @@
    - wohnt in Fischerhaus nahe des Fischmarkts & kommandiert dort ihren Mann herum
    - will [[*Branwen, die Hexe][Branwen, die Hexe]] vor Gericht anklagen, sucht aber noch Beweise & Fuersprecher
    - Willenskraft 10 (13/13/13), SK 2
-   - [ ] [[*Branwen, die Hexe][Branwen]] ist eine Hexe die in die Moorburg gehoert!
+   - [ ] [[*Branwen, die Hexe][Branwen]] ist eine Hexe die in die Moorburg gehoert! Sie verhext meinen Mann!
+   - [ ] Keine Ahung wo sich das Weib rumtreibt, wahrscheinlich in der Unterstadt abgesoffen!
 ** Hanni Glennard
    :PROPERTIES:
    :CUSTOM_ID: HG1
@@ -1291,7 +1314,7 @@
    :SRC:      GN 25
    :END:
    Fischerin
-   - 20 Jahre, naiv, kuerzlich fallengelassenes Liebchen des Seekadetten [[#HA1][Dunval Ardheg]]
+   - 20 Jahre, lange braune Haare, naiv, kuerzlich fallengelassenes Liebchen des Seekadetten [[#HA1][Dunval Ardheg]]
    - *laesst sich schoen Augen machen* oder
      *davon ueberzeugen, dass Dunval ein Hallodri & Branwen unschuldig ist*
    - lebt im elterlichen Haus (zum Hafenbecken hin)
@@ -1327,7 +1350,8 @@
    :END:
    Seekadett; schmuck 
    - 30 Jahre, sehr auf sein Aussehen bedacht, tadellose Uniform
-   - *vergleichende Probe auf Einschuechtern oder Ueberreden*; Taschendiebstahl um Schluessel zu klauen
+   - will seinen Schluesselverleih vertuschen 
+   - [ ] *vergleichende Probe auf Einschuechtern oder Ueberreden*; Taschendiebstahl um Schluessel zu klauen
    - wechselnde Liebschaften 
    - Willenskraft 8 (14/13/14)
    - [[file:locations.org::#FI04][Seekadettenschule]]
