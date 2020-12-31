@@ -1337,7 +1337,7 @@
      :verfall: 1/6
      :src:      SH 122
      :END:
-**** Nahemas Turm
+**** Nahemas Turm                                                       :met:
      :PROPERTIES:
      :custom_id: FÜ05
      :LOCATION: C8
@@ -1354,7 +1354,7 @@
      :niveau: -1 bis 1
      :src:      SH 124
      :END:
-**** Fürstenpalast Talagh Gorn
+**** Fürstenpalast Talagh Gorn                                          :met:
      :PROPERTIES:
      :custom_id: FÜ07
      :LOCATION: B8
@@ -1385,7 +1385,7 @@
      :verfall: 4
      :src:      SH 123 SK 16
      :END:
-**** Perainetempel
+**** Perainetempel                                                      :met:
      :PROPERTIES:
      :custom_id: T13
      :LOCATION: G5

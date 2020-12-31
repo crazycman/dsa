@@ -52,3 +52,34 @@
      - Schutzkreis gegen Daemonen (u.A.), 6 Schritt
    - Kosten :: unbekannt
    - Preis :: unbezahlbar
+** Tiefendorn
+   :PROPERTIES:
+   :CUSTOM_ID: item-tiefendorn
+   :END:
+   http://www.ulisses-gamereference.com/index.php/Tiefendorn.html
+
+   - Der Dreizack des Alten Efferdtempels dient als Ritualobjekt bei Zeremonien der Geweihten
+   - Er ist aus einem unbekannten, marinblau schimmernden Metall geschmiedet und mit
+     Lapislazuli und Gwen Petryl geschmückt. Gravuren von Rochen und Quallen
+     zieren Griff und Schaft.
+   - Der Dreizack gehört seit uralten Zeiten dem Tempel, und manche glauben, er
+     sei so alt wie das Gotteshaus selbst. Er soll zur Ermutigung und zum Kampf
+     gegen Feinde des Glaubens dienen und letzteren atemlose Demut vor dem Gott
+     des Meeres bescheren.
+   
+   Kamptechnick: Stangenwaffen
+   - ﻿Waffe :: ﻿Tiefendorn (2H)
+   - TP :: 1W6+5
+   - L+S :: GE/KK 15
+   - AT/PA-Mod :: 0/+1
+   - RW :: lang
+   - Gewicht :: 2 Stn
+   - Länge :: 200 HF
+   - Komplexität :: einf
+
+   - geweiht (Numinoru)
+   - unter Wasser gilt ein AT/PA-Mod von +2/+1
+   - solange der Träger die Waffe in den Händen hält, kann er unter Wasser atmen
+   - unter Wasser GS+2
+
+   

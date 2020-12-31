@@ -196,6 +196,9 @@
         - [ ] Rauschkrautkonsum ([[file:npcs.org::#TH1][Tote Hand]] dealt; Sinnesschärfe -1)
         - [ ] Geringschaetzung (Verachtung) der einfachen Bevölkerung (Fischer & Arbeiter)
 ***** auf dem Vollmondball [0/4]                                       :info:
+      :PROPERTIES:
+      :CUSTOM_ID: auf-vollmondball
+      :END:
       - [ ] Geruechte ueber die Angriffe
         - Es sind die Schmuggler
         - Es sind H'Range Kultisten der Allesverschlingenden
@@ -347,8 +350,9 @@
        - Tagelöhner
        - Fanfare ::
          - ertrunken im Seehafen
-**** TODO [#A] Thalionmel Enttaeuschung [0/2]
-     - [ ] Baxxe ::
+**** DONE [#A] Thalionmel Enttaeuschung [2/2]
+     CLOSED: [2020-12-30 Mi 19:38]
+     - [X] Baxxe ::
        - ich weiss, ihr seid ein guter Mensch, aber letzte Nacht; Efferd steh mir bei.
        - es geht mir nicht mehr aus dem Kopf, wie ihr diesen stolzen und edlen Necker mit
          den blossen Haenden getoetet habt.
@@ -357,7 +361,7 @@
          aber die Necker waren doch auch in Not, dass hat man doch gesehen!
          So verzweifelt haben sie ausgeschaut! Die wollten doch nur die bunten Kleider uns sonst nix!
          Da muss man die doch nicht gleich totschlagen!?!
-     - [ ] Dschadir ::
+     - [X] Dschadir ::
        - im Vertauen, ich weiss, dass ihr ein Gilden Zauberer seid
        - und ich glaube ihr habt gestern gut daran getan euch an das Zauberverbot zu halten,
          aber sich dann im Nahkampf von dem Necker umhaun zu lassen? Meine Guete ihr habt Nerven.
@@ -374,8 +378,8 @@
 ***** Hesindetempel
       CLOSED: [2020-12-21 Mo 22:20]
 ***** TODO [#A] wo ist Branwen
-****** ueber Branwen [6/14]                                            :info:
-      <2020-12-21 Mo>
+      <2020-12-30 Mi>
+****** ueber Branwen [8/15]                                            :info:
       - [X] aufgeweckte junge Frau, Unterstadtschatzsucherin
       - [X] besitzt ein kleines Boot in Fischerort
       - [X] [[file:npcs.org::#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
@@ -383,13 +387,13 @@
       - [X] ist unbeliebt bei den Frauen in Fischerort: Sie spannt ihnen die Maenner aus!?
       - [X] sie soll der Grund sein, aus dem [[file:npcs.org::#HA1][Hemwit Achton]] sein Frau Etaine verliess
       - [ ] das ist ne Hex! Die treibt sich Abends wer weiss wo, und tagsueber in der Unterstadt rum!
-      - [ ] [[file:npcs.org::*Infos von Graustein][Infos von Graustein]]
+      - [ ] [[file:npcs.org::#gs1-info][Infos von Graustein]]
       - [ ] [[file:npcs.org::#ss1-info][Simiadane ueber Branwen]]
-      - [ ] [[file:npcs.org::#ha1-info][Hemwit ueber Travigod & Branwen]]
+      - [X] [[file:npcs.org::#ha1-info][Hemwit ueber Travigod & Branwen]]
       - [ ] [[#im-goldbutt][im Goldbutt]]
       - [ ] [[#die-seiler][die Seiler]]
       - [ ] [[#an-seekadettenschule][an der Seekadettenschule]]
-      - [ ] so ne Fischersfrau, die [[file:npcs.org::*Travigod Gawain][Travigod]] hat zuletzt mehrfach lautstark auf "die Hexe" geflucht
+      - [X] so ne Fischersfrau, die [[file:npcs.org::*Travigod Gawain][Travigod]] hat zuletzt mehrfach lautstark auf "die Hexe" geflucht
         - Die verhext meinen Mann
         - die [[file:npcs.org::*Etaine Achton][Etaine Achton]] hat da nickend daneben gestanden!
         - und zwei juengere Frauen waren da auch mal dabei; keine Ahnung wer das war!
@@ -406,8 +410,8 @@
        - [[file:npcs.org::*Etaine Achton][Etaine Achton]]
        - [[file:npcs.org::*Hanni Glennard][Hanni Glennard]]
        - [[file:npcs.org::*Ailbe Coiller][Ailbe Coiller]]
-       - [ ] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf "die Hexe [[file:npcs.org::#BH1][Branwen]]" schimpfen
-         - [ ] Die spannt uns doch die Maenner aus (Etaine, Hanni)
+       - [-] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf "die Hexe [[file:npcs.org::#BH1][Branwen]]" schimpfen
+         - [X] Die spannt uns doch die Maenner aus (Etaine, Hanni)
          - [ ] hext sie zu Schlappschwanz (Ailbe)
 ****** im Goldbutt [0/4]
        :PROPERTIES:
@@ -449,6 +453,16 @@
        - [ ] Kellertuer :: Schloesserknacken, Kraftakt -2; ggf. Verbergen -3 sonst 2 Wachen
        - [ ] Ueberreden der Wachen :: die Kellertuer zu oeffnen
              Vergl. Probe *Ueberreden* (-3/+3 guter Leumund) vs *Willenskraft* (5 14/13/11) 
+***** TODO [#A] Nebelgeister Konterbande uebergabe [0/4]
+      - [ ] Ihr schueffelt ja ganz schoen im Fischerdorf rum?
+        - Wen oder was sucht ihr den da?
+        - habt ihr eine Idee was passiert sein kan?
+        - Entfuehrung? dann fragt doch mal nach dem Entfuehrer und nicht nach der Entfuehrten!?!
+      - [ ] Was war den da auf der Rethis los?
+        - ist euch sonst noch was aufgefallen?
+        - [[file:npcs.org::#AA1][Asa Anjuhal]]? [[file:npcs.org::*Tote Hand][Tote Hand]]? da laufen schmutzige Geschaefte; evlt. [[file:organizations.org::#SH1][Silberne Hand]], Neckerprostitution
+      - [ ] [[file:npcs.org::#qu-konterbande][Queste : Konterbande aus Unterstad bergen]]
+      - [ ] Wollt ihr weiter mit uns arbeiten? habt ihr eine Idee/Anliegen? *Toter Briefkasten*
 ** Wetter
    :PROPERTIES:
    :CUSTOM_ID: wetter
@@ -480,7 +494,6 @@
       - 2-10 :: auflaufendes Wasser
       - 11 :: Hochwasser
       - 12-20 :: ablaufendes Wasser
-
 ** Unter Wasser
    :PROPERTIES:
    :CUSTOM_ID: unter-wasser
@@ -686,6 +699,7 @@
    - Dungeon desing :: https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
    - Tools :: e.g. Hex Editor https://entaria.de/coole-rpg-tools
    - Hex Editor :: http://hextml.playest.net
+   - Dungeon drawer ::  https://probabletrain.itch.io/dungeon-scrawl
 ** Protokoll
 *** Rico
 **** Schlecht
@@ -750,5 +764,4 @@
      - Proben als Behlonung fuer gute Aktionen / Ideen
      - besser weniger & starke Gegner; kurze Kaempfe
 *** Diskussion
-    
-
+ 

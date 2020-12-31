@@ -262,6 +262,9 @@
      - [[file:locations.org::*Hafen (HA)][Hafen]]
      - [[file:locations.org::#G08][Esche und Kork]]
 *** ACTIVE Queste : Konterbande aus Unterstad bergen                  :quest:
+    :PROPERTIES:
+    :CUSTOM_ID: qu-konterbande
+    :END:
     Bergt die Ware aus [[file:locations.org::#T13][Perainetempel in der Unterstadt]]
     Bezahlung 40% ~ 40 Dukaten
     *Hintergrund*:
@@ -498,6 +501,8 @@
     - [X] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
           auch der Stadtvogt [[#AH1][Ardach Herlogan]] sieht den Schmuggel als grosses Problem
     - [X] [[file:plot.org::#5][Vollmondball auf der Rethis]]
+*** Meriwens Infos zum Vollmondball                                    :info:
+    siehe [[file:plot.org::#auf-vollmondball][auf dem Vollmondball]]
 *** ACTIVE Queste : Gegen Nebelgeister                                :quest:
     - Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
     - zahlt fuer Informationen und Kopfpraemien fuer gefangene Schmuggler
@@ -542,19 +547,35 @@
    - Heliantha lernet Simiadane im Horasreich kennen und nahm ihre Rolle ein als
      sie von ihrem Verschwinden erfuhr
    - der Praiosgeweihten Ulodan kennt ihre Luege, verraet sie aber nicht, da er in sie verliebt ist
-*** Simiadane ueber Branwen [0/3]                                      :info:
+*** DONE Simiadane ueber Branwen [4/4]                                 :info:
+    CLOSED: [2020-12-30 Mi 20:15]
     :PROPERTIES:
     :CUSTOM_ID: ss1-info
     :END:
-    - [ ] Befreundet mit [[#BH1][Branwen]]; diese ist mit [[*Ybalio][Ybalio]] dem Necker liiert
-    - [ ] Branwen war vor 4 Tagen hier und wollte [[file:plot.org::#unter-wasser][Wasserodem]] kaufen (verboten)
+    - [X] Befreundet mit [[#BH1][Branwen]]; diese ist mit [[*Ybalio][Ybalio]] dem Necker liiert
+    - [X] Branwen war vor 4 Tagen hier und wollte [[file:plot.org::#unter-wasser][Wasserodem]] kaufen (verboten)
           wollte dann weiter nach Fischerort
-    - [ ] in einem Lagerhaus im Suedhafen steht die *Tiefensucher*
+    - [X] in einem Lagerhaus im Suedhafen steht die *Tiefensucher*
           ein 10 Schritt langer Katamaran, mit glaeserner Tauchglocke
-*** Queste : Mechanische Artefakte                                    :quest:
-    - Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
+    - [X] findet Branwen, dann leihe ich euch den Tiefensucher
+*** Questen : Mechanische Artefakte                                   :quest:
+    - [ ] Alte mechanische Geraete aus dem [[file:locations.org::#MA01][Theater an der Gauklergasse]] besorgen
       die Aschimeter dort einst zusammenbaute
-    - Erfindungen erproben 
+    - [ ] Erfindungen erproben
+    - [ ] Thaumaturgische Akademie nach alten Artefakten / Plaenen durchsuchen
+** Kazsim
+   :PROPERTIES:
+   :CUSTOM_ID: KA1
+   :SEX:      m
+   :OCCUPATION: Gehilfe
+   :ORGANIZATION: 
+   :LOCATION: UF10
+   :SRC:      SH 42
+   :END:
+   [[#SM1][Simiadanes]] Gehilfe, [[file:locations.org::#UF10][Simiadane Werkstatt]]
+   - 26 Jahre tiefbraune Haut, schwarzvioletter Schopf, hübsch, Sklavenbrandmal Plantage der Paligans
+   - Sie hat den entlaufenen Sklaven aus der Gosse Selems geholt
+   - spricht nur dass Kazsim nur Zelemja und kann so keine Geheimnisse verraten
 ** Branwen, die Hexe
    :PROPERTIES:
    :CUSTOM_ID: BH1
@@ -702,20 +723,22 @@
    Er weiss auch, dass der *Efferdkult Numinoru aus der Stadt verdrängt hat*.
    Das Wissen um die alten Vergehen seiner Kirche hält er unter Verschluss, weil er einen
    Autoritätsverlust befürchtet
-*** Graustein Infos [2/6]                                              :info:
+*** Graustein Infos [6/7]                                              :info:
     :PROPERTIES:
     :CUSTOM_ID: gs1-info
     :END:
+    <2020-12-30 Mi>
     - [X] Karte von Haven (mit Karte der alten Unterstadt)? -> sieh [[#DD1][Domnall Dalpert]]
     - [ ] *Gwen Petryl-Steine*, Bruchstücke von Alveran; dienen dem Segen & Schutz
           zunaechst *geheim: *Sternenmuschel*
     - [X] [[#BH1][Branwen]] und [[#YB1][Ybalio]] sind ein paar, dem Necker fehlt ein Ohr
-    - [ ] Branwen war zuletzt vor 4 Tagen im Tempel und betetet fuer eine verschollene Person
-    - [ ] vor einer Weile kam eine aufgeloeste Fischerin names [[#TG1][Travigod Gawain]]
+    - [X] Branwen war zuletzt vor 4 Tagen im Tempel und betetet fuer eine verschollene Person
+    - [X] vor einer Weile kam eine aufgeloeste Fischerin names [[#TG1][Travigod Gawain]]
           und bat um Rat, da sie glaubte, ihr Mann sei der [[*Branwen, die Hexe][der Hexe Branwen]] verfallen
           wir rieten ihr zu offenen Gespräch mit ihrem Mann
-    - [ ] was bringt die Necker dazu, sich so aggressiv zu verhalten?
+    - [X] was bringt die Necker dazu, sich so aggressiv zu verhalten?
           Bitte forscht weiter und klaert das (90 Dukaten)!
+    - [X] Jaspa hat den *Tiefendorn*
 *** ACTIVE Queste : Patroullie                                        :quest:
     Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
     - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
@@ -1049,7 +1072,6 @@
       - Als Ich mich in der zweiten Nacht zur Ruhe legte, sass er noch am Ufer zur Unterstadt
       - seitdem nicht mehr gesehen
 ** Asa Anjuhal
-   <2020-12-26 Sa>
    :PROPERTIES:
    :CUSTOM_ID: AA1
    :SEX:      w
@@ -1058,6 +1080,7 @@
    :LOCATION: G24
    :SRC:      SH 36
    :END:
+   <2020-12-26 Sa>
    Wirtin der Rethis
    - Aussehen :: 58 Jahre, 1,85 Schritt, wallendes rotes Haar
    - Rollenspiel :: skrupellos
@@ -1250,13 +1273,14 @@
    :LOCATION: S03
    :SRC:      GN 25
    :END:
+   <2020-12-30 Mi>
    Fischer mit Stand am [[file:locations.org::#FI06][Fischmarkt]]: Hemwits herrliche Heringe
    - 53 Jahre, Schnurrbart, Fischerschuerze
-*** Hemwit ueber Travigod & Branwen [0/3]                              :info:
+*** Hemwit ueber Travigod & Branwen [2/3]                              :info:
     :PROPERTIES:
     :CUSTOM_ID: ha1-info
     :END:
-    - [ ] [[*Travigod Gawain][Travigod]]? Ne du, bleib mir mit bloss mit der alten Zippe gestohlen!
+    - [X] [[*Travigod Gawain][Travigod]]? Ne du, bleib mir mit bloss mit der alten Zippe gestohlen!
       - Die hat eine liebe Etaine zu einem prueden Traviaheimchen gemacht,
         dass ich das nicht laenger mit ihr ausghalten habe, verstehst du?
       - Leute, jeden Abenden musst ich eine Stunde lang zu Travia
@@ -1265,7 +1289,7 @@
     - [ ] [[*Travigod Gawain][Travigod]] und Etaine hab ich mit zwei juengeren Frauen gesehn, in letzter Zeit:
       - [[#HG1][Hanni Glennard]] jung, lange braune Haare und naiv
       - [[#AC1][Ailbe Coiller]] die Frau eines Seilers
-    - [ ] Ich und [[#BH1][Branwen]]? Oh bidde das glaubt ihr ja wohl nicht! Ich habe keine andere!
+    - [X] Ich und [[#BH1][Branwen]]? Oh bidde das glaubt ihr ja wohl nicht! Ich habe keine andere!
           Und schon gar nicht diese Branwen.
           Ich verkaufe eine Heringe, fertig aus. Wollt ihr welche?
           Sind die frischesten hier auf dem Mark! Letzthin is sogar ein Papagei auf sie los!
@@ -1296,14 +1320,15 @@
    :LOCATION: S03
    :SRC:      GN 25
    :END:
+   <2020-12-30 Mi>
    Fischerin; Anfueherin & Planerin der Entfuehrung von [[*Branwen, die Hexe][Branwen]]
    - 48 Jahre, graue hochgeschlossene Kleidung, ergrauter Dutt, *verbittert, harsch*
    - *unnachgiebig, aalglat; laesst sich nichts entlocken*
    - wohnt in Fischerhaus nahe des Fischmarkts & kommandiert dort ihren Mann herum
    - will [[*Branwen, die Hexe][Branwen, die Hexe]] vor Gericht anklagen, sucht aber noch Beweise & Fuersprecher
    - Willenskraft 10 (13/13/13), SK 2
-   - [ ] [[*Branwen, die Hexe][Branwen]] ist eine Hexe die in die Moorburg gehoert! Sie verhext meinen Mann!
-   - [ ] Keine Ahung wo sich das Weib rumtreibt, wahrscheinlich in der Unterstadt abgesoffen!
+   - [X] [[*Branwen, die Hexe][Branwen]] ist eine Hexe die in die Moorburg gehoert! Sie verhext meinen Mann!
+   - [X] Keine Ahung wo sich das Weib rumtreibt, wahrscheinlich in der Unterstadt abgesoffen!
 ** Hanni Glennard
    :PROPERTIES:
    :CUSTOM_ID: HG1
