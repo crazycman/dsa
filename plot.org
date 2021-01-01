@@ -377,6 +377,14 @@
       CLOSED: [2020-12-21 Mo 22:40]
 ***** Hesindetempel
       CLOSED: [2020-12-21 Mo 22:20]
+***** TODO [#A] Grausteins Plan [0/4]
+      - [ ] Necker sind Kinder Efferds; *friedlich*
+      - [ ] herausfinden: was treibt sie an? warum sind sie aggressiv?
+      - [ ] Schluessel dazu: [[file:npcs.org::#YB1][Ybalio]] (Heimliche Befreiungsmission); [[file:npcs.org::#BH1][Branwen]]; *mehr Infos* sammeln
+      - [ ] Ausruestung
+        - [ ] [[https://ulisses-regelwiki.de/index.php/Seg_Gl%C3%BCckssegen.html][Glueckssegen]] +1 FP in den naechsten 12 Stunden
+        - [ ] 2 faustg Gwen-Petryl Steine (Licht in 2 Schritt Radius)
+        - [ ] [[file:items.org::#item-tiefendorn][Tiefendorn]]
 ***** TODO [#A] wo ist Branwen
       <2020-12-30 Mi>
 ****** ueber Branwen [8/15]                                            :info:
