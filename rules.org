@@ -86,6 +86,26 @@
      - *Gegner in Angriffsdistanz*, kann er dabei einen *Passierschlag* ausführen.
      - Um *keinen Passierschlag* abzubekommen : *Probe auf Körperbeherrschung (Kampfmanöver)* ablegen.
        Bei Gelingen bekommt er keinen Passierschlag ab.
+** Furcht
+   :PROPERTIES:
+   :CUSTOM_ID: st-furcht
+   :END:
+   | Furchtstufe | Auswirkung                    |
+   |-------------+-------------------------------|
+   | Stufe I     | beunruhigt, alle Proben –1    |
+   | Stufe II    | verängstigt, alle Proben –2   |
+   | Stufe III   | in Panik, alle Proben –3      |
+   | Stufe IV    | katatonisch, handlungsunfähig |
+** Belastung
+   :PROPERTIES:
+   :CUSTOM_ID: st-belastung
+   :END:
+   | Stufe | Auswirkung                                                                  |
+   |-------+-----------------------------------------------------------------------------|
+   | I     | leicht, betroffene Talentproben –1, AT –1, Verteidigung –1, INI –1, GS –1   |
+   | II    | belastet, betroffene Talentproben –2, AT –2, Verteidigung –2, INI –2, GS –2 |
+   | III   | schwer, betroffene Talentproben –3, AT –3, Verteidigung –3, INI –3, GS –3   |
+   | IV    | handlungsunfähig, bis auf Last fallen lassen                                |
 * Focusreglen
 ** Kneipenspiele
    [[https://ulisses-regelwiki.de/index.php/Fokus_Kneipenspiele.html][Fokusregeln Kneipenspiele]]
@@ -102,3 +122,34 @@
       bis ein Spieler nach einer Runde mehr QS erreicht hat als alle anderen.
     - Eine Probe steht für mehrere Züge und für ein Intervall von 10 Minuten.
       Es sind beliebig viele Proben erlaubt, um die 10 QS zu erreichen.
+* Hexcrawl
+** Unterstadt
+   :PROPERTIES:
+   :CUSTOM_ID: hexcrawl-unterstadt
+   :END:
+   - Wetter & Gezeiten :: [[file:plot.org::#wetter][Wetter]]
+     - Nebel erschwert die Sicht
+       |   W20 | Sichtweite | Sichtmodifikator |
+       |-------+------------+------------------|
+       |   1-5 |     100-30 |                0 |
+       |  6-10 |      30-10 |                0 |
+       | 11-15 |       10-5 |                1 |
+       | 16-20 |        5-2 |              2-3 |
+   - Beklemmung & Stimmung ::
+     - labyrinthisches Gewirr aus Inselchen, Maueren & Straeuchern
+     - Probe *Willenskraft* bei Misslingen *1 Stufe [[#st-furcht][Furcht]]*
+   - Bewegung ::
+     - Bestimme *Richtung* (Austritts-Hex) [[file:maps/hex-crawl-distance-abweichung.png][Hex Crawl]]
+     - Verirrt :: Probe *Orientierung*, erschwert nach Sicht & Position, erleichtert durch Kompass
+       - automatischer Erfolg, wenn man Wegmarken folgt
+       - misslungen :: Bestimme [[file:maps/hex-crawl-distance-abweichung.png][Abweichung]] und modifiziere Austritts-Hex
+     - Bestimme *Geschwindigkeit* :: Probe auf *Boote & Schiffe*; *Kraftakt* 
+       | Typ         | GS | Schritt/m | Probe                   | Auswirkung                      |
+       |-------------+----+-----------+-------------------------+---------------------------------|
+       | Schlingernd |  3 |        36 | misslungen              | Erk. erschwert                  |
+       | Vorsichtig  |  1 |        12 | B&S QS 1                | Erk. erleichtert                |
+       | Normal      |  5 |        60 | B&S QS 0                |                                 |
+       | Schnell     | 10 |       120 | B&S QS 2, Kraftakt QS 2 | kein Erk.; Mis: 1 St. [[#st-belastung][Belastung]] |
+   - Erkunden (Erk) ::
+     - *Sinnesschärfe* um bestimmte Dinge (Orte/Gegnstaende) zu entdecken
+
