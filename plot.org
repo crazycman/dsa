@@ -377,28 +377,30 @@
       CLOSED: [2020-12-21 Mo 22:40]
 ***** Hesindetempel
       CLOSED: [2020-12-21 Mo 22:20]
-***** TODO [#A] Grausteins Plan [0/4]
-      - [ ] Necker sind Kinder Efferds; *friedlich*
-      - [ ] herausfinden: was treibt sie an? warum sind sie aggressiv?
-      - [ ] Schluessel dazu: [[file:npcs.org::#YB1][Ybalio]] (Heimliche Befreiungsmission); [[file:npcs.org::#BH1][Branwen]]; *mehr Infos* sammeln
-      - [ ] Ausruestung
-        - [ ] [[https://ulisses-regelwiki.de/index.php/Seg_Gl%C3%BCckssegen.html][Glueckssegen]] +1 FP in den naechsten 12 Stunden
-        - [ ] 2 faustg Gwen-Petryl Steine (Licht in 2 Schritt Radius)
-        - [ ] [[file:items.org::#item-tiefendorn][Tiefendorn]]
-***** TODO [#A] wo ist Branwen
+***** DONE [#A] Grausteins Plan [4/4]
+      CLOSED: [2021-01-02 Sa 20:02]
+      - [X] Necker sind Kinder Efferds; *friedlich*
+      - [X] herausfinden: was treibt sie an? warum sind sie aggressiv?
+      - [X] Schluessel dazu: [[file:npcs.org::#YB1][Ybalio]] (Heimliche Befreiungsmission); [[file:npcs.org::#BH1][Branwen]]; *mehr Infos* sammeln
+      - [X] Ausruestung
+        - [X] [[https://ulisses-regelwiki.de/index.php/Seg_Gl%C3%BCckssegen.html][Glueckssegen]] +1 FP in den naechsten 12 Stunden
+        - [X] 2 faustg Gwen-Petryl Steine (Licht in 2 Schritt Radius)
+        - [X] [[file:items.org::#item-tiefendorn][Tiefendorn]]
+***** DONE [#A] wo ist Branwen                                         :info:
+      CLOSED: [2021-01-02 Sa 22:39]
       <2020-12-30 Mi>
-****** ueber Branwen [8/15]                                            :info:
+****** ueber Branwen [12/15]
       - [X] aufgeweckte junge Frau, Unterstadtschatzsucherin
       - [X] besitzt ein kleines Boot in Fischerort
       - [X] [[file:npcs.org::#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
       - [X] wurde schon seit einer Woche nicht mehr gesehen (weder in Fischerort noch in der Schatzinsel)
       - [X] ist unbeliebt bei den Frauen in Fischerort: Sie spannt ihnen die Maenner aus!?
       - [X] sie soll der Grund sein, aus dem [[file:npcs.org::#HA1][Hemwit Achton]] sein Frau Etaine verliess
-      - [ ] das ist ne Hex! Die treibt sich Abends wer weiss wo, und tagsueber in der Unterstadt rum!
-      - [ ] [[file:npcs.org::#gs1-info][Infos von Graustein]]
-      - [ ] [[file:npcs.org::#ss1-info][Simiadane ueber Branwen]]
+      - [X] das ist ne Hex! Die treibt sich Abends wer weiss wo, und tagsueber in der Unterstadt rum!
+      - [X] [[file:npcs.org::#gs1-info][Infos von Graustein]]
+      - [X] [[file:npcs.org::#ss1-info][Simiadane ueber Branwen]]
       - [X] [[file:npcs.org::#ha1-info][Hemwit ueber Travigod & Branwen]]
-      - [ ] [[#im-goldbutt][im Goldbutt]]
+      - [X] [[#im-goldbutt][im Goldbutt]]
       - [ ] [[#die-seiler][die Seiler]]
       - [ ] [[#an-seekadettenschule][an der Seekadettenschule]]
       - [X] so ne Fischersfrau, die [[file:npcs.org::*Travigod Gawain][Travigod]] hat zuletzt mehrfach lautstark auf "die Hexe" geflucht
@@ -406,45 +408,45 @@
         - die [[file:npcs.org::*Etaine Achton][Etaine Achton]] hat da nickend daneben gestanden!
         - und zwei juengere Frauen waren da auch mal dabei; keine Ahnung wer das war!
       - [ ] wird im Keller der [[file:locations.org::#FI04][Seekadettenschule]] gefangen gehalten
-****** ueber Ybalio [3/4]                                              :info:
+****** ueber Ybalio [3/4]
        <2020-12-21 Mo>
        - [X] stattlicher Neckermann, Wandler zwischen Necker & Menschenwelt
        - [X] sehr efferd gefaellige, verlor beim Kampf gegen eine Kreatur der Unterstadt sein rechtes Ohr
        - [X] liebt [[file:npcs.org::#BH1][Branwen]]
        - [ ] brach vor einer Woche auf in die Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
              um den Angriffen auf den Grund zu gehen
-****** die Furien vom Fischerort [0/1]                                 :info:
+****** die Furien vom Fischerort [1/1]
        - [[file:npcs.org::#TG1][Travigod Gawain]]
        - [[file:npcs.org::*Etaine Achton][Etaine Achton]]
        - [[file:npcs.org::*Hanni Glennard][Hanni Glennard]]
        - [[file:npcs.org::*Ailbe Coiller][Ailbe Coiller]]
-       - [-] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf "die Hexe [[file:npcs.org::#BH1][Branwen]]" schimpfen
+       - [X] Gruppe von Frauen um [[file:npcs.org::*Travigod Gawain][Travigod]] die auf "die Hexe [[file:npcs.org::#BH1][Branwen]]" schimpfen
          - [X] Die spannt uns doch die Maenner aus (Etaine, Hanni)
-         - [ ] hext sie zu Schlappschwanz (Ailbe)
-****** im Goldbutt [0/4]
+         - [X] hext sie zu Schlappschwanz (Ailbe)
+****** im Goldbutt [4/4]
        :PROPERTIES:
        :CUSTOM_ID: im-goldbutt
        :END:      
        In der Taverne [[file:locations.org::#G17][Zum Goldbutt]] *vertrinken Fischer gerne ihre Tageseinnahmen*
        und beteiligen sich an *Gesangswettbewerben* solo, im Duett und als Mannschaft.
        Mitglieder der Unterwelt nutzen die dunklen Ecken der Taverne als Treffpunkt.
-       - [ ] [[file:npcs.org::#BH1][Branwen]] war vor drei Abenden hier
-       - [ ] ein Junge Frau ([[file:npcs.org::#HG1][Hanni Glennard]]) hat die den ganzen Abend ueber finster beobachtet
-       - [ ] die Junge war ein paar mal hier in Begleitung eines schmucken Seekadetten ([[file:npcs.org::#HA1][Dunval Ardheg]])
-       - [ ] zwischen denen ist es aber wohl aus, der ([[file:npcs.org::*Dunval Ardheg][Dunval Ardheg]]) ist jetzt mit anderen Liebchen
-****** die Seiler [0/2]
+       - [X] [[file:npcs.org::#BH1][Branwen]] war vor drei Abenden hier
+       - [X] ein Junge Frau ([[file:npcs.org::#HG1][Hanni Glennard]]) hat die den ganzen Abend ueber finster beobachtet
+       - [X] die Junge war ein paar mal hier in Begleitung eines schmucken Seekadetten ([[file:npcs.org::#HA1][Dunval Ardheg]])
+       - [X] zwischen denen ist es aber wohl aus, der ([[file:npcs.org::*Dunval Ardheg][Dunval Ardheg]]) ist jetzt mit anderen Liebchen
+****** die Seiler [2/2]
        :PROPERTIES:
        :CUSTOM_ID: die-seiler
        :END:
        Seiler *Brodan* kann berichten:
-       - [ ] [[file:npcs.org::#TG1][Travigod]] war hier, ja.
+       - [X] [[file:npcs.org::#TG1][Travigod]] war hier, ja.
          - Die hat mit [[file:npcs.org::*Ailbe Coiller][Ailbe]] der Frau vom *Elidir* und so einer jungen bisschen naiven so
            ein richtig hartes, steifes Seil abgeholt. Nicht wahr Elidir?
            "Ach halts Maul Brodan!"
-       - [ ] Elidir ::
+       - [X] Elidir ::
          - Die haben das Seil geliehen, keine Ahnung wofuer.
          - die naive heisst [[file:npcs.org::*Hanni Glennard][Hanni Glennard]], und wurde von einem Seekadetten verarscht, soweit ich weiss
-****** an der Seekadettenschule [0/5]
+****** an der Seekadettenschule [1/5]
        :PROPERTIES:
        :CUSTOM_ID: an-seekadettenschule
        :END:       
@@ -453,7 +455,7 @@
        - Im weitläufigen Bau sind auch der Rat der Kapitäne, dessen Schreibstuben und das Ratsregister untergebracht.
        - Haupttor; zwei Nebeneingaenge
          und vier ueber Treppen erreichbare tieferliegende (verriegelte) Tueren (Kellerraeume).
-       - [ ] vor allem bei [[file:npcs.org::#HA1][Dunval Ardheg]] schmilzt das junge Weibsvolk dahin
+       - [X] vor allem bei [[file:npcs.org::#HA1][Dunval Ardheg]] schmilzt das junge Weibsvolk dahin
          - der treibt sich dan ab und zu in den Kellern mit ihnen rum
          - und verleiht auch mal einen Schluessel dazu an seine Liebchen
        - [ ] Beobachtung :: *ein Kellerraum wird nicht aufgesucht* von Dunval, Kadetten & Kellermeister
@@ -461,16 +463,18 @@
        - [ ] Kellertuer :: Schloesserknacken, Kraftakt -2; ggf. Verbergen -3 sonst 2 Wachen
        - [ ] Ueberreden der Wachen :: die Kellertuer zu oeffnen
              Vergl. Probe *Ueberreden* (-3/+3 guter Leumund) vs *Willenskraft* (5 14/13/11) 
-***** TODO [#A] Nebelgeister Konterbande uebergabe [0/4]
-      - [ ] Ihr schueffelt ja ganz schoen im Fischerdorf rum?
+***** DONE [#A] Nebelgeister Konterbande uebergabe [5/5]               :info:
+      CLOSED: [2021-01-02 Sa 21:39]
+      - [X] Ihr schueffelt ja ganz schoen im Fischerdorf rum?
         - Wen oder was sucht ihr den da?
         - habt ihr eine Idee was passiert sein kan?
         - Entfuehrung? dann fragt doch mal nach dem Entfuehrer und nicht nach der Entfuehrten!?!
-      - [ ] Was war den da auf der Rethis los?
+      - [X] Was war den da auf der Rethis los?
         - ist euch sonst noch was aufgefallen?
         - [[file:npcs.org::#AA1][Asa Anjuhal]]? [[file:npcs.org::*Tote Hand][Tote Hand]]? da laufen schmutzige Geschaefte; evlt. [[file:organizations.org::#SH1][Silberne Hand]], Neckerprostitution
-      - [ ] [[file:npcs.org::#qu-konterbande][Queste : Konterbande aus Unterstad bergen]]
-      - [ ] Wollt ihr weiter mit uns arbeiten? habt ihr eine Idee/Anliegen? *Toter Briefkasten*
+      - [X] Leohain in der Moorburg
+      - [X] [[file:npcs.org::#qu-konterbande][Queste : Konterbande aus Unterstad bergen]]
+      - [X] Wollt ihr weiter mit uns arbeiten? habt ihr eine Idee/Anliegen? *Toter Briefkasten*
 ** Wetter
    :PROPERTIES:
    :CUSTOM_ID: wetter

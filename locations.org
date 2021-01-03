@@ -318,8 +318,12 @@
     :src:      SH 14 GN 25 
     :END:
     Hier vertrinken Fischer gerne ihre Tageseinnahmen und beteiligen sich an
-    Gesangswettbewerben solo, im Duett und als Mannschaft.
+    *Gesangswettbewerben* solo, im Duett und als Mannschaft.
     Mitglieder der Unterwelt nutzen die dunklen Ecken der Taverne als Treffpunkt
+**** Personen
+     beide crazy
+     - Wirt :: Klaus
+     - Schankwart :: Hein
 *** Alter Efferdtempel
     :PROPERTIES:
     :custom_id: T02

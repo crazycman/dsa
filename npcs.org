@@ -261,7 +261,8 @@
    - Orte ::
      - [[file:locations.org::*Hafen (HA)][Hafen]]
      - [[file:locations.org::#G08][Esche und Kork]]
-*** ACTIVE Queste : Konterbande aus Unterstad bergen                  :quest:
+*** DONE Queste : Konterbande aus Unterstad bergen                    :quest:
+    CLOSED: [2021-01-02 Sa 21:00]
     :PROPERTIES:
     :CUSTOM_ID: qu-konterbande
     :END:
@@ -1373,10 +1374,11 @@
    :LOCATION: FI04
    :SRC:      GN 26
    :END:
+   <2021-01-02 Sa>
    Seekadett; schmuck 
    - 30 Jahre, sehr auf sein Aussehen bedacht, tadellose Uniform
    - will seinen Schluesselverleih vertuschen 
-   - [ ] *vergleichende Probe auf Einschuechtern oder Ueberreden*; Taschendiebstahl um Schluessel zu klauen
+   - [X] *vergleichende Probe auf Einschuechtern oder Ueberreden*; Taschendiebstahl um Schluessel zu klauen
    - wechselnde Liebschaften 
    - Willenskraft 8 (14/13/14)
    - [[file:locations.org::#FI04][Seekadettenschule]]
