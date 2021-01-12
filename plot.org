@@ -475,6 +475,19 @@
       - [X] Leohain in der Moorburg
       - [X] [[file:npcs.org::#qu-konterbande][Queste : Konterbande aus Unterstad bergen]]
       - [X] Wollt ihr weiter mit uns arbeiten? habt ihr eine Idee/Anliegen? *Toter Briefkasten*
+***** TODO Anzeige von Travigod
+      bei [[file:npcs.org::#FB1][Fackelbart]]
+***** DONE die Befreiung von Ybalio
+      CLOSED: [2021-01-08 Fr 23:00]
+** Questen
+*** Findet Leowald                                                     :quest:
+    ging ueber Bord nach Angriff von Oktopeden
+*** Imman Spiel                                                       :quest:
+    [[file:npcs.org::#RT1][Ranziger Toss]] bitte um Hilfe bei einem Spiel, da ein grossteil der
+    Mannschaft ueberraaschend ausfaellt
+*** Heist                                                             :quest:
+    [[file:npcs.org::#AH1][Ardach Herlogan]]? wegen Neckersklaverei? siehe Abenteuer
+    Die Gunst des Fuchses
 ** Wetter
    :PROPERTIES:
    :CUSTOM_ID: wetter

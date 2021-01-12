@@ -1014,7 +1014,7 @@
       - Der Ball im [[file:locations.org::#OF08][Wachsfigurenkabinett]] zur Vorstellung neuer Figuren; Veranstalter [[#CO1][Cumal Ongswin]]
     - [X] Schneider von [[file:plot.org::#3][Scibor Aberkrom]]; der trug gerne leuchtende Farben (Rot, Orange, Gelb)
           der ist ja jetzt tot: wollt ihr ein rotes Feuerdschinn-Kostuem (Vollmondball) fuer 50S?
-** Ybalio
+** Ybalio                                                               :met:
    :PROPERTIES:
    :CUSTOM_ID: YB1
    :SEX:      m
@@ -1023,6 +1023,7 @@
    :LOCATION: G25
    :SRC:      SH 68 SH 130
    :END:
+   <2021-01-08 Fr>
    Necker
    - Aussehen :: stattlicher Necker, langes weisses Haar, 
      rechtes Ohr fehlt, grosser Priatenohring am linke Ohr
