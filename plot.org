@@ -479,6 +479,58 @@
       bei [[file:npcs.org::#FB1][Fackelbart]]
 ***** DONE die Befreiung von Ybalio
       CLOSED: [2021-01-08 Fr 23:00]
+**** Sturmfult
+     - 18:40h
+     - starker Wind, heftiger Regen
+     - Sturmglocken am Hafen laeuten wie wild
+***** TODO Wer hat das Kleid [0/4]                                         :info:
+      - [ ] Getauscht beim Tsatempel am Rande der Unterstadt vor ca. 30 Tagen 
+      - [ ] junger, schwarzhaariger Mann
+      - [ ] fein Kleidung
+      - [ ] Wappen: Kranich im Flug
+***** TODO Tsatempel [0/2]
+      [[file:npcs.org::#YB1][Yanne Binsen]] anfang 20, Regebenbogen Tunika, im Kopfstand
+      - [ ] junger, reicher schwarzhaariger Mann [[file:npcs.org::#PP1][Padraig]] war da
+        - spendete und sah aufs Meer
+        - erzählte er werbe um eine Frau & hoffe auf einen neuen Aufbruch
+        - als ich in der zweiten Nacht zu Bett ging, sass er noch am Rande der Unterstadt
+        - seitdem habe ich ihn nicht mehr gesehen
+      - [ ] *Menschenkenntnis* geschafft: *1 ZP, sonst 2 ZP*
+***** TODO Wo ist [[file:npcs.org::*Padraig Pliskern][Padraig Pliskern]] [0/4]
+      - [ ] *Tuchhändler* und Vermittler von Söldlingen; [[file:npcs.org::#PP1][Padraig Pliskern]]
+        - fuehrt die Geschaefte in Abwesenheit des Vaters
+        - schnoeselg & von sich eingenommen
+      - [ ] Kontor in Nalleshof (E8) aber da ist um die Zeit keiner mehr
+      - [ ] Wohnhaus in Oberfluren beim Fuerstenpalast (J9)
+      - [ ] *5 ZP* - QS von *Gassenwissen* oder *Etikette*
+***** TODO Villa Pliskern (J9) [0/5]
+      Villa im havenischen Stil, von grosszuegigem Garten umgeben
+      Gelssenheit im Angesicht des Rondrikans: "Ist ja nur ein bisschen Hochwasser!"
+      - Gaertnerin :: Lide, 40, Knollennase, verschlossenen, autoritaetsglaeubig (Willenskraft 2)
+      - Koch & Aufwaerter :: Niall, 30, schmal, klatschfreudig (Willenskraft 4)
+      - Albhe Pliskern :: Grossmutter, 70, redselig, guetig, schlakhaft (Willenskraft 7)
+      - [ ] Padraig hat *vom Roten Kleid geschwaermt*
+      - [ ] hat es vor Wochen seiner Angebeteten *[[file:npcs.org::*Rovena Rastburger][Rovena Rastburger]] geschenkt*
+      - [ ] Rovena wohnt im *Gaestehaus der Rastburgers*, in der Fuerstenallee (H6)
+      - [ ] Padraig ist zum Empfang im [[file:locations.org::#OF08][Wachsfigurenkabinett]]
+      - [ ] *3 ZP* - QS in *Ueberreden, Einschuechtern, Etikette*
+***** TODO Gaestehaus Rastburgers (H6) [0/6]
+      Unruhe und Panik herrscht in Orkendorf
+      Mensche suchen Retten im [[file:locations.org::#G07][Großmast]]: "Alle Mann an Deck! Efferd zuernt uns."
+      grosser, alter Fachwerkbau, gegenueber [[file:locations.org::*Großmast][Großmast]]; Fenster im Erdgeschoss sind frisch verrammelt
+      - Hausdiener :: Edric, 70 weisser Backenbart, fromm, schicksalsergeben, *arkanophob*, (WK 8)
+        - steht auf der Treppe zum Eingang, Efferdstatuette umklammernd, verweint
+      - [ ] langjähriger Diener, *Rovena war immer anstaendig*, verabscheute Magie
+      - [ ] *Padraig verfuehrte sie* mit madaverfluchten Dingen & Elexiern; *erlag Verfuehrung der Magie*
+      - [ ] Rovena zerstritt sich mit der Mutter & zog ins Gaestehaus
+      - [ ] *Padraig schenkte* ihr das Rote Kleid;
+        - verbrennen haette sie es sollen, das Verfluchte Stueck.
+        - Die Niederhoellen haben von ihr Besitz ergriffen; sie schwaermt nun von Kleid
+      - [ ] heute Abend traegt sie das Kleid erneut und sie ist *liederlicher als je zuvor*
+        - Pliskern hat sie abgeholt zum Empfang im [[file:locations.org::*Wachsfigurenkabinett][Wachsfigurenkabinett]]
+      - [ ] *2 ZP* - QS *Heilkunde Seelen*
+***** TODO Der Empfang im [[file:locations.org::#OF08][Wachsfigurenkabinett]] (H10) [/]
+      
 ** Questen
 *** Findet Leowald                                                     :quest:
     ging ueber Bord nach Angriff von Oktopeden

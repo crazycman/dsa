@@ -347,7 +347,7 @@
     :src:      GN 40 SH 14 ST 13 
     :END:
     *Blumenhaus mit Säulen*
-    Ein von Wildblumen gesäumter Weg führt durch die Ruinen bis zum Tsatempel.
+    Ein *von Wildblumen gesäumter* Weg führt durch die Ruinen bis zum Tsatempel.
     Nirgends kommt man der Unterstadt näher als am Tsatempel, der auf einer kleinen Anhöhe steht.
     Es wurde nach der Großen Flut erbaut, um den Wiederaufbau unter den Segen Tsas zu stellen.
     Der runde Säulenbau ist von Ranken überwuchert, die im Spätsommer in allen
