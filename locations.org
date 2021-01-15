@@ -1030,6 +1030,10 @@
     :reich:    4
     :src:      GN 42 SH 38 ST 20 
     :END:
+    - Kennzeichen :: *Wachsfigur eines entzückten Narren*, der ein großes Schild „Wachsfigurenkabinett“ hält
+      Am Halplatz gegenüber vom Praiostempel.
+    - am Halplatzes in Oberfluren ist ein *prachtvolles, zweistöckiges Stadthaus mit Säulenfassade*
+      im neu-havenischen Stil.
 *** Fürstliche Münze
     :PROPERTIES:
     :custom_id: OF09

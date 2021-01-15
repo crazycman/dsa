@@ -481,8 +481,9 @@
       CLOSED: [2021-01-08 Fr 23:00]
 **** Sturmfult
      - 18:40h
-     - starker Wind, heftiger Regen
+     - starker Wind, heftiger Regen, alle sind nass
      - Sturmglocken am Hafen laeuten wie wild
+     - Branwensflehen: Rettet Havena nur ihr koennt jetzt noch etwas tun!
 ***** TODO Wer hat das Kleid [0/4]                                         :info:
       - [ ] Getauscht beim Tsatempel am Rande der Unterstadt vor ca. 30 Tagen 
       - [ ] junger, schwarzhaariger Mann
@@ -516,7 +517,7 @@
       - [ ] *3 ZP* - QS in *Ueberreden, Einschuechtern, Etikette*
 ***** TODO Gaestehaus Rastburgers (H6) [0/6]
       Unruhe und Panik herrscht in Orkendorf
-      Mensche suchen Retten im [[file:locations.org::#G07][Großmast]]: "Alle Mann an Deck! Efferd zuernt uns."
+      Mensche suchen Retten im [[file:locations.org::#G07][Großmast]]: "Alle Mann an Deck! Efferd zuernt uns, sein Zorn naht!"
       grosser, alter Fachwerkbau, gegenueber [[file:locations.org::*Großmast][Großmast]]; Fenster im Erdgeschoss sind frisch verrammelt
       - Hausdiener :: Edric, 70 weisser Backenbart, fromm, schicksalsergeben, *arkanophob*, (WK 8)
         - steht auf der Treppe zum Eingang, Efferdstatuette umklammernd, verweint
@@ -529,8 +530,40 @@
       - [ ] heute Abend traegt sie das Kleid erneut und sie ist *liederlicher als je zuvor*
         - Pliskern hat sie abgeholt zum Empfang im [[file:locations.org::*Wachsfigurenkabinett][Wachsfigurenkabinett]]
       - [ ] *2 ZP* - QS *Heilkunde Seelen*
-***** TODO Der Empfang im [[file:locations.org::#OF08][Wachsfigurenkabinett]] (H10) [/]
-      
+***** TODO Der Empfang im [[file:locations.org::#OF08][Wachsfigurenkabinett]] (H10)
+      - bunte Stoffbahnen wehen im Sturmwind
+      - Feuerschalen erhellen die zweistöckige prachtvolle Säulenfassade
+      - aus erleuchteten Fenstern dringt Gelaechter & Musik
+      - Haupteingang :: Ritter in voller Plattenrüstung (*Fergal*, unerschuetterlich)
+      - in der Umgebung :: herrschaftliche Kutschen & Droschken; Kutscher missmutig im Strumregen
+      - *Feiner Empfang*; Ausrichter [[file:npcs.org::#CO1][Cumal Ongswin]]; 50 geladene Grossbueger; 5 neue Goetterstatuen
+        - Einlass nur mit Einladung: Elidasmuschel it leuchtendem Gwen-Petryl-Lack
+****** Eindringen
+       - Schleichen :: *Ablenken* der Wache; *Klettern -1*: offenes Fenstern Nordostenecke
+       - Als Wachsstatue :: Unterstand Fuhrwerk mit Tragegestell & 5 Wachsfiguren unter Wachstuch
+         (*3 ZP*)
+       - Gefaelschtes Billet :: Elidasmuschel & Leuchtlack
+       - Billte ergaunern :: Lanval Delvenstein *vergnuegt sich mit Kurtisanen in Kutsche*
+****** Die Feier [0/11]
+       Musikertruppe spielt; Haeppchen & Bosparanjer werden gereicht; bester Zwirn; ignorien Rondrikan
+       - [ ] [[file:npcs.org::#RR1][Rovena Rastburger]]
+       - [ ] [[file:npcs.org::#PP1][Padraig Pliskern]]
+       - [ ] Zollbard, der gehemmte Magier :: 45, ungezaehmte Nasenhaare, trinkt gerne, Andergast
+       - [ ] [[file:npcs.org::#NS1][Niamh Schlappmaul]]
+       - [ ] [[file:npcs.org::#MB1][Meriwen Bleichbruck]]
+       - [ ] [[file:npcs.org::*Cumal Ongswin][Cumal Ongswin]]
+       - [ ] Urlabet Nimoras :: Kuratorin 39, blonder Dutt, Reibeisenstimme, zu direkt, Einbildungen
+       - [ ] Stoeker Kupferbart :: Zwerg, Modelleur 92, rothaarig, einäugig, schalkhaft, Angst vor Feuer
+       - [ ] Praios Hochgeweihte :: Praiadane von Hohenfels, 61, grauer akkurater Pagenschnitt, ruhig
+         wird sie auf das *Rote Kleid* aufmerksam, kann sie Beschlagnahmung durch Garde befehlen
+       - [ ] Korakles :: 40, Zyklopaeer, muskuloes, ornamentiert Brustplatte, Helm mit Federbusch
+       - [ ] 3 Wachen :: Ritter in voller Plattenrüstung; 1 vorm Haupteingang
+******* Ereignisse [0/3]
+        - [ ] Enthuellung der neuen Goetter :: 2 Minuten wird Licht geloescht; Aufmerksamkeit auf Statuen
+        - [ ] Heiratsantrag Rovena :: Padraig kniet; selbstsicherer Antrag; Rovena lehnt peinlich ab
+          Padraig ist entaeuscht & wuetend
+        - [ ] Das Wasser kommt :: 21h, 30 ZP; Wasser erreicht Halplatz; Entsetzen & Panki bricht aus
+          Gaeste verlassen Empfang; Padraig laesst Rovena stehen; Ongswin, Rovena & 12 Gaeste harren aus
 ** Questen
 *** Findet Leowald                                                     :quest:
     ging ueber Bord nach Angriff von Oktopeden
@@ -777,6 +810,7 @@
    - Tools :: e.g. Hex Editor https://entaria.de/coole-rpg-tools
    - Hex Editor :: http://hextml.playest.net
    - Dungeon drawer ::  https://probabletrain.itch.io/dungeon-scrawl
+   - Name generator :: https://www.behindthename.com/random/  
 ** Protokoll
 *** Rico
 **** Schlecht
