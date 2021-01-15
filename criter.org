@@ -68,7 +68,8 @@
       Telepathie: Für 1 AsP kann der Necker seine Gedanken in Form von fremdartigen Bildern
         (meist mit Meer- oder Wasserbezug) an alle Lebewesen in 8 Schritt Entfernung aussenden.
         Dies sorgt während eines Kampfes für keine zusätzliche Ablenkung.
-*** ueber Necker [7/10]                                                :info:
+*** DONE ueber Necker [7/10]                                           :info:
+    CLOSED: [2020-12-30 Mi 15:50]
     <2020-12-21 Mo>
    - [X] Kulturschaffende Meeresbewohner, Necker Kolonien gibt es in der Unterstadt
    - [X] Verwunderung bzgl. der Uebergriffe (*Necker sind eigentlich friedlich*)

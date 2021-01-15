@@ -45,7 +45,8 @@
        Je nach Umgang wird der spaetere Artikel die Helden abwerten oder idealisieren
    - Werte :: Willenskraft 12 (14/13/15)
    - Orte :: [[file:locations.org::#UF11][Redaktionshaus]]
-*** ueber die Angriffe [0/3]                                           :info:
+*** DONE Niamh ueber die Angriffe [0/3]                                :info:
+    CLOSED: [2020-12-26 Sammeln 23:50]
     - [ ] Der H'Ranga *Kult der Allesverschlingenden* war in der Vergangenheit aktiv in Havena
           damals wahnsinniger Thorwaler Kultist; verstrickt mit *Vilais Vecushmar*
           evtl. erstarkt der wieder und hat etwas mit den Angriffen zu tun
@@ -502,8 +503,6 @@
     - [X] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
           auch der Stadtvogt [[#AH1][Ardach Herlogan]] sieht den Schmuggel als grosses Problem
     - [X] [[file:plot.org::#5][Vollmondball auf der Rethis]]
-*** Meriwens Infos zum Vollmondball                                    :info:
-    siehe [[file:plot.org::#auf-vollmondball][auf dem Vollmondball]]
 *** ACTIVE Queste : Gegen Nebelgeister                                :quest:
     - Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
     - zahlt fuer Informationen und Kopfpraemien fuer gefangene Schmuggler
@@ -636,17 +635,17 @@
    - Orte :: [[file:locations.org::#HA][Hafen]], Lotseninsel
 
    Spiel- und Wettschulden bringen Cullain regelmäßig in Schwierigkeiten.
-*** ueber die Unterstadt [3/4]                                         :info:
+*** DONE ueber die Unterstadt [4/4]                                    :info:
+    CLOSED: [2020-12-04 Fr 23:35]
     - [X] du haettest [[#RT1][Ranziger Toss]] bei Spiel gegen Bleichmuräne Unterstadt sehen sollen!
     - [X] [[file:plot.org::#3][Naechtliche Angriffe in Havena]], *Ysilt Bennoch* wurde in Krakendorf erstochen
     - [X] ist oft im [[file:locations.org::#G08][Esche und Kork]] und kann sich dort mit den Helden treffen
-    - [ ] *Unterstadt*: vor 300 Jahren von der grossen Flut ueberschwemmt
+    - [X] *Unterstadt*: vor 300 Jahren von der grossen Flut ueberschwemmt
       - überflutete Schwemmlandschaft voller sumpfiger Inselchen und schweigender Ruinen.
       - Ausdehnung von 1,5 auf 2 Meilen etwa doppelt so groß wie das heutige Havena
       - Schatzsucher, Verbrecher, Schmuggler und Kultisten treiben sich dort hermum
       - betreten ist Verboten (vom Fuerstenhaus)
       - [[#BH1][Branwen]] und [[#OF1][Ordhan Faic]] kennen sich dort gut aus, sie sind oft in der [[file:locations.org::*Schatzinsel][Schatzinsel]]
-      
 ** Lata, Drachenschildkroete                                            :met:
    :PROPERTIES:
    :CUSTOM_ID: LA1
@@ -740,7 +739,7 @@
     - [X] was bringt die Necker dazu, sich so aggressiv zu verhalten?
           Bitte forscht weiter und klaert das (90 Dukaten)!
     - [X] Jaspa hat den *Tiefendorn*
-*** ACTIVE Queste : Patroullie                                        :quest:
+*** ACTIVE Queste : Grauen aus dem Nebel                              :quest:
     Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
     - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
     - Wieso sind sie so aggresiv (als Geschoepfe Efferds?)
@@ -877,7 +876,8 @@
    Wer sein Vertrauen gewinnt hat einen loyalen Verbuendeten
    Unterstuetzt verfolgte Zauberkundige diskret
      
-*** Infos in Hesind Bibliothek [4/5]                                   :info:
+*** DONE Infos in Hesind Bibliothek [4/5]                              :info:
+    CLOSED: [2020-12-26 Sa 23:50]
     - [X] Vertrauen gewinnen: (Bekehren & Ueberzeugen)
       - Hesinde gefaellig
     - [X] im *Leseraum* stehen nur uninteressante Schriften
@@ -919,8 +919,9 @@
           das Akademiegebäude wird versiegelt.
         - hundert Jahre spaeter kommt dann die grosse Flut
           
-    - [X] Theorie zur grossen Flut: wie bei Selem durch einen ins Meer fallenden Stern ausgelöst,
-           und dass die *Häufung von fallendem Gwen Petryl möglicherweise eine neue Flut ankündigt*
+    - [X] Theorie zur grossen Flut: wie bei Selem durch einen ins Meer fallenden
+      Stern ausgelöst, und dass die *Häufung von fallendem Gwen Petryl
+      möglicherweise eine neue Flut ankündigt*
 ** Ordhan Faic                                                          :met:
    :PROPERTIES:
    :CUSTOM_ID: OF1
@@ -977,8 +978,8 @@
    Jahr schauriger klingen lässt. Wenn in Havena jemand etwas Belangloses
    erzählt, ist eine beliebt gewordene Entgegnung „Interessiert das vielleicht
    Waern?“ oder „Waern interessiert’s!“
-*** ueber Necker in Not & Branwen [2/3]                                :info:
-    <2020-12-21 Mo>
+*** DONE ueber Necker in Not & Branwen [2/3]                           :info:
+    CLOSED: [2021-12-21 Mo 22:25]
     - [X] den Pferden geht es gut; 1 Dukate pro Pferd
     *Allgemein zu [[file:criter.org::#cr-nk][Necker]]*
     - [X] *Neckergesang*: normalerweise schoen, friedlich & betörend;
@@ -1065,14 +1066,8 @@
      - Farindel supporten
    - Werte :: Willenskraft 2 (12/14/14)
    - Orte :: [[file:locations.org::#T03][Tsatempel]]
-*** im Tsa Tempel [0/2]                                                :info:
+*** im Tsa Tempel [0/1]                                                :info:
     - [ ] Feen (Farindel) & Nhywyll Dunkelwasser
-    - [ ] (GN) Besucher vor einem Monat in Vollmondnacht (2 ZP, 1 ZP bei gelungener Menschenkenntnis)
-      - junger (20), reicher Mann mit dunklem Haar [[*Padraig Pliskern][Padraig]] (Nachname nicht bekannt)
-      - kam an zwei aufeinanderfolgenden Naechten, spendet Schmucksteine & Blumen & sah aufs Meer
-      - Erzaehlte davon, wie er um eine Frau werbe und auf einen neuen Aufbruch hoffe
-      - Als Ich mich in der zweiten Nacht zur Ruhe legte, sass er noch am Ufer zur Unterstadt
-      - seitdem nicht mehr gesehen
 ** Asa Anjuhal
    :PROPERTIES:
    :CUSTOM_ID: AA1
@@ -1224,7 +1219,8 @@
      - Mutter von [[#RR1][Rovena Rastburger]]
    - Ziele :: Verschärfung des Magieverbots     
    - Orte :: [[file:locations.org::#UF03][Villa Rastburger]]
-*** ueber Rovena Rastburger (Rotes Kleid) [0/1]                        :info:
+*** DONE ueber Rovena Rastburger (Rotes Kleid) [0/1]                   :info:
+    CLOSED: [2020-12-26 Sa 23:50]
     - [ ] meine Tocheter [[*Rovena Rastburger][Rovena]] macht mir sorgen
       - [ ] sie traegt den Kopf in den Wolken ist hochnaesig geworden
       - [ ] es ist so schlimm, dass sie aus der Villa ins Gaestehaus in der Fuerstenallee gezogen ist
@@ -1278,7 +1274,8 @@
    <2020-12-30 Mi>
    Fischer mit Stand am [[file:locations.org::#FI06][Fischmarkt]]: Hemwits herrliche Heringe
    - 53 Jahre, Schnurrbart, Fischerschuerze
-*** Hemwit ueber Travigod & Branwen [2/3]                              :info:
+*** DONE Hemwit ueber Travigod & Branwen [2/3]                         :info:
+    CLOSED: [2021-01-02 Sa 20:23]
     :PROPERTIES:
     :CUSTOM_ID: ha1-info
     :END:

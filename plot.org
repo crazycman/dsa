@@ -195,7 +195,8 @@
         - [ ] [[file:npcs.org::#BI1][Bilanil]] der Neckersklave (Prostitution; Isora Stewir, 41, Wasser Wasserdschinn)
         - [ ] Rauschkrautkonsum ([[file:npcs.org::#TH1][Tote Hand]] dealt; Sinnesschärfe -1)
         - [ ] Geringschaetzung (Verachtung) der einfachen Bevölkerung (Fischer & Arbeiter)
-***** auf dem Vollmondball [0/4]                                       :info:
+***** DONE auf dem Vollmondball [0/4]                                  :info:
+      CLOSED: [2020-12-26 Sa 23:42]
       :PROPERTIES:
       :CUSTOM_ID: auf-vollmondball
       :END:
@@ -255,7 +256,8 @@
      [[file:npcs.org::#GS1][Graustein]]
 *** Orkendorf
 *** GN (Grauen aus dem Nebel)
-**** TODO Opfer der Angriffe [7/9]
+**** DONE Opfer der Angriffe [9/9]
+     CLOSED: [2021-01-08 Fr 15:27]
      :PROPERTIES:
      :custom_id: 3
      :layer: GN
@@ -307,7 +309,8 @@
         - [X] spricht kaum noch ein Wort
         - [X] bläulich schimmernde Haut
         - [X] bewaffnet mit Dreizack
-***** WAITING Emer Mellrich
+***** DONE Emer Mellrich
+      CLOSED: [2021-01-08 Fr 15:26]
       *Marschen*
       In Marschen wankte eine nasse Gestalt aus der Unterstadt an die Sattlerin
       Emer Mellrich heran. Doch der gab die Handwerkerin kräftig auf die
@@ -315,7 +318,8 @@
       sie das Wesen aus den Augen und schlug dann auf eine Gestalt ein, die sie
       für die Kreatur hielt. Leider handelte es sich stattdessen um einen
       Fischer, der drei Zähne verlor.
-***** WAITING Beatha Arberdan
+***** DONE Beatha Arberdan
+      CLOSED: [2021-01-08 Fr 15:26]
       *Orkendorf*
       - Hals gebrochen beim Kampf gegen Necker
 ***** DONE Novize des Praios 
@@ -386,10 +390,9 @@
         - [X] [[https://ulisses-regelwiki.de/index.php/Seg_Gl%C3%BCckssegen.html][Glueckssegen]] +1 FP in den naechsten 12 Stunden
         - [X] 2 faustg Gwen-Petryl Steine (Licht in 2 Schritt Radius)
         - [X] [[file:items.org::#item-tiefendorn][Tiefendorn]]
-***** DONE [#A] wo ist Branwen                                         :info:
+***** DONE [#A] wo ist Branwen
       CLOSED: [2021-01-02 Sa 22:39]
-      <2020-12-30 Mi>
-****** ueber Branwen [12/15]
+****** ueber Branwen [15/15]
       - [X] aufgeweckte junge Frau, Unterstadtschatzsucherin
       - [X] besitzt ein kleines Boot in Fischerort
       - [X] [[file:npcs.org::#BH1][Branwen]] ist mit [[*Ybalio][Ybalio]] dem Necker liiert
@@ -401,19 +404,19 @@
       - [X] [[file:npcs.org::#ss1-info][Simiadane ueber Branwen]]
       - [X] [[file:npcs.org::#ha1-info][Hemwit ueber Travigod & Branwen]]
       - [X] [[#im-goldbutt][im Goldbutt]]
-      - [ ] [[#die-seiler][die Seiler]]
-      - [ ] [[#an-seekadettenschule][an der Seekadettenschule]]
+      - [X] [[#die-seiler][die Seiler]]
+      - [X] [[#an-seekadettenschule][an der Seekadettenschule]]
       - [X] so ne Fischersfrau, die [[file:npcs.org::*Travigod Gawain][Travigod]] hat zuletzt mehrfach lautstark auf "die Hexe" geflucht
         - Die verhext meinen Mann
         - die [[file:npcs.org::*Etaine Achton][Etaine Achton]] hat da nickend daneben gestanden!
         - und zwei juengere Frauen waren da auch mal dabei; keine Ahnung wer das war!
-      - [ ] wird im Keller der [[file:locations.org::#FI04][Seekadettenschule]] gefangen gehalten
-****** ueber Ybalio [3/4]
+      - [X] wird im Keller der [[file:locations.org::#FI04][Seekadettenschule]] gefangen gehalten
+****** ueber Ybalio [4/4]
        <2020-12-21 Mo>
        - [X] stattlicher Neckermann, Wandler zwischen Necker & Menschenwelt
        - [X] sehr efferd gefaellige, verlor beim Kampf gegen eine Kreatur der Unterstadt sein rechtes Ohr
        - [X] liebt [[file:npcs.org::#BH1][Branwen]]
-       - [ ] brach vor einer Woche auf in die Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
+       - [X] brach vor einer Woche auf in die Ruinen der [[file:locations.org::#FS01][Thaumaturgische Akademie]]
              um den Angriffen auf den Grund zu gehen
 ****** die Furien vom Fischerort [1/1]
        - [[file:npcs.org::#TG1][Travigod Gawain]]
@@ -475,7 +478,7 @@
       - [X] Leohain in der Moorburg
       - [X] [[file:npcs.org::#qu-konterbande][Queste : Konterbande aus Unterstad bergen]]
       - [X] Wollt ihr weiter mit uns arbeiten? habt ihr eine Idee/Anliegen? *Toter Briefkasten*
-***** TODO Anzeige von Travigod
+***** TODO [#C] Anzeige von Travigod
       bei [[file:npcs.org::#FB1][Fackelbart]]
 ***** DONE die Befreiung von Ybalio
       CLOSED: [2021-01-08 Fr 23:00]
@@ -491,7 +494,8 @@
       - [ ] Wappen: Kranich im Flug
 ***** TODO Tsatempel [0/2]
       [[file:npcs.org::#YB1][Yanne Binsen]] anfang 20, Regebenbogen Tunika, im Kopfstand
-      - [ ] junger, reicher schwarzhaariger Mann [[file:npcs.org::#PP1][Padraig]] war da
+      - [ ] junger schwarzhaariger Mann war an zwei aufeinanderfolgenden Naechten da
+        - [[file:npcs.org::#PP1][Padraig]] (Nachname nicht bekannt)
         - spendete und sah aufs Meer
         - erzählte er werbe um eine Frau & hoffe auf einen neuen Aufbruch
         - als ich in der zweiten Nacht zu Bett ging, sass er noch am Rande der Unterstadt
