@@ -739,7 +739,8 @@
     - [X] was bringt die Necker dazu, sich so aggressiv zu verhalten?
           Bitte forscht weiter und klaert das (90 Dukaten)!
     - [X] Jaspa hat den *Tiefendorn*
-*** ACTIVE Queste : Grauen aus dem Nebel                              :quest:
+*** DONE Queste : Grauen aus dem Nebel                                :quest:
+    CLOSED: [2021-01-16 Sa 00:18]
     Schutz von Unterfluren & Feldmark von naechtlichen Schrecken
     - Angriffe durch Kreaturen aus der Unterstadt (wahrscheinlich Necker; werden nicht erwaehnt)?
     - Wieso sind sie so aggresiv (als Geschoepfe Efferds?)

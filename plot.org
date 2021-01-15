@@ -123,7 +123,8 @@
 ***** Links [2/2]
       - [X] Handout [[file:handout/Fanfare-Schrecken-aus-dem-Nebel.pdf][Fanfare - Schrecken aus dem Nebel]]
       - [X] [[#UF11][Redaktionshaus]] da wird gerade eine grosse Monatsausgabe geplant
-**** TODO [#B] Begegnung mit der anderen Soeldnergruppe
+**** DONE [#B] Begegnung mit der anderen Soeldnergruppe
+     CLOSED: [2021-01-16 Sa 00:19]
      :PROPERTIES:
      :custom_id: 4
      :location: MA OR NA
@@ -483,32 +484,37 @@
 ***** DONE die Befreiung von Ybalio
       CLOSED: [2021-01-08 Fr 23:00]
 **** Sturmfult
-     - 18:40h
-     - starker Wind, heftiger Regen, alle sind nass
-     - Sturmglocken am Hafen laeuten wie wild
-     - Branwensflehen: Rettet Havena nur ihr koennt jetzt noch etwas tun!
-***** TODO Wer hat das Kleid [0/4]                                         :info:
-      - [ ] Getauscht beim Tsatempel am Rande der Unterstadt vor ca. 30 Tagen 
-      - [ ] junger, schwarzhaariger Mann
-      - [ ] fein Kleidung
-      - [ ] Wappen: Kranich im Flug
-***** TODO Tsatempel [0/2]
+***** Setting     
+      - Establishing shot
+      - 18:40h
+      - starker Wind, heftiger Regen, alle sind nass
+      - Sturmglocken am Hafen laeuten wie wild
+      - Branwensflehen: Rettet Havena nur ihr koennt jetzt noch etwas tun!
+***** DONE Wer hat das Kleid [4/4]                                     :info:
+      CLOSED: [2021-01-15 Fr 19:53]
+      - [X] Getauscht beim Tsatempel am Rande der Unterstadt vor ca. 30 Tagen 
+      - [X] junger, schwarzhaariger Mann
+      - [X] fein Kleidung
+      - [X] Wappen: Kranich im Flug
+***** DONE Tsatempel [2/2]
+      CLOSED: [2021-01-15 Fr 20:22]
       [[file:npcs.org::#YB1][Yanne Binsen]] anfang 20, Regebenbogen Tunika, im Kopfstand
-      - [ ] junger schwarzhaariger Mann war an zwei aufeinanderfolgenden Naechten da
+      - [X] junger schwarzhaariger Mann war an zwei aufeinanderfolgenden Naechten da
         - [[file:npcs.org::#PP1][Padraig]] (Nachname nicht bekannt)
         - spendete und sah aufs Meer
         - erzählte er werbe um eine Frau & hoffe auf einen neuen Aufbruch
         - als ich in der zweiten Nacht zu Bett ging, sass er noch am Rande der Unterstadt
         - seitdem habe ich ihn nicht mehr gesehen
-      - [ ] *Menschenkenntnis* geschafft: *1 ZP, sonst 2 ZP*
-***** TODO Wo ist [[file:npcs.org::*Padraig Pliskern][Padraig Pliskern]] [0/4]
+      - [X] *Menschenkenntnis* geschafft: *1 ZP, sonst 2 ZP*
+***** DONE Wo ist [[file:npcs.org::*Padraig Pliskern][Padraig Pliskern]] [0/4]
+      CLOSED: [2021-01-16 Sa 00:18]
       - [ ] *Tuchhändler* und Vermittler von Söldlingen; [[file:npcs.org::#PP1][Padraig Pliskern]]
         - fuehrt die Geschaefte in Abwesenheit des Vaters
         - schnoeselg & von sich eingenommen
       - [ ] Kontor in Nalleshof (E8) aber da ist um die Zeit keiner mehr
       - [ ] Wohnhaus in Oberfluren beim Fuerstenpalast (J9)
       - [ ] *5 ZP* - QS von *Gassenwissen* oder *Etikette*
-***** TODO Villa Pliskern (J9) [0/5]
+***** Villa Pliskern (J9) [0/5]
       Villa im havenischen Stil, von grosszuegigem Garten umgeben
       Gelssenheit im Angesicht des Rondrikans: "Ist ja nur ein bisschen Hochwasser!"
       - Gaertnerin :: Lide, 40, Knollennase, verschlossenen, autoritaetsglaeubig (Willenskraft 2)
@@ -519,7 +525,7 @@
       - [ ] Rovena wohnt im *Gaestehaus der Rastburgers*, in der Fuerstenallee (H6)
       - [ ] Padraig ist zum Empfang im [[file:locations.org::#OF08][Wachsfigurenkabinett]]
       - [ ] *3 ZP* - QS in *Ueberreden, Einschuechtern, Etikette*
-***** TODO Gaestehaus Rastburgers (H6) [0/6]
+***** Gaestehaus Rastburgers (H6) [0/6]
       Unruhe und Panik herrscht in Orkendorf
       Mensche suchen Retten im [[file:locations.org::#G07][Großmast]]: "Alle Mann an Deck! Efferd zuernt uns, sein Zorn naht!"
       grosser, alter Fachwerkbau, gegenueber [[file:locations.org::*Großmast][Großmast]]; Fenster im Erdgeschoss sind frisch verrammelt
@@ -534,7 +540,8 @@
       - [ ] heute Abend traegt sie das Kleid erneut und sie ist *liederlicher als je zuvor*
         - Pliskern hat sie abgeholt zum Empfang im [[file:locations.org::*Wachsfigurenkabinett][Wachsfigurenkabinett]]
       - [ ] *2 ZP* - QS *Heilkunde Seelen*
-***** TODO Der Empfang im [[file:locations.org::#OF08][Wachsfigurenkabinett]] (H10)
+***** DONE Der Empfang im [[file:locations.org::#OF08][Wachsfigurenkabinett]] (H10)
+      CLOSED: [2021-01-15 Fr 23:52]
       - bunte Stoffbahnen wehen im Sturmwind
       - Feuerschalen erhellen die zweistöckige prachtvolle Säulenfassade
       - aus erleuchteten Fenstern dringt Gelaechter & Musik
@@ -548,19 +555,19 @@
          (*3 ZP*)
        - Gefaelschtes Billet :: Elidasmuschel & Leuchtlack
        - Billte ergaunern :: Lanval Delvenstein *vergnuegt sich mit Kurtisanen in Kutsche*
-****** Die Feier [0/11]
+****** Die Feier [5/11]
        Musikertruppe spielt; Haeppchen & Bosparanjer werden gereicht; bester Zwirn; ignorien Rondrikan
        - [ ] [[file:npcs.org::#RR1][Rovena Rastburger]]
-       - [ ] [[file:npcs.org::#PP1][Padraig Pliskern]]
-       - [ ] Zollbard, der gehemmte Magier :: 45, ungezaehmte Nasenhaare, trinkt gerne, Andergast
-       - [ ] [[file:npcs.org::#NS1][Niamh Schlappmaul]]
+       - [X] [[file:npcs.org::#PP1][Padraig Pliskern]]
+       - [X] Zollbard, der gehemmte Magier :: 45, ungezaehmte Nasenhaare, trinkt gerne, Andergast
+       - [X] [[file:npcs.org::#NS1][Niamh Schlappmaul]]
        - [ ] [[file:npcs.org::#MB1][Meriwen Bleichbruck]]
-       - [ ] [[file:npcs.org::*Cumal Ongswin][Cumal Ongswin]]
+       - [X] [[file:npcs.org::*Cumal Ongswin][Cumal Ongswin]]
        - [ ] Urlabet Nimoras :: Kuratorin 39, blonder Dutt, Reibeisenstimme, zu direkt, Einbildungen
        - [ ] Stoeker Kupferbart :: Zwerg, Modelleur 92, rothaarig, einäugig, schalkhaft, Angst vor Feuer
        - [ ] Praios Hochgeweihte :: Praiadane von Hohenfels, 61, grauer akkurater Pagenschnitt, ruhig
          wird sie auf das *Rote Kleid* aufmerksam, kann sie Beschlagnahmung durch Garde befehlen
-       - [ ] Korakles :: 40, Zyklopaeer, muskuloes, ornamentiert Brustplatte, Helm mit Federbusch
+       - [X] Korakles :: 40, Zyklopaeer, muskuloes, ornamentiert Brustplatte, Helm mit Federbusch
        - [ ] 3 Wachen :: Ritter in voller Plattenrüstung; 1 vorm Haupteingang
 ******* Ereignisse [0/3]
         - [ ] Enthuellung der neuen Goetter :: 2 Minuten wird Licht geloescht; Aufmerksamkeit auf Statuen
@@ -568,6 +575,8 @@
           Padraig ist entaeuscht & wuetend
         - [ ] Das Wasser kommt :: 21h, 30 ZP; Wasser erreicht Halplatz; Entsetzen & Panki bricht aus
           Gaeste verlassen Empfang; Padraig laesst Rovena stehen; Ongswin, Rovena & 12 Gaeste harren aus
+***** DONE Leowalds Schicksal
+      CLOSED: [2021-01-16 Sa 00:18]
 ** Questen
 *** Findet Leowald                                                     :quest:
     ging ueber Bord nach Angriff von Oktopeden
