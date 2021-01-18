@@ -89,7 +89,7 @@
      - verbringt lieber Zeit im Badehaus, beim Ausritt oder im Immanstadion
    - Ziele ::
    - Orte :: [[file:locations.org::#OF11][Garnison]]
-** Fackelbart
+** Fackelbart                                                           :met:
    :PROPERTIES:
    :CUSTOM_ID: FB1
    :SEX:      m
@@ -507,7 +507,7 @@
     - Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
     - zahlt fuer Informationen und Kopfpraemien fuer gefangene Schmuggler
     - kein unmittelbares Interesse an Hehlern (das sie ja auch die Ware der Silbernen Hand absetzen)
-** Simiadane Spectalli, Mechanica
+** Simiadane Spectalli, Mechanica                                       :met:
    :PROPERTIES:
    :CUSTOM_ID: SM1
    :SEX:      w
@@ -563,7 +563,7 @@
       die Aschimeter dort einst zusammenbaute
     - [ ] Erfindungen erproben
     - [ ] Thaumaturgische Akademie nach alten Artefakten / Plaenen durchsuchen
-** Kazsim
+** Kazsim                                                               :met:
    :PROPERTIES:
    :CUSTOM_ID: KA1
    :SEX:      m
@@ -576,7 +576,7 @@
    - 26 Jahre tiefbraune Haut, schwarzvioletter Schopf, hübsch, Sklavenbrandmal Plantage der Paligans
    - Sie hat den entlaufenen Sklaven aus der Gosse Selems geholt
    - spricht nur dass Kazsim nur Zelemja und kann so keine Geheimnisse verraten
-** Branwen, die Hexe
+** Branwen, die Hexe                                                    :met:
    :PROPERTIES:
    :CUSTOM_ID: BH1
    :SEX:      w
@@ -1045,7 +1045,7 @@
    Sie *versprach ihm, Branwen in eine Neckerin* zu verwandeln –
    wenn *Ybalio als ihr Agent* gewisse Dienste übernehmen würde.
    Ybalio lehnte ab und floh, doch seitdem trägt er die Verlockung und den Zweifel in sich.
-** Yanne Binsen
+** Yanne Binsen                                                         :met:
    :PROPERTIES:
    :CUSTOM_ID: YB1
    :SEX:      w
@@ -1054,6 +1054,7 @@
    :LOCATION: T03
    :SRC:      GN 14 SH 26
    :END:
+   <2021-01-15 Fr>
    Tsa Geweithe
    - Aussehen :: 65 Jahre alt, Aussehen Anfang 20, blond, Regenbogentunika
    - Rollenspiel :: macht gerne Handstand
@@ -1150,7 +1151,7 @@
      - Kundinen unterhalten 
    - Werte :: Willenskraft 2 (11,13,13)
    - Orte :: [[file:locations.org::*Vergnügungsschiff Rethis][Vergnügungsschiff Rethis]]
-** Padraig Pliskern
+** Padraig Pliskern                                                     :met:
    :PROPERTIES:
    :CUSTOM_ID: PP1
    :SEX:      m
@@ -1159,6 +1160,7 @@
    :LOCATION: OF02
    :SRC:      GN 44
    :END:
+   <2021-01-15 Fr>
    Patrizier, ertauschet *das Rote Kleid*
    - Aussehen :: 22 Jahre, dunkelhaarig, geltungssuechtig & arrogant
    - Zitate :: Aus der Bahn hier kommt Padraig.
@@ -1172,7 +1174,7 @@
      - *[[*Rovena Ratsburger][Rovena]] einen Antrag* machen um die Haeuser Pliskern und Rastburger zu verbinden
    - Werte :: Willenskraft 7 
    - Orte :: Stadvilla mit Garten in Oberfluren neben [[file:locations.org::#OF02][Instrumentenbauer Allain Ruggard]]
-** Rovena Rastburger
+** Rovena Rastburger                                                    :met:
    :PROPERTIES:
    :CUSTOM_ID: RR1
    :SEX:      w
@@ -1181,6 +1183,7 @@
    :LOCATION: S06
    :SRC:      GN 44
    :END:
+   <2021-01-15 Fr>
    - Aussehen :: 19 Jahre, schwarzhaarig,
      - ohne Kleid: durchschnittliches Aussehen
      - mit Kleid: die Augenweide
@@ -1263,7 +1266,7 @@
    - Hintergrund ::
      einflussreicher und skrupelloser Strippenzieher,
      der vornehmlich den Wohlstand der Reichen mehren will
-** Hemwit Achton
+** Hemwit Achton                                                        :met:
    :PROPERTIES:
    :CUSTOM_ID: HA1
    :SEX:      m
@@ -1311,7 +1314,7 @@
      die ihr das Kleid von Leib rissen; *spricht seitdem kaum noch*
    - Willenskraft 4 (11/12/12) SK 1
    - [ ] Die [[*Branwen, die Hexe][Branwen]] hat mir meine Mann ausgespannt
-** Travigod Gawain
+** Travigod Gawain                                                      :met:
    :PROPERTIES:
    :CUSTOM_ID: TG1
    :SEX:      w
@@ -1364,7 +1367,7 @@
    - wohnt in der Strasse der Seiler
    - Willenskraft 6 (12/12/12) SK 1
    - [ ] Die [[*Branwen, die Hexe][Branwen]] hat meinen Elidir (Mann) zum Schlappschwanz gehext 
-** Dunval Ardheg
+** Dunval Ardheg                                                        :met:
    :PROPERTIES:
    :CUSTOM_ID: HA1
    :SEX:      m
@@ -1381,7 +1384,7 @@
    - wechselnde Liebschaften 
    - Willenskraft 8 (14/13/14)
    - [[file:locations.org::#FI04][Seekadettenschule]]
-** Oylaribel
+** Oylaribel                                                            :met:
    :PROPERTIES:
    :CUSTOM_ID: OY1
    :SEX:      m
@@ -1390,6 +1393,7 @@
    :LOCATION: FS01
    :SRC:      GN 35
    :END:
+   <2021-01-15 Fr>
    - Aussehen :: majestätischer Necker:
      - über zwei Schritt gross,
      - sein langes weissgoldenes Haar schimmert silbern im Mondlicht und bläulich im Gwen-Petryl Schein
