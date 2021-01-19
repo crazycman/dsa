@@ -1,5 +1,23 @@
+* Preface                                                               :noexport:
 #+STARTUP: content
 #+SEQ_TODO:   TODO(t) ACTIVE(i) WAITING(w@) | DONE(d)
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:nil title:t toc:t todo:t |:t
+#+TITLE: Havena NPCS
+#+DATE: \today
+#+AUTHOR: Conrad
+#+LANGUAGE: en
+#+SELECT_TAGS: met
+#+EXCLUDE_TAGS: noexport info quest
+
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LaTeX_HEADER: \usepackage[left=1in,top=1in,right=1in,bottom=1.5in]{geometry}
+#+LaTeX_HEADER: \usepackage{fancyhdr}
+
 * NPCs 
   :PROPERTIES:
   :COLUMNS:  %28ITEM %3CUSTOM_ID(ID) %14OCCUPATION(BERUF) %7LOCATION(LOC) %6ORGANIZATION(ORG) %1SEX(GES) %12SRC
@@ -14,8 +32,8 @@
    :SRC:      
    :END:
    <2020-11-27 Sa>
-   Kapitän & Händler, 56 Jahre, weisser Bart, Karavellen Experte
-   [[file:plot.org::#SCH-WK][Schiff Willem Kuyfhoff]] *Grangorer* Handelsschiff, kleine schnelle Karavelle
+   - Kapitän & Händler, 56 Jahre, weisser Bart, Karavellen Experte
+   - Schiff :: [[file:plot.org::#SCH-WK][Willem Kuyfhoff]] *Grangorer* Handelsschiff, kleine schnelle Karavelle
 ** Niamh Schlappmaul                                                    :met:
    :PROPERTIES:
    :CUSTOM_ID: NS1
@@ -378,6 +396,7 @@
    :SRC:      SH 105
    :END:
    <2020-12-04 Fr>
+   Schmuggler
    - Aussehen :: Zwillinge 22 Jahre, schwarze Schnauzer, hünenhaft
    - Hintergrund ::
      - Ruderer und Lastenschlepper.
@@ -501,7 +520,7 @@
       - "Wuerde mich nicht wundern, wenn die Nebelgeister hinter den Angriffen stecken;
          die Angst nuetzt hinen!"
     - [X] Schmuggel der [[file:organizations.org::#NG1][Nebelgeister]] ist ein grosses Problem fuer den Handen & Sicherheit von Havena
-          auch der Stadtvogt [[#AH1][Ardach Herlogan]] sieht den Schmuggel als grosses Problem
+          auch der Stadtvogt [[#AH1][Ardach Herlog]] sieht den Schmuggel als grosses Problem
     - [X] [[file:plot.org::#5][Vollmondball auf der Rethis]]
 *** ACTIVE Queste : Gegen Nebelgeister                                :quest:
     - Das Geflecht aus Schmugglern, Hehlern & Nutznießern zerschlagen
@@ -716,7 +735,9 @@
      - *Macht & Autoritaet* der Efferdkirche erhalten (gegen Numinoru & Charyptoroth)
      - die *Sternenmuschel* aufbauen und staerken (Schutz vor der Pforte des Grauens)
    - Orte :: [[file:locations.org::#T02][Alter Efferdtempel]]
-   - Artefakte :: [[file:items.org::#EP1][Efferdperle]] (wird jeden Wassertag im Tempel praesentiert)
+   - Artefakte ::
+     - [[file:items.org::#EP1][Efferdperle]] (wird jeden Wassertag im Tempel praesentiert)
+     - [[file:items.org::#item-tiefendorn][Tiefendorn]]
 
    Graustein weiss von der Pforte des Grauens & und um die Bedeutung der Sternenmuschel.
    
@@ -1070,7 +1091,7 @@
    - Orte :: [[file:locations.org::#T03][Tsatempel]]
 *** im Tsa Tempel [0/1]                                                :info:
     - [ ] Feen (Farindel) & Nhywyll Dunkelwasser
-** Asa Anjuhal
+** Asa Anjuhal                                                          :met:
    :PROPERTIES:
    :CUSTOM_ID: AA1
    :SEX:      w
@@ -1092,7 +1113,7 @@
    - Ziele ::
      - Reichtum und Einfluss mehren
    - Orte :: [[file:locations.org::#G24][Vergnügungsschiff Rethis]]
-** Tote Hand
+** Tote Hand                                                            :met:
    :PROPERTIES:
    :CUSTOM_ID: TH1
    :SEX:      m
@@ -1171,7 +1192,7 @@
      - Vater ist *Tuchhändler* und Vermittler von Söldlingen
      - schenkte [[#RR1][Rovena Rastburger]] das *Rote Kleid*
    - Ziele ::
-     - *[[*Rovena Ratsburger][Rovena]] einen Antrag* machen um die Haeuser Pliskern und Rastburger zu verbinden
+     - *[[#RR1][Rovena]] einen Antrag* machen um die Haeuser Pliskern und Rastburger zu verbinden
    - Werte :: Willenskraft 7 
    - Orte :: Stadvilla mit Garten in Oberfluren neben [[file:locations.org::#OF02][Instrumentenbauer Allain Ruggard]]
 ** Rovena Rastburger                                                    :met:
@@ -1405,4 +1426,3 @@
    - Ziele ::
    - Werte :: Willenskraft
    - Orte :: [[file:locations.org::#FS01][Thaumaturgische Akademie]]
-*** Info [/]

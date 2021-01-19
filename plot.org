@@ -569,9 +569,9 @@
          wird sie auf das *Rote Kleid* aufmerksam, kann sie Beschlagnahmung durch Garde befehlen
        - [X] Korakles :: 40, Zyklopaeer, muskuloes, ornamentiert Brustplatte, Helm mit Federbusch
        - [ ] 3 Wachen :: Ritter in voller Plattenrüstung; 1 vorm Haupteingang
-******* Ereignisse [0/3]
+******* Ereignisse [1/3]
         - [ ] Enthuellung der neuen Goetter :: 2 Minuten wird Licht geloescht; Aufmerksamkeit auf Statuen
-        - [ ] Heiratsantrag Rovena :: Padraig kniet; selbstsicherer Antrag; Rovena lehnt peinlich ab
+        - [X] Heiratsantrag Rovena :: Padraig kniet; selbstsicherer Antrag; Rovena lehnt peinlich ab
           Padraig ist entaeuscht & wuetend
         - [ ] Das Wasser kommt :: 21h, 30 ZP; Wasser erreicht Halplatz; Entsetzen & Panki bricht aus
           Gaeste verlassen Empfang; Padraig laesst Rovena stehen; Ongswin, Rovena & 12 Gaeste harren aus

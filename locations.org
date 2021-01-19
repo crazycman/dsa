@@ -1,4 +1,23 @@
+* Preface                                                               :noexport:
 #+STARTUP: content
+#+SEQ_TODO:   TODO(t) ACTIVE(i) WAITING(w@) | DONE(d)
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil prop:t stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+TITLE: Havena Orte
+#+DATE: \today
+#+AUTHOR: Conrad
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LaTeX_HEADER: \usepackage[left=1in,top=1in,right=1in,bottom=1.5in]{geometry}
+#+LaTeX_HEADER: \usepackage{fancyhdr}
+
 * Orte  
   :PROPERTIES:
   :id: orte
@@ -1492,3 +1511,6 @@
   | Havenapalast          | G14 | G13 | 5/5/32 |
   | Zum Garether Tor      | G15 | G15 | 2/4/18 |
   #+END:
+* Alle Orte
+  #+BEGIN: columnview :hlines 1 :id orte :format "%ITEM(Ort) %TYP %CUSTOM_ID(ID) %LOCATION(LOC) %QPS %EIND %REICH"
+  #+END:  
